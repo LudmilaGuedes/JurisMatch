@@ -1,0 +1,380 @@
+{
+  "id": "ADI_7143",
+  "arquivo_pdf": "ADI_7143.pdf",
+  "sha256": "d45e922b824dbe2ff0e7cf3d588f53d3319279efde44569b3014754d60fd8679",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:29:44",
+  "resumo": {
+    "paginas": 44,
+    "paginas_digital": 44,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 81029,
+    "chars_clean": 65732,
+    "reducao_pct": 18.9,
+    "linhas_removidas": 219,
+    "limpeza_detalhe": {
+      "cabecalho_rodape": 172,
+      "hifen_mantido": 5,
+      "hifenizacao_unida": 0,
+      "numero_pagina": 47
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "MINISTÉRIO PÚBLICO FEDERAL PROCURADORIA-GERAL DA REPÚBLICA EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL\nPETIÇÃO INICIAL AJCONST/PGR Nº 117909/2022 O PROCURADOR-GERAL DA REPÚBLICA, com fundamento nos arts. 102, I, \"a\" e \"p\", 103, VI, e 129, IV, da Constituição Federal; no art. 46,\nparágrafo único, I, da Lei Complementar 75, de 20.5.1993 (Lei Orgânica do Ministério Público da União); e na Lei 9.868, de 10.11.1999, vem propor\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE COM PEDIDO DE MEDIDA CAUTELAR\ncontra a Emenda Constitucional 110, de 15.3.2021, que \"acrescenta o art. 18-A ao Ato das Disposições Constitucionais Transitórias, para dispor sobre a convalidação de atos administrativos praticados no Estado do Tocantins entre 1º de janeiro de 1989 e 31 de dezembro de 1994\".1 1 Acompanham a petição inicial cópia da norma impugnada (art. 3º da Lei 9.868/1999) e peças do Procedimento Administrativo 1.00.000.022708/2021-07.\nDocumento assinado via Token digitalmente por PROCURADOR-GERAL DA REPÚBLICA ANTONIO AUGUSTO BRANDAO DE ARAS, em 08/04/2022 19:12. Para verificar a assinatura acesse http://www.transparencia.mpf.mp.br/validacaodocumento. Chave 1be3780e.fe57ccac.12aa9023.dc87cf3a"
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "1. OBJETO DA AÇÃO\nEis o teor da norma impugnada:\nEmenda Constitucional 110/2021\nArt. 1º O Ato das Disposições Constitucionais Transitórias passa a vigorar acrescido do seguinte art. 18-A:\n\"Art. 18-A. Os atos administrativos praticados no Estado do Tocantins, decorrentes de sua instalação, entre 1º de janeiro de 1989 e 31 de dezembro de 1994, eivados de qualquer vício jurídico e dos quais decorram efeitos favoráveis para os destinatários ficam convalidados após 5 (cinco) anos, contados da data em que foram praticados, salvo comprovada má-fé.\"\nArt. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.\nConsoante se demonstrará, o art. 18-A incluído ao ADCT pela Emenda Constitucional 110/2021, ao determinar a convalidação retroativa, ampla e geral de atos administrativos eivados de qualquer vício jurídico, praticados no Estado de Tocantins entre 1º.1.1989 e 31.12.1994, extrapola os limites materiais de reforma da Constituição Federal (art. 60, § 4º, III e IV) e viola cláusulas pétreas que consagram a separação de poderes (art. 2º), a autonomia dos entes federados (art. 18, caput), os princípios da segurança jurídica e da coisa julgada (arts. 1º e 5º, XXXVI), o direito fundamental de acesso a cargos e empregos públicos em condições de igualdade (arts. 5º, caput, e 37, II) e os princípios da moralidade, da probidade administrativa e da impessoalidade (art. 37, caput)."
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "2. BREVE CONTEXTUALIZAÇÃO\nA Emenda Constitucional 110, de 15.3.2021, acrescentou o art. 18-A no ADCT para convalidar atos administrativos decorrentes da instalação do Estado do Tocantins, entre 1º.1.1989 e 31.12.1994, eivados de qualquer vício jurídico e dos quais decorram efeitos favoráveis para os destinatários.\nA despeito do caráter amplo da convalidação genérica promovida, a emenda teve como finalidade precípua restaurar a validade de um universo específico de relações funcionais declaradas inconstitucionais pelo Supremo Tribunal Federal há quase 30 anos.\nTrata-se da situação jurídica de indivíduos agraciados pela Lei 157, de 27.6.1990, do Estado de Tocantins, com o título de \"Pioneiro do Tocantins\", isto é, todos aqueles que prestavam serviços à administração direta e indireta estadual durante o processo de instalação da unidade federada.\nReferidos indivíduos foram beneficiados com expressiva pontuação extra em concursos públicos estaduais, obtendo ainda o direito de preferência em caso de empate com outros candidatos. Nesse sentido, dispunha a Lei 157/1990, com redação da Lei 201, de 31.10.1990, de Tocantins:\nArt. 25. Fica instituído o título de \"Pioneiro do Tocantins\", atribuído aos servidores que vêm prestando serviços à Administração"
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Direta ou Indireta do Estado, bem como às suas Empresas ou Sociedades de Economia Mista, até a data de 03 de agosto de 1990.\n§ 1º O título a que se refere este artigo terá as prerrogativas estabelecidas em regulamento, inclusive para fins de concurso público, correspondendo, neste caso, a trinta por cento (30%) do total dos pontos a serem atribuídos ao candidato.\n§ 2º Perde o título de Pioneiro do Tocantins, o servidor exonerado ou demitido do serviço estadual.\nCom base em tais disposições, promoveu o Estado de Tocantins, em outubro de 1990, concurso público para preenchimento de mais de 20 mil vagas na administração direta e indireta estadual, prevendo a atribuição de vantagem de 30 pontos extras aos portadores do referido título de \"Pioneiro do Tocantins\". Após a realização do certame, obtiveram aprovação mais de 15 mil candidatos, a maior parte se beneficiando das vantagens concedidas pela mencionada Lei estadual 157/1990.\nA situação foi declarada inconstitucional pelo Supremo Tribunal Federal no julgamento da ADI 598/TO, que teve por consequência a anulação do concurso e a exoneração de todos os aprovados. O acórdão da Suprema Corte foi assim ementado:\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE. Título de \"Pioneiro do Tocantins\". Art. 25 da Lei n. 157, de 27.07.90, art. 29 e seu par. único do Decreto n. 1.520, de 8.08.90 e item 4.4 do Edital de Concurso de 15.09.90, D.O.E. de 16.10.90, do Estado do Tocantins."
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "O título \"Pioneiro do Tocantins\", previsto no \"caput\" do art. 25 da Lei n. 157/90; atribuído a servidores do Estado, nada tem de inconstitucional. Entretanto, quando utilizado para concurso de provas e títulos, ofende clara e diretamente o preceito constitucional que a todos assegura o acesso aos cargos públicos, pois, o critério consagrado nas normas impugnadas, de maneira obliqua, mas eficaz, deforma o concurso a ponto de fraudar o preceito constitucional,\nart. 37, II, da Constituição.\nDeclaração de inconstitucionalidade da expressão \"inclusive para fins de concurso público de títulos e provas\" contida no par. único do\nart. 25 da Lei n. 157/90, do art. 29 e seu paragrafo único do Decreto n. 1.520, de 08.08.90, e da expressão \"cabendo ao 'Pioneiro do Tocantins'\", como título, 30 (trinta) pontos, nos termos do art. 25, único, da Lei n. 157, de 27 de julho de 1990 e seu regulamento\", contida no item 4.4 do edital de concurso público de 15.10.90, publicado no D.O.E. de 16.10.90.\n(ADI 598/TO, Rel. Min. Paulo Brossard, DJ de 12.11.1993) Na ocasião, bem destacaram os Ministros Paulo Brossard (Relator) e Celso de Mello o caráter nitidamente anti-isonômico do privilégio concedido pela lei tocantinense e sua incompatibilidade com a norma constitucional do concurso público:\nMinistro Paulo Brossard (…) faz parte da história do nosso direito constitucional a ideia que assegura a todos os brasileiros o acesso aos cargos públicos, em condição de igualdade. O concurso de títulos, expressamente previsto no texto constitucional desde a Carta de 1967, destina-se a aperfeiçoar o princípio da igualdade, quando posto em termos absolutos, para exaltar os \"talentos e virtudes\" do candidato diretamente relacionados com o cargo específico a ser preenchido;\ncaso contrário, de não haver relação direta dos \"talentos e virtudes\""
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "do candidato com o cargo, estar-se-ia criando um privilégio, que por ser privilégio, não mais estaria mantendo ou aperfeiçoando a isonomia, mas mitigando o seu real e desejável alcance.\nMinistro Celso de Mello (…) a expressão constitucional títulos, inscrita no art. 37, II, da Carta Política, há de manter uma necessária relação de pertinência com a natureza e com o conteúdo ocupacional das funções e dos cargos públicos postos em concurso. Entendimento diverso fraudaria a intenção do legislador constituinte, que estabeleceu o princípio do concurso público como projeção concretizadora dos postulados da isonomia e da moralidade administrativa.\nO entendimento foi reafirmado pela Suprema Corte em inúmeras decisões posteriores, tais como: SS 480/TO-AgR, Min. Rel. Octávio Gallotti, Tribunal Pleno, DJ de 8.10.1993; Rcl 556/TO, Min. Rel. Maurício Corrêa, Tribunal Pleno, DJ de 3.10.1997; RE 202.489/TO, Min. Marco Aurélio, Tribunal Pleno, DJ de 11.10.2001; Rcl 566/TO-ED-ED, Rel. Min. Maurício Corrêa, Tribunal Pleno, DJ de 6.12.2002; Rcl 5.819/TO, Min. Rel. Cármen Lúcia, Tribunal Pleno, DJe de 19.6.2009; e Rcl 5.687/TO-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe de 11.12.2017.\nApesar de ter redação relativamente aberta e não individualizar os destinatários da convalidação genérica, a Emenda Constitucional 110/2021 foi promulgada com o específico fim de desconstituir decisões transitadas em julgado da Suprema Corte, nas quais se reconheceu a inconstitucionalidade da referida situação dos \"Pioneiros de Tocantins\"."
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Nesse sentido, notícias divulgadas após a aprovação da emenda pelas agências de comunicação da Câmara dos Deputados e do Senado Federal confirmam o referido alcance por ela pretendido:\nFoi publicada no Diário Oficial da União desta terça-feira (13) a promulgação da Emenda Constitucional 110, que convalida os atos administrativos praticados no estado do Tocantins entre 1º de janeiro de 1989 e 31 de dezembro de 1994.\nA emenda, fruto de uma proposta de emenda à Constituição (PEC 48/2015) de autoria do então senador Vicentinho Alves (PL-TO), dá respaldo legal a atos administrativos praticados no Tocantins nos seis primeiros anos de instalação do estado, criado pela Constituição Federal de 1988.\nMesmo que padeçam de algum vício jurídico, todos esses atos estão convalidados após cinco anos, contados a partir da data em que foram praticados, se deles resultaram efeitos favoráveis para seus beneficiários. A regra só não vale em caso de comprovada má-fé na sua edição.\nA intenção original da emenda é eliminar a insegurança jurídica em relação aos atos administrativos da época, incluindo a nomeação de um conjunto de servidores públicos, conhecidos como \"Pioneiros do Tocantins\", cuja posse foi impugnada em 1993 pelo Supremo Tribunal Federal. A impugnação foi motivada por alegada inconstitucionalidade nas normas do concurso público em que foram aprovados.\nA proposta foi aprovada pelo Senado no dia 13 de dezembro de 2017.\nNa época, Vicentinho defendeu em Plenário a necessidade de garantir segurança jurídica ao cidadão \"que confiou na atuação do Estado\" e de fazer justiça aos pioneiros da criação de Tocantins.2 2 Fonte: Agência Senado: portal de notícias do Senado Federal. Disponível em:\nhttps://www12.senado.leg.br/noticias/materias/2021/07/13/promulgada-emenda-que-valida-atos-dos-pioneiros-do-tocantins-de-1989-a-1994. Acesso em: 17.3.2022."
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "A emenda 110 tem origem em uma proposta votada por deputados e senadores, com base em texto apresentado em 2015 pelo então senador Vicentinho Alves (PEC 48/15; PEC 397/17 na Câmara). A mudança na Constituição tem o objetivo de dar segurança jurídica para atos que viabilizaram a instalação do estado.\nEntre eles, a nomeação de um grupo de servidores conhecidos como \"Pioneiros do Tocantins\", cuja posse foi impugnada em 1993 pelo Supremo Tribunal Federal por inconstitucionalidade nas normas do concurso público em que foram aprovados.3 No mesmo sentido, destaca-se trecho de divulgação do portal da Agência Brasil, veículo do sistema público de comunicação integrante da Empresa Brasileira de Notícias (EBC), a respeito do intuito da proposição legislativa que deu origem à EC 110/2019:\nA Câmara dos Deputados aprovou nesta quarta-feira (7), em dois turnos, a Proposta de Emenda à Constituição (PEC) que convalida todos os atos administrativos praticados no estado do Tocantins desde a sua instalação e praticados entre 1º de janeiro de 1989 e 31 de dezembro de 1994. A matéria segue para promulgação.\n\"Com a promulgação da Constituição Cidadã de 1988, após uma luta emancipacionista secular, foi criado o estado do Tocantins. De forma ainda mais abrupta do que aconteceu com os ex-territórios federais, que foram transformados em estados-membros, Tocantins teve que se estruturar praticamente do zero, sendo toda a estrutura física e humana dos órgãos públicos construída concomitantemente à criação do próprio estado.\", afirmou o deputado Vicentinho Júnior (PL-SP), relator da matéria.\n3 Fonte: Radioagência: notícias da Câmara dos Deputados. Disponível em:\nhttps://www.camara.leg.br/radio/radioagencia/785095-promulgada-emenda-que-valida-atos-dos-pioneiros-do-tocantins-de-1989-a-1994/. Acesso em: 17.3.2022."
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Segundo o parlamentar, a PEC dará segurança jurídica aos atos administrativos praticados por um conjunto de mais de 15 mil servidores públicos que tiveram suas posses no cargo impugnadas pelo Supremo Tribunal Federal (STF), com a Ação Direta de Inconstitucionalidade 598 \"sob a justificativa de que o título de Pioneiro do Tocantins\" concedido aos servidores estaduais não poderia ter sido utilizado como motivo de favorecimento na classificação do aludido concurso. (Grifo nosso.)4 E, de fato, a aplicação das disposições ora impugnadas da EC 110/2021 com o alcance em questão tem sido adotada em âmbito judicial, ou seja, com a precisa finalidade de reverter a decisão de inconstitucionalidade proferida pela Suprema Corte na ADI 598/TO (reafirmada em precedentes posteriores), para, dessa maneira, convalidar atos de nomeação anulados há quase 30 anos por ofensa a preceitos constitucionais.\nCom efeito, recentemente, deferiu o Ministro Presidente Luiz Fux liminar na STP 855/TO (DJ de 16.3.2022), para suspender decisão prolatada por órgão do Tribunal de Justiça de Tocantins, que se utilizara do art. 18-A do ADCT, acrescido pela ora questionada EC 110/2021, para determinar a reintegração de 92 auditores-fiscais exonerados da administração estadual após o reconhecimento da nulidade do respectivo concurso público, em decorrência do julgamento da ADI 598/TO:\n4 Fonte: Agência Brasil. Disponível em: https://agenciabrasil.ebc.com.br/politica/noticia/ 2021-07/camara-aprova-pec-que-viabiliza-atos-de-criacao-do-tocantins. Acesso em:\n17.3.2022."
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Trata-se de pedido de suspensão de tutela provisória ajuizado pelo Estado de Tocantins contra decisão proferida pela 1ª Turma da 1ª Câmara Cível do Tribunal de Justiça do Estado do Tocantins, nos autos do Processo nº 0009957-51.2020.827.2700, que concedeu a tutela de urgência para determinar a reintegração de 92 auditores fiscais aos quadros da Administração Estadual, que haviam sido exonerados em 1993 em razão da declaração de nulidade do respectivo concurso público por esta Suprema Corte nos autos da\nADI 598/TO.\n(…) Em sede de juízo não exauriente sobre a matéria, entendo presentes os requisitos necessários ao deferimento de medida liminar no presente incidente. Isto porque, em primeiro lugar, verifica-se haver controvérsia jurídica relevante em torno da correta interpretação do novel art. 18-A do ADCT, tanto no que pertine aos efeitos concretos que dele decorrem quanto no que toca à possibilidade de convalidação de atos declarados nulos, porquanto manifestamente inconstitucionais, pelo Plenário deste Supremo Tribunal Federal em decisão cujo trânsito em julgado se deu há cerca de 30 (trinta) anos.\nLado outro, verifica-se manifesto periculum in mora na manutenção da decisão ora impugnada, ante o vultuoso impacto que a potencial reintegração não planejada de milhares de servidores causará às finanças públicas estaduais e, especialmente, ao sistema de previdência dos servidores do ente federativo. Referido risco à ordem econômica se revela especialmente acentuado no contexto atual de enfrentamento recente da pandemia da Covid-19, que impôs e ainda impõe ao Poder Público de todos os entes da federação a concentração de esforços financeiros em prol de medidas sanitárias e de estímulo econômico, tais como a expansão de leitos de UTI, a vacinação da população e a distribuição emergencial de renda para a subsistência dos trabalhadores mais atingidos pela recessão econômica.\nAssim, evidenciado o fumus boni iuris e o ínsito periculum in mora que a questão envolve, verifica-se a necessidade de acolhimento do pedido cautelar, completando-se a presença de todos os requisitos"
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "legais que ensejam o deferimento da presente medida (art. 4º, §7º, da Lei 8.437/1992 e art. 297 do Regimento Interno do STF).\nEx positis, DEFIRO a liminar, para suspender os efeitos da decisão provisória proferida no Processo nº 0009957-\n51.2020.827.2700, em curso no Tribunal de Justiça do Estado do Tocantins, com fundamento no art. 4º, §7º, da Lei 8.437/1992, até ulterior decisão nestes autos. (…).\nA convalidação ampla e genérica de atos administrativos \"eivados de qualquer vício jurídico\", praticados há mais de três décadas no Estado de Tocantins, nos termos do art. 18-A incluído no ADCT pela EC 110/2021, acarreta grave insegurança jurídica e potencializa a propositura de demandas judiciais contra o Estado, não somente por parte daqueles que tiveram os respectivos atos de nomeação anulados após o julgamento da ADI 598/TO, como também de quaisquer pessoas eventualmente afetadas por atos fiscais, tributários, desapropriatórios, previdenciários, licitatórios e outros, porventura anulados.\nÉ imperioso, portanto, que se reconheça a inconstitucionalidade da norma sob testilha para, consequentemente, preservar o núcleo essencial de princípios e direitos fundamentais consagrados como cláusulas pétreas na Constituição Federal."
+    },
+    {
+      "page": 12,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "3. CONTROLE CONCENTRADO DE CONSTITUCIONALIDADE SOBRE O PODER DE REFORMA CONSTITUCIONAL\nA separação dos Poderes, os direitos e as garantias individuais foram erigidos como limites materiais ao poder constituinte reformador, no rol de cláusulas pétreas do art. 60, § 4º, da Constituição Federal:\nArt. 60. (…)\n§ 4º Não será objeto de deliberação a proposta de emenda tendente a abolir:\nI - a forma federativa de Estado;\nII - o voto direto, secreto, universal e periódico;\nIII - a separação dos Poderes;\nIV - os direitos e garantias individuais.\nAo delinear o alcance desse núcleo imutável da Lei Fundamental, por ocasião do julgamento de medida cautelar na ADI 1.497/DF (Rel. Min.\nMarco Aurélio, DJ de 13.2.2002), o Ministro Carlos Velloso indicou estarem abrangidos pelo art. 60, § 4º, IV, da Constituição Federal os direitos que se relacionem com os fundamentos, objetivos e princípios fundamentais da República (arts. 1º, 3º e 4º) e com o rol dos direitos e garantias fundamentais enunciados no caput do art. 5º (direito à vida, liberdade, igualdade, segurança e propriedade) e nos respectivos incisos.\nEm precedente posterior, o Ministro Gilmar Mendes avançou na definição da abrangência do art. 60, § 4º, da Constituição, quando observou"
+    },
+    {
+      "page": 13,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "que o alcance das cláusulas pétreas deve partir do esforço hermenêutico de identificar, por exame sistemático das disposições constitucionais, o conteúdo do direito ou garantia individual protegido da ação do poder constituinte reformador. Isso porque, \"os princípios merecedores de proteção, tal como enunciados normalmente nas chamadas 'cláusulas pétreas', parecem despidos de conteúdo específico\". Segundo ele:\n(…) tais cláusulas hão de ser interpretadas de forma restritiva. Mas essa afirmação simplista, ao invés de solver o problema, pode agravá-lo, pois a tendência detectada atua no sentido não de uma interpretação restritiva das cláusulas pétreas, mas de uma interpretação restritiva dos próprios princípios por ela protegidos.\nEssa via, em lugar de permitir fortalecimento dos princípios constitucionais contemplados nas \"garantias de eternidade\", como pretendido pelo constituinte, acarreta, efetivamente, seu enfraquecimento.\nAssim, parece recomendável que eventual interpretação restritiva se refira à própria \"garantia de eternidade\" sem afetar os princípios por ela protegidos (Bryde, cit., p. 244).\n(…) o efetivo conteúdo das \"garantias de eternidade\" somente será obtido mediante esforço hermenêutico. Apenas essa atividade poderá revelar os princípios constitucionais que, ainda que não contemplados expressamente nas cláusulas pétreas, guardam estreita vinculação com os princípios por ela protegidos e estão, por isso, cobertos pela garantia de imutabilidade que delas dimana.\nOs princípios merecedores de proteção, tal como enunciados normalmente nas chamadas \"cláusulas pétreas\", parecem despidos de conteúdo específico.\nO que significa, efetivamente, \"separação de Poderes\" ou \"forma federativa\"? O que é um \"Estado de Direito Democrático\"? Qual o"
+    },
+    {
+      "page": 14,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "significado da \"proteção da dignidade humana\"? Qual a dimensão do \"princípio federativo\"?\nEssas indagações somente podem ser respondidas, adequadamente, no contexto de determinado sistema constitucional. É o exame sistemático das disposições constitucionais integrantes do modelo constitucional que permitirá explicitar o conteúdo de determinado princípio.\n(…) É o estudo da ordem constitucional no seu contexto normativo e nas suas relações essenciais para a preservação dos princípios basilares dos preceitos fundamentais em um determinado sistema. Tal como ensina J. J. Gomes Canotilho em relação à limitação do poder de revisão, a identificação do preceito fundamental não pode divorciar-se das conexões de sentido captadas do texto constitucional, fazendo-se mister que os limites materiais operem como verdadeiros 'limites textuais implícitos' (J. J. Gomes Canotilho, Direito Constitucional e Teoria da Constituição, Coimbra, 2002, p. 1.049).\nDestarte, um juízo mais ou menos seguro sobre a lesão de preceito fundamental consistente nos princípios da divisão de Poderes, da forma federativa do Estado ou dos direitos e garantias individuais exige, preliminarmente, a identificação do conteúdo dessas categorias na ordem constitucional e, especificamente, das suas relações de interdependência.\nNessa linha de entendimento, a lesão a preceito fundamental não se configurará apenas quando se verificar possível afronta a um princípio fundamental, tal como assente na ordem constitucional, mas também a regras que confiram densidade normativa ou significado específico a esse princípio.\n(ADPF 33/PA, Rel. Min. Gilmar Mendes, DJ de 27.10.2006) A proteção conferida pelo art. 60, § 4º, IV, da Constituição há de ser compreendida de modo a abranger não apenas os princípios fundamentais, direitos e garantias individuais, como também as regras que os concretizam"
+    },
+    {
+      "page": 15,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "no próprio plano constitucional. Admitir o contrário significaria imaginar que o constituinte originário não objetivou realizar os princípios basilares de sua obra e reduziu a Carta a mera declaração de direitos.\nEntendida a cláusula pétrea do art. 60, § 4º, IV, da CF como uma proibição de ruptura de princípios fundamentais e das regras constitucionais decorrentes, \"qualquer alteração nos direitos fundamentais que atenue, de forma significativa, a proteção que a eles devem oferecer afeta, inevitavelmente, a cláusula pétrea que garante a imutabilidade desses direitos e garantias\".5 É nessa dimensão que se afirma que a cláusula pétrea do art. 60, § 4º, IV, da CF protege o núcleo essencial dos direitos e garantias individuais.6 Os princípios republicano, da isonomia e da impessoalidade, que fundamentam a exigência constitucional do concurso público, bem como os postulados da separação de poderes, da coisa julgada, da segurança jurídica, da proporcionalidade, da razoabilidade, da probidade e da moralidade 5 MENDES, Gilmar Ferreira. Os limites de revisão constitucional. In: Cadernos de Direito Constitucional e Ciência Política, v. 5, n. 21, p. 6-91, out./dez. 1997.\n6 Segundo o Ministro Roberto Barroso: \"Por se tratar de limitações ao poder de deliberação das maiorias - elemento inerente à democracia -, as cláusulas pétreas devem ser interpretadas com comedimento. Nessa linha, não se proíbe toda e qualquer alteração no enunciado textual ou no regime constitucional de um direito fundamental, mas apenas a deliberação de propostas tendentes a aboli-lo - i.e, daquelas que, uma vez aprovadas, atingiriam seu núcleo essencial, esvaziando ou minimizando em excesso a proteção conferida pelo direito\" (MS 34.474-MC e MS 34.448-MC, Rel. Min. Roberto Barroso, DJe de 28.10.2016) - Grifo nosso."
+    },
+    {
+      "page": 16,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "administrativa são, por certo, cláusulas pétreas (CF, art. 60, § 4º, IV). Assim, a alteração constitucional que implique redução significativa da esfera de proteção conferida pelo constituinte originário àqueles princípios deve ser repudiada pelo Supremo Tribunal Federal, notadamente quando refletir em desprestígio à democracia e à cidadania.\n4. OFENSA À SEPARAÇÃO DOS PODERES E À COISA JULGADA\nNão se afigura juridicamente possível a revisão, ainda que por meio de reforma constitucional, de uma nulidade declarada pelo Supremo Tribunal Federal em ação de controle concentrado de constitucionalidade, sobretudo decorridos mais de 28 anos do trânsito em julgado da decisão.\nComo se expôs, a finalidade primordial visada pela EC 110/2021 foi a de reverter os efeitos da declaração de inconstitucionalidade proferida pelo Supremo Tribunal Federal no julgamento da ADI 598/TO (Rel. Min. Paulo Brossard, DJ de 12.11.1993) e reafirmada em precedentes posteriores, para, dessa maneira, convalidar atos de nomeação anulados no Estado de Tocantins por ofensa a preceitos constitucionais.\nNo ponto, a jurisprudência do Supremo Tribunal Federal é firme em inadmitir a possibilidade de convalidação de inconstitucionalidade por emenda constitucional superveniente:"
+    },
+    {
+      "page": 17,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CONSTITUCIONALIDADE SUPERVENIENTE - ARTIGO 3º,\n§ 1º, DA LEI Nº 9.718, DE 27 DE NOVEMBRO DE 1998 - EMENDA CONSTITUCIONAL Nº 20, DE 15 DE DEZEMBRO DE 1998. O sistema jurídico brasileiro não contempla a figura da constitucionalidade superveniente.\nTRIBUTÁRIO - INSTITUTOS - EXPRESSÕES E VOCÁBULOS\n- SENTIDO. A norma pedagógica do artigo 110 do Código Tributário Nacional ressalta a impossibilidade de a lei tributária alterar a definição, o conteúdo e o alcance de consagrados institutos, conceitos e formas de direito privado utilizados expressa ou implicitamente. Sobrepõe-se ao aspecto formal o princípio da realidade, considerados os elementos tributários.\nCONTRIBUIÇÃO SOCIAL - PIS - RECEITA BRUTA - NOÇÃO\n- INCONSTITUCIONALIDADE DO § 1º DO ARTIGO 3º DA LEI Nº 9.718/98. A jurisprudência do Supremo, ante a redação do artigo 195 da Carta Federal anterior à Emenda Constitucional nº 20/98, consolidou-se no sentido de tomar as expressões receita bruta e faturamento como sinônimas, jungindo-as à venda de mercadorias, de serviços ou de mercadorias e serviços. É inconstitucional o § 1º do artigo 3º da Lei nº 9.718/98, no que ampliou o conceito de receita bruta para envolver a totalidade das receitas auferidas por pessoas jurídicas, independentemente da atividade por elas desenvolvida e da classificação contábil adotada.\n(RE 390.840/MG, Plenário, Rel. Min. Marco Aurélio, DJ de\n15.8.2006) Ação Direta de Inconstitucionalidade. AMB. Lei nº 12.398/98-Paraná. Decreto estadual nº 721/99. Edição da EC nº 41/03.\nSubstancial alteração do parâmetro de controle. Não ocorrência de prejuízo. Superação da jurisprudência da Corte acerca da matéria.\nContribuição dos inativos. Inconstitucionalidade sob a EC nº 20/98.\nPrecedentes.\n1. Em nosso ordenamento jurídico, não se admite a figura da constitucionalidade superveniente. Mais relevante do que a"
+    },
+    {
+      "page": 18,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "atualidade do parâmetro de controle é a constatação de que a inconstitucionalidade persiste e é atual, ainda que se refira a dispositivos da Constituição Federal que não se encontram mais em vigor. Caso contrário, ficaria sensivelmente enfraquecida a própria regra que proíbe a convalidação.\n(…)\n3. A Lei estadual nº 12.398/98, que criou a contribuição dos inativos no Estado do Paraná, por ser inconstitucional ao tempo de sua edição, não poderia ser convalidada pela Emenda Constitucional nº 41/03. E, se a norma não foi convalidada, isso significa que a sua inconstitucionalidade persiste e é atual, ainda que se refira a dispositivos da Constituição Federal que não se encontram mais em vigor, alterados que foram pela Emenda Constitucional nº 41/03.\nSuperada a preliminar de prejudicialidade da ação, fixando o entendimento de, analisada a situação concreta, não se assentar o prejuízo das ações em curso, para evitar situações em que uma lei que nasceu claramente inconstitucional volte a produzir, em tese, seus efeitos, uma vez revogada as medidas cautelares concedidas já há dez anos.\n(…)\n7. Ação direta de inconstitucionalidade julgada parcialmente procedente.\n(ADI 2.158/PR, Rel. Min. Dias Toffoli, DJe 16.12.2010) Não há como se admitir, por conseguinte, a convalidação genérica e ampla promovida pela EC 110/2021, sobretudo no que vise a alcançar atos de nomeação anulados a partir da declaração de inconstitucionalidade proferida pelo Tribunal no julgamento da ADI 598/TO, relativamente aos beneficiados pelos privilégios estabelecidos nas normas invalidadas na ocasião."
+    },
+    {
+      "page": 19,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "A aplicação da norma ora questionada com tal alcance representa uma tentativa de usurpação e burla à jurisdição constitucional do Supremo Tribunal Federal. Acarreta, por tal motivo, indevida ingerência do Congresso Nacional sobre a esfera própria do Poder Judiciário, com malferimento da garantia fundamental da coisa julgada do princípio da separação de Poderes.\n5. OFENSA À SEGURANÇA JURÍDICA, À PROPORCIONALIDADE E À AUTONOMIA ESTADUAL\nO Estado de Direito tem como um de seus pilares o princípio da segurança jurídica, elemento de pacificação social que confere estabilidade e previsibilidade às relações jurídicas.\nAo determinar a convalidação de atos administrativos eivados de qualquer vício jurídico, editados pelo Estado de Tocantins entre 1º.1.1989 e\n31.12.1994, após 5 anos da data em que praticados, a Emenda Constitucional 110/2021 adota a retroatividade em grau máximo relativamente à eficácia das suas disposições, atingindo uma miríade de situações jurídicas consolidadas.\nAcerca da temática da aplicação da lei no tempo, destaca o Ministro Gilmar Mendes, em obra doutrinária, ser necessário conciliar pretensões em conflito, representadas pela necessidade de mudança legislativa e pela ideia central de segurança jurídica, de modo que \"não pode o legislador ou o Poder"
+    },
+    {
+      "page": 20,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Público em geral, sem ferir o princípio da segurança jurídica, fazer tabula rasa das situações jurídicas consolidadas no tempo\".7 Observa ainda:\nCostuma-se distinguir três graus de retroatividade da lei. Em primeiro lugar, a retroatividade máxima seria aquela em que a lei nova atinge a coisa julgada e os fatos já consumados. Em segundo plano, a retroatividade média ocorre quando a lei ataca os efeitos pendentes de atos jurídicos consolidados antes dela. Enfim, a retroatividade mínima (mitigada ou temperada) seria aquela em que a lei nova respeita os efeitos jurídicos já produzidos antes de seu advento e, dessa forma, atinge apenas os efeitos de atos anteriores verificados após a data de sua vigência.8 Na mesma linha, anota Jorge Reis Novais sobre os diferentes graus de retroatividade normativa e a admissibilidade de leis voltadas a viger não exclusivamente para o futuro:\n(…) a doutrina identifica vários graus de retroactividade que vão desde a potencial afectação de todos os efeitos no passado, incluindo os de caso julgado, até uma retroactividade aparente que respeita os efeitos já produzidos pela legislação anterior. Pela gravidade diferenciada que podem afectar a segurança jurídica e, do ponto de vista subjectivo, as expectativas e a confiança dos cidadãos, esses diferentes graus de retroactividade são relevantes para determinação de eventual inconstitucionalidade.\n7 MENDES, Gilmar F. Comentário ao art. 5º, XXXVI. In: CANOTILHO, J. J. Gomes;\nMENDES, Gilmar F.; SARLET, Ingo W.; STRECK, Lenio L. (coord.). Comentários à Constituição do Brasil. São Paulo: Saraiva; Almedina, 2013. p. 372.\nIdem, p. 370."
+    },
+    {
+      "page": 21,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Autores e jurisprudência distinguem essencialmente entre a retroactividade, quando a lei nova pretende afectar situações definitivamente estabilizadas no passado e reclama, portanto, um início ficcionado de vigência temporalmente anterior à sua própria existência como lei, e a retrospectividade ou retroactividade inautêntica, quando a lei nova só reclama uma vigência ex nunc, ainda que com a virtualidade de afectar direitos, situações ou posições que, embora constituídos no passado por força ou com a cobertura de lei anterior, se prolongam no presente.\n(…) no que respeita à primeira, ou seja, lei restritiva dotada de retroactividade autêntica, ela não suscita, verdadeiramente, um problema constitucional autónomo, já que, pela gravidade das suas consequências e pela sua natureza estrutural, uma tal lei é, nos casos referidos, expressamente considerada inconstitucional (…).9 Leis vigoram de imediato, em geral, e atingem fatos futuros (princípio tempus regit actum). Por via de regra, não se admite incidência da norma sobre fatos anteriores a sua vigência. Regina Maria Ferrari pondera a importância da irretroatividade normativa para a segurança jurídica:\nAdmitir que uma norma nova deva reger tanto os fatos futuros, como os já sucedidos, nos leva a um estado de insegurança do próprio direito, o que, sem dúvida, seria prejudicial, já que nenhuma situação ou ato jurídico poderia ser considerado como seguro se estivesse permanentemente à mercê de uma mudança na legislação que o alterasse ou o considerasse inválido.10 9 NOVAIS, Jorge Reis. Princípios estruturantes de estado de direito. Lisboa: Almedina, 2019.\np. 155-156.\n10 FERRARI, Regina Maria Macedo Nery. Efeitos da declaração de inconstitucionalidade.\n4. ed. São Paulo: Revista dos Tribunais, 1999. p. 84."
+    },
+    {
+      "page": 22,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "De acordo com Canotilho, segurança jurídica está relacionada com elementos objetivos da ordem jurídica: exige que atos legislativos, executivos ou judiciais sejam dotados de \"fiabilidade, clareza, racionalidade e transparência\", de modo a conferir aos cidadãos \"segurança nas suas disposições pessoais e nos efeitos jurídicos dos seus próprios actos\":\nO princípio do estado de direito, densificado pelos princípios da segurança e da confiança jurídica, implica, por um lado, na qualidade de elemento objetivo da ordem jurídica, a durabilidade e permanência da própria ordem jurídica, da paz jurídico-social e das situações jurídicas; por outro lado, como dimensão garantística jurídico-subjectiva dos cidadãos, legitima confiança na permanência das respectivas situações jurídicas.11 Para Jorge Miranda e Rui Medeiros, essa perspectiva da segurança jurídica consubstancia a função legislativa do postulado, da qual decorrem certos requisitos que a produção de normas deve observar, como certeza, clareza, determinabilidade, razoabilidade, coerência interna, estabilidade e previsibilidade.12 Se a liberdade de conformação do legislador é ampla na edição de normas com vigência pró-futuro, tal margem comprime-se gradativamente à 11 CANOTILHO, J. J. Gomes. Direito constitucional e teoria da constituição. 7. ed. Coimbra:\nAlmedina, [s.d.]. p. 259.\n12 MIRANDA, Jorge; MEDEIROS, Rui. Constituição portuguesa anotada. 2. ed. Lisboa:\nUniversidade Católica Editora, 2017. v. 1, p. 79."
+    },
+    {
+      "page": 23,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "medida que edita normas cuja produção de efeitos ocorra a partir de um momento fictício, anterior à sua própria promulgação, sobretudo em face das exigências que decorrem dos princípios da segurança jurídica e da proteção da confiança.13 O precedente da ADI 493/DF é ilustrativo do entendimento da Suprema Corte quanto ao alcance do princípio da irretroatividade das leis:\nAção direta de inconstitucionalidade.\n- Se a lei alcançar os efeitos futuros de contratos celebrados anteriormente a ela, será essa lei retroativa (retroatividade mínima) porque vai interferir na causa, que é um ato ou fato ocorrido no passado.\n- O disposto no artigo 5º, XXXVI, da Constituição Federal se aplica a toda e qualquer lei infraconstitucional, sem qualquer distinção entre lei de direito público e lei de direito privado, ou entre lei de ordem pública e lei dispositiva. Precedente do S.T.F.\n- Ocorrência, no caso, de violação de direito adquirido. A taxa referencial (TR) não é índice de correção monetária, pois, refletindo as variações do custo primário da captação dos depósitos a prazo fixo, não constitui índice que reflita a variação do poder aquisitivo da moeda. Por isso, não há necessidade de se examinar a questão de saber se as normas que alteram índice de correção monetária se aplicam imediatamente, alcançando, pois, as prestações futuras de contratos celebrados no passado, sem violarem o disposto no artigo 5º, XXXVI, da Carta Magna.\n- Também ofendem o ato jurídico perfeito os dispositivos impugnados que alteram o critério de reajuste das prestações nos contratos já NOVAIS, Princípios estruturantes, cit., p. 154."
+    },
+    {
+      "page": 24,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "celebrados pelo sistema do Plano de Equivalência Salarial por Categoria Profissional (PES/CP).\nAção direta de inconstitucionalidade julgada procedente, para declarar a inconstitucionalidade dos artigos 18, caput e parágrafos 1º e 4º; 20; 21 e paragrafo único; 23 e parágrafos; e 24 e parágrafos, todos da Lei 8.177, de 1 de maio de 1991.\n(ADI 493/DF, Rel. Min. Moreira Alves, DJ de 4.9.1992) Em seu voto, o Ministro Moreira Alves, citando Cláudio Pacheco, esclarece que a vedação de irretroatividade se dirige também ao próprio Poder Legislativo:\nAssim, investido como norma constitucional (...), \"o vedamento do efeito retroativo das leis, muito mais alto e mais amplamente se projeta, porque não se dirige para vincular apenas o intérprete, apenas a prestação jurisdicional, pois também se dirige para vincular o próprio órgão legislativo, que é o criador do próprio direito\" (Tratado das Constituições Brasileiras, 1965, v. X, p. 11).\nAnte o postulado estrutural da segurança jurídica, que deriva da proclamação da cláusula do Estado de Direito pelo art. 1º da Constituição Federal e que se desdobra nas garantias do direito adquirido, do ato jurídico perfeito e da coisa julgada (art. 5º, XXXVI), não há como se admitir a possibilidade de convalidação retroativa, ampla e genérica de atos estatais, como fez a emenda constitucional impugnada nesta ação direta, mormente quando já decorridas quase três décadas da anulação, tendo-se consolidado uma infinidade de situações jurídicas subjetivas."
+    },
+    {
+      "page": 25,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Demais disso, há que ter em conta a absoluta desproporcionalidade da medida implementada pela EC 110/2021, tendo em vista os evidentes impactos que pode acarretar sobre as receitas do Estado de Tocantins, em afronta direta à sua autonomia constitucional.\nNo ponto, pede-se vênia para transcrever trecho da representação encaminhada pelo Procurador-Geral do Estado de Tocantins (em anexo):\n(…) a edição da emenda constitucional - e a propaganda realizada em torno dela - confere aos cidadãos a vã impressão e falsa\n\nexpectativa de que poderão ver restabelecidos atos já declarados\n\nnulos ou extirpados do mundo jurídico ou, ainda, de que poderão tirar proveito de atos até então considerados ineficazes em\n\ndecorrência de vício insuperável que os inquinava.\nNesta leiga visão, tudo poderá ser objeto de revisão a partir de agora:\nato de regularização fundiária, títulos de posses anulados ou tornados sem efeitos, outorga de delegações de serviços notariais e registrais, autorização de uso de áreas públicas e/ou bens públicos, concessão de exploração temporária de serviço público ou área pública, exploração mineral ou florestal, atos de investidura em cargos públicos, concessões de benefícios, contratos administrativos e etc., o que, certamente, provocará uma enxurrada de ações e\n\nprocessos administrativos no âmbito estadual, provocando instabilidade jurídica e social.\n(…) O processo de concretização do art. 18-A do ADCT no plano prático é insustentável. As situações jurídicas e fáticas pautam sérios riscos\n\nà ordem pública, à estabilidade, ao desenho federativo, às contas\n\npúblicas, à organização administrativa, à segurança da\n\nadministração pública e dos seus servidores, à integridade e da própria CF/88."
+    },
+    {
+      "page": 26,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "A vagueza e extensão dos efeitos dados pelo constituinte derivado reformador toca TODA a administração pública estadual.\nPor exemplo, o texto do objeto guerreado pode legitimar causas de pedir 1) de mais de DEZ MIL ações de reintegração de servidores (os beneficiários do concurso \"Pioneiros do Tocantins\" - o que é propagado na grande imprensa local e nacional pelos idealizadores e proponentes da ideia política - a despeito de reiteradas coisas julgadas já formadas por esta E. Corte na ADI n 598-TO, na RCL\n\nnº 556-9 e no RE 202.489-9, bem como na SS nº 480-8/TO/AgRg),\n2) de igual modo, requerimentos administrativos funcionais de servidores buscando reintegrações administrativas, 3) os efeitos funcionais prospectivos e retroativos das admissões não feitas (como revisões gerais anuais e progressões), 4) efeitos previdenciários fictos, considerando a convalidação genérica definida no texto impugnado,\n5) a rediscussão judicial de matérias já julgadas ou com sentença\n\nnão transitada, considerando a retroatividade máxima conferida pela redação (isso é todas as searas do direito, seja em matéria de\n\ndesapropriação, anulação de benefícios fiscais, reflexos sucessórios, ações de demarcação de terras, discussão de autuação e poder de polícia, questões trabalhistas, extensão de contratos administrativos e exclusões de processos licitatórios, etc.).\nEstima-se que os efeitos voltados apenas ao Concurso \"Pioneiro do Tocantins\" impacta a folha anual, considerando o décimo 13º salário e o terço de férias, em R$ 1,6 bilhão (R$ 1.615.962.790,00).\nSegundo estudos da D. Procuradoria Geral do Estado e do Instituto de Gestão Previdenciária do Estado, o custo indenizações e pensões podem chegar a R$ 34 bilhões (R$34.954.270.000,00), levando o Estado a falência.\nO impacto econômico é tão acentuado e gravoso que ameaça quase 100% do PIB estadual, tomando como parâmetro o valor aproximado de R$ 36 Bilhões do PIB do Tocantins, segundo o IBGE.\nA mais ver, todo o perigo elencado acaba a refletir também na movimentação e congestionamento do Poder Judiciário, uma vez que a repetibilidade de ações e questionamentos se dará em massa, em\n\ntodo o território estadual, o que poderá também retornar em"
+    },
+    {
+      "page": 27,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "discussões nas instâncias superiores, prejudicando mais ainda o Estado e a sociedade tocantinense.\nA despeito de não constarem expressamente no texto constitucional, os princípios da proporcionalidade e da razoabilidade são considerados, por parte da doutrina jurídica nacional e pelo Supremo Tribunal Federal, como consectários lógicos do princípio do devido processo legal, este consolidado no art. 5º, LIV, da Constituição Federal.\nA jurisdição constitucional estadunidense consolidou a cláusula do devido processo legal como fundamento da judicial review, de maneira a garantir possibilidade de controle substantivo de atos normativos, sob o nome de substantive due process review of legislation.14 No julgamento de medida cautelar na ADI 1.407/DF (Rel. Min.\nCelso de Mello, DJ de 24.11.2000), no qual se firmou a constitucionalidade do\nart. 6º da Lei 9.100/1995, que estabeleceu restrições para a admissão de coligações partidárias, o STF verificou a compatibilidade da norma com o princípio da proporcionalidade. O Ministro Celso de Mello destacou aspectos relevantes sobre o tema:\n14 MENDES, Gilmar. Comentário ao artigo 103. In: CANOTILHO, J. J. Gomes et. al.\n(coord.). Comentários à Constituição do Brasil, cit., p. 430."
+    },
+    {
+      "page": 28,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "(…) Cumpre enfatizar, neste ponto, que a cláusula do devido processo legal - objeto de expressa proclamação pelo art. 5o, LIV, da Constituição, e que traduz um dos fundamentos dogmáticos do princípio da proporcionalidade - deve ser entendida, na abrangência de sua noção conceitual, não só sob o aspecto meramente formal, que impõe restrições de caráter ritual à atuação do Poder Público, mas, sobretudo, em sua dimensão material, que atua como decisivo obstáculo à edição de atos legislativos revestidos de conteúdo arbitrário ou irrazoável.\nA essência do substantive due process of law reside na necessidade de proteger os direitos e as liberdades das pessoas contra qualquer modalidade de legislação que se revele opressiva ou destituída do necessário coeficiente de razoabilidade.\nIsso significa, dentro da perspectiva da extensão da teoria do desvio de poder ao plano das atividades legislativas do Estado, que este não dispõe de competência para legislar ilimitadamente, de forma imoderada e irresponsável, gerando, com o seu comportamento institucional, situações normativas de absoluta distorção e, até mesmo, de subversão dos fins que regem o desempenho da função estatal.\nDaí a advertência de Caio Tácito (…), que, ao relembrar a lição pioneira de Santi Romano, destaca que a figura do desvio de poder legislativo impõe o reconhecimento de que, mesmo nas hipóteses de seu discricionário exercício, a atividade legislativa deve desenvolver-se em estrita relação de harmonia com o interesse público.\nA jurisprudência constitucional do Supremo Tribunal Federal, bem por isso, tem censurado a validade jurídica de atos estatais, que, desconsiderando as limitações que incidem sobre o poder normativo do Estado, veiculam prescrições que ofendem os padrões de razoabilidade e que se revelam destituídas de causa legítima, exteriorizando abusos inaceitáveis e institucionalizando agravos inúteis e nocivos aos direitos das pessoas (ADIn 1.158-AM, Rel. Min. Celso de Mello). ‒ Grifo nosso."
+    },
+    {
+      "page": 29,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "O dispositivo inserido no art. 18-A do ADCT pela EC 110/2021 estabelece uma convalidação geral de atos administrativos anulados há quase três décadas no Estado de Tocantins, por qualquer tipo de vício jurídico.\nEfeito retroativo, assim concedido de forma ampla e desarrazoada, tem o condão de gerar dívida incalculável para o ente estadual, relativamente a um expressivo universo de particulares.\nA medida tem potencial para impactar gravemente o erário, com violação da autonomia constitucional do ente federado (art. 18, caput, da CF) e com prejuízos para toda a sua população, que seria incontornavelmente privada de recursos vitais para o custeio de serviços públicos essenciais.\nHá que se reconhecer, portanto, a inconstitucionalidade das normas constantes da EC 110/2021, por ofensa à autonomia estadual e aos princípios da segurança jurídica, da proporcionalidade e da razoabilidade."
+    },
+    {
+      "page": 30,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "6. VIOLAÇÃO AOS PRINCÍPIOS REPUBLICANO E DA ISONOMIA, E À REGRA DO CONCURSO PÚBLICO\nA Constituição Federal, no art. 37, II, estabelece a aprovação prévia em concurso público de provas ou de provas e títulos como requisito indispensável para investidura em cargo ou emprego na administração direta e indireta de qualquer dos poderes da União, dos estados, do Distrito Federal e dos municípios.\nAcerca dos valores e objetivos visados pela exigência constitucional, observa Fabrício Macedo Motta:\nA realização de certame competitivo, prévio ao acesso aos cargos e empregos públicos, objetiva realizar os princípios consagrados em nosso sistema constitucional, notadamente os princípios da democracia e isonomia, e efetiva-se por meio de processo administrativo. Utilizando este mecanismo, são atendidas também as exigências do princípio da eficiência, neste momento entendido como a necessidade de selecionar os mais aptos para ocupar as posições em disputa e proporcionar uma atuação estatal otimizada. O acesso aos cargos e empregos públicos deve ser amplo e democrático, precedido de um procedimento impessoal onde se assegurem igualdade de oportunidades a todos interessados em concorrer para exercer os encargos oferecidos pelo Estado, a quem incumbirá identificar e selecionar os mais adequados, mediante critérios objetivos.15 José dos Santos Carvalho Filho, a seu turno, afirma:\n15 MOTTA, Fabrício Macedo. Comentário ao art. 37, II. In: CANOTILHO, J. J. Gomes et.\nal. (coord.). Comentários à Constituição do Brasil, cit., p. 830."
+    },
+    {
+      "page": 31,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Concurso público é o procedimento administrativo que tem por fim aferir as aptidões pessoais e selecionar os melhores candidatos ao provimento de cargos e funções públicas. Na aferição pessoal, o Estado verifica a capacidade intelectual, física, e psíquica de interessados em ocupar funções públicas e no aspecto seletivo são escolhidos aqueles que ultrapassam as barreiras opostas no procedimento, obedecida sempre a ordem de classificação. Cuida-se, na verdade, do mais idôneo meio de recrutamento de servidores públicos. Abonamos, então, a afirmação de que o certame público está direcionado à boa administração, que, por sua vez, representa um dos axiomas republicanos.16 A utilização do certame para recrutamento de servidores públicos possibilita que o Estado afira as aptidões pessoais dos candidatos e selecione os mais bem capacitados para ocupar os postos de trabalho disponíveis.17 Concretiza, a um só tempo, os princípios republicano, da isonomia, da impessoalidade, da moralidade administrativa e da eficiência (CF, arts. 1º, caput, 5º, caput, e 37, caput).\nO regime republicano tem como uma de suas premissas a igualdade, tanto quanto possível, de oportunidades conferidas a todos os cidadãos, a fim de materializar os objetivos fundamentais da República, de construção de sociedade livre, justa e solidária; do desenvolvimento nacional;\n16 CARVALHO FILHO, José dos Santos. Manual de direito administrativo. 24. ed. Rio de Janeiro: Lumen Juris, 2011. p. 572.\nCARVALHO FILHO, Manual, cit., p. 572."
+    },
+    {
+      "page": 32,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "de erradicação da pobreza, da marginalização e de redução das desigualdades sociais (art. 3º, I a III, da CF).\nAlém da igualdade de oportunidades, o postulado republicano assegura tratamento igualitário e repudia privilégio ou regalia que beneficie, sem fundamento ético e jurídico suficiente, determinado grupo ou classe em detrimento dos demais. O regime republicano é refratário à instituição de favorecimentos infundados.\nA respeito, observa Robert Alexy que \"a necessidade de fornecer uma razão suficiente que justifique a admissibilidade de uma diferenciação significa que, se uma tal razão existe, é obrigatório o tratamento igual. Essa ideia pode ser expressa por meio do seguinte enunciado, que é um refinamento da concepção fraca no enunciado geral de igualdade, a que se deu preferência: se não houver uma razão suficiente para a permissibilidade de um tratamento desigual, então o tratamento igualitário é obrigatório\".18 Daí a lição doutrinária da Ministra Cármen Lúcia, de que cabe ao regime republicano promover \"igualação dos iguais e o tratamento diversificado 18 ALEXY, Robert. Teoria dos direitos fundamentais. Tradução Virgílio Afonso da Silva.\n2. ed. São Paulo: Malheiros, 2011. p. 408."
+    },
+    {
+      "page": 33,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "apenas daqueles que se diversifiquem segundo critérios de justiça racionalmente postos e suficientemente motivados\".19 Representa o princípio da isonomia um valor fundamental que irradia efeitos negativos e positivos. Opõe-se tanto à discriminação injusta quanto aos privilégios injustificados.20 A igualdade formal e material, portanto, fica comprometida quando se concede privilégio injustificado a uns poucos em detrimento de toda a coletividade.\nÉ sob tal prisma que se há de compreender a regra constitucional do concurso público (art. 37, II, da CF), como instrumento republicano de promoção do acesso igualitário a cargos e empregos públicos. Como pontua o Ministro Celso de Mello, a exigência constitucional \"objetiva impedir que a investidura em cargos, funções e empregos públicos seja distorcida por práticas estatais discriminatórias, que ofendem, profundamente, o postulado da igualdade e que desrespeitam, de modo frontal, o primado da ideia republicana, cujo valor 19 ROCHA, Cármen Lúcia Antunes. O princípio constitucional da igualdade. Belo Horizonte: Lê, 1990. p. 39.\n20 Ao tratar do princípio da isonomia, Ingo W. Sarlet enuncia-lhe três vertentes:\n\"(a) proibição de arbítrio, de modo que tanto se encontram vedadas diferenciações destituídas de justificação razoável com base na pauta de valores constitucionais, quanto proibido tratamento igual para situações manifestamente desiguais; (b) proibição de discriminação, portanto, de diferenciações que tenham por base categorias meramente subjetivas; (c) obrigação de tratamento diferenciado com vistas à compensação de uma desigualdade de oportunidades, o que pressupõe a eliminação, pelo Poder Público, de desigualdades de natureza social, econômica e cultural\" (SARLET, Ingo Wolfgang et alii. Curso de direito constitucional. 2. ed. São Paulo:\nRevista dos Tribunais, 2013. p. 544)."
+    },
+    {
+      "page": 34,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "- impregnado de altíssimo coeficiente ético-jurídico - qualifica-se como expressivo vetor interpretativo das normas que compõem a Lei Fundamental\" (ADI 917-MC, Rel. Min. Celso de Mello, DJ de 15.12.2006).\nFunciona o concurso público, a um só tempo, como garantia de eficiência na gestão da coisa pública - por se pautar na seleção dos melhores candidatos que, ao menos em tese, estarão aptos a realizar com eficiência as atribuições funcionais que lhes forem incumbidas (critério meritório) - e garantia de acesso universal pelos cidadãos aos quadros da administração pública direta e indireta de qualquer dos Poderes da União, dos estados, do Distrito Federal e dos municípios.21 Ante a cláusula pétrea do art. 60, § 4º, IV, da Constituição Federal, não detém o poder constituinte reformador a prerrogativa de modificar o texto constitucional com o intuito de reduzir, de forma significativa, elemento tão essencial de proteção do ideal republicano, pedra angular do sistema 21 \"A realização de certame competitivo, prévio ao acesso aos cargos e empregos públicos, objetiva realizar os princípios consagrados em nosso sistema constitucional, notadamente os princípios da democracia e isonomia, e efetiva-se por meio de processo administrativo. Utilizando este mecanismo, são atendidas também as exigências do princípio da eficiência, neste momento entendido como a necessidade de selecionar os mais aptos para ocupar as posições em disputa e proporcionar uma atuação estatal otimizada. O acesso a cargos e empregos públicos deve ser amplo e democrático, precedido de um procedimento impessoal onde se assegurem igualdade de oportunidades a todos interessados em concorrer para exercer os encargos oferecidos pelo Estado, a quem incumbirá identificar e selecionar os mais adequados, mediante critérios objetivos\" (MOTTA, Fabrício Macedo. Comentário ao art. 37, II. In: CANOTILHO, J. J.\nGomes et al. (coord.), Comentários à Constituição do Brasil, cit., p. 830)."
+    },
+    {
+      "page": 35,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "constitucional: a igualdade, plasmada na exigência do concurso público em sua feição de acesso universal a cargos e empregos públicos.\nComo dito, a proteção dada pelo art. 60, § 4º, IV, da CF aos direitos e garantias individuais abrange não apenas os princípios fundamentais, mas também as regras que os concretizam no plano constitucional.\nSomente são admitidas como exceções à exigência do concurso público, na condição de instrumento concretizador da igualdade, aquelas inscritas pelo próprio constituinte originário, não sendo dado ao constituinte reformador estabelecer novas hipóteses, sob pena de grave desvirtuamento do postulado republicano.\nÉ farta a jurisprudência do Supremo Tribunal Federal no sentido de reconhecer que normas que busquem extirpar, mitigar ou mesmo burlar a exigência constitucional do concurso público atingem o \"conteúdo essencial\" do princípio da isonomia e dos demais princípios da administração pública que a fundamenta (imparcialidade e moralidade).\nPor tal motivo, considera a Corte \"inconstitucional toda modalidade de provimento que propicie ao servidor investir-se, sem prévia aprovação em concurso público destinado ao seu provimento, em cargo que não integra a carreira na qual anteriormente investido\" (Súmula Vinculante 43)."
+    },
+    {
+      "page": 36,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Igualmente considera inconstitucionais normas - constitucionais ou ordinárias - que criem formas diversas e mais abrangentes de estabilidade excepcional no serviço público do que a prevista no art. 19 do ADCT (ADI 100, Rel. Min. Ellen Gracie, DJ de 1º.10.2004, e ADI 125, Rel. Min. Sepúlveda Pertence, DJe de 27.04.2007, entre outros julgados).\nAo permitir a reversão da situação jurídica de pessoas beneficiadas indevidamente em concurso público - os \"Pioneiros de Tocantins\" - por lei declarada inconstitucional pelo Supremo Tribunal Federal há mais de 28 anos (ADI 598/TO, Rel. Min. Paulo Brossard, DJ de 12.11.1993), a EC 110/2021 viola o núcleo essencial da regra do concurso público (CF, art. 37, II) e malfere os princípios republicano, da isonomia e da impessoalidade (CF, arts. 1º, caput, 5º, caput, e 37, caput).\n7. VIOLAÇÃO DOS PRINCÍPIOS DA PROBIDADE, DA MORALIDADE E DA IMPESSOALIDADE\nNo processo histórico de fortalecimento das instituições, a separação entre a dimensão do público e do privado ganha contornos definidos no âmbito de gestão da \"coisa pública\" com a inclusão dos princípios da probidade, do qual são corolários a moralidade e impessoalidade. Uma constituição que eleva à condição de princípios a"
+    },
+    {
+      "page": 37,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "probidade, a moralidade e a impessoalidade revela o projeto que se constrói a partir de 1988, pelo qual o patrimônio material e imaterial do Poder Público não pode mais ser gerido com base em interesses privados, mas por conduta marcada pela ética, probidade, moralidade e impessoalidade, seja na esfera administrativa, política ou judicial.\nAo erigir tais princípios, a Carta de 1988 busca encerrar um passado de práticas clientelistas e patrimonialistas, substituindo-as por uma gestão transparente, participativa e impessoal.\nA nova ordem constitucional tem por ponto nuclear a dimensão da cidadania como conjunto de direitos que empodera o indivíduo contra privilégios injustificados.\nÉ, portanto, arma de superação de um modelo patrimonialista de Estado. O sucesso do regime democrático depende dos níveis de cidadania da população. Os processos de inclusão em espaços decisórios, de ativação da cidadania, pressupõe que seja assegurado o direito a um Estado probo, ético, transparente e que preste contas à sociedade (accountability).\nOs princípios constitucionais da probidade, da moralidade e da impessoalidade, como dimensão da cidadania revelada pelo direito de todos"
+    },
+    {
+      "page": 38,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "a uma administração honesta e transparente, não podem estar disponíveis ao poder constituinte reformador.\nOs limites materiais ao poder constituinte derivado não são apenas aqueles constantes do art. 60, § 4º, da Constituição Federal. Os fundamentos da República também compõem o que a doutrina considera limites materiais implícitos ao poder constituinte reformador.\nA probidade, a ética, a moralidade e a impessoalidade, entendidas como densificação da cidadania, são aspectos essenciais para a consolidação de uma identidade constitucional democrática e, dessa forma, devem ser consideradas cláusulas pétreas.\nInserem-se, ainda, entre os limites materiais implícitos de reforma constitucional os valores aos quais se possa atribuir especial significado na formação da identidade da Constituição. A propósito, lembram Gilmar Mendes e Paulo Gustavo Gonet Branco:\nAs limitações materiais ao poder de reforma não estão exaustivamente enumeradas no art. 60, § 4º, da Carta da República.\nO que se puder afirmar como ínsito à identidade básica da Constituição ideada pelo poder constituinte originário deve ser tido como limitação ao poder de emenda, mesmo que não haja sido explicitado no dispositivo. Recorde-se sempre que o poder de reformar a Constituição não equivale ao poder de dar ao País uma"
+    },
+    {
+      "page": 39,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Constituição diferente, na sua essência, daquela que se deveria revigorar por meio da reforma.22 O constituinte originário definiu compromisso ético e moral do Estado para com a sociedade ao erigir os princípios reveladores desse pacto (probidade, moralidade, impessoalidade e transparência) como parte integrante da identidade básica da Constituição. Tanto que impôs gravíssimas sanções àqueles que os transgridam (CF, arts. 15, V, e 37, § 4º), definindo, inclusive, como crime de responsabilidade os atos do chefe do Executivo que atentem contra a probidade (CF, art. 85, V).\nEsses postulados consagram, nessa perspectiva, o ideal republicano.\nÉtica republicana não se exige somente do administrador público na gestão da coisa pública; seu alcance é mais abrangente, porquanto deve funcionar como princípio norteador das instituições públicas e das funções estatais.23 Impõem-se, por isso mesmo, como limite material implícito ao constituinte derivado.\nA EC 110/2021, ao admitir a convalidação de atos eivados de vícios jurídicos de toda sorte e, sobretudo, atos inconstitucionais de admissão de 22 MENDES, Gilmar Ferreira; BRANCO, Paulo Gustavo Gonet. Curso de direito constitucional. 12. ed. São Paulo: Saraiva, 2017. p. 131.\n23 FONSECA, Dirce Mendes. O campo da ética, seu lugar na política. Revista de Informação Legislativa, Brasília, v. 43, n. 169, p. 255-262, jan./mar. 2006."
+    },
+    {
+      "page": 40,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "uma vastíssima gama de pessoas nos quadros do Estado de Tocantins, promove valores diametralmente opostos àqueles decorrentes do princípio republicano, da probidade, da moralidade e da impessoalidade.\nA Carta de 1988 tornou indeclinável a exigência do concurso público para investidura em cargo ou emprego público, inclusive para empresas governamentais. A propósito, veja-se a ementa de precedente do Supremo Tribunal Federal:\nCARGOS E EMPREGOS PÚBLICOS. ADMINISTRAÇÃO PÚBLICA DIRETA, INDIRETA E FUNDACIONAL.\nACESSIBILIDADE. CONCURSO PÚBLICO.\nA acessibilidade aos cargos públicos a todos os brasileiros, nos termos da Lei e mediante concurso público é princípio constitucional explícito, desde 1934, art. 168.\nEmbora cronicamente sofismado, mercê de expedientes destinados a iludir a regra, não só foi reafirmado pela Constituição, como ampliado, para alcançar os empregos públicos, art. 37, I e II.\nPela vigente ordem constitucional, em regra, o acesso aos empregos públicos opera-se mediante concurso público, que pode não ser de igual conteúdo, mas há de ser pública.\nAs autarquias, empresas públicas ou sociedades de economia mista estão sujeitas à regra, que envolve a administração direta, indireta ou fundacional, de qualquer dos poderes da União, dos Estados, do Distrito Federal e dos Municípios.\nSociedade de economia mista destinada a explorar atividade econômica está igualmente sujeita a esse princípio, que não colide com o expresso no art. 173, § 1º.\nExceções ao princípio, se existem, estão na própria Constituição."
+    },
+    {
+      "page": 41,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "(MS 21.322, Rel. Min. Paulo Brossard, DJ de 23.4.1993) ‒ Grifos nossos.\nA pretexto de compensar o esforço de indivíduos que participaram da instalação do Estado do Tocantins, a EC 110/2021 buscou, em realidade, convalidar inconstitucionalidades já reconhecidas pela Suprema Corte, que levaram à anulação de concurso público e de atos de nomeação editados há quase três décadas.\nNão se desconhece a excepcionalidade inerente à fase de instalação do aludido ente federado. A peculiaridade, todavia, não excepciona o regime constitucional além do que permitido pelo próprio constituinte originário.\nA possibilidade de reintegração aos quadros do estado de pessoas cuja aprovação em concurso fora anulada por vício de inconstitucionalidade representa inequívoca ruptura com o princípio constitucional que assegura igualdade no acesso a cargos e empregos públicos (CF, arts. 5º, caput, e 37, I e\nII), bem como com a ética republicana inerente aos princípios da probidade, da moralidade e da impessoalidade (CF, arts. 14, § 9º, 15, V, 37, caput e § 4º, e 85, V), considerados cláusulas pétreas (explícitas e implícitas)."
+    },
+    {
+      "page": 42,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "8. PEDIDO CAUTELAR\nEstão presentes os pressupostos para a concessão de medida cautelar.\nA plausibilidade jurídica do pedido (fumus boni juris) está suficientemente demonstrada pelos argumentos deduzidos nesta petição inicial, que encontram amparo na jurisprudência do Supremo Tribunal Federal.\nO perigo na demora processual (periculum in mora) decorre da possibilidade de serem proferidas novas decisões judiciais de revalidação de atos anulados no Estado de Tocantins, com fundamento nas disposições ora impugnadas do art. 18-A do ADCT.\nApenas em relação a pretensões de reintegração de pessoas cuja investidura foi anulada em decorrência da ADI 598/TO - os agraciados com o título de \"Pioneiros de Tocantins\" - estima-se um impacto anual superior a 1,5 bilhão de reais ao erário estadual.\nConsiderando a quantidade expressiva de indivíduos afetados pela decisão de inconstitucionalidade referida, a qual acarretou a exoneração de\n15.910 servidores estaduais, bem como os elevados custos da convalidação de atos inconstitucionais após mais de 28 anos de situação jurídica consolidada no tempo, afigura-se imprescindível que a emenda impugnada seja o mais"
+    },
+    {
+      "page": 43,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "rapidamente possível suspensa em sua eficácia, em juízo liminar, na forma do\nart. 10 da Lei 9.868/1999.\nPortanto, além do sinal do bom direito, evidenciado pelos próprios fundamentos constitucionais em que se apoia esta ação direta, há premência em que esta Corte conceda a medida cautelar para determinar a imediata suspensão dos efeitos do art. 18-A do ADCT, incluído pela EC 110/2021.\n9. PEDIDOS E REQUERIMENTOS\nEm face do exposto, requer o PROCURADOR-GERAL DA REPÚBLICA que esse Supremo Tribunal conceda medida cautelar para suspensão da eficácia da norma impugnada, para os fins expostos acima e nos termos do art. 10, § 3º, da Lei 9.868/1999.\nEm seguida, pleiteia que se colham informações da Câmara dos Deputados e do Senado Federal. Ainda, que se ouça a Advocacia-Geral da União, nos termos do art. 103, § 3º, da CF. Superadas as fases, pede prazo para a manifestação da Procuradoria-Geral da República.\nAo final, postula que se julgue procedente o pedido para declarar a inconstitucionalidade das disposições da Emenda Constitucional 110/2021, por afronta a cláusulas pétreas da Constituição Federal (art. 60, § 4º, III e IV) que"
+    },
+    {
+      "page": 44,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "consagram a separação de poderes (art. 2º), a autonomia dos entes federados (art. 18, caput), os princípios da segurança jurídica e da coisa julgada (arts. 1º e 5º,\nXXXVI), o direito fundamental de acesso a cargos e empregos públicos em condições de igualdade (arts. 5º, caput, e 37, II) e os princípios da moralidade, da probidade administrativa e da impessoalidade (art. 37, caput).\nBrasília, data da assinatura digital.\nAugusto Aras Procurador-Geral da República Assinado digitalmente\nAMO"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "ADI_7457",
+  "arquivo_pdf": "ADI_7457.pdf",
+  "sha256": "87d59476252a7706416bb04491bc666925a1f4b28738af11fdf3205f0ca37bb0",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:30:17",
+  "resumo": {
+    "paginas": 14,
+    "paginas_digital": 14,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 24413,
+    "chars_clean": 19408,
+    "reducao_pct": 20.5,
+    "linhas_removidas": 69,
+    "limpeza_detalhe": {
+      "cabecalho_rodape": 55,
+      "hifen_mantido": 2,
+      "hifenizacao_unida": 0,
+      "numero_pagina": 14
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "MINISTÉRIO PÚBLICO FEDERAL PROCURADORIA-GERAL DA REPÚBLICA EXCELENTÍSSIMA SENHORA MINISTRA PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL\nPETIÇÃO INICIAL AJCONST/PGR Nº 974619/2023 O PROCURADOR-GERAL DA REPÚBLICA, com fundamento nos arts. 102, I, \"a\" e \"p\", 103, VI, e 129, IV, da Constituição Federal, no art.\n46, parágrafo único, I, da Lei Complementar 75, de 20.5.1993 (Lei Orgânica do Ministério Público da União) e na Lei 9.868, de 10.11.1999, vem propor\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE COM PEDIDO DE MEDIDA CAUTELAR\ncontra o art. 64, §§ 1º e 2º, da Lei 8.790/2022, do Estado de Alagoas, que dispõe sobre as atribuições dos membros do Ministério Público junto ao Tribunal de Contas estadual.1 1 Acompanham a petição inicial cópia da norma impugnada (art. 3º da Lei 9.868/1999) e peças do Procedimento Administrativo 1.00.000.004981/2023-11.\nDocumento assinado via Token digitalmente por PROCURADOR-GERAL DA REPÚBLICA ANTONIO AUGUSTO BRANDAO DE ARAS, em 18/09/2023 19:24. Para verificar a assinatura acesse http://www.transparencia.mpf.mp.br/validacaodocumento. Chave 2d3649dc.43f578a1.10102311.d7d1c6ba"
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "I. OBJETO DA AÇÃO\nEis o teor das normas questionadas:\nLei 8.790/2022 do Estado de Alagoas\nArt. 64. Competem aos membros do Ministério Público de Contas, em sua missão de guarda da lei e fiscal de sua execução, além de outras estabelecidas no Regimento Interno, as seguintes atribuições:\n(…)\n§ 1º Considerando a natureza intestina do Ministério Público de Contas, é vedado que funcione apartadamente dos processos instaurados pelo TCE/AL, sendo-lhe vedado instaurar procedimentos para presidir investigações autônomas ou mesmo requisitar informações ou documentos, conquanto os procedimentos afeitos ao TCE/AL serão sempre presididos por Conselheiro a quem serão destinados os pedidos de instauração de procedimentos e requisição de informações e documentos.\n§ 2º Na oportunidade em que emitir seu parecer, o Ministério Público de Contas, mesmo que suscite questão preliminar, manifestar-se-á também quanto ao mérito, ante a eventualidade daquela não ser acolhida.\nComo se demonstrará, os dispositivos contrariam os arts. 127, § 1º (princípio da independência funcional), 129 (funções institucionais do Público junto aos Tribunais de Contas), todos da Constituição Federal."
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "II. INDEPENDÊNCIA FUNCIONAL DOS MEMBROS DO MINISTÉRIO PÚBLICO JUNTO AOS TRIBUNAIS DE CONTAS\nO art. 130 da Constituição da República estendeu aos membros do Ministério Público junto aos Tribunais de Contas os direitos, as vedações e a forma de investidura previstos aos demais integrantes do Parquet.\nO preceito constitucional estabelece verdadeira \"cláusula de garantia\", que busca assegurar a independência, preservar a imparcialidade e conferir vantagens específicas da carreira a esses agentes, conforme assentado pelo Supremo Tribunal Federal, na ADI 789/DF (Rel. Min. Celso de Mello, DJ de\n19.12.1994).\nPor meio de seus membros, o MP de Contas ostenta elevado grau de autonomia funcional. Exatamente por essa razão, a Lei Orgânica do Tribunal de Contas da União (Lei 8.443/1992) reconhece ao Parquet especial a aplicação do princípio da independência funcional,2 prerrogativa que alcança toda a instituição e cada um de seus integrantes.\nInternamente, a independência funcional garante a liberdade que cada membro tem de manifestar seu posicionamento, sem relação de subordinação ao respectivo Procurador-Geral ou a pronunciamento anterior 2 O art. 80, caput, da Lei 8.443/1992, que prevê a garantia, foi declarado constitucional pelo Supremo Tribunal Federal, no julgamento da ADI 789, Rel. Min. Celso de Mello, (DJ de 19.12.1994)."
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "de outro integrante. Externamente, o princípio significa que, \"no espaço das atribuições que lhe são próprias, o MP não pode sofrer interferências de nenhum outro órgão ou poder constitucional\".3 É a independência funcional que possibilita a todos os membros do Ministério Público brasileiro, inclusive aos que atuam junto aos Tribunais de Contas, o livre exercício das atribuições que lhes foram confiadas pela Constituição. Como ressaltou o Ministro Néri da Silveira no julgamento da ADI 160/TO (Rel. Min. Octávio Gallotti, DJ de 20.11.1998):\nNão se pode compreender o Ministério Público junto ao Tribunal de Contas, enquanto o Ministério Público, não dotado de uma independência funcional, o que significa a sua não sujeição a qualquer forma de hierarquia, quer ao próprio Tribunal de Contas, quer a outro órgão da Administração. Do contrário, não teriam os seus membros as condições de exercer, com prerrogativas de Ministério Público que é, a missão precípua de fiscal da lei. A autonomia funcional tem, aqui, uma correspondência à idéia de independência funcional.\nSe o art. 130 da Constituição confere, desde logo, aos membros do Ministério Público junto ao Tribunal de Contas independência funcional, por serem membros do Ministério Público, não se pode entender que a instituição a que pertencem, enquanto tal, embora sem autonomia administrativa, não esteja também dotada de independência funcional, que importa autonomia funcional.\n3 SAMPAIO, José Adércio Leite. Comentário ao art. 127. In: CANOTILHO, J. J. Gomes;\nMENDES, Gilmar F; SARLET, Ingo W.; STRECK, Lenio L. (coords). Comentários à Constituição do Brasil. 2ª ed. São Paulo: Saraiva Educação, 2018, p. 1634."
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "No mesmo julgado, o Ministro Sepúlveda Pertence sustentou ser \"ínsita à noção de Ministério Público na Constituição Brasileira a autonomia funcional, que nada mais significa que a independência em relação a instruções e ingerências dos Poderes de Estado e, no caso específico do Ministério Público junto ao Tribunal de Contas, também ao próprio Tribunal de Contas\".\nSobre o tema, Emerson Garcia comenta:\nEm razão das próprias características de sua atuação, é perfeitamente possível, em situações normais e corriqueiras, que a adversariedade floresça entre o Ministério Público de Contas e o próprio Tribunal de Contas em cuja estrutura está inserido. Não podemos esquecer que o Ministério Público de Contas não é uma espécie de Procuradoria, um órgão de apoio técnico hierarquicamente subordinado e voltado ao fornecimento de subsídios técnicos ao órgão que assessora. Ao atribuir-lhe autonomia funcional, o sistema tornou faticamente possível que os seus juízos de valor divirjam daqueles formulados pelo Tribunal de Contas (...).4 Por isso, revela-se incompatível com o princípio da independência funcional norma que obrigue o Ministério Público de Contas a se manifestar sobre o mérito em seus pareceres, mesmo quando suscitar questão preliminar, como determina o art. 64, § 2º, da Lei 8.790/2022 do Estado de Alagoas.\n4 GARCIA, Emerson. A necessidade de aperfeiçoamento estrutural do controle externo: a autonomia do Ministério Público de Contas como imperativo da adversariedade. In: Revista do 2019."
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Há hipóteses, ademais, que impossibilitam esse exame, como quando o Parquet verifica a ausência de legitimidade ou de interesse processual, reconhece a existência de perempção, de litispendência ou de coisa julgada, ou quando identifica a falta de pressupostos de constituição e de desenvolvimento válido e regular do processo (art. 485, IV, V e VI, do\nCPC).\nO próprio Tribunal de Contas da União, ao apreciar norma de seu regimento interno com redação idêntica à do dispositivo impugnado, registrou:\nCom efeito, embora a literalidade do § 2º do artigo 62 do Regimento Interno do Tribunal assinale que o 'Ministério Público, mesmo que suscite questão preliminar, manifestar-se-á também quanto ao mérito', os preceitos constitucionais e legais que erigem o Parquet como órgão funcionalmente independente não permitem obrigá-lo à apreciação de questão que ele ainda considere pendente de saneamento.5 Por esse motivo, incumbe a essa Corte Suprema declarar a inconstitucionalidade do art. 64, § 2º, da Lei 8.790/2022 do Estado de Alagoas, por afronta aos arts. 127, § 1º, e 130, ambos da Constituição Federal.\n5 Tribunal de Contas da União, Segunda Turma, Acórdão 6.481/2014, Processo\n037.096/2011-7, Rel. Min. Marcos Bemquerer, Sessão de 4.11.2014."
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "III. FUNÇÕES INSTITUCIONAIS DO MINISTÉRIO PÚBLICO JUNTO AOS TRIBUNAIS DE CONTAS\nAo dar assento constitucional ao Ministério Público de Contas e conceder aos seus membros expressivas garantias de ordem subjetiva, o constituinte pretendeu reforçar a proteção do interesse público junto ao órgão que auxilia o Poder Legislativo no exercício do controle externo da Administração Pública.\nEssa atuação junto a órgão não jurisdicional não retira do Parquet especial sua natureza de órgão do Ministério Público brasileiro.6 Por isso, também incumbe aos seus membros exercer, no âmbito dos Tribunais de Contas, as funções institucionais previstas no art. 129 da Lei Maior, tais como\n(i) zelar pelo efetivo respeito dos Poderes Públicos e dos serviços de relevância pública aos direitos assegurados na Constituição, promovendo as medidas necessárias a sua garantia; (ii) instaurar investigações e ações, para a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos;\n(iii) expedir notificações nos procedimentos administrativos de sua competência, requisitando informações e documentos 6 Como decidido na ADI 789/DF (Rel. Min. Celso de Mello, DJ de 19.12.1994), o Ministério Público de Contas é \"órgão de extração constitucional, eis que a sua existência jurídica resulta de expressa previsão normativa constante da Carta Política (art. 73, par. 2., I, e art. 130), sendo indiferente, para efeito de sua configuração jurídico-institucional, a circunstância de não constar do rol taxativo inscrito no art. 128, I, da Constituição\"."
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "para instruí-los; (iv) além de outras que lhes forem conferidas, desde que compatíveis com sua finalidade.\nSobre o tema, comenta Fabrício Macedo Motta:\nAs funções foram atribuídas à instituição Ministério Público, em todos os seus ramos e sub-ramos. Ainda que possa ser invocada qualquer dúvida a respeito do enquadramento do Ministério Público de Contas como ramo do Ministério Público, não há sentido admitir a atribuição de funções institucionais diferentes ao Parquet especial, desconexas com as funções estabelecidas na Constituição.\nO exercício das atribuições ocorre em Tribunal distinto, mas a gênese da instituição e suas vocações permanecem as mesmas: defender a ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis. Com as ressalvas interpretativas necessárias em razão da esfera de atuação, as funções institucionais previstas no art. 129 são também funções do Ministério Público de Contas.7 Raciocínio semelhante alcançou o Conselho Nacional do Ministério Público (CNMP) - órgão responsável por zelar pela autonomia funcional do Ministério Público brasileiro (CF, art. 130-A, § 2º, I) - ao apreciar a Consulta\n0.00.000.000843/2013-39, formulada pela Associação Nacional do Ministério Público de Contas (AMPCON):\n7 MOTTA, Fabrício Macedo. Regime jurídico do Ministério Público juntos aos Tribunais de Contas - Retrospectiva e Perspectivas. Revista do Ministério Público de Contas do Estado do Paraná, n. 5, p. 32-49, 2016. Curitiba: Ministério Público de Contas do Paraná, 2016."
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CONSULTA. CONTROLE EXTERNO PELO CONSELHO NACIONAL DO MINISTÉRIO PÚBLICO. NATUREZA JURÍDICA. FUNÇÕES INSTITUCIONAIS. GARANTIAS E VEDAÇÕES DOS MEMBROS. AUTONOMIA FUNCIONAL JÁ RECONHECIDA.\nAUTONOMIA ADMINISTRATIVA E FINANCEIRA EM PROCESSO DE CONSOLIDAÇÃO.\nCONSULTA RESPONDIDA POSITIVAMENTE.\n1. Considerando que as funções institucionais reservadas ao Ministério Público de Contas - MPC identificam-se plenamente às previstas no art. 127 da Constituição Federal, e que seus membros foram contemplados com as mesmas garantias e vedações relativas aos membros das demais unidades e ramos do Ministério Público (CF, art. 130), impõe-se reconhecer ao MPC a natureza jurídica de órgão do Ministério Público brasileiro.\n2. A característica extrajudicial da atuação do MPC não o desnatura, apenas o identifica como órgão extremamente especializado. Outros ramos do MP brasileiro são especializados e todos exercem atribuição extrajudicial ao lado das funções perante o Poder Judiciário.\n3. A já reconhecida autonomia funcional dos membros do MPC, em sucessivos precedentes do Supremo Tribunal Federal deve ser acompanhada da gradual aquisição da autonomia administrativa e financeira das unidades, de forma a ter garantido o pleno e independente exercício de sua missão constitucional.\n4. A carência da plena autonomia administrativa e financeira não é óbice ao reconhecimento da natureza jurídica ministerial do MPC, antes é fator determinante da necessidade do exercício, por este Conselho Nacional, de uma de suas funções institucionais (CF, art. 130-A, § 2º, I), zelando pela autonomia funcional e administrativa do Ministério Público, podendo expedir atos regulamentares no âmbito de sua competência ou recomendar providências. Esta atual carência é"
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "consequência de um histórico de vinculação, a ser superado, e não pode ser trazida como a causa para negar-se ao MPC a condição de órgão do MP brasileiro. Conclusão diferente levaria ao questionamento da natureza jurídica do MP Eleitoral, que, como amplamente sabido, além de não figurar no art. 128 da Constituição Federal, não dispõe de estrutura, sequer de um quadro permanente de membros.\n5. Situação de gradual aquisição de autonomia já vivenciada pelos demais órgãos do Ministério Público que, historicamente, dependeram, em maior ou menor medida, das estruturas dos tribunais e nunca tiveram, por essa razão, sua condição de Ministério Público questionada. Consulta respondida positivamente para reconhecer ao Ministério Público de Contas a natureza jurídica de órgão do Ministério Público brasileiro e, em consequência, a competência do CNMP para zelar pelo cumprimento dos deveres funcionais dos respectivos membros e pela garantia da autonomia administrativa e financeira das unidades, controlando os atos já praticados de forma independente em seu âmbito, e adotando medidas tendentes a consolidar a parcela de autonomia de que ainda carecem tais órgãos.\n(Conselho Nacional do Ministério Público. Plenário. Consulta nº 0.00.000.000843/2013-39. Rel. Conselheira Taís Schilling Ferraz. Julgado em 07.08.2013.) Para que possa exercer adequadamente seu múnus, o Parquet de Contas necessita de ferramentas que confiram efetividade à sua atuação, como a instauração de investigações autônomas e a requisição de informações e documentos, já reconhecidas pelo Supremo Tribunal Federal ao Ministério Público comum e à Defensoria Pública, à luz da teoria dos poderes implícitos."
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "No julgamento da ADI 2.838/MT, no qual a Corte reafirmou o poder investigatório do Ministério Público, anotou o Relator, Ministro Alexandre de Moraes (DJe de 31.5.2023):\nIncorporou-se, em nosso ordenamento jurídico, portanto, a pacífica doutrina constitucional norte-americana sobre a teoria dos poderes implícitos - inherent powers -, segundo a qual, no exercício de sua missão constitucional enumerada, o órgão executivo deveria dispor de todas as funções necessárias, ainda que implícitas, desde que não expressamente limitadas (Myers v. Estados Unidos - US 272 - 52,\n118), consagrando-se, dessa forma, e entre nós aplicável ao Ministério Público, o reconhecimento de competências genéricas implícitas que possibilitem o exercício de sua missão constitucional, apenas sujeitas às proibições e limites estruturais da Constituição Federal (HC 94.173/BA, Rel. Min.\nCELSO DE MELLO, decisão de 1º/8/2008; RE 535.478/SC, Segunda Turma, Rel. Min. ELLEN GRACIE, decisão de 28/10/2008).\n(…) Não reconhecer ao Ministério Público seus poderes investigatórios criminais implícitos corresponde a diminuir a efetividade de sua atuação em defesa dos direitos fundamentais de todos os cidadãos, cuja atuação autônoma, conforme já reconheceu nosso SUPREMO TRIBUNAL FEDERAL, configura a confiança no respeito aos direitos, individuais e coletivos, e a certeza de submissão dos Poderes à lei (RHC\n97.926/GO, Segunda Turma, Rel. Min. GILMAR MENDES, 2/9/2014; HC 89.334-1/RN, Rel. Min. CEZAR PELUSO, DJ de 9/10/2006).\nJá na ADI 6.852/DF, em que a Corte declarou constitucional o poder de requisição conferido à Defensoria Pública, o Relator, Ministro Edson"
+    },
+    {
+      "page": 12,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Fachin, frisou que a prerrogativa propicia àquela instituição \"condições materiais para o exercício de seu mister, não havendo que se falar em qualquer espécie de violação ao texto constitucional, mas ao contrário, em sua densificação\" (DJe de\n29.3.2022).\nDe modo semelhante, retirar os instrumentos que o Parquet especial tem à disposição para efetivar suas funções institucionais, como fez o art. 64,\n§ 1º, da Lei 8.790/2022, do Estado de Alagoas, viola os arts. 129 e 130 da Lei Maior.\nAssim, é inconstitucional dispositivo que proíba o Ministério Público de Contas de instaurar procedimentos para presidir investigações autônomas ou de requisitar informações e documentos.\nIV. PEDIDO CAUTELAR\nEstão presentes os pressupostos para a concessão de medida cautelar.\nA plausibilidade jurídica do pedido (fumus boni juris) está suficientemente demonstrada pelos argumentos deduzidos nesta petição inicial, que encontram amparo na jurisprudência do Supremo Tribunal Federal.\nO perigo na demora processual (periculum in mora) está no óbice criado à livre atuação do Ministério Público de Contas do Estado de Alagoas,"
+    },
+    {
+      "page": 13,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "que foi obrigado a arquivar investigações em curso8 e está impossibilitado de instaurar novos procedimentos autônomos ou de requisitar documentos e informações, por força do ora impugnado art. 64, §§ 1º e 2º, da Lei estadual\n8.790/2022, revelando-se assim a urgência necessária para a concessão de medida cautelar, com respaldo no art. 10 da Lei 9.868/1999.\nHá de se considerar que tais dispositivos seguem cerceando a independência funcional dos membros do Ministério Público junto ao Tribunal de Contas alagoano, com especial repercussão negativa sobre a efetividade do controle externo realizado por aquela Corte.\nPortanto, além do sinal do bom direito, evidenciado pelos próprios fundamentos constitucionais em que se apoia esta ação direta, há premência em que esse Tribunal conceda a medida cautelar para determinar a imediata suspensão dos efeitos do art. 64, §§ 1º e 2º, da Lei 8.790/2022 do Estado de Alagoas.\n8 Nos autos do PA-PGR 1.00.000.004981/2023-11, o MP de Contas estadual informa que, por imposição das normas questionadas, arquivou diversos procedimentos instaurados para fiscalizar o cumprimento da Lei Geral de Proteção de Dados (Lei 13.709/2018) pelos municípios alagoanos."
+    },
+    {
+      "page": 14,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "V. PEDIDOS E REQUERIMENTOS\nEm face do exposto, requer o PROCURADOR-GERAL DA REPÚBLICA que esse Supremo Tribunal Federal conceda medida cautelar para suspensão da eficácia das normas impugnadas, para os fins expostos acima e nos termos do art. 10, § 3º, da Lei 9.868/1999.\nEm seguida, pleiteia que se colham informações da Assembleia Legislativa, do Tribunal de Contas, do Ministério Público junto ao Tribunal de Contas e do Governador do Estado de Alagoas e que se ouça a Advocacia-Geral da União, nos termos do art. 103, § 3º, da Constituição Federal.\nSuperadas essas fases, pede prazo para a manifestação da Procuradoria-Geral da República.\nAo final, postula que se julgue procedente o pedido, para declarar a inconstitucionalidade do art. 64, §§1º e 2º, da Lei 8.790/2022 do Estado de Alagoas.\nBrasília, data da assinatura digital.\nAugusto Aras Procurador-Geral da República Assinado digitalmente\n[ALM]"
+    }
+  ]
+}

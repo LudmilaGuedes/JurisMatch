@@ -1,0 +1,220 @@
+{
+  "id": "ADI_7501",
+  "arquivo_pdf": "ADI_7501.pdf",
+  "sha256": "535245352f9fdd2f75dcad9e80395abfac8a81e989022704ceddd205c4aecf7e",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:30:20",
+  "resumo": {
+    "paginas": 24,
+    "paginas_digital": 24,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 39223,
+    "chars_clean": 30858,
+    "reducao_pct": 21.3,
+    "linhas_removidas": 117,
+    "limpeza_detalhe": {
+      "cabecalho_rodape": 92,
+      "hifen_mantido": 2,
+      "hifenizacao_unida": 0,
+      "numero_pagina": 25
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "MINISTÉRIO PÚBLICO FEDERAL PROCURADORIA-GERAL DA REPÚBLICA EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL\nPETIÇÃO INICIAL AJCONST/PGR Nº 1132482/2023 A PROCURADORA-GERAL DA REPÚBLICA, com fundamento nos arts. 102, I, \"a\" e \"p\", e § 1º; 103, VI, e 129, IV, da Constituição Federal de 1988; no art. 6º, III, da Lei Complementar 75, de 20.5.1993 (Lei Orgânica do Ministério Público da União); e na Lei 9.868, de 10.11.1999, vem propor\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE COM PEDIDO DE MEDIDA CAUTELAR\ncontra disposições do art. 9º, § 1º, I e II, da Lei 9.519, de 26.11.1997, que dispõe sobre a reestruturação dos Corpos e Quadros de Oficiais e de Praças da Marinha, com redação dada pela Lei 13.541, de 18.12.2017.1 1 Acompanham a petição inicial cópias da norma impugnada, nos termos do art. 3º da Lei\n9.868/1999, e de editais de concursos públicos para ingresso na Marinha do Brasil.\nDocumento assinado via Token digitalmente por PROCURADORA-GERAL DA REPÚBLICA ELIZETA MARIA DE PAIVA RAMOS, em 26/10/2023 08:50. Para verificar a assinatura acesse http://www.transparencia.mpf.mp.br/validacaodocumento. Chave 4bc844d9.27c0118b.791bf83e.50d28ec9"
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "I. OBJETO DA AÇÃO\nEis o teor da norma questionada nesta ação:\nArt. 9º Os Oficiais da Marinha, de ambos os sexos, são iguais em direitos e obrigações nos termos da Constituição, observados os valores, princípios e normas nela estabelecidos.\n§ 1o Na conciliação, obrigatória, entre as exigências do preparo do Poder Naval e sua aplicação em situação de guerra e crise e as diferenças físicas entre os sexos feminino e masculino, será observado o seguinte: (Redação dada pela Lei nº 13.541, de 18/12/2017) I - os Corpos e os Quadros de Oficiais da Marinha do Brasil serão integrados por Oficiais de ambos os sexos, e compete ao Comandante da Marinha fixar em quais escolas de formação e cursos, além de definir as capacitações e as atividades, em que serão empregados Oficiais dos sexos feminino e masculino; e (Redação dada pela Lei nº 13.541, de 18/12/2017) II - ato do Poder Executivo definirá os percentuais dos cargos dos diversos Corpos e Quadros para os sexos feminino e masculino. (Redação dada pela Lei nº 13.541, de 18/12/2017) Demonstrar-se-á que o dispositivo impugnado viola o art. 3º, IV (direito à não discriminação em razão de sexo), o art. 5º, caput e I (princípios da isonomia e da igualdade entre homens e mulheres), o art. 7º, XX (direito social à proteção do mercado de trabalho da mulher, mediante incentivos específicos), os arts. 7º, XXX, 37, I, e 39, § 3º (direito de acesso a cargos públicos e proibição de discriminação em razão do sexo quando da respectiva admissão) e o art. 142, § 3º, X (disciplina do ingresso nas Forças Armadas reservada à lei em sentido estrito), todos da Constituição Federal."
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "II. PROTEÇÃO DO DIREITO DE ACESSO A CARGOS PÚBLICOS ÀS MULHERES NA ORDEM CONSTITUCIONAL\nCom vistas a eliminar de vez a discriminação e o preconceito em razão do sexo existentes desde sempre no ordenamento jurídico brasileiro, a Constituição Federal de 1988 conferiu às mulheres igualdade de direitos e obrigações (art. 5º, caput e I), assim como lhes reservou uma série de garantias fundamentais, como a de não sofrer nenhum tratamento desigual injustificado nas relações pessoais e laborais (arts. 3º, IV, e 7º, XXX), os direitos de usucapião urbana e de obtenção de domínio e de concessão de uso de imóveis rurais destinados a reforma agrária, em igualdade de condições com as demais pessoas e independentemente do estado civil (arts. 183, § 1º, e 189, parágrafo único), e igualdade de direitos e deveres na constância da sociedade conjugal (art. 226, § 5º).\nNo tocante ao ingresso no serviço público, a Carta da República confere direito de acesso em cargos, empregos e funções públicas a todas as brasileiras e a todos os brasileiros que cumprirem os requisitos previstos em lei (art. 37, I), assim como proíbe a adoção de qualquer critério discriminatório por motivo de sexo, quando da admissão em ocupações públicas, ressalvada a possibilidade de a lei estabelecer requisitos diferenciados caso a natureza do cargo os exija (arts. 7º, XXX, e 39, § 3º)."
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Em consonância com essas normas constitucionais, a Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher, internalizada no direito brasileiro por intermédio do Decreto 4.377, de\n13.9.2002, dedicou diversos dispositivos para assegurar o direito das mulheres ao acesso a cargos e empregos públicos e privados, sem qualquer discriminação e em igualdade de condições com as demais pessoas:\nArtigo 7o Os Estados-Partes tomarão todas as medidas apropriadas para eliminar a discriminação contra a mulher na vida política e pública do país e, em particular, garantirão, em igualdade de condições com os homens, o direito a:\na) Votar em todas as eleições e referenda públicos e ser elegível para todos os órgãos cujos membros sejam objeto de eleições públicas;\nb) Participar na formulação de políticas governamentais e na execução destas, e ocupar cargos públicos e exercer todas as funções públicas em todos os planos governamentais;\nc) Participar em organizações e associações não-governamentais que se ocupem da vida pública e política do país.\nArtigo 11\n1. Os Estados-Partes adotarão todas as medidas apropriadas para eliminar a discriminação contra a mulher na esfera do emprego a fim de assegurar, em condições de igualdade entre homens e mulheres, os mesmos direitos, em particular:"
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "a) O direito ao trabalho como direito inalienável de todo ser humano;\nb) O direito às mesmas oportunidades de emprego, inclusive a aplicação dos mesmos critérios de seleção em questões de emprego;\nc) O direito de escolher livremente profissão e emprego, o direito à promoção e à estabilidade no emprego e a todos os benefícios e outras condições de serviço, e o direito ao acesso à formação e à atualização profissionais, incluindo aprendizagem, formação profissional superior e treinamento periódico;\nd) O direito a igual remuneração, inclusive benefícios, e igualdade de tratamento relativa a um trabalho de igual valor, assim como igualdade de tratamento com respeito à avaliação da qualidade do trabalho;\ne) O direito à seguridade social, em particular em casos de aposentadoria, desemprego, doença, invalidez, velhice ou outra incapacidade para trabalhar, bem como o direito de férias pagas;\nf) O direito à proteção da saúde e à segurança nas condições de trabalho, inclusive a salvaguarda da função de reprodução.\n2. A fim de impedir a discriminação contra a mulher por razões de casamento ou maternidade e assegurar a efetividade de seu direito a trabalhar, os Estados-Partes tomarão as medidas adequadas para:\na) Proibir, sob sanções, a demissão por motivo de gravidez ou licença de maternidade e a discriminação nas demissões motivadas pelo estado civil;\nb) Implantar a licença de maternidade, com salário pago ou benefícios sociais comparáveis, sem perda do emprego anterior, antigüidade ou benefícios sociais;\nc) Estimular o fornecimento de serviços sociais de apoio necessários para permitir que os pais combinem as obrigações para com a família com as responsabilidades do trabalho e a participação na vida pública, especialmente mediante fomento da criação e desenvolvimento de uma rede de serviços destinados ao cuidado das crianças;"
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "d) Dar proteção especial às mulheres durante a gravidez nos tipos de trabalho comprovadamente prejudiciais para elas.\n3. A legislação protetora relacionada com as questões compreendidas neste artigo será examinada periodicamente à luz dos conhecimentos científicos e tecnológicos e será revista, derrogada ou ampliada conforme as necessidades. - Grifos nossos Na mesma linha, a Convenção Interamericana para Prevenir, Punir e Erradicar a Violência contra a Mulher (Convenção de Belém do Pará), internalizada por meio do Decreto 1.973, de 1º.8.1996, ao prever uma ampla gama de direitos com simultânea imposição de deveres ao Estado, também confere às mulheres direito de igualdade no acesso a cargos públicos, nos seguintes termos:\nArtigo 4 Toda mulher tem direito ao reconhecimento, desfrute, exercício e proteção de todos os direitos humanos e liberdades consagrados em todos os instrumentos regionais e internacionais relativos aos direitos humanos. Estes direitos abrangem, entre outros:\n(…)\nj) direito a ter igualdade de acesso às funções públicas de seu país e a participar nos assuntos públicos, inclusive na tomada de decisões. - Grifos nossos Como se vê, em consonância com a Constituição Federal de 1988, as aludidas convenções impõem ao Estado brasileiro os deveres de tomar"
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "todas as medidas direcionadas a eliminar a discriminação contra a mulher na vida pública e laboral e de garantir-lhes o direito a ocupar todos os cargos públicos e a exercer todas as funções públicas, em igualdade de condições com as demais pessoas.\nEsse é o patamar de proteção da mulher que não pode retroceder.\nEm cumprimento a esses deveres normativos, incumbe, assim, aos poderes públicos da União, dos estados, do Distrito Federal e dos municípios, quando vierem a realizar seleções e concursos públicos, garantir às mulheres igualdade no acesso aos cargos, funções ou empregos submetidos aos correspondentes certames, sem nenhum preconceito, discriminação ou tratamento prejudicial.\nMuito embora o art. 39, § 3º, da Constituição Federal, in fine, possibilite que a lei estabeleça requisitos diferenciados de admissão no serviço público quando a natureza do cargo o exigir, tal norma constitucional jamais pode ser utilizada como pretexto para que mulheres sejam abstratamente proibidas, restringidas ou limitadas no ingresso a cargos, funções ou empregos públicos.\nAlém de se desconhecer qualquer cargo, função ou emprego público disponível no Brasil que a priori seja inviável de ser exercido por"
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "mulheres, tal dispositivo constitucional há de ser utilizado como fundamento para que os poderes públicos criem requisitos mais inclusivos e benéficos à participação das candidatas do sexo feminino nessas mesmas seleções públicas.\nÉ o que ocorre, por exemplo, quando da realização de testes e exames físicos em concursos públicos para carreiras militares, cujas exigências para aprovação de mulheres, na prática, costumam (e importam) ser menos gravosas em comparação com aquelas impostas aos candidatos do sexo masculino.\nA conclusão similar chegou o Supremo Tribunal Federal no julgamento do RE 1.058.333 (Rel. Min. Luiz Fux, DJe de 27.7.2020 - Tema 973 da sistemática da repercussão geral), em que, ao analisar a situação das mulheres grávidas submetidas a exames de aptidão física em concursos públicos, fixou a tese de que \"é constitucional a remarcação do teste de aptidão física de candidata aprovada nas provas escritas que esteja grávida à época de sua realização, independentemente da previsão expressa em edital do concurso público\".\nÉ dizer, a parte final do art. 39, § 3º, da Constituição Federal há de ser interpretada como norma direcionada a incluir, a inserir e a facilitar,"
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "jamais a excluir, a proibir ou a limitar, a participação das mulheres nos concursos voltados ao provimento de cargos, funções e empregos públicos.\nEsse entendimento é reforçado pelo art. 7º, XX, da Constituição Federal, que prescreve o direito social à \"proteção do mercado de trabalho da mulher, mediante incentivos específicos\". Esse dispositivo, também aplicável ao serviço público por força do mesmo art. 39, § 3º, da Carta da República, exige que o acesso pelas mulheres a cargos e empregos públicos e privados seja protegido, incentivado e estimulado, jamais limitado, obstado ou impedido aprioristicamente.\nAssim, por inexistir respaldo constitucional para oferecimento de tratamento prejudicial e contrário às mulheres na concretização do direito de acesso a cargos públicos, havendo, pelo contrário, dever expresso imposto ao Estado de inclusão, de inserção e de concessão de tratamento mais benéfico às candidatas do sexo feminino em concursos públicos, não podem os poderes públicos criar restrições, proibições ou impedimentos para concretização daquele direito fundamental, sob pena de, o fazendo, cometerem manifesta afronta à Constituição Federal.\nÉ o que faz a norma impugnada nesta ação direta, como se demonstrará a seguir."
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "III. INCONSTITUCIONALIDADE DA NORMA IMPUGNADA\nAo dispor sobre a reestruturação dos Corpos e Quadros de Oficiais e de Praças da Marinha, a Lei 9.519, de 26.11.1997, estabelecia, no\nart. 9º (redação original), que, embora oficiais de ambos os sexos da corporação militar fossem iguais em direitos e obrigações (caput), os cargos do Corpo da Armada e do Corpo de Fuzileiros Navais somente eram aptos a serem ocupados por oficiais do sexo masculino (§ 1º, I), enquanto os cargos do Corpo de Intendentes e do Corpo de Saúde seriam alvo de idênticos percentuais de ocupação por homens e mulheres, cujo exercício fosse comprovadamente indispensável ao preparo e à aplicação do Poder Naval (§ 1º, II) A norma preceituava, ainda na sua redação original, que a execução do disposto no § 1º, II, do art. 9º dependia do encaminhamento de proposta motivada do Ministro da Marinha direcionada ao Presidente da República e da subsequente fixação, por meio de decreto, dos percentuais em referência.\nAssim, por mais que tenha viabilizado o ingresso de mulheres em cargos da Marinha do Brasil, os quais, pela legislação anterior, eram"
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "ocupados exclusivamente por homens,2 a redação original do dispositivo ainda assim impedia totalmente o acesso delas aos Corpos da Armada e de Fuzileiros Navais, assim como condicionava a entrada de mulheres nos corpos de Intendentes e de Saúde em idênticos percentuais de ocupação em comparação com homens caso a corporação considerasse indispensável e houvesse a apresentação de proposta do Ministro da Marinha e a fixação de percentuais por decreto do Presidente da República.\nNa redação atual e ora impugnada, dada pela Lei 13.541, de\n18.12.2017, o art. 9º da Lei 9.519/1997 passou a admitir que os Corpos e Quadros da Marinha do Brasil sejam integrados por oficiais de ambos os sexos, estabelecendo competir ao Comandante da Marinha fixar em quais escolas de formação e cursos, e em quais capacitações e atividades, serão empregados oficiais dos sexos masculino e feminino (§ 1º, I).\nAlém disso, o dispositivo estatui que ato do Poder Executivo definirá os percentuais dos cargos dos diversos Corpos e Quadros da Marinha do Brasil para os sexos masculino e feminino (§ 1º, II).\n2 A esse respeito, vide a Lei 6.807/1980, que criou o Corpo Auxiliar Feminino da Reserva da Marinha - CAFRM, e a Lei 7.622/1987, que reorganizou o CAFRM, ambas atualmente revogadas, que, embora também tenham ampliado o acesso de mulheres a postos da Marinha do Brasil, ainda assim estabeleceram maiores restrições ao acesso delas a corpos e quadros da corporação, em amplo benefício de homens."
+    },
+    {
+      "page": 12,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "A redação atual da norma impugnada, embora tenha admitido uma ampliação ainda maior do ingresso de candidatas do sexo feminino na Marinha do Brasil em comparação com a redação original - tendo, por exemplo, permitido o ingresso de oficiais mulheres nos Corpos da Armada e de Fuzileiros Navais, que antes eram restritos a oficiais do sexo masculino -, ainda continua a dar respaldo para que mulheres sejam excluídas de grande parte dos postos e das ocupações respectivas, embasando discriminação em razão do sexo incompatível com a Constituição Federal.\nIsso porque, ao estabelecer que atos unilaterais do Poder Executivo definirão as escolas de formação, os cursos, as capacitações, as atividades e os percentuais dos cargos dos quadros e dos corpos da Marinha do Brasil a serem destinados para homens e mulheres, o dispositivo questionado dá fundamento legal para que candidatas do sexo feminino não tenham acesso à totalidade, ou até mesmo a qualquer parcela, das vagas previstas em editais dos concursos públicos correspondentes.\nA norma acaba por respaldar que atos administrativos limitem e restrinjam a participação de mulheres a percentuais ínfimos do montante total das vagas oferecidas em concursos públicos para ingresso na Marinha"
+    },
+    {
+      "page": 13,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "do Brasil, reservando a esmagadora maioria das correspondentes ocupações para candidatos homens.\nNesse sentido, registre-se que, mesmo após a publicação da norma impugnada, mulheres continuaram a ser impossibilitadas de ingressar nos concursos públicos para admissão no curso de formação de soldados fuzileiros navais. Todas as vagas desses certames continuaram a ser destinadas exclusivamente para homens.3 Pela primeira vez,4 no concurso público de admissão às turmas I e II/2024 do Curso de Formação de Soldados Fuzileiros Navais, publicado em 19.12.2022, mulheres puderam se inscrever no aludido certame e, mesmo assim, em percentual ínfimo das vagas ofertadas: do total 1680 oferecidas, só puderam se candidatar a 240, o que representa a reserva para elas de apenas 14,28% do montante de vagas, e de 85,71% para homens.5 3 Conforme consta dos editais dos concursos públicos para admissão no Curso de Formação de Soldados Fuzileiros Navais publicados nos anos de 2018, 2019, 2020, 2021 e 2023, em anexo, que invariavelmente exigiram, como requisito para inscrição nos certames, \"ser brasileiro, do sexo masculino\".\n4 Consoante admitido pela própria Marinha do Brasil em seu sítio eletrônico.\nDisponível em <https://www.marinha.mil.br/cpesfn/noticias/marinha-lanca-edital-de-soldado-fuzileiro-naval-com-vagas-para-mulheres>. Acesso em 19.10.2023.\nEdital do referido certame anexo à inicial desta ação direta de inconstitucionalidade."
+    },
+    {
+      "page": 14,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Já no concurso público para admissão à Escola Naval em 2023, inaugurado pelo edital de 24.2.2023, das 69 vagas destinadas à formação de oficiais para os Corpos da Armada, de Fuzileiros Navais e de Intendentes da Marinha, apenas 12 foram reservadas para mulheres, o que representa a destinação de apenas 17,39% das vagas totais para elas e de 82,60% para homens.6 Todos os concursos públicos para ingresso no Quadro Técnico de Praças da Armada do Corpo de Praças da Armada que se sucederam à edição da norma impugnada, até o presente momento, impediram o ingresso de mulheres no referido quadro da corporação, destinando 100% das vagas ofertadas para candidatos do sexo masculino, como previsto nos editais correspondentes.7 Os concursos públicos de admissão às Escolas de Aprendizes-Marinheiros da Marinha, realizados nos anos de 2018, 2019, 2020 e 2021, subsequentes à publicação da norma impugnada, proibiram integralmente a candidatura de mulheres às vagas ofertadas, direcionando-as apenas a homens.8 6 Edital do aludido concurso anexo à inicial desta ação direta de inconstitucionalidade.\n7 Editais dos referidos certames anexos à inicial desta ação direta de inconstitucionalidade.\n8 Editais dos mencionados concursos anexos à inicial desta ação direta de inconstitucionalidade."
+    },
+    {
+      "page": 15,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Só nos certames seguintes, de 2022 e de 2023, foram reservadas a candidatas do sexo feminino vagas para admissão nas Escolas de Aprendizes-Marinheiros, ainda assim em percentuais ínfimos: no concurso de 2022, das 686 vagas disponibilizadas, apenas 48 foram destinadas a mulheres, o que representa percentual de quase 7% para elas, e de 93% para homens; já no certame de 2023, das 671 vagas oferecidas, 48 foram consideradas acessíveis por candidatas do sexo feminino, o que indica percentual de 7,15% para mulheres e de 92,84% para homens.9 Por fim, após a edição da norma impugnada, mulheres continuaram a ser impedidas de se inscreverem nos concursos públicos para admissão ao Colégio Naval dos anos de 2018, 2019, 2020 e 2021, já que todas as vagas foram destinadas a candidatos do sexo masculino.10 Unicamente nos certames mais recentes, de 2022 e de 2023, foram direcionadas a mulheres vagas para o Colégio Naval, porém também em percentuais minúsculos: em ambos os certames foram direcionadas a elas apenas 12 vagas, do total de 131 ofertado em 2023 e de 129 oferecido em 2022, o que representa os percentuais ínfimos, respectivamente, de 9,16% e 9 Editais dos citados certames anexos à inicial desta ação direta de inconstitucionalidade.\n10 Editais dos aludidos concursos anexos à inicial desta ação direta de inconstitucionalidade."
+    },
+    {
+      "page": 16,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "de 9,30% para candidatas do sexo feminino e de 90,83% e de 90,69% para homens.11 Dessa forma, por dar fundamento legal para que mulheres tenham participação substancialmente reduzida - ou, até mesmo, completamente suprimida - nas vagas oferecidas em concursos públicos para ingresso da Marinha do Brasil, em benefício injustificado de candidatos do sexo masculino, a norma impugnada acaba por respaldar a concessão de tratamento privilegiado a homens e, concomitantemente, prejuízo, preconceito e discriminação à população feminina, em contrariedade ao direito fundamental de acesso a cargos públicos, aos princípios da isonomia e da igualdade, ao direito à não discriminação e ao direito social à proteção do mercado de trabalho da mulher, estatuídos nos arts. 3º, IV, 5º, caput e I, 7º, XX e XXX, 37, I, e 39, § 3º, da Constituição Federal.\nNão se está a defender que o percentual de vagas a ser reservado para as mulheres em concursos públicos para ingresso na Marinha do Brasil deva ser majorado para patamares de 20, 30, 40, ou 50%, ou outro que seja.\n11 Editais das seleções em referência anexos à inicial desta ação direta de inconstitucionalidade."
+    },
+    {
+      "page": 17,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "O que se pretende nesta ação direta é que o direito de acesso às vagas da aludida corporação militar seja garantido isonomicamente para homens e mulheres, em igualdade de condições, sem qualquer preconceito e discriminação, de modo que seja viabilizado que até 100% de todas as vagas oferecidas nos concursos para ingresso na referida Força sejam acessíveis às mulheres, caso sejam aprovadas e classificadas nos concursos públicos correspondentes, concorrendo em igualdade de condições com os homens.\nÉ o que ocorre com a maioria esmagadora dos concursos públicos realizados no país, em que são disponibilizadas vagas passíveis de serem ocupadas por todas as pessoas, independentemente do sexo que tiver o candidato ou a candidata.\nA título exemplificativo, inexiste concurso público de juiz de Direito com algumas vagas reservadas especificamente para homens e outras vagas destacadas apenas para mulheres. Da mesma forma ocorre nos certames para membros e servidores do Ministério Público, do Poder Judiciário, da Defensoria Pública e dos mais variados órgãos públicos brasileiros. Todos os cargos públicos em referência são acessíveis indistintamente por homens e mulheres."
+    },
+    {
+      "page": 18,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Até mesmo a Marinha do Brasil abre vagas passíveis de serem ocupadas invariavelmente por homens e mulheres nos concursos públicos para admissão nos Quadros de Capelães Navais, Técnico e Complementar e dos Corpos Auxiliar de Praças, de Engenheiro e da Saúde.12 Não há motivos para ser diferente em nenhum outro Quadro ou Corpo da Marinha do Brasil.\nA única hipótese constitucionalmente válida de concessão de tratamento diferenciado em concursos públicos dá-se na implementação de políticas de ação afirmativa direcionadas a facilitar e a promover a ampliação do ingresso de parcela histórica ou socialmente discriminada, como já ocorre na realização de testes físicos em certames militares - em que são adotados critérios menos gravosos para as candidatas do sexo feminino em comparação com os do sexo masculino -, bem como na concessão de tratamento favorecido às pessoas com deficiência (reserva de vagas previsto no art. 37, VIII, da CF), à população negra (reserva de vagas constante da Lei 12.990/2014).\nDe todo modo, não há fundamento razoável e constitucional apto a justificar a restrição da participação feminina em corporações militares.\n12 Editais dos concursos públicos acima mencionados disponíveis em <https://www.marinha.mil.br/sspm/?q=edital/edital_princ>. Acesso em 20.10.2023."
+    },
+    {
+      "page": 19,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Se o legislador e a corporação consideram que as mulheres são aptas a exercer os referidos cargos, como admitem por intermédio da própria norma impugnada, não é plausível estabelecer limites ou restrições ao exercício desse direito fundamental, sob pena da configuração de manifesto tratamento discriminatório e preconceituoso, tal qual ocorre na hipótese em exame.\nNão bastasse isso, ao admitir que atos unilaterais do Poder Executivo fixem as escolas de formação, os cursos, as capacitações, as atividades e os percentuais dos cargos da Marinha do Brasil que serão destinados para homens e mulheres, a norma impugnada afronta de forma patente o art. 142, § 3º, X, da Constituição Federal, que reserva à lei em sentido estrito a definição dos requisitos e condições necessários para ingresso nas Forças Armadas.\nUma vez que cabe apenas à lei formal estabelecer os requisitos e condições necessários para exercício do direito fundamental de acesso a cargos públicos nas Forças Armadas, o dispositivo em exame, ao delegar a atos administrativos a fixação das escolas de formação, dos cursos, das capacitações, das atividades e dos percentuais dos cargos da Marinha que serão destinados para homens e mulheres, acaba por contrariar a reserva legal prevista na referida norma constitucional."
+    },
+    {
+      "page": 20,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Feitas essas considerações, a fim de sanar as acima demonstradas ofensas ao texto constitucional, incumbe a essa Corte Suprema (i) declarar a inconstitucionalidade, com redução do texto, do art. 9º, § 1º, I (expressão \"e compete ao Comandante da Marinha fixar em quais escolas de formação e cursos, além de definir as capacitações e as atividades, em que serão empregados Oficiais dos sexos feminino e masculino\") e II, da Lei 9.519/1997, com redação dada pela Lei 13.541/2017; (ii) declarar a inconstitucionalidade da interpretação do art. 9º da Lei 9.519/1997, com redação dada pela Lei\n13.541/2017, que possibilite a reserva de qualquer percentual de vagas para ingresso exclusivo por candidatos do sexo masculino nas escolas de formação, nos cursos, nas capacitações, nas atividades e nos cargos de todos os Corpos e Quadros da Marinha do Brasil; e (iii) declarar a inconstitucionalidade da interpretação do art. 9º da Lei 9.519/1997, com redação dada pela Lei 13.541/2017, que admita a restrição, ainda que parcial, à participação de mulheres nos concursos públicos e nas seleções para as escolas de formação, os cursos, as capacitações, as atividades e os cargos de todos os Corpos e Quadros da Marinha do Brasil, sendo-lhes assegurado o direito de concorrer à totalidade das vagas oferecidas nos certames, livremente e em igualdade de condições com candidatos homens."
+    },
+    {
+      "page": 21,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "IV. PEDIDOS CAUTELARES\nEstão presentes os pressupostos para a concessão de medida cautelar. A plausibilidade jurídica do pedido (fumus boni juris) está suficientemente demonstrada pelos argumentos deduzidos nesta petição inicial, que encontram amparo na jurisprudência do Supremo Tribunal Federal.\nPerigo na demora processual (periculum in mora) decorre da circunstância de que a disciplina atacada subverte o modelo constitucional de proteção ao direito de acesso a cargos públicos, viabilizando a concessão de reiterado e repetido tratamento preconceituoso e discriminatório a candidatas do sexo feminino em concursos públicos para ingresso na Marinha do Brasil.\nO requerimento de urgência dá-se em vista da possibilidade real de prejuízos a pessoas por uma norma que, a priori, direciona-se exatamente a proteger e concretizar seus direitos. Se o objetivo é a proteção das mulheres, essa tutela há de se proceder da forma mais ampla e rápida em benefício a todas elas, sem qualquer discriminação ou preconceito.\nÉ necessário, portanto, que a disciplina inconstitucional estatuída pela norma impugnada seja o mais rapidamente possível suspensa em sua eficácia, em juízo liminar, na forma do art. 10 da Lei 9.868/1999."
+    },
+    {
+      "page": 22,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Por conseguinte, além de sinal de bom direito, há premência em que essa Corte conceda medida cautelar, a fim de (i) suspender os efeitos do\nart. 9º, § 1º, I (expressão \"e compete ao Comandante da Marinha fixar em quais escolas de formação e cursos, além de definir as capacitações e as atividades, em que serão empregados Oficiais dos sexos feminino e masculino\") e II, da Lei\n9.519/1997, com redação dada pela Lei 13.541/2017; (ii) suspender os efeitos da interpretação do art. 9º da Lei 9.519/1997, com redação dada pela Lei\n13.541/2017, que possibilite a reserva de qualquer percentual de vagas para ingresso exclusivo por candidatos do sexo masculino nas escolas de formação, nos cursos, nas capacitações, nas atividades e nos cargos de todos os Corpos e Quadros da Marinha do Brasil; e (iii) suspender os efeitos da interpretação do art. 9º da Lei 9.519/1997, com redação dada pela Lei 13.541/2017, que admita a restrição, ainda que parcial, à participação de mulheres nos concursos públicos e nas seleções para as escolas de formação, os cursos, as capacitações, as atividades e os cargos de todos os Corpos e Quadros da Marinha do Brasil, sendo-lhes assegurado o direito de concorrer à totalidade das vagas oferecidas nos certames, livremente e em igualdade de condições com candidatos homens."
+    },
+    {
+      "page": 23,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "V. PEDIDOS E REQUERIMENTOS\nEm face do exposto, requer a PROCURADORA-GERAL DA REPÚBLICA que esse Supremo Tribunal Federal conceda medida cautelar para os fins expostos acima e nos termos do art. 10, § 3º, da Lei 9.868/1999.\nEm seguida, pleiteia que se colham informações do Presidente da República e do Congresso Nacional e que se ouça a Advocacia-Geral da União, nos termos do art. 103, § 3º, da Constituição Federal. Superadas essas fases, pede prazo para a manifestação da Procuradoria-Geral da República.\nAo final, postula que se julgue procedente o pedido, para (i) declarar a inconstitucionalidade, com redução do texto, do art. 9º, § 1º, I (expressão \"e compete ao Comandante da Marinha fixar em quais escolas de formação e cursos, além de definir as capacitações e as atividades, em que serão empregados Oficiais dos sexos feminino e masculino\") e II, da Lei 9.519/1997, com redação dada pela Lei 13.541/2017; (ii) declarar a inconstitucionalidade da interpretação do art. 9º da Lei 9.519/1997, com redação dada pela Lei\n13.541/2017, que possibilite a reserva de qualquer percentual de vagas para ingresso exclusivo por candidatos do sexo masculino nas escolas de formação, nos cursos, nas capacitações, nas atividades e nos cargos de todos os Corpos e Quadros da Marinha do Brasil; e (iii) declarar a"
+    },
+    {
+      "page": 24,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "inconstitucionalidade da interpretação do art. 9º da Lei 9.519/1997, com redação dada pela Lei 13.541/2017, que admita a restrição, ainda que parcial, à participação de mulheres nos concursos públicos e nas seleções para as escolas de formação, os cursos, as capacitações, as atividades e os cargos de todos os Corpos e Quadros da Marinha do Brasil, sendo-lhes assegurado o direito de concorrer à totalidade das vagas oferecidas nos certames, livremente e em igualdade de condições com candidatos homens.\nBrasília, data da assinatura digital.\nElizeta Maria de Paiva Ramos Procuradora-Geral da República Assinado digitalmente VF"
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "id": "ADI_6439",
+  "arquivo_pdf": "ADI_6439.pdf",
+  "sha256": "25771c3678b0e05f7aaa8543485bc6d2ac0fbaa0ad633150b904209bf8320a06",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:29:33",
+  "resumo": {
+    "paginas": 42,
+    "paginas_digital": 42,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 65553,
+    "chars_clean": 61279,
+    "reducao_pct": 6.5,
+    "linhas_removidas": 133,
+    "limpeza_detalhe": {
+      "cabecalho_rodape": 83,
+      "carimbo": 1,
+      "hifen_mantido": 5,
+      "hifenizacao_unida": 0,
+      "numero_pagina": 49
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "MINISTÉRIO PÚBLICO FEDERAL PROCURADORIA-GERAL DA REPÚBLICA EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL\nPETIÇÃO INICIAL AJCONST Nº 156267/2020 O PROCURADOR-GERAL DA REPÚBLICA, com fundamento nos arts. 102, I, \"a\" e \"p\", 103, VI, e 129, IV, da Constituição Federal; no art.\n46, parágrafo único, I, da Lei Complementar 75, de 20.5.1993 (Lei Orgânica do Ministério Público da União); e na Lei 9.868, de 10.11.1999, vem propor\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE COM PEDIDO DE MEDIDA CAUTELAR\ncontra os arts. 127, caput e parágrafo único, e 128, V, VI, VII, VIII, IX, X, XI, XIII e § 2º, todos da Lei Complementar 234, de 18.4.2002 (Código de Organização Judiciária Estadual), do Estado do Espírito Santo, com redação"
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "dada pelas Leis Complementares estaduais 249, de 4.6.2002, 590, de 28.4.2011, e 788, de 19.8.2014, bem como nas redações anteriormente vigentes. As normas disciplinam vencimentos e vantagens devidos aos membros da magistratura daquele Estado.1 2\n1. OBJETO DA AÇÃO\nEste é o teor dos dispositivos contra os quais se dirige a ação, com destaque para as disposições questionadas:\nLei Complementar 234/2002, do Espírito Santo\nArt. 127. Pelo efetivo exercício, além dos subsídios, perceberão mensalmente, o Presidente 30% (trinta por cento), o Vice-Presidente 25% (vinte e cinco por cento), o Corregedor-Geral da Justiça 20% (vinte por cento), o Vice-Corregedor 20% (vinte por cento), e os Presidentes de Câmaras Isoladas, o Ouvidor Judiciário, os Supervisores e o Diretor da Escola 15% (quinze por cento), respectivamente, a título de gratificação, vedada a acumulação, mas permitida, no entanto, a opção. (Redação dada pela Lei Complementar nº 788, de 19 de agosto de 2014).\nParágrafo único. Os membros do Conselho Superior da Magistratura receberão uma gratificação, no percentual de 1/30 (um trinta avos), dos vencimentos, por sessão a que comparecerem.\n1 Esta ação direta de inconstitucionalidade foi elaborada com a contribuição do Procurador da República André Borges Uliano, integrante do Grupo de Apoio da Assessoria Jurídica Constitucional do Gabinete do Procurador-Geral da República.\nAcompanham a petição inicial a cópia do ato normativo impugnado (art. 3º da Lei 9.868/1999) e de peças relevantes do Procedimento Administrativo 1.00.000.017171/2016-98."
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Art. 128. Aos Magistrados da ativa ficam asseguradas: (Redação dada pela Lei Complementar nº 788, de 19 de agosto de 2014) I - salário-família;\nII - diárias;\nIII - indenização de transporte na hipótese descrita no artigo 4º, a ser fixada por Resolução do Tribunal de Justiça, desde que o magistrado com atuação em mais de uma Comarca não utilize veículo oficial para deslocar-se ao local de trabalho, observada a capacidade orçamentária;\n(Redação dada pela Lei Complementar nº 788, de 19 de agosto de 2014). (Vide Lei Complementar nº 788, de 19 de agosto de 2014).\nIV - gratificação pela prestação de serviço à Justiça Eleitoral;\nV - gratificação adicional de 5% (cinco por cento) por qüinqüênio de serviço.\nVI - gratificação de 10% (dez por cento) sobre seus vencimentos, quando membros do Colégio Recursal;\nVII - gratificação de 10% (dez por cento) para o Juiz Diretor do Foro, somente para os casos em que a função seja exercida cumulativamente com a atividade jurisdicional, calculada sobre seus subsídios; (Redação dada pela Lei Complementar nº 788, de 19 de agosto de 2014);\nVIII - gratificação por prestação de serviços extraordinários, na forma do art. 7º, inciso XVI, da Constituição Federal;\nIX - ajuda de custo para despesas relativas ao exercício funcional, paga em cada exercício, equivalente a um subsídio integral;\nX - é extensivo aos Magistrados o benefício previsto nos arts.\n2º e 8º da Lei Complementar nº 238/2002, devido na forma dos arts. 7º, inciso XVII, e 39, § 3º, da Constituição Federal.\n(Redação dada pela Lei Complementar nº 249, de 4 de junho de 2002);\nXI - auxílio-saúde, fixado por Resolução do Conselho da Magistratura. (Redação dada pela Lei Complementar nº 249, de 4 de junho de 2002);"
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "XII - ajuda de custo, de caráter indenizatório, no valor de um subsídio integral, quando nomeados ou promovidos, para atender às despesas de mudança e transporte, nos termos do art. 65 da Lei Orgânica da Magistratura Nacional;\nXIII - gratificação de 10% (dez por cento) do subsídio mensal, quando requisitados ou designados para a prestação de serviço permanente no Gabinete da Presidência, da Vice-Presidência, no auxílio da Corregedoria-Geral de Justiça, neste caso, limitado a um magistrado, bem como nas Coordenadorias criadas no âmbito do Tribunal de Justiça;\n(Redação dada pela Lei Complementar nº 788, de 19 de agosto de 2014).\nXIV - a cada quinquênio ininterrupto de serviço público, o magistrado fará jus a 3 (três) meses de férias-prêmio; (Redação dada pela Lei Complementar nº 788, de 19 de agosto de 2014)\n§ 1º A gratificação de representação integra os vencimentos para todos os efeitos legais.\n§ 2º A gratificação por prestação de serviços extraordinários, prevista no inciso VIII, em ambas as instâncias, corresponderá a 1/30 (um trinta avos) dos vencimentos, por sessão ou plantão judiciário, limitado, no Tribunal, ao máximo de 05 (cinco) sessões mensais.\nComo se demonstrará, as normas sob testilha violam os arts. 39,\n§ 4º (regime remuneratório por subsídio fixado em parcela única), e 93 da Constituição Federal (competência privativa da União para dispor, por lei complementar de iniciativa do Supremo Tribunal Federal, sobre o regime jurídico remuneratório da magistratura nacional)."
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "2. DISTRIBUIÇÃO POR DEPENDÊNCIA\nO artigo 77-B do Regimento Interno do Supremo Tribunal Federal estabelece regra de distribuição por prevenção de processos \"quando haja coincidência total ou parcial de objetos\". Por sua vez, o art. 55 do Novo Código de Processo Civil (Lei 13.105/2015) determina a reunião de ações para julgamento conjunto, por conexão, \"quando lhes for comum o pedido ou a causa de pedir\".\nOs dispositivos ora impugnados da Lei Complementar capixaba 234/2002 encontram-se abrangidos no pedido da ADI 5.750/ES, de autoria da Confederação dos Servidores Públicos do Brasil (CSPB), sob a relatoria da Ministra Rosa Weber.\nA propositura desta ADI, todavia, faz-se necessária uma vez que se verificam óbices ao conhecimento daquela ação - entre os quais se inclui a ilegitimidade ativa da CSPB, por falta de pertinência temática -, conforme apontou o parecer exarado pela então Procuradora-Geral da República Raquel Dodge, em 15.5.2018 (peça 51 da ADI 5.750/ES).\nAssim, o ajuizamento da presente demanda visa a garantir que o Supremo Tribunal Federal avance ao mérito da controvérsia e avalie a compatibilidade das normas estaduais com a Constituição Federal."
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Requer, portanto, a distribuição por prevenção desta ação direta à Ministra Rosa Weber.\n3. IMPUGNAÇÃO DAS REDAÇÕES ANTERIORES DA LEI COMPLEMENTAR 234/2002\nO chamado efeito repristinatório indesejado ocorre, em geral, nos casos em que há uma declaração de inconstitucionalidade total de lei ou ato normativo, de tal modo que a nulidade acaba por alcançar o dispositivo que contém norma revogadora de diploma anterior, este dotado do mesmo vício de inconstitucionalidade da norma originalmente questionada.\nNeste caso, algumas das disposições impugnadas constantes dos arts. 127 e 128 da Lei Complementar 234/2002 do Espírito Santo resultaram de alterações promovidas por força das Leis Complementares 249/2002, 590/2011 e 788/2014. Confira-se os textos em questão:\nLC 234/2002 (redação original)\nArt. 127. O Presidente, o Vice-Presidente, o Corregedor-Geral da Justiça, o Vice-Corregedor, bem como os Presidentes de Câmaras Isoladas e o Ouvidor Judiciário, além dos respectivos vencimentos, perceberão, mensalmente, 30% (trinta por cento), 25% (vinte e cinco por cento), 20% (vinte por cento), 20% (vinte por cento),15% (quinze por cento) e 15% (quinze por cento) respectivamente, a título de gratificação que se incorporará aos vencimentos, vedada a acumulação, mas permitida, no entanto, a opção."
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Parágrafo único. Os membros do Conselho Superior da Magistratura receberão uma gratificação, no percentual de 1/30 (um trinta avos), dos vencimentos, por sessão a que comparecerem.\nArt. 128. Aos Magistrados ficam asseguradas:\nI - salário-família;\nII - diárias;\nIII - representação;\nIV - gratificação pela prestação de serviço à Justiça Eleitoral;\nV - gratificação adicional de 5% (cinco por cento) por qüinqüênio de serviço.\nVI - gratificação de 10% (dez por cento) sobre seus vencimentos, quando membros do Colégio Recursal;\nVII - gratificação de 5% (cinco por cento) ao Juiz Diretor do Fórum sobre seus vencimentos;\nVIII - gratificação por prestação de serviços extraordinários, na forma do art. 7º, inciso XVI, da Constituição Federal;\nIX - ajuda de custo para despesas relativas ao exercício funcional, paga em cada exercício, equivalente a um subsídio integral;\nX - 1/3 (um terço) sobre os vencimentos alusivos às férias;\nXI - auxílio-saúde;\nXII - ajuda de custo, de caráter indenizatório, no valor de um subsídio integral, quando nomeados ou promovidos, para atender às despesas de mudança e transporte, nos termos do art. 65 da Lei Orgânica da Magistratura Nacional;\nXIII - gratificação de 10% (dez por cento) quando requisitados para a prestação de serviço permanente no Gabinete da Presidência do Tribunal de Justiça.\n§ 1º A gratificação de representação integra os vencimentos para todos os efeitos legais.\n§ 2º A gratificação por prestação de serviços extraordinários, prevista no inciso VIII, em ambas as instâncias, corresponderá a 1/30 (um trinta avos) dos vencimentos, por sessão ou plantão judiciário, limitado, no Tribunal, ao máximo de 05 (cinco) sessões mensais."
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "LC 249/2002\nArt. 6º O inciso X do art. 128, da Lei Complementar nº 234/02 passa a vigorar com a seguinte redação:\n\"Art. 128. (…)\nX - é extensivo aos Magistrados o benefício previsto nos arts. 2º e 8º da Lei Complementar nº 238/2002, devido na forma dos arts. 7º,\ninciso XVII, e 39, § 3º, da Constituição Federal\".\nArt. 7º O inciso XI do art. 128, da Lei Complementar nº 234/02 passa a vigorar com a seguinte redação:\n\"Art. 128. (…)\nXI - auxílio-saúde, fixado por Resolução do Conselho da Magistratura\".\nArt. 8º Fica acrescido ao art. 128 da Lei Complementar nº 234/02 o\ninciso XIV, com a seguinte redação:\n\"Art. 128. (…)\nXIV - a cada decênio ininterrupto de serviço público, o magistrado fará jus a 6 (seis) meses de férias-prêmio\".\nLC 590/2011\nArt. 1º Fica alterada a Lei Complementar nº 234, de 18.4.2002, Código de Organização Judiciária do Estado do Espírito Santo, com a modificação do inciso VII do artigo 128, que passa a ter a seguinte redação:\n\"Art. 128. (...) (...)\nVII - gratificação de 5% (cinco por cento) para o Juiz Diretor do Fórum de 1ª Entrância, de 7% (sete por cento) para o de 2ª Entrância e de 10% (dez por cento) para os de 3ª Entrância e de Entrância Especial sobre seus subsídios; (...).\""
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "LC 788/2014\nArt. 1º Os dispositivos da Lei Complementar nº 234, de 18.4.2002, passam a vigorar com as seguintes redações:\n(…) \"Art. 127. Pelo efetivo exercício, além dos subsídios, perceberão mensalmente, o Presidente 30% (trinta por cento), o Vice-Presidente 25% (vinte e cinco por cento), o Corregedor-Geral da Justiça 20% (vinte por cento), o Vice-Corregedor 20% (vinte por cento), e os Presidentes de Câmaras Isoladas, o Ouvidor Judiciário, os Supervisores e o Diretor da Escola 15% (quinze por cento), respectivamente, a título de gratificação, vedada a acumulação, mas permitida, no entanto, a opção.\n(…).\" \"Art. 128. Aos Magistrados da ativa ficam asseguradas:\n(...)\nIII - indenização de transporte na hipótese descrita no artigo 4º, a ser fixada por Resolução do Tribunal de Justiça, desde que o magistrado com atuação em mais de uma Comarca não utilize veículo oficial para deslocar-se ao local de trabalho, observada a capacidade orçamentária;\n(…)\nVII - gratificação de 10% (dez por cento) para o Juiz Diretor do Foro, somente para os casos em que a função seja exercida cumulativamente com a atividade jurisdicional, calculada sobre seus subsídios;\n(…)\nXIII - gratificação de 10% (dez por cento) do subsídio mensal, quando requisitados ou designados para a prestação de serviço permanente no Gabinete da Presidência, da Vice-Presidência, no auxílio da Corregedoria Geral de Justiça, neste caso, limitado a um magistrado, bem como nas Coordenadorias criadas no âmbito do Tribunal de Justiça;\nXIV - a cada quinquênio ininterrupto de serviço público, o magistrado fará jus a 3 (três) meses de férias-prêmio. (...).\""
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "O acolhimento do pedido de declaração de inconstitucionalidade de normas atualmente constantes dos arts. 127 e 128 da LC 234/2002, por si, não teria o condão de restaurar a vigência dos anteriores enunciados normativos desses dispositivos legais. Isso porque tal decisão não se voltaria especificamente contra os diplomas meramente alteradores - LCs 249/2002, 590/2011 e 788/2014 -, e sim contra normas já integradas e consolidadas na própria LC 234/2002. Esta permaneceria em vigor, por conseguinte, apenas com a supressão das normas reputadas inconstitucionais pelo STF.\nPortanto, em princípio, não haveria a necessidade de se impugnar sucessivamente toda a cadeia de redações precedentes dos dispositivos sob testilha da LC 234/2002.\nSem embargo, apenas por motivo de cautela e para abreviar discussões processuais secundárias, as normas em questão foram incluídas no pedido ao final deduzido nesta ADI."
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "4. REGIME JURÍDICO UNIFICADO DAS MAGISTRATURAS JUDICIAL E DO MINISTÉRIO PÚBLICO\nMantendo o sistema da ordem constitucional pretérita,3 reservou o\nart. 93 da Constituição de 1988 à lei complementar nacional de iniciativa do Supremo Tribunal Federal a disciplina do Estatuto da Magistratura.\nEm razão do não exercício da atribuição prevista no preceito constitucional, consolidou-se no Supremo Tribunal Federal o entendimento de que, até advento da lei complementar por ele prevista, permanece o Estatuto da Magistratura disciplinado pela Lei Orgânica da Magistratura Nacional - LOMAN (LC 35, de 14.3.1979), que foi recepcionada pela ordem constitucional de 1988 (ADI 2.753/CE, Rel. Min. Carlos Velloso, DJ de 11 abr. 2003; ADI 1.985/PE, Rel. Min. Eros Grau, DJ de 13 maio 2005; ADI\n4.462/TO, Rel. Min. Cármen Lúcia, DJe 196, de 14 set. 2016; ADI 5.142/BA, Rel. Min. Alexandre de Moraes, DJe 195, 9 set. 2019; entre outros).\nAs disposições da LOMAN constituem, por ora, o regime jurídico nacional dos magistrados brasileiros, conforme explica Paulo Gustavo Gonet Branco:\nEsse sistema normativo nacional está amparado em duas razões.\nEm primeiro lugar, o Poder Judiciário é um Poder nacional e, MENDES, Gilmar Ferreira; BRANCO, Paulo Gustavo Gonet, Curso de direito constitucional, 12. ed., São Paulo: Saraiva, 2017. p. 1.083."
+    },
+    {
+      "page": 12,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "assim, seus membros devem estar submetidos a regras uniformes.\nEm segundo lugar, é possível vislumbrar que a alternativa de caracterização das normas da LOMAN como meramente programáticas ou não vinculantes para o legislador e judiciário estaduais abriria uma via perigosa para a concessão ilimitada de privilégios e, ao fim e ao cabo, poderia dar ensejo a um quadro instável de \"troca institucional de boas vontades\" entre os poderes locais, incompatível com a independência assegurada constitucionalmente ao Poder Judiciário.4 Tal compreensão vale para a disciplina das gratificações e parcelas que compõem a remuneração devida aos magistrados. As verbas em questão encontram-se arroladas no art. 65 da LOMAN:\nArt. 65. Além dos vencimentos, poderão ser outorgadas aos magistrados, nos termos da lei, as seguintes vantagens:\nI - ajuda de custo, para despesas de transporte e mudança;\nII - ajuda de custo, para moradia, nas localidades em que não houver residência oficial à disposição do Magistrado. (Redação dada pela Lei 54, de 22.12.1986) III - salário-família;\nIV - diárias;\nV - representação;\nVI - gratificação pela prestação de serviço à Justiça Eleitoral;\nVII - gratificação pela prestação de serviço à Justiça do Trabalho, nas Comarcas onde não forem instituídas Juntas de Conciliação e Julgamento;\nVIII - gratificação adicional de cinco por cento por quinquênio de serviço, até o máximo de sete;\nIX - gratificação de magistério, por aula proferida em curso oficial de preparação para a Magistratura ou em Escola Oficial de MENDES, Gilmar Ferreira; BRANCO, Paulo Gustavo Gonet, obra citada, p. 1084."
+    },
+    {
+      "page": 13,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Aperfeiçoamento de Magistrados (arts. 78, § 1o, e 87, § 1o), exceto quando receba remuneração específica para esta atividade;\nX - gratificação pelo efetivo exercício em Comarca de difícil provimento, assim definida e indicada em lei.\n§ 1º. A verba de representação, salvo quando concedida em razão do exercício de cargo em função temporária, integra os vencimentos para todos os efeitos legais.\n§ 2º. É vedada a concessão de adicionais ou vantagens pecuniárias não previstas na presente Lei, bem como em bases e limites superiores aos nela fixados.\nTrata-se de catálogo insuscetível de ampliação por norma estadual.\nNo ponto, essa Corte tem considerado que direitos e vantagens concedidos a magistrados são enumerados em rol exaustivo (numerus clausus) na LOMAN:\n(…) o rol inscrito no art. 65 da LOMAN reveste-se de taxatividade, encerrando, por isso mesmo, no que se refere às vantagens pecuniárias titularizáveis por quaisquer magistrados, verdadeiro \"numerus clausus\", a significar, desse modo, que não se legitima a percepção, pelos juízes, de qualquer outra vantagem pecuniária que não se ache expressamente relacionada na norma legal em questão.\nPrecedentes.\n(AO 820 AgR, Rel. Min. Celso de Mello, Segunda Turma, DJ de 5 dez. 2003.)\nMANDADO\n\nDE\n\nSEGURANÇA.\n\nRESOLUÇÃO ADMINISTRATIVA\n\n84/1995.\n\nLICENÇA\n\nPRÊMIO.\nMAGISTRADO. 1. Competência do Supremo Tribunal Federal.\nInteresse da magistratura (art. 102, inc. I, alínea n, da Constituição da República). Precedentes. 2. Pretensão de gozo do direito de licença prêmio adquirido na condição de servidora pública federal (art. 87 da"
+    },
+    {
+      "page": 14,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Lei n. 8.112/1990) após a Impetrante passar a integrar a carreira da magistratura trabalhista (Lei Complementar n. 35/1979 - LOMAN). 3. O rol taxativo de direitos e vantagens para a magistratura nacional estatuído no art. 69 da LOMAN não prevê a licença especial ou a licença-prêmio por assiduidade, razão por que não se aplicam aos magistrados as normas que conferem esse mesmo direito aos servidores públicos em geral. Precedentes. 4. Não consta nos autos prova de que lhe teria sido negado o exercício do direito adquirido no primeiro período aquisitivo (14.9.1983 a 13.9.1988). O segundo período aquisitivo (14.9.1988 e 7.1.1992), no qual a Impetrante ainda atuava como servidora pública, não pode ser somado ao tempo de serviço prestado como magistrada, para fins de reconhecimento do direito à licença-prêmio por assiduidade. Não há direito adquirido a regime jurídico. Precedentes. 5. Mandado de segurança denegado.\n(AO 482/PR, Rel. Min. Cármen Lúcia, DJe de 25.5.2011).\nNo mesmo sentido: MS 23.557/DF, Rel. Min. Moreira Alves, DJ de\n4.5.2001; AO 820-AgR/MG, Rel. Min. Celso de Mello, DJ, 5.12.2003; MS 27.935-AgR/MT, Rel. Min. Edson Fachin, Segunda Turma, DJe 213, de 20.9.2017; RE\n1.048.285-AgR/CE, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 234, de\n13.10.2017; e MS 32.979-AgR/AL, Rel. Min. Edson Fachin, Segunda Turma, DJe 153, 1º.8.2018.\nHá de se considerar, nesse rol exaustivo, a simetria institucional e constitucional entre a magistratura judicial e a do Ministério Público. Diante das mudanças impostas pela Emenda Constitucional 45, de 30.12.2004, cresceu em densidade no Direito Positivo a aproximação de regimes entre os"
+    },
+    {
+      "page": 15,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "membros do Judiciário e do Ministério Público, a qual preexistia à emenda, dada a similitude de disciplina jurídica de cada uma das carreiras.\nA EC 45/2004 formalizou esse paralelismo institucional quando alterou a redação do § 4º do art. 129, que passou a dispor: \"Aplica-se ao Ministério Público, no que couber, o disposto no art. 93.\"5 Os relevantes traços contemporâneos da natureza unitária do Ministério Público nacional e da sua correlata natureza de magistratura com o Judiciário conduzem a que, sempre que possível, dê-se azo a que o regramento de direitos, vantagens e prerrogativas funcionais contem com disciplina nacional e simétrica.\nDevido à unidade de regime jurídico da magistratura nacional, importa haver igualmente unidade de remuneração. Aquela não é absoluta, pois se admitem normas legais e infralegais específicas dos entes da Federação e dos tribunais para reger aspectos particulares do regime jurídico dos juízes e do funcionamento dos órgãos judiciários.\nAs grandes linhas desse estatuto, contudo, demandam normatização uniforme, o que não é novidade, pois já decorre da própria edição da Lei Complementar 35/1979, como lei orgânica para toda a magistratura nacional. Isso ficou ainda mais claro com a previsão do art. 93 Ainda antes, o art. 129, § 4º, já dispunha na direção dessa simetria, pois preceituava:\n\"Aplica-se ao Ministério Público, no que couber, o disposto no art. 93, II e VI.\""
+    },
+    {
+      "page": 16,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "da Constituição, que exige lei complementar de iniciativa do Supremo Tribunal Federal para instituir o Estatuto da Magistratura.\nA necessidade de disciplina unitária de determinados aspectos do regime da magistratura judicial foi reconhecida pelo STF no julgamento da ADI 4.638-MC/DF (Rel. Min. Marco Aurélio, DJe 213, 30.10.2014). Na ocasião, o Tribunal manteve a eficácia dos dispositivos mais relevantes da Resolução 135, de 13.7.2011, do Conselho Nacional de Justiça, que tratou da uniformização de normas de procedimento administrativo disciplinar de magistrados.\nNo julgamento da ADI 3.367/DF, aforada contra a EC 45/2004, no que criou o CNJ, foi bem destacado pela Corte o caráter predominantemente unitário do Poder Judiciário. No ponto que ora interessa, registrou a ementa do julgado:\n3. PODER JUDICIÁRIO. Caráter nacional. Regime orgânico unitário. Controle administrativo, financeiro e disciplinar. Órgão interno ou externo. Conselho de Justiça. Criação por Estado membro.\nInadmissibilidade. Falta de competência constitucional. Os Estados membros carecem de competência constitucional para instituir, como órgão interno ou externo do Judiciário, conselho destinado ao controle da atividade administrativa, financeira ou disciplinar da respectiva Justiça. (…).\n(ADI 3.367/DF, Rel. Min. Cezar Peluso, DJ, 17 mar. 2006.)"
+    },
+    {
+      "page": 17,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Por essas características e pelo mandamento expresso dos arts. 93, caput, e 129, § 4º, da CF, consideradas ainda as peculiaridades sociopolíticas do federalismo pátrio, merece haver uniformidade para que exista equilíbrio na disciplina funcional dos membros do Poder Judiciário e do Ministério Público, notadamente no que toca ao regramento de direitos, vantagens e prerrogativas funcionais.\nNão por outro motivo, tem buscado o Conselho Nacional de Justiça uniformizar a política remuneratória dos membros do Poder Judiciário e estabelecer as parcelas suscetíveis de percepção cumulada com o subsídio.\nPara tanto, destaca-se a edição da Resolução 13, de 21.3.2006 (alterada pelas Resoluções 27, de 18.12.2006, e 42, de 11.9.2007).6 De modo similar, o Conselho Nacional do Ministério Público, no exercício de sua competência constitucional para supervisionar a atuação administrativa e financeira do Parquet, editou a Resolução 9, de 21.6.2006, por meio da qual disciplinou a política remuneratória dos membros do MP e relacionou parcelas suscetíveis de percepção cumulada com o subsídio.\nTiveram por escopo referidos atos dos Conselhos Nacionais evitar a dissonância de vantagens que legislaturas de alguns estados têm deferido a membros da magistratura e do MP, diferenciando-os relativamente a agentes Posteriormente, por meio da Resolução 133, de 21.6.2011, ressalvou algumas verbas e vantagens previstas na legislação federal, por reputar também serem suscetíveis de percepção cumulada com o subsídio."
+    },
+    {
+      "page": 18,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "que desempenham funções correlatas e não se veem merecedores do mesmo tratamento legal, em situação que já foi objeto da preocupação do STF no julgamento da medida cautelar na ADI 3.854/DF (Rel. Min. Cezar Peluso, DJ, de 29.6.2007).7 O caráter nacionalmente unificado das magistraturas judicial e do Ministério Público foi reforçado pela EC 45/2004, ao fixar regime nacional de subsídios para os membros dessas carreiras. Antes, em tese havia limites máximos estaduais (\"tetos remuneratórios\") e estabelecimento de remuneração por leis dos respectivos entes. Com a Emenda, estipulou a Constituição o valor dos subsídios para ambas as carreiras, reduziu o âmbito material de validade das leis estaduais e caminhou para a definição de parâmetros na órbita federal, adaptados para menor, conforme o caso, pelos Estados.\nEm julgado recente, com fundamento na competência da lei complementar nacional para fixar direitos e vantagens remuneratórias de magistrados, o STF afirmou a inconstitucionalidade de dispositivos de lei maranhense que previam pagamento de \"verba de representação\" para o 7 Trecho da ementa resume esse aspecto: \"MAGISTRATURA. Remuneração. Limite ou teto remuneratório constitucional. Fixação diferenciada para os membros da magistratura federal e estadual.\nInadmissibilidade. Caráter nacional do Poder Judiciário. Distinção arbitrária. Ofensa à regra constitucional da igualdade ou isonomia. Interpretação conforme dada ao art. 37, inc. XI, e § 12, da CF.\nAparência de inconstitucionalidade do art. 2o da Resolução no 13/2006 e do art. 1º, § único, da Resolução no 14/2006, ambas do Conselho Nacional de Justiça. (…)\". O caráter nacional da magistratura judicial foi aspecto central do voto condutor."
+    },
+    {
+      "page": 19,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Presidente, o Vice-Presidente, o Corregedor-Geral e o decano do Tribunal de Justiça. Eis a ementa do julgado:\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE - ARTIGO\n80, CAPUT, E §§ 1º a 4º, DA LEI COMPLEMENTAR ESTADUAL MARANHENSE Nº 14/91, CUJOS §§ 2º e 3º FORAM ALTERADOS PELO ARTIGO 2º, DA LEI COMPLEMENTAR ESTADUAL Nº 16/92 E CUJO § 4º FOI ACRESCENTADO PELO ARTIGO 2º, DA\nLEI\nCOMPLEMENTAR ESTADUAL Nº 18/93 - INSTITUIÇÃO DE\nVERBA DE REPRESENTAÇÃO PARA O PRESIDENTE (40%), O VICE-PRESIDENTE (30%), O CORREGEDOR-GERAL (30%) E O DECANO (20%) DO TRIBUNAL DE JUSTIÇA - VANTAGEM REMUNERATÓRIA NÃO PREVISTA NA LOMAN (ART. 65) - VIOLAÇÃO AO ART. 93, CAPUT, DA CONSTITUIÇÃO.\n1. A redação do inciso V, do art. 93, da Constituição Federal, que constitui um dos princípios a ser observado pelo caput do referido artigo, foi modificada pela Emenda Constitucional nº 19/98, todavia, a simples leitura dos dispositivos revela que a redação nova mantém o princípio que veda o recebimento pelos desembargadores de vencimentos superiores aos do Ministro do STF e de Tribunais Superiores, assim como proíbe diferenças de mais de 10% (dez por cento) em relação a magistrados imediatamente inferiores. Evidente, pois, que não se trata de alteração substancial.\n2. O teor do artigo 93, V, da CF indica que o parâmetro de controle instituído pela Emenda Constitucional nº 19/98 permanece íntegro, mesmo após a vigência da Emenda Constitucional nº 41/03. Isto porque a EC nº 41/2003 não alterou o parâmetro de controle de constitucionalidade (art. 93, V, da CF), uma vez que abrangeu teor de simples dispositivo (artigo 37, XI, da CF) objeto de remissão feita no artigo 93, V, da Constituição Federal. Ainda que a mudança fosse substancial, não seria o caso de seguir a jurisprudência tradicional"
+    },
+    {
+      "page": 20,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "da corte para assentar o prejuízo da demanda, sobretudo porque mais relevante do que a atualidade do parâmetro de controle é a constatar que a inconstitucionalidade persiste e é atual.\n3. Na linha da pacífica jurisprudência do Supremo Tribunal Federal, a ofensa às normas contidas na LOMAN pode ser examinada em sede de controle abstrato de constitucionalidade. Entende o Tribunal que, nessa hipótese, ocorre violação à própria Constituição (art. 93, caput), a qual reserva a lei complementar de iniciativa do Supremo Tribunal Federal o tratamento dos temas atinentes ao Estatuto da Magistratura. Até o advento da lei complementar prevista no art. 93, caput, da Constituição, o Estatuto da Magistratura continua a ser disciplinado pela Lei Complementar 35/79 (LOMAN). Na espécie, o artigo 80, caput, e §§ 1º a 4º, da Lei Complementar Estadual Maranhense nº 14/91 (cujos §§ 2º e 3º foram alterados pelo artigo 2º, da Lei Complementar Estadual nº 16/92 e cujo § 4º foi acrescentado pelo artigo 2º, da Lei Complementar Estadual nº 18/93) instituíram verba de representação para o Presidente (40%), o Vice-Presidente (30%), o Corregedor-Geral (30%) e o Decano (20%) do Tribunal de Justiça, dos seus vencimentos mensais. Nota-se, ainda, quando da aposentadoria de membros do Tribunal de Justiça, que será incorporado aos seus proventos, a maior gratificação percebida em cargo de direção, sendo certo que aquele que tiver exercido qualquer um dos cargos de direção incorporará aos seus vencimentos, até a aposentadoria, a gratificação aludida. Como se vê, trata-se de uma vantagem remuneratória não prevista pela Lei Orgânica da Magistratura Nacional (Lei Complementar 35/79), recepcionada pela Constituição de 1988. Precedentes.\n4. A norma do art. 65 da LOMAN é numerus clausus, sendo proibido ao legislador ordinário, federal ou estadual, bem como aos tribunais, quando da confecção do regimento interno, suprimir ou instituir novos direitos e vantagens aos magistrados. Ademais, não procede a tese segundo a qual o art. 65, § 2º, da LOMAN não teria sido recepcionado pela Constituição de 1988. Sobre esse tópico, já se manifestou o Supremo Tribunal Federal no sentido de que não resta"
+    },
+    {
+      "page": 21,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "qualquer dúvida de que as disposições da Lei Orgânica da Magistratura, concernentes a direitos e vantagens dos magistrados, são taxativas, e foram recepcionadas pela Carta da República de 1988. Precedentes.\n5. A \"verba de representação\" criada pelo artigo 80, caput, e §§ 1º a 4º, da Lei Complementar Estadual Maranhense nº 14/91 é inconstitucional, pois constitui vantagem remuneratória não disciplinada pela LOMAN. Ação julgada procedente.\n(ADI 3.072, Rel. Min. Gilmar Mendes, DJe 177, de 15.8.2019) Na ocasião, reconheceu o Ministro Gilmar Mendes, Relator, que o Judiciário \"é um Poder Nacional e, assim, seus membros estão submetidos a regras uniformes, com sujeição a princípios e normas que devem ser os mesmos para todos os magistrados, sejam de tribunais estaduais ou federais, justiça comum ou especializada\". Ademais, ponderou que admitir a possibilidade de não vinculação aos parâmetros da LOMAN pelas legislações estaduais \"abriria uma via perigosa para a concessão ilimitada de privilégios e, ao fim e ao cabo, poderia dar ensejo a um quadro instável de 'troca institucional de boas vontades' entre os poderes locais, incompatível com a independência assegurada constitucionalmente ao Nessa linha, a uniformização visada pelos órgãos de supervisão administrativa, financeira e funcional do Poder Judiciário e do MP, somada à determinação constitucional de unidade sistêmica dos arts. 93, caput, e 129,\n§ 4º, da CF, torna explícita a inviabilidade de, por meio de leis estaduais,"
+    },
+    {
+      "page": 22,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "inovarem os entes subnacionais no regramento de benefícios, direitos ou vantagens pecuniárias de membros daquelas carreiras.\nÉ precisamente esse o caso das disposições questionadas nesta ação.\nConforme se demonstrará, ao instituírem parcelas pecuniárias em favor de magistrados capixabas, usurparam a competência legislativa da União para disciplinar o regime jurídico remuneratório nacionalmente unificado das magistraturas judicial e do Ministério Público.\n5. MODELO UNITÁRIO DE REMUNERAÇÃO POR SUBSÍDIO\nA Emenda Constitucional 19, de 4.6.1998, modificou o sistema remuneratório dos agentes públicos e fixou o subsídio como forma de remunerar certas categorias desses trabalhadores. Pretendeu conferir maior transparência e uniformidade ao regime remuneratório de categorias específicas de agentes públicos, com critérios paritários e claros, em reforço à feição democrática e republicana do Estado brasileiro e aos princípios da isonomia, da moralidade e da publicidade, entre outros. Marçal Justen Filho observa, a esse respeito:\nA Emenda Constitucional n. 19/98 adotou a figura do \"subsídio\" para assegurar o controle sobre a remuneração dos ocupantes de cargos e funções de mais elevada hierarquia. No passado, era usual a fixação de um \"vencimento-base\" de valor irrisório, a que se somavam vantagens pecuniárias de grande relevo."
+    },
+    {
+      "page": 23,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Essa situação produzia reflexos indiretos, na medida em que a remuneração desses agentes era o teto para a remuneração devida ao restante dos servidores.\nPara superar essas dificuldades, foi alterada a composição da remuneração de cargos e funções de mais elevada hierarquia, impondo-se a fixação de uma parcela única (subsídio), abrangente tanto da remuneração-base como substitutiva de eventuais vantagens pecuniárias de outra ordem.8 José Afonso da Silva afirma que o regime de subsídio fixado em parcela única, reincorporado à Constituição do Brasil pela EC 19/1998, é de adoção obrigatória para determinadas categorias de agentes públicos, tais como as relacionadas no art. 39, § 4º, e aquelas expressamente referidas em dispositivos esparsos do texto constitucional.9 Imposição de parcela única remuneratória a categorias específicas de agentes públicos, federais, estaduais, distritais e municipais, guarda pertinência com diretrizes constitucionais como as de economicidade, isonomia, moralidade, publicidade e legalidade. A respeito do necessário controle do quantum percebido por agentes públicos, adverte José dos Santos Carvalho Filho:\nPela EC no 19/98, que traçou as regras gerais pertinentes à reforma administrativa do Estado, passou a ser denominada de \"subsídio\" a remuneração do membro de Poder, do detentor de cargo eletivo, dos 8 JUSTEN FILHO, Marçal, Curso de direito administrativo, São Paulo: Saraiva, 2005, p. 634-636.\n9 SILVA, José Afonso da, Comentário contextual à Constituição, 7. ed., São Paulo: Malheiros, 2010, p.\n360."
+    },
+    {
+      "page": 24,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Ministros de Estado e dos Secretários Estaduais e Municipais, conforme a nova redação do art. 39, § 4o, da CF, bem como a remuneração dos membros do Ministério Público (art. 128, § 5o, I, c, da CF) e dos integrantes da Defensoria Pública e da Advocacia Pública, incluindo-se nesta as Procuradorias dos Estados e do Distrito Federal (art. 135 c/c arts. 131 e 133, o primeiro com remissão ao art. 39, § 4o).\nDe acordo com o referido mandamento, duas são as características do subsídio: em primeiro lugar, deve observar o teto remuneratório fixado no art. 37, XI; além disso, deve ser estabelecido em parcela única, sendo, portanto, vedado o acréscimo de algumas vantagens pecuniárias, como gratificações, adicionais, abonos, prêmios, verbas de representação e outras de caráter remuneratório.10 O regime constitucional de pagamento unitário que caracteriza o modelo do subsídio repele acréscimos remuneratórios devidos pelo trabalho ordinário de agentes públicos. O art. 39, § 4º, da CF é expresso ao vedar acréscimo de gratificação, adicional, abono, prêmio, verba de representação e outras espécies remuneratórias à parcela única: \"o membro de Poder, o detentor de mandato eletivo, os Ministros de Estado e os Secretários Estaduais e Municipais serão remunerados exclusivamente por subsídio fixado em parcela única\".\nSubsídio, portanto, implica unicidade de remuneração. A distinção essencial entre o regime de subsídio e o sistema de remuneração com base em vencimentos reside precisamente na vedação de que ao primeiro seja acrescida vantagens pecuniárias extras de natureza remuneratória (como 10 CARVALHO FILHO, José dos Santos, Manual de direito administrativo, 16. ed., Rio de Janeiro:\nLumen Juris, 2006, p. 607."
+    },
+    {
+      "page": 25,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "gratificações, adicionais, abono, prêmio, verbas de representação e outras de idêntico caráter).11 Acerca do conceito de vantagens pecuniárias, Carvalho Filho esclarece:\n(…) são as parcelas pecuniárias acrescidas ao vencimento-base em decorrência de uma situação fática previamente estabelecida na norma jurídica pertinente. Toda vantagem pecuniária reclama a consumação de certo fato, que proporciona o direito à sua percepção.\nPresente a situação fática prevista na norma, fica assegurado ao servidor o direito subjetivo a receber o valor correspondente à vantagem. Esses fatos podem ser das mais diversas ordens:\ndesempenho das funções por certo tempo; natureza especial da função; grau de escolaridade; funções exercidas em gabinetes de chefia; trabalho em condições anormais de dificuldades etc.\nSão vantagens pecuniárias, entre outras, os adicionais e as gratificações.12 Há situações, contudo, nas quais se mostra legítimo acréscimo pecuniário à parcela única. É indispensável, para que determinada verba ou prestação pecuniária seja percebida em cumulação ao subsídio, que tenha fundamento no desempenho de atividades extraordinárias ou que decorra de indenização por aquilo que não constitua atribuição regular desempenhada pelo servidor.13 A esse respeito, Maria Sylvia Zannela di Pietro observa:\nAo falar em parcela única, fica clara a intenção de vedar a fixação dos subsídios em duas partes, um fixa e outra variável, tal como ocorria 11 FURTADO, Lucas Rocha, Curso de direito administrativo, 3. ed., Belo Horizonte: Fórum, 2012, p. 772.\nCARVALHO FILHO, Jose dos Santos, obra citada, p. 608.\nSILVA, José Afonso da, obra citada, p. 685."
+    },
+    {
+      "page": 26,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "com os agentes políticos na vigência da Constituição de 1967. E, ao vedar expressamente o acréscimo de qualquer gratificação, adicional, abono prêmio, verba de representação ou outra espécie remuneratória, também fica clara a intenção de extinguir, para as mesmas categorias de agentes públicos, o sistema remuneratório que vem vigorando tradicionalmente na Administração Pública e que compreende o padrão fixado em lei mais as vantagens pecuniárias de variada natureza previstas na legislação estatutária.\n(…) No entanto, embora o disposto fale em parcela única, a intenção do legislador fica parcialmente frustrada em decorrência de outros dispositivos da própria Constituição, que não foram atingidos pela Emenda. Com efeito, mantém-se, no art. 39, § 3º, a norma que manda aplicar aos ocupantes de cargo público o disposto no art. 7º, IV, VII, VIII, IX, XII, XIII, XV, XVI, XVII, XVIII, XIX, XX, XXII e XXX.\nCom isto, o servidor que ocupe cargo público (o que exclui os que exercem mandato eletivo e os que ocupam emprego público, já abrangidos pelo art. 7º) fará jus a: décimo terceiro salário, adicional noturno, salário-família, remuneração do serviço extraordinário superior, no mínimo, a 50% à do normal, adicional de férias, licença à gestante, sem prejuízo do emprego e salário, com a duração de cento e vinte dias.\nPoder-se-ia argumentar que o § 4º do art. 39 exclui essas vantagens ao falar em parcela única; ocorre que o § 3º refere-se genericamente aos ocupantes de cargo público, sem fazer qualquer distinção quanto ao regime de retribuição pecuniária. Quando há duas normas constitucionais aparentemente contraditórias, tem-se que adotar interpretação conciliatória, para tirar de cada uma delas o máximo de aplicação possível. No caso, tem-se que conciliar os §§ 3º e 4º do artigo 39, de modo a entender que, embora o segundo fale em parcela única, isto não impede a aplicação do outro, que assegura o direito a determinadas vantagens, portanto, igualmente com fundamento constitucional."
+    },
+    {
+      "page": 27,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Também não podem deixar de ser pagas as vantagens que têm caráter indenizatório, já que se trata de compensar o servidor por despesas efetuadas no exercício do cargo; é o caso das diárias e das ajudas de custo. Não se pode pretender que o servidor que faça gastos indispensáveis ao exercício de suas atribuições não receba a devida compensação pecuniária. Trata-se de aplicação pura e simples de um princípio geral de direito que impõe a quem quer que cause prejuízo a outrem o dever de indenizar.14 Para Hely Lopes Meirelles, não são abrangidas pela unicidade do subsídio as parcelas de caráter indenizatório previstas em lei, desde que tais verbas observem os princípios constitucionais da legalidade, da razoabilidade e da moralidade, \"sob pena de caracterizarem inaceitável fraude aos limites remuneratórios e ao conceito constitucional de subsídio, a ser repelida pelo Poder Judiciário no exame de constitucionalidade, direto (concentrado) ou incidental (difuso), da lei que as instituírem.\"15 Nessa linha, as turmas do Superior Tribunal de Justiça têm reiterado entendimento de inviabilidade de cumulação com o subsídio de adicionais ou gratificações que não sejam de natureza indenizatória. Vejam-se precedentes nessa direção:\nRECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA.\nADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL.\n14 PIETRO, Maria Sylvia Zanella di, Direito administrativo, 18. ed. São Paulo: Atlas, 2005, p. 463-464.\nDestaques no original.\n15 MEIRELLES, Hely Lopes. Direito Administrativo brasileiro. 37. ed. São Paulo: Malheiros, 2011, p.\n526."
+    },
+    {
+      "page": 28,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "NOVO REGIME JURÍDICO. LEI N. 8.438/07 DO ESTADO DA PARAÍBA. SUBSÍDIO. VEDADO O PAGAMENTO DE ADICIONAL A PARTIR DA VIGÊNCIA. ATENDIMENTO AO\nART. 39, § 4o, DA CONSTITUIÇÃO FEDERAL DE 1988.\nINEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. GARANTIA DA IRREDUTIBILIDADE DOS VENCIMENTOS ATENDIDA. RECURSO ORDINÁRIO NÃO PROVIDO.\n[...]\n2. Havendo lei específica (art. 37, X, da CF/88) a regulamentar a remuneração de determinada carreira mediante subsídio, deve-se observar, além do teto do serviço público (art. 37, XI, da CF/88), a vedação à inclusão de quaisquer valores relativos a gratificações, adicionais, abonos, prêmios, verbas de representação ou outras espécies remuneratórias. E, desde que observados esses limites, o\ninciso XV do art. 37 da CF/88 institui a garantia da irredutibilidade.\n3. Na hipótese em comento, com a edição da Lei n. 8.438/2007, do Estado da Paraíba, foi fixada a remuneração dos Auditores Fiscais da Receita do Estado por meio de subsídio, vedando-se a inclusão de qualquer outra gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória, a teor do § 4o do art.\n39 da CF/88. Além disso, garantiu-se a irredutibilidade da remuneração, não havendo que se falar, portanto, em direito adquirido ao recebimento de \"parcela de produtividade\".\n4. Recurso ordinário não provido.\n(RMS 33.823/PB, Segunda Turma, Rel. Min. Mauro Campbell Marques, DJe de 9 jun. 2011.)\nCONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL\nCIVIL. AGENTE PÚBLICO MUNICIPAL. DEVOLUÇÃO DE RECURSOS DETERMINADA POR TRIBUNAL DE CONTAS.\nVEDAÇÃO À PERCEPÇÃO DE VANTAGENS. ART. 39, § 4o\nDA CONSTITUIÇÃO FEDERAL. PRECEDENTE DA ADI 3941/ RS. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO."
+    },
+    {
+      "page": 29,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "1. Cuida-se de recurso ordinário interposto contra acórdão que denegou a segurança ao writ of mandamus no qual se visa a anulação de deliberação de tribunal de contas onde se consignou a ilegalidade na percepção de vantagens pecuniárias como adicional de férias e gratificação natalina por secretários municipais.\n[...]\n3. A Constituição Federal, em leitura literal, é clara ao vedar o pagamento de vantagens aos agentes públicos listados no art. 39,\n§ 4o, o quais \"serão remunerados exclusivamente por subsídio fixado em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória\".\n4. Não é possível identificar o direito líquido e certo postulado diante do texto do art. 39, § 4o da Constituição Federal, combinado com o precedente do Supremo Tribunal Federal (ADI 3491/RS) e do entender a doutrina que frisa, ser \"a norma é cogente, isto é, tem caráter compulsório: uma vez que o agente público esteja incluído numa das categorias ali mencionadas, a remuneração terá que ser efetivada exclusivamente por subsídios\" (JOSÉ DOS SANTOS CARVALHO FILHO. In: PAULO BONAVIDES, JORGE MIRANDA, WALBER DE MOURA AGRA.\nComentários à Constituição Federal de 1988. Rio de Janeiro: Editora Forense, 2009, p. 814).\nRecurso ordinário improvido.\n(RMS 44.012/BA, Segunda Turma, Rel. Min. Humberto Martins, DJe, de 21 fev. 2014.)\nADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO\nDE SEGURANÇA. EMENDA CONSTITUCIONAL No 19/98.\nVIOLAÇÃO AO ART. 60, § 4o, IV, DA CONSTITUIÇÃO\nFEDERAL. INOVAÇÃO RECURSAL. POLÍCIA CIVIL DO\nDISTRITO FEDERAL. LEI FEDERAL No\n11.361/06.\nREMUNERAÇÃO POR SUBSÍDIO. CONCESSÃO DE ADICIONAL NOTURNO. IMPOSSIBILIDADE. AUSÊNCIA DE DIREITO ADQUIRIDO A IMUTABILIDADE DE REGIME"
+    },
+    {
+      "page": 30,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "REMUNERATÓRIO. PRINCÍPIO DA ISONOMIA. SÚMULA\nNo 339/STF.\n[...]\n2. Conforme determina o art. 144, IV, § 9o, da Constituição Federal, a remuneração das polícias civis é fixada na forma do § 4o do art. 39 da Lei Maior, segundo o qual \"o membro de Poder, o detentor de mandato eletivo, os Ministros de Estado e os Secretários Estaduais e Municipais serão remunerados exclusivamente por subsídio fixado em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória, obedecido, em qualquer caso, o disposto no art. 37, X e XI.\"\n3. A Polícia Civil do Distrito Federal, organizada e mantida pela União, a quem compete, privativamente, legislar sobre seu regime jurídico e a remuneração de seus servidores, é regida pela Lei Federal no 11.361/2006, que, em consonância com a previsão constitucional, instituiu o subsídio fixado em parcela única como forma de remuneração, sendo expressamente vedado o acréscimo de qualquer parcela remuneratória, inclusive o adicional noturno, que restou incorporado no subsídio dos servidores.\n4. O servidor público não tem direito adquirido à imutabilidade do regime remuneratório, razão pela qual, pode a lei nova alterar, extinguir, reduzir ou criar vantagens, desde que seja resguardada a irredutibilidade de vencimentos protegendo-se o quantum remuneratório, o que ocorre na espécie.\n5. O acolhimento do pleito recursal importa em concessão de vantagem sem respaldo em lei específica, o que contraria o disposto no art. 37, X, da Constituição Federal. Incidência, à espécie, do comando contido na Súmula no 339/STF (\"Não cabe ao poder judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos, sob fundamento de isonomia\".).\n6. Recurso desprovido.\n(RMS 27.479/DF, Quinta Turma, Rel. Min. Laurita Vaz, DJe, de 17 nov. 2008.)"
+    },
+    {
+      "page": 31,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Igualmente, a jurisprudência do Supremo Tribunal é no sentido da inviabilidade de pagamento a agentes públicos que percebem subsídio, de gratificações que não correspondam a atividades extraordinárias, conforme se vê dos julgados a seguir:\nAGRAVO REGIMENTAL. SUSPENSÃO DE SEGURANÇA.\nOCORRÊNCIA DE GRAVE LESÃO À ORDEM E À ECONOMIA PÚBLICAS. MAGISTRADO. ACRÉSCIMO DE\n20% SOBRE OS PROVENTOS DA APOSENTADORIA (art.\n184, II, da Lei 1.711/52 c/c o art. 250 da Lei 8.112/90) ABSORVIDO\nPELA IMPLEMENTAÇÃO DO SUBSÍDIO. DETERMINAÇÃO DE INCIDÊNCIA SOBRE O SUBSÍDIO MENSAL DEVIDO AO OCUPANTE DO CARGO DE JUIZ DO TRIBUNAL REGIONAL\nFEDERAL DA 2a REGIÃO. VIOLAÇÃO AO ART. 39, § 4o, DA\nCONSTITUIÇÃO DA REPÚBLICA. INOCORRÊNCIA, NO CASO, DE DECRÉSCIMO REMUNERATÓRIO.\n(…)\n2. O acórdão impugnado, ao determinar a incidência da vantagem pessoal de 20%, prevista no art. 184, II, da Lei 1.771/52, sobre o valor do subsídio mensal devido ao ocupante do cargo de juiz do Tribunal Regional Federal da 2a Região, violou o disposto no art. 39,\n§ 4o, da Constituição da República, o qual fixa a remuneração dos membros de Poder em parcela única.\n3. Agravo regimental improvido.\n(SS 3.108-AgR/RJ, Rel. Min. Ellen Gracie, DJe 74, 24 abr. 2008.)\nCONSTITUCIONAL. MEDIDA CAUTELAR. AÇÃO DIRETA DE\nINCONSTITUCIONALIDADE. ARTIGO 2o DA LEI No 1.572, DE 13 DE JANEIRO DE 2006, DO ESTADO DE RONDÔNIA. Num juízo prévio e sumário - próprio das cautelares -, afigura-se contrário ao § 4o do artigo 39 da Constituição Federal o artigo 2o da"
+    },
+    {
+      "page": 32,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Lei rondoniense no 1.572/06, que prevê o pagamento de verba de representação ao Governador do Estado e ao Vice-Governador.\nMedida liminar deferida para suspender a eficácia do dispositivo impugnado, até o julgamento de mérito da presente ação direta de inconstitucionalidade.\n(ADI 3.771-MC/RO, Rel. Min. Carlos Britto, DJ, de 25 ago.\n2006.) Desse modo, somente se legitima perante o modelo unitário de remuneração, que caracteriza o regime constitucional do subsídio, a percepção de parcelas adicionais que tenham fundamento em acréscimo extraordinário de atribuições e responsabilidades, ou tenham nítido caráter indenizatório, entendidas assim as verbas que se destinem a compensar o beneficiário por despesas efetuadas no exercício do cargo, de que são exemplo clássico as diárias e o transporte para fazer face a custos de deslocamentos no interesse do serviço.\n6. INCONSTITUCIONALIDADE FORMAL E MATERIAL DAS NORMAS ESTADUAIS IMPUGNADAS\nA Lei Complementar 234/2002 do Espírito Santo, nas disposições questionadas dos arts. 127 e 128 - tanto nas redações atuais dos dispositivos como naquelas vigentes anteriormente às LCs 249/2002, 590/2011 e 788/2014 -, instituiu diversas parcelas pecuniárias (gratificações ou adicionais) para magistrados, sem guardar a necessária correspondência com a LOMAN, em"
+    },
+    {
+      "page": 33,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "contrariedade à disciplina uniformizadora do CNJ ou em desconformidade com o modelo unitário de remuneração por subsídio, a saber:\ni) no art. 127, caput: gratificações pelo desempenho de cargos de Presidente (30%), Vice-Presidente (25%), Corregedor-Geral de Justiça (20%), Vice-Corregedor (20%), Presidentes de Câmaras Isoladas, Ouvidor Judiciário, Supervisor e Diretor de Escola (15%). Conquanto estejam em certa medida excepcionadas no art. 5º da Resolução CNJ 13/2006, não encontram respaldo na LOMAN e nem se coadunam com o modelo unitário do subsídio, conforme posicionamento firmado na ADI 3.072/MA);\nii) no art. 127, parágrafo único: gratificação de 1/30 por sessão a que comparecerem os membros do Conselho Superior da Magistratura. A parcela não é prevista na LOMAN e contraria o art. 4º, II, \"b\", da Resolução CNJ 13/2006 e o regime do subsídio;\niii) no art. 128, V: adicional de 5% do subsídio por quinquênio de serviço. Apesar de previsto no texto da LOMAN, o adicional não se revela mais compatível com o modelo unitário de remuneração por subsídio introduzido pela EC 19/1998,"
+    },
+    {
+      "page": 34,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "sendo ademais vedado pelo art. 4º, III, \"b\", da Resolução 13/2006 do CNJ;\niv) no art. 128, VI: gratificação de 10% pela participação em Colégio Recursal. A parcela não tem previsão na LOMAN e contraria o art. 4º, VIII, da Resolução 13/2006 do CNJ e o regime do subsídio;\nv) no art. 128, VII: gratificação de 10% para juízes Diretores de Foro. Embora admitida pelo art. 5º, II, \"b\", da Resolução 13/2006 do CNJ, não há previsão na LOMAN para a vantagem;\nvi) no art. 128, VIII e § 2º: gratificação por prestação de serviços extraordinários. Além de inexistir previsão expressa na LOMAN, a percepção da parcela esbarra na vedação do art.\n4º, II, \"l\", da Resolução 13/2006 do CNJ;\nvii) no art. 128, IX: ajuda de custo para despesas relativas ao exercício funcional paga em cada exercício no valor de um subsídio integral. Nos moldes em que disciplinada, tal ajuda de custo anual, desconectada de qualquer encargo relativo ao serviço, ofende o regime do subsídio, além de inovar relativamente à LOMAN e à Resolução 13/2006 do CNJ;"
+    },
+    {
+      "page": 35,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "viii) no art. 128, X: gratificação de férias com acréscimo de 50% dos subsídios. A determinação de incidência a magistrados de norma estadual que prevê adicional de férias em montante superior ao terço constitucional16 insere-se no campo normativo da LOMAN, além de ser incompatível com o art. 7º, III, da Resolução 13/2006;\nix) no art. 128, XI: auxílio-saúde, sem previsão na LOMAN e em contrariedade ao art. 4º, VIII, da Resolução 13/2006 do CNJ;\nx) no art. 128, XIII: gratificação por prestação de serviço permanente à Presidência, Vice-Presidência, Corregedoria-Geral de Justiça ou Coordenadoria do Tribunal de Justiça.\nEmbora sejam parcelas admitidas pelo art. 5º, II, \"i\", da Resolução 13/2006 do CNJ, não encontram respaldo normativo na LOMAN.\nComo dito, em conformidade com a ordem constitucional vigente, sobretudo a partir da promulgação das ECs 19/1998 e 45/2004, gratificações e 16 No ponto, o art. 128, X, da LC 234/2002, com redação da LC 249/2002, determina a extensão aos magistrados do benefício previsto nos arts. 2º e 8º da LC 238/2002. Esse último dispositivo, por sua vez, estabelece:\n\"Art. 8º O § 7º do art. 106, da Lei Complementar nº 95/97, passa a vigorar com a seguinte redação:\n'Art. 102. (…)\n§ 7º Independentemente de solicitação, será paga ao membro do Ministério Público, por ocasião das férias, importância correspondente a cinqüenta por cento de seus vencimentos ou subsídios em cada um dos períodos em que as mesmas devam ser gozadas'.\""
+    },
+    {
+      "page": 36,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "adicionais pecuniários cumuláveis com subsídio exigem o desempenho de tarefas extraordinárias, distintas daquelas ínsitas às funções do agente público ou membro de Poder.\nTal não parece ser o caso das disposições ora questionadas da LC 234/2002, que se destinam a remunerar o exercício de atividades ordinárias de órgãos judicantes da estrutura do Poder Judiciário capixaba, ainda que exercidas perante órgãos da cúpula da instituição ou com especial relevo.\nTrata-se de atividades, contudo, que não constituem ofício estranho às atribuições institucionais de juízes e desembargadores.\nTampouco se trata de verbas de natureza indenizatória, pois remuneram trabalho ordinário de membros, razão pela qual sua percepção cumulada com o subsídio não se sustenta.\nNo caso da parcela prevista no art. 128, XI, da LC 234/2002, impende ressaltar que a Procuradoria-Geral da República tem sustentado, em ações de controle concentrado ainda pendentes de julgamento,17 que despesas ordinárias com a saúde feitas por agentes públicos, ainda que indevidamente denominadas por lei como de natureza indenizatória, inserem-se na proibição de acréscimo pecuniário contida no art. 39, § 4º da Constituição, uma vez que 17 Nesse sentido: ADIs 5.407/MG (Rel. Min. Alexandre de Moraes), 5.781/MG (Rel. Min. Roberto Barroso), 5.921/PE (Rel. Min. Marco Aurélio), e ADPF 445/MT (Rel. Min. Rosa Weber)."
+    },
+    {
+      "page": 37,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "não têm relação direta com o exercício da função e merecem ser custeadas pela remuneração do servidor.\nOo art. 7º, IV, da CF - aplicável aos agentes públicos por força do\nart. 39, § 3º, da CF - prevê a despesa com saúde do trabalhador e de sua família como abrangida pelo salário-mínimo, ou seja, como despesa a ser coberta pela remuneração e não como despesa extraordinária. Portanto, as despesas ordinárias com saúde não caracterizam verba indenizatória e, dessa forma, não constituem exceção legítima ao regime constitucional do subsídio.\nA propósito, concedeu o Ministro Roberto Barroso medida cautelar para suspender a eficácia de dispositivos que permitiam o pagamento de auxílio-saúde e auxílio ao aperfeiçoamento profissional aos membros do MP do Estado de Minas Gerais, em ação direta de inconstitucionalidade ajuizada pela Procuradoria-Geral da República (ADI 5.781/MG). Na decisão, consignou-se que os auxílios questionados não se destinavam a compensar o servidor por despesas efetuadas no exercício da função e, dessa forma, por não se caraterizarem com verbas indenizatórias, estariam sujeitos à proibição contida no art. 39, § 4º, da Constituição:\nDIREITO CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ART. 119, XVII E XX, DA LEI COMPLEMENTAR 34/1994, ACRESCENTADOS PELO ART. 14 DA LEI COMPLEMENTAR 136/2014, DE MINAS GERAIS. PAGAMENTO DE \"AUXÍLIO AO"
+    },
+    {
+      "page": 38,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "APERFEIÇOAMENTO PROFISSIONAL\" E \"AUXÍLIO SAÚDE\" A MEMBROS DO MINISTÉRIO PÚBLICO ESTADUAL.\n1. O art. 39, § 4.º, da Constituição Federal, inserido pela Emenda Constitucional nº 19, de 04.06.1998, estabelece o regime remuneratório de subsídio, caracterizado pela unicidade da remuneração enquanto regra constitucional, com explícita vedação aos acréscimos de vantagens pecuniárias de natureza remuneratória.\nExcetuam-se, todavia, as verbas indenizatórias, consoante o disposto no art. 37, § 11, também da Constituição, que determina que verbas desta índole não serão computadas, para efeito dos limites remuneratórios estabelecidos pelo constituinte.\n2. Os auxílios impugnados na presente ação não constituem, todavia, exceções legítimas à regra do subsídio. Tanto no que diz respeito ao \"auxílio ao aperfeiçoamento profissional\", como no que se relaciona ao \"auxílio-saúde\", não há qualquer nexo causal direto entre o cargo e a vantagem, na medida em que tais gastos assumem caráter indireto e subsidiário ao exercício da função própria dos membros do Ministério Público estadual.\n3. Medida cautelar deferida para o fim de suspender a eficácia do\nart. 119, XVII e XX, da Lei Complementar nº 34/1994, acrescentados pelo art. 14 da Lei Complementar nº 136/2014, do Estado de Minas Gerais, até o julgamento definitivo da presente ação direta de inconstitucionalidade. (ADI 5.781-MC/MG, Rel. Min.\nRoberto Barroso, DJe 25, de 14.2. 2018).\nAdemais, a saúde consubstancia direito fundamental assegurado indistintamente a todos, incumbindo ao Estado a sua promoção, proteção e recuperação \"mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços\" (CF, art. 196), o que faz por meio do Sistema Único de Saúde (SUS)."
+    },
+    {
+      "page": 39,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Em suma, consoante demonstrado, os benefícios estabelecidos pelas disposições ora questionadas da Lei Complementar 234/2002 são formal e materialmente inconstitucionais, seja por descaracterizarem o modelo de retribuição em parcela única que consubstancia o regime do subsídio, seja por estarem vedados pela Resolução 13/2006 do CNJ ou por não encontrarem amparo legal na LOMAN, razão pela qual foram instituídos em violação do rol taxativo de seu art. 65 e, portanto, com invasão da esfera de competência privativa da União e da iniciativa legislativa do STF para tratar do tema.\nLogo, as mencionadas normas objeto desta ação malferem os arts.\n39, § 4º, e 93 da Constituição Federal.\n7. PEDIDO DE MEDIDA CAUTELAR\nEstão presentes os pressupostos para a concessão de medida cautelar.\nA plausibilidade jurídica do pedido (fumus boni juris) está suficientemente demonstrada pelos argumentos deduzidos nesta petição inicial, que encontram amparo na jurisprudência do Supremo Tribunal Federal.\nO perigo na demora processual (periculum in mora) decorre do fato de, enquanto não suspensa a eficácia das normas, continuarem a ser efetuados pagamentos indevidos de gratificações e verbas inconstitucionais a magistrados estaduais."
+    },
+    {
+      "page": 40,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Tais pagamentos consubstanciam dano de incerta ou de difícil reparação ao erário estadual, dada a improvável repetibilidade de valores, seja pelo seu caráter alimentar, seja pela possibilidade de os beneficiários alegarem boa fé no recebimento. Ademais, as normas impugnadas:\n(i) desacreditam o sistema constitucional de remuneração por subsídio, fixado em parcela única;\n(ii) geram desigualdade entre distintos órgãos do Judiciário, na medida em que uns Estados recebem determinadas vantagens (ainda que inconstitucionais) e outros não; e\n(iii) agravam a crise fiscal e afetam negativamente as receitas estaduais em uma conjuntura de queda de arrecadação, em decorrência dos impactos econômicos do surto de epidemia nacional do novo coronavírus (Covid-19).\nNo atual contexto de enfrentamento da epidemia de Covid-19, com queda substancial da arrecadação dos Estados, decorrente da paralisação de setores estratégicos para a economia, e da necessidade de auxílio estatal para a população mais carente de recursos, o pagamento de verbas pecuniárias inconstitucionais afigura-se ainda mais prejudicial ao interesse público e reclama a imediata censura por parte do Supremo Tribunal Federal."
+    },
+    {
+      "page": 41,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Dessa forma, além do sinal do bom direito evidenciado pelos próprios fundamentos constitucionais em que se apoia esta ação direta, há premência em que esta Corte conceda medida cautelar para determinar a imediata suspensão dos efeitos dos arts. 127, caput e parágrafo único, e 128, V, VI, VII, VIII, IX, X, XI, XIII e § 2º, todos da Lei Complementar 234/2002, do Estado do Espírito Santo.\n8. PEDIDOS E REQUERIMENTOS\nEm face do exposto, requer o PROCURADOR-GERAL DA\nREPÚBLICA:\na) a distribuição da ação por prevenção à Ministra Rosa Weber, Relatora da ADI 5.750/ES, forte no art. 77-B do RISTF, bem como a reunião deste feito àqueles autos, nos termos dos arts. 54 e 55 do Novo CPC;\nb) que esse Supremo Tribunal conceda, em decisão monocrática e sem intimação dos interessados, medida cautelar para a suspensão da eficácia das normas impugnadas, para os fins expostos e nos termos do art. 10, § 3º, da Lei 9.868/1999, a ser oportunamente submetida a referendo do Plenário;\nc) em seguida, que se colham as informações do Governador do Estado do Espírito Santo, do Presidente do respectivo Tribunal de Justiça e da Assembleia Legislativa, e que se ouça a Advocacia-Geral da União, nos"
+    },
+    {
+      "page": 42,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "termos do art. 103, § 3º, da Constituição Federal. Superadas essas fases, pede prazo para a manifestação da Procuradoria-Geral da República; e\nd) ao final, postula que se julgue procedente o pedido para declarar inconstitucionais os arts. 127, caput e parágrafo único, e 128, V, VI, VII, VIII, IX, X, XI, XIII e § 2º, todos da Lei Complementar 234/2002, do Espírito Santo, com alterações promovidas pelas Leis Complementares 249/2002, 590/2011, e 788/2014, e também nas redações anteriormente vigentes, por afronta aos arts. 39, § 4º, e 93 da Constituição Federal.\nBrasília, data da assinatura digital.\nAugusto Aras Assinado digitalmente\nAMO"
+    }
+  ]
+}

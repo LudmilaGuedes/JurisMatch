@@ -1,0 +1,31 @@
+# registro + OCR + limpeza (scripts/00_registrar_documentos.py, src/ocr_pipeline.py)
+# o pytesseract precisa do Tesseract instalado no sistema (no Windows: instalador do UB Mannheim)
+pandas
+openpyxl
+pymupdf
+pytesseract
+pillow
+
+# trechos, embeddings e busca (scripts/dividir_trechos.py, gerar_embeddings.py, buscar.py)
+# sem GPU, instalar antes o torch de CPU (bem menor):
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+numpy
+faiss-cpu        # Projeto A: indice vetorial (IndexFlatIP)
+psutil           # memoria do processo no benchmark
+sentence-transformers
+
+# app (app.py)
+streamlit
+
+# testes
+pytest
+
+# --- so para a coleta e o OCR do corpus inteiro (scripts do Luigi) ---
+# coleta (scripts/baixar_iniciais_stf.py)
+requests
+beautifulsoup4
+truststore
+playwright
+# extracao de texto alternativa (scripts/extrair_texto.py)
+# a wheel do tesserocr ja traz o Tesseract compilado (Mac arm64 e Linux; no Windows nao tem wheel)
+tesserocr

@@ -1,0 +1,140 @@
+{
+  "id": "ADI_7807",
+  "arquivo_pdf": "ADI_7807.pdf",
+  "sha256": "f66295156d3b406b9bff95e4d3568c8d8d8f750ac36886093a8b17119ad44695",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:31:21",
+  "resumo": {
+    "paginas": 14,
+    "paginas_digital": 14,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 27417,
+    "chars_clean": 24409,
+    "reducao_pct": 11.0,
+    "linhas_removidas": 27,
+    "limpeza_detalhe": {
+      "cabecalho_rodape": 26,
+      "hifen_mantido": 3,
+      "hifenizacao_unida": 0,
+      "numero_pagina": 1
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Av. República do Líbano, 2.258, Jardim Monte Líbano CEP 78.048-196 Cuiabá Mato Grosso www.pge.mt.gov.br\n\nEXCELENTÍSSIMO SENHOR DOUTOR LUÍS ROBERTO BARROSO - PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL\n\nO GOVERNADOR DO ESTADO DE MATO GROSSO, MAURO\nMENDES, em conjunto com o Procurador-Geral Adjunto do Estado, vem, respeitosamente, à ilustre presença de Vossa Excelência, com fundamento no artigo 103, inciso V, da Constituição Federal e na Lei Federal n.º 9.868/99, ajuizar AÇÃO DIRETA DE INCONSTITUCIONALIDADE em face do artigo 164, §16-B, da Constituição do Estado de Mato Grosso, de acordo com os fundamentos de fato e de direito abaixo aduzidos.\n\nI. SÍNTESE FÁTICA\n\nA Constituição do Estado de Mato Grosso, em seu artigo 164, disciplina o processo legislativo respeitante às leis orçamentárias do Estado de Mato Grosso (o Plano Plurianual, a Lei de Diretrizes Orçamentárias e a Lei Orçamentária Anual).\n\nO parágrafo n.º 16-B do referido artigo, acrescentado pela Emenda Constitucional n.º 102/2021, dispõe que \"A garantia de execução de que trata o § 15 deste artigo aplica-se também às programações incluídas por todas as emendas de iniciativa de Bancada e de Bloco Parlamentar, no montante de até 0,2% (dois décimos por cento) da receita corrente líquida realizada no exercício anterior, devendo a Mesa Diretora da Assembleia Legislativa fazer a gestão plena das mesmas de forma centralizada.\"."
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Referido dispositivo faz remissão ao §15º do artigo 164, o qual trata da execução obrigatória de emendas orçamentárias individuais, sendo que a sua atual redação é no sentido de que \"As emendas individuais ao projeto de lei orçamentária, de execução obrigatória, serão aprovadas no limite de 2,00% (dois por cento) da receita corrente líquida do exercício anterior.\".\n\nVerifica-se, portanto, que, além das emendas individuais de execução obrigatória, o artigo 164, §16-B, da Constituição do Estado de Mato Grosso trata como impositivas as emendas de bancada e de bloco parlamentar.\n\nReferido dispositivo, no entanto, ostenta vício de inconstitucionalidade formal e material, o que enseja o ajuizamento desta ação direta de inconstitucionalidade.\n\nII. PRELIMINARMENTE - EXISTÊNCIA DE PERTINÊNCIA TEMÁTICA - LEI ESTADUAL - VÍCIO DE INICIATIVA - CLARO IMPACTO NA ATIVIDADE ORÇAMENTÁRIA DO ESTADO DE MATO GROSSO\n\nO artigo 103 da Constituição Federal arrola os legitimados ao ajuizamento da ação direta de inconstitucionalidade e da ação declaratória de constitucionalidade. Os Governadores de Estado e do Distrito Federal estão nesse rol.\n\nEsta Suprema Corte, no entanto, procede à distinção entre os legitimados pelo permissivo constitucional. Considera alguns legitimados universais, aptos a deflagrar o controle concentrado de constitucionalidade sem quaisquer condicionantes, ao passo que outros, como os Govenadores, devem demonstrar a pertinência temática entre o ato normativo impugnado e o desempenho de suas funções institucionais.\n\nFixada essa premissa, importante destacar que há plena pertinência temática entre as atribuições desempenhadas pelo Governador do Estado de Mato Grosso e o"
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "artigo 164, §16-B, da Constituição Estadual.\n\nCom efeito, conforme destacado, referido artigo trata como de execução obrigatória as programações orçamentárias decorrentes de emendas de bancada e de bloco parlamentar ao projeto de lei orçamentária anual, no importe de até 0,2% da receita corrente líquida realizada no exercício anterior.\n\nEsse dispositivo, evidentemente, representa claro impacto na dinâmica orçamentária do Estado de Mato Grosso, comprometendo a própria higidez do sistema orçamentário estadual e, inclusive, a capacidade de planejamento e de investimento do Poder Executivo, o qual vê essa capacidade minorada em até 0,2 da receita corrente líquida.\n\nEvidente, assim, a existência de pertinência temática apta a justificar o interesse de agir do Governador do Estado de Mato Grosso em ajuizar a presente ação direta de inconstitucionalidade.\n\nIII. MÉRITO\n\nIII.1. INCONSTITUCIONALIDADE FORMAL DO ARTIGO 164,\n§16-B, DA CONSTITUIÇÃO DO ESTADO DE MATO GROSSO - TENTATIVA DE INSTITUIÇÃO DE NORMAS GERAIS EM MATÉRIA DE DIREITO FINANCEIRO E ORÇAMENTÁRIO - INVASÃO DA COMPETÊNCIA LEGISLATIVA DA UNIÃO -\nARTIGO 24, INCISOS I E II, E §1º, DA CONSTITUIÇÃO FEDERAL\n\nConforme destacado no primeiro tópico desta ação direta, o artigo 164, §16-B, da Constituição do Estado de Mato Grosso trata como de execução obrigatória as programações orçamentárias decorrentes de emendas de bancada e de bloco parlamentar ao projeto de lei orçamentária anual, no importe de até 0,2% da receita corrente líquida realizada no exercício anterior. O dispositivo está assim redigido:"
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Os projetos de lei relativos ao plano plurianual, às diretrizes orçamentárias, ao orçamento anual e aos créditos adicionais serão apreciados pela Assembléia Legislativa (...)\n§ 16-B A garantia de execução de que trata o § 15 deste artigo aplica-se também às programações incluídas por todas as emendas de iniciativa de Bancada e de Bloco Parlamentar, no montante de até 0,2% (dois décimos por cento) da receita corrente líquida realizada no exercício anterior, devendo a Mesa Diretora da Assembleia Legislativa fazer a gestão plena das mesmas de forma centralizada.\n\nReferido dispositivo, aparentemente, busca encontrar paralelo no artigo 166,\n§12, da Constituição Federal, o qual determina a garantia de execução às programações incluídas por meio de emendas de iniciativa de bancada de parlamentares de Estado ou do Distrito Federal.\n\nOcorre, no entanto, que o artigo 166, §12, da Constituição Federal constitui norma específica para o processo legislativo orçamentário da União, destinada exclusivamente para o Congresso Nacional, na medida em que faz expressa referência à bancada de parlamentares de Estado ou do Distrito Federal, o que é impossível de se ser reproduzido em Constituições Estaduais pelo simples fato de que não há possibilidade de diferenciação de bancadas estaduais em um Parlamento Estadual.\n\nÉ indisputável concluir, a partir dessa simples premissa, de que o artigo 164,\n§16-B, da Constituição do Estado de Mato Grosso está inquinado de inconstitucionalidade formal, na medida em que objetiva estatuir normas gerais sobre direito financeiro e orçamentário, haja vista que não encontra qualquer paralelo na Constituição Federal. Ofende, portanto, o artigo 24, incisos I e II, e\n§1º, da Constituição Federal."
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Nesse ponto, deve-se destacar que esta Suprema Corte possui entendimento consolidado sobre a competência legislativa da União para a edição de normas gerais em direito financeiro e orçamentário, especialmente aquelas relativas a critérios para a execução de programações de caráter obrigatório.\n\nRealmente, nos autos da ação direta de inconstitucionalidade n.º 7.060, esta Suprema Corte afirmou que \"A Constituição Federal determina que é da União a competência para a edição de normas gerais de direito financeiro e orçamento (art. 24,\nincisos I e II), reservando aos estados e ao Distrito Federal o exercício de competência legislativa suplementar, de forma a adicionar situações específicas que somente podem ser observadas no âmbito local. Ademais, as normas gerais sobre elaboração da lei orçamentária anual, sobre gestão financeira e sobre critérios para a execução de programações de caráter obrigatório (como as emendas parlamentares impositivas) reservadas a lei complementar federal (arts. 163 e 165 da CF).\".\n\nJá nos autos da ação direta de inconstitucionalidade n.º 6.308 houve a expressa afirmação de que \"a Constituição Federal determina que: (i) é da União Federal a competência para a edição de normas gerais de direito financeiro; (ii) nessa seara, as normas gerais sobre elaboração da lei orçamentária anual, sobre gestão financeira e sobre critérios para a execução de programações de caráter obrigatório (como as emendas parlamentares impositivas) estão reservadas à lei complementar federal.\".\n\nAfigura-se evidente, nessa senda, que o artigo 164, §16-B, da Constituição do Estado de Mato Grosso é formalmente inconstitucional em razão da violação ao artigo 24, incisos I e II, e §1º, da Constituição Federal, na medida em que estatui hipótese de emendas orçamentárias impositivas não constantes do modelo previsto na Constituição Federal, motivo pelo qual se requer a declaração de sua inconstitucionalidade."
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "III.2. INCONSTITUCIONALIDADE MATERIAL - VIOLAÇÃO AO ARTIGO\nDA\nCONSTITUIÇÃO FEDERAL\n-\nNORMA ESPECÍFICA PARA\nO\nCONGRESSO NACIONAL\n-\nIMPOSSIBILIDADE DE APLICAÇÃO AOS ESTADOS-MEMBROS - INTERPRETAÇÃO RESTRITIVA DAS NORMAS QUE DETERMINAM A EXECUÇÃO OBRIGATÓRIA DE EMENDAS ORÇAMENTÁRIAS - PRINCÍPIO DA SIMETRIA\n\nConsoante sobejamente demonstrado, o artigo 164, §16-B, da Constituição do Estado de Mato Grosso trata como de execução obrigatória as programações orçamentárias decorrentes de emendas de bancada e de bloco parlamentar ao projeto de lei orçamentária anual, no importe de até 0,2% da receita corrente líquida realizada no exercício anterior.\n\nOcorre, no entanto, que a referida sistemática não encontra qualquer paralelo na Constituição Federal, especialmente no artigo 166, §12, o que ofende o princípio da simetria que orienta o sistema orçamentário nacional.\n\nCom efeito, conforme destacado no tópico anterior, o artigo impugnado nesta ação direta de inconstitucionalidade busca traçar algum paralelo com o artigo 166,\n§12, da Constituição Federal, o qual torna obrigatória a execução das programações oriundas de emendas de bancadas de Estados e do Distrito Federal.\n\nReferido artigo, entretanto, é inaplicável aos Parlamentos Estaduais, na medida em que, naturalmente, não há possibilidade de divisão destes Parlamentos em bancadas estaduais. Trata-se, portanto, de norma específica para o Congresso Nacional, que não pode ser objeto de reprodução em Constituições Estaduais.\n\nRealmente, o artigo 166, §12, da Constituição Federal, pelo seu direcionamento específico ao Congresso Nacional, não pode ser interpretado extensivamente para servir de fundamento de validade à norma estadual que busque"
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "estabelecer impositividade às emendas de bancada e de bloco parlamentar no Parlamento Estadual.\n\nEste Supremo Tribunal Federal, importante consignar, já teve a oportunidade de registar que a interpretação das normas que estabelecem a execução obrigatória de emendas parlamentares impositivas deve ser realizada de forma restritiva, na medida em que representa subtração de parcela relevante das atribuições do Poder Executivo, além de limitar a iniciativa legislativa privativa do Chefe do Poder Executivo em matéria orçamentária. É o que se infere, inclusive, do voto proferido pelo Ministro Roberto Barroso nos autos da citada ação direta de inconstitucionalidade n.º\n6.308:\n\nA figura das emendas parlamentares impositivas, de execução obrigatória pelo Poder Executivo, conquanto admitida na Constituição Federal após as ECs nº 86/2015 e nº 100/2019, representa exceção à natureza autorizativa da lei orçamentária, subtraindo relevante parcela de atribuições da Chefia daquele Poder, inclusive em termos de planejamento e gestão pública. Representa também exceção à própria regra da iniciativa legislativa do Poder Executivo nessa matéria, conforme previsto no caput do art. 165 da Constituição Federal.\nEm última análise, o orçamento impositivo é figura que toca no próprio princípio constitucional da separação dos Poderes. Até por essa razão, sua interpretação e aplicação devem dar-se de forma estrita e cautelosa.\n\nCom base nessas premissas, afigura-se evidente que não há qualquer previsão, na Constituição Federal, que permita aos Parlamentos Estaduais a realização de emendas de bancadas e de blocos parlamentares, o que permite a conclusão de que o artigo 164, §16-B, da Constituição do Estado de Mato Grosso ofende, também, o artigo 166 da Constituição Federal em sua integralidade, que prevê o processo legislativo relativo às leis orçamentárias.\n\nCom efeito, esta Suprema Corte possui entendimento sedimentado no sentido de que o sistema orçamentário definido na Constituição Federal constitui norma de reprodução obrigatória pelas Constituições Estaduais, de modo que as regras"
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "respeitantes ao processo legislativo orçamentário devem ser seguidas por estas Constituições por força do princípio da simetria.\n\nDe fato, nos autos da ação direta de inconstitucionalidade n.º 7.060, afirmou-se que \"O Supremo Tribunal Federal tem entendido que normas da Constituição Federal sobre o processo legislativo das leis orçamentárias são de observância obrigatória pelas constituições dos estados. Por conseguinte, as regras introduzidas à CF/88 por meio da edição das Emendas Constitucionais nº 86/15, nº 100/19 e nº 126/22 devem ser observadas pelo legislador estadual, por força do princípio da simetria.\"\n\nJá na ação direta de inconstitucionalidade n.º 6.308 fez-se referência ao \"consolidado entendimento doutrinário e jurisprudencial no sentido de que as normas da Constituição Federal sobre o processo legislativo em geral e sobre o processo legislativo das leis orçamentárias, em especial são de reprodução obrigatória pelas Constituições dos Estados. Nessa matéria, tem aplicabilidade o chamado princípio da simetria.\".\n\nAfigura-se evidente, nessa senda, que a previsão de emendas impositivas de bancada e de bloco parlamentar, constante do artigo 164, §16-B, da Constituição do Estado de Mato Grosso, ofende o processo legislativo orçamentário previsto no artigo 166 da Constituição Federal, o qual é de reprodução obrigatória nas Constituições Estaduais em razão da aplicação do princípio da simetria.\n\nFinalmente, deve-se destacar que não se olvida o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal nos autos do Recurso Extraordinário n.º\n1.301.031/RS, no qual se decidiu que a previsão de emendas de bancada em Lei Orgânica de Município não ofenderia o artigo 166, §12, da Constituição Federal."
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Esse julgado, no entanto, parte, com a devida vênia, de uma premissa equivocada para chegar a essa conclusão, no sentido de que o artigo 166, §12, da Constituição Federal seria destinado aos parlamentares dos Estados e do Distrito Federal, sendo que a ausência de previsão dessa forma de emenda impositiva em Constituição Estadual não poder limitar o poder de auto-organização dos Municípios. É o que se infere de trecho da decisão monocrática secundada pelo acórdão que desproveu o agravo interno interposto pelo Município de Tapes:\n\nAinda que a opção do Constituinte derivado não tenha sido de expressamente incluir no art. 166, § 12, os membros do Poder legislativo municipal, não encontro motivos para restringir a possibilidade de propor emendas impositivas de iniciativa de bancada aos parlamentares dos Estados e do Distrito Federal.\n(...) Saliento, ainda, que o Supremo Tribunal Federal já firmou orientação no sentido de que o constituinte estadual não tem o poder de restringir ou abrandar o poder de auto-organização conferido aos entes municipais nos termos do art.\n29 da Constituição Federal.\n\nOra, é de fácil compreensão que o artigo 166, §12, da Constituição Federal não previu qualquer hipótese de emendas de bancada impositiva para os Parlamentos Estaduais. A norma, naturalmente, objetivou conferir impositividade às programações decorrentes de emendas de bancadas estaduais organizadas no Congresso Nacional, na medida em que não há qualquer possibilidade de previsão de bancadas estaduais nos Parlamentos Estaduais e Municipais em razão de absoluta impossibilidade lógica.\n\nA premissa norteadora do julgado em referência, assim, afigura-se incorreta, o que também torna incorreta a conclusão de que os Municípios poderiam prever a possibilidade de emenda impositiva de bancada em suas Leis Orgânicas, já que, repita-se, não há qualquer possibilidade de aplicação extensiva da regra prevista no artigo 166,\n§12, aos Parlamentos Estaduais e Municipais."
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Afigura-se evidente, nessa senda, que o artigo 164, §16-B, da Constituição do Estado de Mato Grosso é formalmente inconstitucional em razão da violação ao artigo 24, incisos I e II, e §1º, da Constituição Federal, na medida em que estatui hipótese de emendas orçamentárias impositivas não constantes do modelo previsto na Constituição Federal, motivo pelo qual se requer a declaração de sua inconstitucionalidade.\n\nIV. NECESSIDADE DE CONCESSÃO DE MEDIDA CAUTELAR - PRESENÇA\nDE\nSEUS PRESSUPOSTOS\n-\nCRITÉRIO\nDA\nCONVENIÊNCIA\n\nA Lei n.º 9.868/1999 possibilita a concessão de medida cautelar em sede de ação direta de inconstitucionalidade.\n\nA sua concessão pressupõe o preenchimento de dois requisitos: o fumus bonis juris e o periculum in mora. Essa conclusão é albergada pelo Supremo Tribunal Federal, consoante se depreende do seguinte precedente, cujo teor se reproduz, in verbis:\n\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE. MEDIDA CAUTELAR.\nCONSTITUIÇÃO\nDO\nESTADO\nDO\nMARANHÃO.\nEMENDA CONSTITUCIONAL 64/2011. SERVIDORES PÚBLICOS. APOSENTADORIA COMPULSÓRIA AOS 75 ANOS DE IDADE. DENSA PLAUSIBILIDADE JURÍDICA DA ARGUIÇÃO DE INCONSTITUCIONALIDADE. PERIGO NA DEMORA CONFIGURADO. MEDIDA CAUTELAR DEFERIDA COM\nEFEITOS RETROATIVOS. 1- A Constituição Federal de 1988 estabelece, no art.\n40, § 1º, II, a idade de 70 (setenta) anos para a aposentadoria compulsória dos servidores públicos. 2- Trata-se de norma de reprodução obrigatória pelos Estados-membros, que não podem extrapolar os limites impostos pela Constituição Federal na matéria. 3- Caracterizada, portanto, a densa plausibilidade jurídica da arguição de inconstitucionalidade da Emenda à Constituição do Estado do Maranhão 64/2011, que fixou a idade de 75 (setenta e cinco) anos para a aposentadoria compulsória dos servidores públicos estaduais e municipais. 4- Do mesmo modo, configura-se o periculum in mora, na medida em que a manutenção dos dispositivos impugnados acarreta grave insegurança jurídica.\n5- Medida cautelar deferida com efeito ex tunc. (ADI 4698 MC, Relator(a):"
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Min. JOAQUIM BARBOSA, Tribunal Pleno, julgado em 01/12/2011, PROCESSO ELETRÔNICO DJe-080 DIVULG 24-04-2012 PUBLIC 25-04-2012).\n\nRequisitos que se encontram presentes no caso em apreço.\n\nRealmente, o fumus bonis juris (fundamentação relevante) encontra-se presente de forma evidente, visto que, conforme destacado nos tópicos anteriores, o artigo 164, §16-B, da Constituição Estadual é formal e materialmente inconstitucional em razão da violação aos artigos 24, incisos I e II, e §1º, e 166 da Constituição Federal.\n\nDe fato, os vícios de inconstitucionalidade material e formal encontram-se presentes porquanto o artigo objeto desta ação direta de inconstitucionalidade a) criou nova hipótese de execução de programação decorrente de emenda parlamentar impositiva, desconsiderando a competência legislativa da União para editar normas gerais sobre direito financeiro e orçamentário; b) violou o artigo 166, §12, da Constituição Federal, o qual possui aplicação restrita ao Congresso Nacional, haja vista a impossibilidade lógica de os Parlamentos Estaduais dividirem-se em bancadas estaduais; e c) ofendeu o processo legislativo orçamentário previsto no artigo 166 da Constituição Federal, norma de reprodução obrigatória nas Constituições Estaduais em razão do princípio da simetria, ao incluir essa nova modalidade de emenda orçamentária impositiva.\n\nDe outra banda, o requisito do periculum in mora também se afigura presente, na medida em que a aplicação do artigo impugnado comprometerá o planejamento e a execução orçamentária do Poder Executivo do Estado de Mato Grosso em até 0,2% de sua receita corrente líquida, especialmente porquanto não há qualquer garantia de que as emendas impositivas previstas neste artigo se insiram no contexto do planejamento que conduziu à elaboração das leis orçamentárias estaduais."
+    },
+    {
+      "page": 12,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Em decorrência da escassez dos recursos públicos, existe, naturalmente, um custo de oportunidade na sua utilização, de modo que a alocação desse percentual em programações oriundas de emendas impositivas impedirá que o valor correspondente a esse montante seja destinado a programações decorrentes do planejamento orçamentário realizado pelo Poder Executivo.\n\nA urgência, ademais, é ínsita em decorrência da frontal violação à Constituição Federal. Não se pode cogitar de situação consolidada inconstitucional, que poderia servir de fundamento ao indeferimento do pedido em apreço. Violações à Constituição, assim, devem ser prontamente rechaçadas, a fim de que se retorne ao estado de normalidade institucional.\n\nNesse sentido é a jurisprudência do Supremo Tribunal Federal, que concede medidas cautelares com fundamento no critério de conveniência, já que uma situação inconstitucional é perniciosa ao sistema de direito positivo, mormente ao princípio da segurança jurídica. Com efeito:\n\nAção direta de inconstitucionalidade. Medida liminar. Inciso X do parágrafo único do artigo 118 da Constituição do Estado do Rio de Janeiro. - Não há dúvida de que há relevância jurídica nas questões de saber se, em face da atual Constituição, persiste a necessidade da observância pelos Estados das normas federais sobre o processo legislativo nela estabelecido, bem como se o preceito do § 7º do artigo 144 da Carta Magna Federal, o qual alude a lei ordinária, se aplica à Lei Orgânica da Polícia Civil Estadual. - Dada a relevância jurídica dessas questões, que envolvem o alcance do Poder Constituinte Decorrente que é atribuído aos Estados, é possível, como se entendeu em precedentes desta Corte, utilizar-se do critério da conveniência, em lugar do periculum in mora, para a concessão de medida liminar, ainda quando o dispositivo impugnado já esteja em vigor há anos. Pedido de liminar deferido, para suspender, ex nunc e até a decisão final desta ação, a eficácia do inciso X do\nparágrafo único do artigo 118 da Constituição do Estado do Rio de Janeiro. (ADI 2314 MC, Relator(a): Min. MOREIRA ALVES, Tribunal Pleno, julgado em\n25/04/2001, DJ 08-06-2001 PP-00005 EMENT VOL-02034-01 PP-00196).\n(Grifou-se).\n\nAssim, mesmo que não se entenda pela existência de perigo na demora, o"
+    },
+    {
+      "page": 13,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "que se admite apenas para efeitos de argumentação, impende consignar que o critério da conveniência permite a concessão da medida cautelar ora requerida, visto que, repita-se, uma situação patente de inconstitucionalidade, como a descrita na presente ação declaratória, afigura-se extremamente perniciosa ao nosso sistema jurídico.\n\nEm consideração ao exposto, requer-se a concessão de medida cautelar para que se suspenda a vigência do artigo 164, §16-B, da Constituição do Estado de Mato Grosso.\nIV. PEDIDOS\n\nEm consideração ao exposto, o Governador do Estado de Mato Grosso requer:\n\na) o recebimento da presente ação declaratória de inconstitucionalidade, visto que preenchidos os requisitos dispostos no artigo 3º da Lei n.º 9.868/1999;\n\nb) a concessão de medida cautelar para que se suspenda a vigência do artigo 164, §16-B, da Constituição do Estado de Mato Grosso;\n\nc) a requisição de informações à Assembleia Legislativa do Estado de Mato Grosso, nos termos do artigo 6º da Lei n.º 9.868/99;\n\nd) a notificação do Advogado-Geral da União e da Procuradora-Geral da República, nos termos do artigo 8º da Lei n.º 9.868/99;\n\ne) ao final, o julgamento de procedência dos pedidos deduzidos na presente ação declaratória de inconstitucionalidade, a fim de que:\n\ne.1) declare-se a inconstitucionalidade formal do artigo 164, §16-B,"
+    },
+    {
+      "page": 14,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Constituição do Estado de Mato Grosso, inclusive com a atribuição de efeito ex tunc, nos termos do artigo 24 da Lei n.º 9.868/1999, em razão da violação ao artigo 24,\nincisos I e II, e §1º, da Constituição Federal;\n\ne.2) subsidiariamente, declare-se a inconstitucionalidade material do artigo 164, §16-B, Constituição do Estado de Mato Grosso, inclusive com a atribuição de efeito ex tunc, nos termos do artigo 24 da Lei n.º 9.868/1999, em razão da violação ao artigo 166 da Constituição Federal;\n\nTermos em que pede e espera deferimento.\n\nCuiabá-MT, 15 de abril de 2025.\n\nMAURO MENDES\nGovernador do Estado de Mato Grosso\n\nFRANCISCO DE ASSIS DA SILVA LOPES\nProcurador-Geral do Estado de Mato Grosso\n\nLUCAS SCHWINDEN DALLAMICO\nSubprocurador-Geral dos Tribunais Superiores\n\nDANIEL GOMES SOARES DE SOUSA\nProcurador do Estado de Mato Grosso\nFRANCISCO DE ASSIS DA SILVA LOPES:03922815898\nAssinado de forma digital por\nFRANCISCO DE ASSIS DA SILVA LOPES:03922815898\nDados: 2025.04.16 09:59:01 -04'00'\nMAURO MENDES FERREIRA:304362\n30100 Assinado de forma digital por MAURO MENDES\nFERREIRA:30436230100\nDados: 2025.04.16 11:15:52 -04'00'"
+    }
+  ]
+}

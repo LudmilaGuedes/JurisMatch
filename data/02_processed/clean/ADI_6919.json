@@ -1,0 +1,308 @@
+{
+  "id": "ADI_6919",
+  "arquivo_pdf": "ADI_6919.pdf",
+  "sha256": "b86f4a78c589a4a0c0e4fdb6dff3fbb56e1c433052f5026939e36f36438bf9ca",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:29:39",
+  "resumo": {
+    "paginas": 35,
+    "paginas_digital": 35,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 60593,
+    "chars_clean": 54619,
+    "reducao_pct": 9.9,
+    "linhas_removidas": 102,
+    "limpeza_detalhe": {
+      "cabecalho_rodape": 68,
+      "hifen_mantido": 9,
+      "hifenizacao_unida": 0,
+      "numero_pagina": 34
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "SBS Quadra 2 - Bloco E - Ed. Prime Business Convenience - Sala 1504 - CEP: 70.070-120 - Brasília-DF - Tel: 61.33646300/33645610/981189942\nEXCELENTÍSSIMO SENHOR MINISTRO LUIZ FUX, PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL\n\nDistribuição por Prevenção - ADIs 6305, 6298, 6299 e 6300\n\nASSOCIAÇÃO NACIONAL DOS MEMBROS\nDO MINISTÉRIO PÚBLICO - CONAMP, entidade de classe de âmbito nacional, com sede no Setor Hoteleiro Sul - SHS, Quadra 6, Conjunto \"A\", Complexo Brasil 21, Bloco \"A\", salas 305/306, Brasília, Distrito Federal, CEP n.º 70.322- 915 (DOCs. 01 e 02), vem, respeitosamente, perante Vossa Excelência, por seus procuradores (DOC. 03), com fundamento nos artigos 102, I, a, e 103, IX, ambos da Constituição Federal de 1988, ajuizar\n\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE\ncom pedido de medida liminar\n\nem relação ao § 1º do art. 3-B, do Decreto-Lei n. 3.689/1941 (CPP), inserido pela Lei nº 13.964/2019; e § 2º e § 4º do art. 8-A, da Lei nº 9.296/96, acrescidos também pela Lei nº 13.964/2019 (DOC.04), pelos fundamentos a seguir expostos."
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "DA DISTRIBUIÇÃO POR PREVENÇÃO\n\nA presente Ação Direta de Inconstitucionalidade - ADI - refere-se a normas da Lei nº 13.964, de 24 de dezembro de 2019, diploma legal esse que contém outros dispositivos questionados em ADIs ajuizadas nesse colendo Supremo Tribunal Federal.\n\nCom efeito, a própria CONAMP propôs a ADI 6305, que diz respeito a várias outras normas atinentes à mesma Lei 13.964/2019. Ainda sobre disposições da mesma Lei há as ADIs de nº 6298, 6299 e 6300. Todas têm Vossa Excelência como Relator e, em decisão conjunta proferida em janeiro de 2020, houve concessão de medida cautelar para suspender a eficácia de várias disposições questionadas.\n\nÉ de se recordar que a Lei nº 13.964/2019 foi sancionada com vetos recentemente apreciados pelo Congresso Nacional, que rejeitou vários deles, que constituem objeto da presente ADI.\n\nEmblemática demonstração da existência de prevenção é que dentre os dispositivos vetados e objeto desta ADI se encontra o art.3º-B, do CPP, cuja eficácia já está suspensa por conta da mencionada decisão cautelar.\n\nAssim, considerando que esta ADI possui coincidência de objeto com as ADIs 6305, 6298, 6299 e 6300, eis que todas questionam a constitucionalidade de diferentes disposições da Lei nº 13.964/19 e se encontram sob a relatoria de Vossa Excelência, incide, no caso, a regra da distribuição por prevenção, conforme disposto no art.77 B, do Regimento Interno dessa Corte Suprema (Art.77-B: \"Na ação direta de inconstitucionalidade, na ação direta de inconstitucionalidade por omissão, na ação declaratória de"
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "constitucionalidade e na arguição de descumprimento de preceito fundamental, aplica-se a regra de distribuição por prevenção quando haja coincidência total ou parcial de objetos\").\n\nDA LEGITIMIDADE ATIVA DA ASSOCIAÇÃO PROPONENTE\n\nA Associação Nacional dos Membros do Ministério Público - CONAMP é uma entidade de classe de âmbito nacional \"integrada pelos membros do Ministério Público da União e dos Estados, ativos e inativos, que tem por objetivo defender as garantias, prerrogativas, direitos e interesses, diretos e indiretos, da Instituição e dos seus integrantes, bem como o fortalecimento dos valores do Estado Democrático de Direito\", na dicção do art.\n1º do Estatuto, devidamente registrado.\n\nEssa colenda Suprema Corte já reconheceu por diversas vezes a legitimidade ativa da CONAMP, como entidade de classe de âmbito nacional, para a propositura de ação direta de inconstitucionalidade, nos termos do art.\n103, IX, da Constituição Federal - CF.\n\nInquestionável, portanto, a legitimidade ativa da associação proponente.\n\nDA PERTINÊNCIA TEMÁTICA\n\nEntre as finalidades da CONAMP estão a de defender \"os direitos, garantias, autonomia, prerrogativas, interesses e reivindicações dos membros do Ministério Público da União e dos Estados, ativos e inativos\", \"o fortalecimento do Ministério Público, instituição permanente, essencial à função jurisdicional do Estado, incumbida da defesa da ordem jurídica, do regime democrático e dos"
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "interesses sociais e individuais indisponíveis\" e \"os princípios e garantias institucionais do Ministério Público, sua independência e autonomia funcional, administrativa, financeira e orçamentária, bem como os predicamentos, as funções e os meios previstos para o seu exercício\", postas no art. 2º, I a III, de seu Estatuto.\n\nOra, as disposições legais impugnadas constituem proibição de videoconferência de audiência de custódia em qualquer circunstância e interferem na produção de provas a serem produzidas em ação penal pública de que o Ministério Público é titular privativo, além de contrariarem os princípios da isonomia, da razoabilidade e da proporcionalidade.\n\nDessa forma, está preenchido o requisito da pertinência temática pela CONAMP para o ajuizamento da presente ação, assim como reconhecida na ADI 6305 (ajuizada pela CONAMP contra dispositivos da Lei 13.964/2019.\n\nDISPOSITIVOS IMPUGNADOS\n\nEis as três disposições legais cujos vetos foram rejeitados pelo Congresso Nacional e, agora, são objeto desta ação direta:\n\n\"Art. 3º O Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), passa a vigorar com as seguintes alterações:\nart. 3º-B- (...)\n§1º - O preso em flagrante ou por força de mandado de prisão provisória será encaminhado à presença do juiz de garantias no prazo de 24 (vinte e quatro) horas, momento em que se realizará audiência com a presença do Ministério Público e da Defensoria Pública ou de advogado constituído, vedado o emprego de videoconferência."
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Art. 7º A Lei nº 9.296, de 24 de julho de 1996, passa a vigorar acrescida dos seguintes arts. 8º-A e 10-A:\nArt.8º-A - (...)\n§2º A instalação do dispositivo de captação ambiental poderá ser realizada, quando necessária, por meio de operação policial disfarçada ou no período noturno, exceto na casa, nos termos do inciso XI do caput do art. 5º da Constituição Federal.\n(...)\n§4º A captação ambiental feita por um dos interlocutores sem o prévio conhecimento da autoridade policial ou do Ministério Público poderá ser utilizada, em matéria de defesa, quando demonstrada a integridade da gravação.\"\n\nDA INCONSTITUCIONALIDADE MATERIAL DOS DISPOSITIVOS IMPUGNADOS\n\nA) Art.3º-B, §1º, do CPP: a inconstitucional vedação de videoconferência em audiência de custódia.\n\nO Congresso Nacional havia acrescentado o art.3º-B, §1º, do Código de Processo Penal (CPP). Todavia, o §1º, acima transcrito, foi vetado pelo Excelentíssimo Senhor Presidente da República. Publicada a Lei nº\n13.964/2019, sem o parágrafo vetado, o art. 3º-B teve sua eficácia suspensa por decisão cautelar de Vossa Excelência. Rejeitado o veto, também o aludido\nparágrafo há de ser suspenso, não só porque o artigo a que ele se vincula está com eficácia suspensa, mas, também, pelas razões a seguir expostas."
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Como visto, o art. 3º-B, § 1º, do CPP, incluído pela Lei nº\n13.964/2019, passa a vedar, sem qualquer exceção, o emprego de videoconferência em audiências de custódia.\n\nA inconstitucionalidade da vedação do uso de videoconferência em audiência de preso em flagrante ou decorrente de prisão provisória perante o juiz de garantia é patente, eis que ofende diretamente o disposto no art. 5º, LXXVIII, da Constituição da República Federativa do Brasil, que assegura a todos \"a duração razoável do processo e os meios que garantam a celeridade de sua tramitação\".\n\nAdemais, tal vedação está em confronto com a legislação infraconstitucional vigente entre nós, mormente com várias disposições do CPP, além de contrariar recomendações de organismos internacionais, como a Comissão Interamericana de Direitos Humanos e o Comitê de Ministros do Conselho da Europa. Está, também, divorciado do entendimento que tem prevalecido nos Conselhos Nacionais do Ministério Público e de Justiça.\n\nAqui, os advogados signatários desta petição de ADI pedem vênia para transcrever manifestação oriunda da CONAMP a respeito da inconstitucionalidade da vedação do uso de videoconferência, que havia sido objeto do veto presidencial:\n\n\"Nos termos do art. 792 do CPP, a regra é a realização de audiências, sessões e atos processuais na sede do juízo ou no tribunal onde atua o órgão jurisdicional. Embora à época da publicação do CPP (13/10/1941) não houvesse como se pensar em videoconferência, fato é que, em princípio, audiências, sessões e atos processuais devem ser praticados presencialmente."
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Nada obstante, a rejeição do veto é problemática porque, em passagem alguma, o CPP proíbe o emprego de videoconferência. Ao contrário: ainda que paulatinamente, o CPP vem expandindo as hipóteses de uso da videoconferência, o que, como bem lembra Renato Brasileiro de Lima em sua obra Manual de Processo Penal (8. ed. rev., Salvador:\nEditora JusPodivm, 2020, p. 755), ocorreu com grande força por obra da Lei n° 11.900/09.\nCom esteio no art. 185, § 2º, do CPP (que cuida do interrogatório da pessoa acusada que esteja presa), admite-se o uso da videoconferência em situações excepcionais e justificáveis, o que, inclusive, já foi referendado pela 1ª Turma da Suprema Corte no HC 149083, Rel. Min.\nMarco Aurélio. No art. 185, § 8º, nota-se ser possível a utilização do sistema para a prática de outros atos processuais, caso o acusado esteja preso, como acareação, reconhecimento de pessoas e coisas, e inquirição de testemunha ou tomada de declarações do ofendido.\nPor sua vez, com fulcro no art. 217, é possível a oitiva da testemunha por videoconferência \"se o juiz verificar que a presença do réu poderá causar humilhação, temor, ou sério constrangimento à testemunha ou ao ofendido, de modo que prejudique a verdade do depoimento\".\nPor fim, o art. 222, § 3º (que trata da oitiva da testemunha que morar fora da comarca do juiz - ou em outro país, por analogia), autoriza o emprego do sistema videoconferência, com a diferença que, neste caso, o uso do sistema não é excepcional, podendo, assim, vir a ser a práxis da Unidade Judiciária. Observe-se, pois, que a videoconferência tem lugar no processo penal em mais do que meras duas situações - como fez crer, equivocadamente, a mensagem de veto."
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Portanto, mesmo estando presa a pessoa imputada, admite-se o uso da videoconferência para o seu interrogatório ou realização de outros atos processuais. A finalidade, por óbvio, não é prejudicar a situação processual do custodiado. O avanço tecnológico permite que, por exemplo, caso alguma enfermidade da pessoa presa impeça o seu deslocamento até a sede do juízo (art. 185, § 2º, II, do CPP), o ato processual seja devidamente realizado, sem remarcação da audiência, evitando-se, por conseguinte, uma indesejada demora na resolução do caso penal ou qualquer outro prejuízo ao réu. Não há razão para temer os benefícios oferecidos pela videoconferência, especialmente em um país onde processos criminais tramitam, em média, por 4 anos e 1 mês apenas no 1º grau de jurisdição (vide página 196 do relatório \"Justiça em Números 2020\", confeccionado pelo Conselho Nacional de Justiça. Disponível em:\nhttps://www.cnj.jus.br/wp-content/uploads/2020/08/WEB-V3-Justi%C3%A7a-em-N%C3%BAmeros-2020-atualizado-em-25-08- 2020.pdf).\nEm suma: (i) em regra, os atos processuais da seara penal devem ser praticados presencialmente; (ii) até a rejeição do veto, o CPP não proibia em momento algum o uso de videoconferência, vindo, em verdade, a contemplar diversas situações a justificar o seu uso; e (iii) o fato de a pessoa imputada se encontrar presa não infirma o uso da videoconferência: ao contrário, é exatamente em momentos assim que a ferramenta tecnológica se mostra extremamente necessária, dada a urgência que a situação processual do réu demanda, como na hipótese do\nart. 185, § 2º, II, do CPP, exemplificada alhures.\nOu seja, o dispositivo ora questionado é incoerente com o conjunto de regras que trata do assunto no atual CPP."
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "A.iii.\nDesconformidade com posições da Comissão Interamericana de Direitos Humanos, Comitê de Ministros do Conselho da Europa, Conselho Nacional de Justiça e Conselho Nacional do Ministério Público.\n\nEmbora a Corte Interamericana de Direitos Humanos nunca tenha enfrentado diretamente o tema da videoconferência (conforme ANDRADE, Mauro Fonseca; ALFLEN, Pablo Rodrigo. Audiência de custódia no processo penal brasileiro, Porto Alegre: Livraria do Advogado, 2016. p.63), a Comissão Interamericana de Direitos Humanos\n(CIDH), ao final de seu relatório informativo sobre o emprego da prisão preventiva nas Américas, recomenda o emprego da videoconferência quando a audiência para aplicação da medida restar inviabilizada (https://www.oas.org/pt/cidh/ppl/pdfs/relatorio-pp-2013-pt.pdf).\nPor sua vez, o Comitê de Ministros do Conselho da Europa em sua Rec (2006) 13 estabeleceu que: \"A person whose remand in custody ins being saught shall have the right to appear at remand proceedings. Under certain conditions this requirement may be satisfied through the use of appropriate video links\" (em tradução livre: \"A pessoa presa tem o direito de comparecer pessoalmente a audiência. Em determinadas condições o direito ao comparecimento pessoal pode ser substituído pelo uso de video links\").\nNessa mesma linha, tanto o CNJ quanto o CNMP têm admitido e adotado uma postura restritiva quanto à admissão do emprego da videoconferência em audiências de custódia (A Resolução n. 329, de 30 de julho de 2020, do Conselho Nacional de Justiça dispõe em seu art. 19"
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "que: \"Admite-se a realização por videoconferência das audiências de custódia previstas nos artigos 287 e 310, ambos do CPP, e na Resolução CNJ 213/2015, quando não for possível a realização, em 24 horas, de forma presencial. §1º Será garantido o direito de entrevista prévia e reservada entre o preso e advogado ou defensor, tanto presencialmente quanto por videoconferência, telefone ou qualquer outro meio de comunicação. §2º Para prevenir qualquer tipo de abuso ou constrangimento ilegal, deverão ser tomadas as seguintes cautelas: I - deverá ser assegurada privacidade ao preso na sala em que se realizar a videoconferência, devendo permanecer sozinho durante a realização de sua oitiva, observada a regra do §1º e ressalvada a possibilidade de presença física de seu advogado ou defensor no ambiente; II - a condição exigida no inciso I poderá ser certificada pelo próprio Juiz, Ministério Público e Defesa, por meio do uso concomitante de mais de uma câmera no ambiente ou de câmeras 360 graus, de modo a permitir a visualização integral do espaço durante a realização do ato; III - deverá haver também uma câmera externa a monitorar a entrada do preso na sala e a porta desta; e IV - o exame de corpo de delito, a atestar a integridade física do preso, deverá ser realizado antes do ato\").\nA decisão legislativa em vedar de forma absoluta o seu emprego é, portanto, dissonante do sistema do CPP, contrária às posições da Comissão Interamericana de Direitos Humanos (CIDH), do Comitê de Ministros do Conselho da Europa e aos entendimentos do CNJ e CNMP.\n\nA.iv. Da violação à autonomia orçamentária e administrativa do Ministério Público e do Poder Judiciário."
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Fixadas as premissas acima e voltando o foco agora às razões da inconstitucionalidade, passa-se ao estudo mais detido da dinâmica envolvendo a audiência de custódia, o papel que a videoconferência desempenha nesse ambiente e as consequências da novel vedação para as gestões administrativa e orçamentária, tanto do Ministério Público quanto do Judiciário.\nSegundo o relatório \"Justiça em Números 2020\", produzido pelo Conselho Nacional de Justiça, em um universo de 15.552 juízes de Direito, constatou-se haver 4.121 magistrados com acúmulo de atividades (26,49%), isto é, desempenhando ao menos duas funções (página 16 do relatório. disponível em: https://www.cnj.jus.br/wp-content/uploads/2020/08/WEB-V3-Justi%C3%A7a-em-N%C3%BAmeros-2020-atualizado-em-25-08-2020.pdf).\nSignifica dizer que um a cada quatro juízes de Direito exerce, além de sua competência natural, outro mister a ele conferido. Lido de outro modo, há um déficit de juízes de Direito no Brasil na faixa de 26,49%, o que, certamente, demanda tempo e gasto público para a realização de concursos. No Ministério Público, o número de membros é ainda menor: segundo o anuário \"Ministério Público, um retrato 2020\", o Ministério Público conta atualmente com\n12.915 membros (https://www.cnmp.mp.br/portal/institucional/comissoes/comissao-de-planejamento-estrategico/atuacao/indicadores-de-gestao-e-atuacao-funcional-do-ministerio-publico-brasileiro/ministerio-publico-um-retrato).\nDada a exiguidade do prazo de 24h para a realização da audiência de custódia, as exigências da Resolução nº 213/2015 do CNJ e a magnitude do direito em jogo, a audiência de apresentação possui"
+    },
+    {
+      "page": 12,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "prevalência na pauta de trabalho de membros do Ministério Público e magistrados. Portanto, sem maiores divagações, resta evidente que um número significativo de membros do Ministério Público e do Poder Judiciário, com atribuição e competência criminal para a realização de audiência de custódia, possui pauta de trabalho assoberbada na gestão do tempo em função das exigências da audiência de apresentação.\nO dado mais preocupante, contudo, não é o que se acabou de expor. Mais do que um grande volume de trabalho, teme-se a crescente piora da saúde física e mental de tais agentes políticos, pois a nefasta combinação entre o número de audiências de custódia e o deslocamento entre comarcas (uma exigência que a presença física impõe na maioria dos casos de acúmulo de atividades) leva promotores e juízes do país inteiro ou a não fazerem todas as audiências de apresentação, ou a fazê-las e experimentarem um extremo desgaste físico e mental.\nO ponto nevrálgico, aqui, não é isoladamente o déficit de membros do Ministério Público ou de juízes, a necessidade de novos concursos públicos para as carreiras, o acúmulo de atribuições/competências, o deslocamento entre comarcas, ou o grande de número de audiências de custódia. O problema reside na impossibilidade, agora imposta pelo Legislativo, de o Ministério Público e o Poder Judiciário gerirem os fatores acima, enfrentá-los racionalmente e proporcionar a melhor solução prática. Neste exato momento, não se pode sequer autorizar o uso excepcional de videoconferência em casos de extrema urgência, pois a rejeição do veto proíbe expressamente o uso da ferramenta tecnológica.\nAssim, o primeiro cerne da questio iuris constitucional que esta entidade de classe nacional apresenta ao Egrégio Supremo Tribunal Federal tem como foco os prejuízos à gestão administrativa e orçamentária"
+    },
+    {
+      "page": 13,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "do Ministério Público e do Poder Judiciário impostos pela rejeição do veto, ao proibir a realização de videoconferência em audiências de custódia.\nTome-se o seguinte exemplo, ilustrativo deste argumento e também aplicável ao Ministério Público. Determinado juiz de Direito, titular de Vara Única, precisa se ausentar imediatamente por motivos médicos. O Tribunal de Justiça precisará designar outro magistrado para, cumulativamente, funcionar nos processos de competência do juiz recém-licenciado. Durante o afastamento, surge a necessidade de realização na comarca de uma única audiência de custódia. Dada a prevalência da audiência de apresentação, o magistrado substituto terá 24 horas para se deslocar até a comarca titularizada pelo substituído, preparar a audiência de custódia e realizá-la. Naturalmente, terá de remarcar audiências e outros compromissos da Vara que titulariza, a fim de honrar a nova demanda de trabalho, de natureza prevalente, como dito há pouco.\nPor óbvio, o número de remarcações, assim como o montante de diárias e passagens que o Tribunal de Justiça precisará pagar ao substituto, é diretamente proporcional à quantidade de tempo que o deslocamento exigirá. Houvesse a possibilidade de videoconferência em casos excepcionais, o magistrado substituto não precisaria cancelar compromissos da Vara que titulariza, nem faria jus à pecúnia decorrente do deslocamento físico.\nO mesmo ocorrerá em relação ao membro do Ministério Público cuja participação no ato condiciona a sua validade.\nEm Estados como Amazonas, Minas Gerais e Pará, por exemplo, o gasto público é consideravelmente maior, diante das dimensões geográficas de tais Unidades da Federação e a peculiar divisão territorial"
+    },
+    {
+      "page": 14,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "de seus Municípios. Minas Gerais, por exemplo, conta com 853 Municípios. No Amazonas e no Pará, por sua vez, o deslocamento entre comarcas é extenso e comumente demanda o uso de dois ou mais meios de transporte, inclusive fluvial. Outros Estados possuem particularidades igualmente desafiadoras para a gestão do Ministério Público e do Judiciário.\nNão se argumenta que o uso da videoconferência deva ser a regra.\nComo dito alhures, o art. 792 do CPP determina que, ordinariamente, a realização de audiências, sessões e atos processuais deve ocorrer na sede do juízo ou no tribunal onde atua o órgão jurisdicional. Contudo, é absolutamente inconstitucional engessar o Ministério Público e o Poder Judiciário num dos tópicos mais recentes e palpitantes para a gestão administrativa e orçamentária: a rápida e escorreita realização das audiências de custódia. Resta flagrante a violação constitucional à autonomia administrativa e orçamentária do Ministério Público (art. 127, §§ 2º e 3º, da CRFB) e do Poder Judiciário (art. 99 da CRFB).\nDispõe o art. 113 do Ato das Disposições Constitucionais Transitórias da CRFB que \"A proposição legislativa que crie ou altere despesa obrigatória ou renúncia de receita deverá ser acompanhada da estimativa do seu impacto orçamentário e financeiro\". Segundo o Pleno da Suprema Corte, ao apreciar a ADI 5816, Rel. Min. Alexandre de Moraes:\nA Emenda Constitucional 95/2016, por meio da nova redação do\nart. 113 do ADCT, estabeleceu requisito adicional para a validade formal de leis que criem despesa ou concedam benefícios fiscais, requisitos esse"
+    },
+    {
+      "page": 15,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "que, por expressar medida indispensável para o equilíbrio da atividade financeira do Estado, dirige-se a todos os níveis federativos.\nEm complemento, o art. 17, § 1º da Lei de Responsabilidade Fiscal, determina que \"Os atos que criarem ou aumentarem despesa de que trata o caput deverão ser instruídos com a estimativa prevista no inciso I do art.\n16 e demonstrar a origem dos recursos para seu custeio\". Por fim, o art.\n125 da Lei de Diretrizes Orçamentárias 2021 (Lei nº 14.116/2020) preceitua que:\n\nArt. 125. As proposições legislativas e as suas emendas, observado o disposto no art. 59 da Constituição, que, direta ou indiretamente, importem ou autorizem redução de receita ou aumento de despesa da União deverão ser instruídas com demonstrativo do impacto orçamentário-financeiro no exercício em que devam entrar em vigor e nos dois exercícios subsequentes.\n\nDito isso, questiona-se: a novel proibição imposta pelo Legislativo, com graves consequências à gestão administrativa e orçamentária do Parquet e do Poder Judiciário, veio acompanhada da necessária estimativa de impacto orçamentário e financeiro? A resposta nos parece negativa.\nTamanha a relevância do que se disse, classifica-se a autonomia administrativa e orçamentária do Ministério Público e do Poder Judiciário como reforço à independência dessas instituições e pressuposto do direito fundamental à tutela judicial efetiva. Especificamente sobre o Parquet, Uadi Lammêgo Bulos adverte que:\n\n\"Sem autonomia funcional e administrativa, o Ministério Público não passaria de um cartório do Poder Executivo. Ao contrário disso, o Parquet"
+    },
+    {
+      "page": 16,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "logrou, com a Carta de 1988, capacidade de autodeterminação, podendo dirigir suas próprias ações, sem ingerências externas.\" (BULOS, Uadi Lammêgo. Curso de Direito Constitucional. 8. ed., São Paulo: Saraiva, 2014, p. 1405.)\n\nPor sua vez, no tocante ao Poder Judiciário, salienta a doutrina:\n\n\"O art. 99 da Constituição dispõe expressamente sobre a garantia da autonomia administrativa e financeira dos órgãos judiciais. Esse artigo assim compõe, em conjunto com os arts. 95 e 96, o plexo de disposições constitucionais que tratam das garantias institucionais do Poder Judiciário.\nEnquanto o art. 95 trata das garantias funcionais da magistratura e o art. 96 dispõe sobre as garantias da autonomia orgânico-administrativa dos órgãos judiciais, o art. 99 cuida das garantias da autonomia financeira dos tribunais.\nTais garantias são imprescindíveis para a independência e imparcialidade dos órgãos jurisdicionais e, dessa forma, são pressupostos de efetividade do direito fundamental à tutela judicial efetiva.\n(STRECK, Lenio L.; MENDES, Gilmar F. Comentário ao artigo\n99. In: CANOTILHO, J. J. Gomes; MENDES, Gilmar F.; SARLET, Ingo W.; STRECK, Lenio L. (Coords.). Comentários à Constituição do Brasil. São Paulo: Saraiva/Almedina, 2013, p. 2840\n\nA.v. Da violação à proporcionalidade: os efeitos práticos da proibição absoluta da audiência de custódia por videoconferência - prejuízo aos direitos da pessoa presa.\n\nA realização da audiência de custódia por videoconferência, exclusivamente em situações excepcionais, passou a ser admitida e"
+    },
+    {
+      "page": 17,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "realizada desde que presente uma das hipóteses art. 185, §2º do CPP, sempre que em condições de assegurar proteção aos direitos fundamentais do preso.\nNeste sentido, aliás, o Enunciado nº32 do Conselho Nacional de Procuradores-Gerais dos Ministérios Públicos dos Estados e da União\n(CNPG) e do Grupo Nacional de Coordenadores de Centro de Apoio Criminal (GNCCRIM):\nEm razão do veto presidencial ao §1º do art. 3º-B (que proibia a realização do ato por videoconferência), nos casos em que se faça inviável a realização presencial do ato (devidamente fundamentada) faculta-se o uso de meios tecnológicos.\nA medida, inclusive chegou a ser objeto de apreciação pela 2ª Turma deste E. Supremo Tribunal Federal no julgamento do HC nº\n186.421/SC:\n\n(...) a pandemia causada pelo novo coronavírus não afasta a imprescindibilidade da audiência de custódia, que deve ser realizada, caso necessário, por meio de videoconferência, diante da ausência de lei em sentido formal que proíba o uso dessa tecnologia. A audiência por videoconferência, sob a presidência do Juiz, com a participação do autuado, de seu defensor constituído ou de Defensor Público, e de membro do Ministério Público, permite equacionar as medidas sanitárias de restrição decorrentes do contexto pandêmico com o direito subjetivo do preso de participar de ato processual vocacionado a controlar a legalidade da prisão.\n(STF, 2ª Turma, HC 186.421/SC, Rel. Min. Edson Fachin, julgado em 20.10.2020)"
+    },
+    {
+      "page": 18,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Logo, consolidou-se entendimento institucional, doutrinário, albergados pela jurisprudência desta E. Corte Suprema, que a prioridade deve ser a realização da audiência de custódia, enquanto instrumento essencial à preservação dos direitos da pessoa presa.\nIsso por que, excepcionalmente, entre as opções de (a) não se realizar o ato; (b) realizá-lo, justificada e excepcionalmente, por videoconferência, optou-se por este segundo caminho, justamente visando assegurar os direitos do preso.\nAssim, a vedação absoluta ora questionada deixa de ser adequada à finalidade da própria audiência de custódia, que é a preservação dos direitos da pessoa presa. Imagine-se uma situação em que o magistrado e o membro do Ministério Público estejam incumbidos da prática de audiências de custódia em localidades distintas, ambas sujeitas por disposição legal ao mesmo prazo de 24h para sua efetivação.\nA impossibilidade absoluta de o ato ser praticado por videoconferência acabará necessariamente impondo a escolha de inobservância do prazo e vulnerabilidade dos direitos de um dos custodiados, que terá que aguardar mais tempo para sua apresentação em juízo. Ora, com a observância de determinadas condições, ambos os casos podem ser atendidos, no prazo legal, sem que a finalidade do ato seja prejudicada.\nA opção da proibição absoluta, portanto, acaba se mostrando não apenas inadequada à finalidade da regra, mas uma forma de fragilizar o seu objetivo, arriscando tratamentos díspares e colocando em risco a relativização injustificada de direitos fundamentais.\nO legislador possui limitada liberdade de conformação na atividade legiferante, devendo sempre que exercê-la em conformidade com as"
+    },
+    {
+      "page": 19,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "exigências da proporcionalidade, de maneira a fazer com que os meios por ele escolhidos sejam adequados à finalidade da norma.\nCuida-se de um reconhecido subprincípio da proporcionalidade, o de que o meio escolhido deve ser adequado para o fim colimado; no caso, é evidente a inadequação da proibição, a qual inviabilizará a realização das audiências de custódia no prazo determinado pelo legislador e, assim, vulnerará o direito da pessoa presa, deixando de se cumprir justamente com o objetivo último do próprio ato.\nA escolha de meio idôneo à finalidade da norma tem sido objeto de rigoroso e criterioso escrutínio por parte deste E. Supremo Tribunal Federal, inclusive no âmbito do Direito Penal e Processual Penal:\n\nRECURSO EXTRAORDINÁRIO. PENAL E PROCESSUAL PENAL. CRIME DE FUGA DO LOCAL DO ACIDENTE. ARTIGO 305 DO CÓDIGO DE TRÂNSITO BRASILEIRO. ANÁLISE DA CONSTITUCIONALIDADE DO\nTIPO PENAL À LUZ DO ART. 5º, LXIII, DA CONSTITUIÇÃO FEDERAL.\nREPERCUSSÃO GERAL RECONHECIDA. TEMA Nº 907. NATUREZA\nPRINCIPIOLÓGICA DA GARANTIA DO NEMO TENETUR SE DETEGERE.\nPOSSIBILIDADE DE RESTRIÇÃO. PRESERVAÇÃO DO NÚCLEO ESSENCIAL\nDA\nGARANTIA.\nHARMONIZAÇÃO COM OUTROS PRINCÍPIOS FUNDAMENTAIS PREVISTOS CONSTITUCIONALMENTE.\nPOSSIBILIDADE. RECURSO EXTRAORDINÁRIO PROVIDO PARA AFASTAR A DECLARAÇÃO DE INCONSTITUCIONALIDADE DO TIPO\nPENAL ANALISADO. (...) A garantia do nemo tenetur se detegere no contexto da teoria geral dos direitos fundamentais implica a valoração do princípio da proporcionalidade e seus desdobramentos como critério balizador do juízo de ponderação, inclusive no que condiz aos postulados da proibição de excesso e de vedação à proteção insuficiente (…) A aferição da proporcionalidade costuma ser realizada por meio de um processo lógico de raciocínio que"
+    },
+    {
+      "page": 20,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "compreende três etapas distintas, independentemente do nível em que se der a avaliação: a) o subprincípio da necessidade está atrelado à concepção de que as restrições à liberdade do indivíduo só são admissíveis quando efetivamente necessárias à coletividade, o que, no direito penal, implica dizer que o bem jurídico a ser tutelado pela norma penal deve ser relevante o suficiente para justificar a restrição de liberdade que é inerente à pena; b) o subprincípio da idoneidade, também chamado de subprincípio da adequação, está diretamente relacionado à aptidão do instrumento empregado para alcançar a finalidade desejada, ou, especificamente, na seara penal, à aptidão da norma (tipo penal incriminador) para bem tutelar o bem jurídico; c) o subprincípio da proporcionalidade em sentido estrito tem aplicação no último momento da aferição da pertinência constitucional da norma incriminadora, demandando uma valoração comparativa entre o objetivo estabelecido e o meio proposto, de modo a que um se mostre proporcional em relação ao outro.\n(STF, Tribunal Pleno; RE 971959/RS Relator Ministro Luiz Fux, DJe 31/07/2020)\n\nNo caso, dentre as opções que tinha à sua disposição, optou o legislador por escolher justamente aquela que vulnerabiliza os direitos da pessoa presa, finalidade última e essência do próprio ato da audiência de custódia.\nIsso posto, esta entidade de classe nacional vem à presença dessa E.\nCorte Suprema denunciar a inconstitucionalidade da rejeição do veto materializada no dispositivo do art.3º-B, do CPP que, ao vedar em absoluto o uso de videoconferência em audiências de custódia,\n- viola a autonomia administrativa e orçamentária do Ministério Público e do Poder Judiciário, descumprindo o art. 113 do ADCT, complementado pelos arts. 17, § 1º da Lei de Responsabilidade Fiscal,"
+    },
+    {
+      "page": 21,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "e 125 da Lei de Diretrizes Orçamentárias 2021, que demanda a apresentação de estimativa de impacto orçamentário e financeiro sempre que a proposição legislativa crie ou altere despesa obrigatória ou renúncia de receita E\n- viola o princípio da proporcionalidade, por se mostrar inadequada (inidônea) a proteção dos direitos da pessoa presa, razão da existência da audiência de custódia e finalidade pretendida pelo legislador ao rejeitar o veto presidencial.\"\n\nTambém, em homenagem ao substancioso trabalho elaborado pelos membros do Ministério Público, integrantes da CONAMP, os advogados que esta subscrevem, pedem permissão para continuar a estampar, aqui, os argumentos por eles externados com relação à arguida inconstitucionalidade dos\n§§ 2º e 4º do art. 8º da Lei nº 9.296, de 24 de julho de 1996:\n\n\"B) art. 8º-A, §2º e §4º da Lei n. 9.296/96 - A summa iniuria provocada pelos novos delineamentos da captação ambiental\n\nSegundo o art. 8º-A, caput, da Lei nº 9.296/1996, incluído pela Lei nº 13.964/2019, para a investigação ou instrução criminal, poderá ser autorizada pelo juiz, a requerimento da autoridade policial ou do Ministério Público, a captação ambiental de sinais eletromagnéticos, ópticos ou acústicos.\nOs §§ 2º e 4º do art. 8º-A foram inicialmente vetados, contudo, na sessão do Senado Federal em 19/4/2021 (que confirmou votação anterior na Câmara), o Congresso Nacional rejeitou o veto a tais parágrafos, que possuem a seguinte redação:"
+    },
+    {
+      "page": 22,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "§ 2º A instalação do dispositivo de captação ambiental poderá ser realizada, quando necessária, por meio de operação policial disfarçada ou no período noturno, exceto na casa, nos termos do inciso XI do caput do art. 5º da Constituição Federal.\n[...]\n§ 4º A captação ambiental feita por um dos interlocutores sem o prévio conhecimento da autoridade policial ou do Ministério Público poderá ser utilizada, em matéria de defesa, quando demonstrada a integridade da gravação.\n\nCausa espécie notar que, mesmo tendo a mensagem de veto anunciado, em ambos os parágrafos, §§ 2º e 4º, o frontal desrespeito à jurisprudência deste E. Supremo Tribunal Federal, o Congresso Nacional tenha decidido rejeitar o veto e levar a efeito redações legais em flagrante contrariedade a precedentes da Suprema Corte.\nAlém de absolutamente contrária à missão do Supremo de guardião da Constituição brasileira (art. 102 da CRFB), essa prática é absolutamente incipiente e controvertida na Common Law, em especial no Canadá, na Nova Zelândia e na Grã-Bretanha. No meio acadêmico-científico, é classificada como override clause ou notwithstanding clause, e pode ser traduzida para o português como reação legislativa ou superação legislativa da jurisprudência. Como bem sintetizado pelo professor da Universidade da Califórnia em Los Angeles (UCLA), Stephen Gardbaum:\n\n\"[...] in Canada, courts exercise judicial review but subject to the power of legislatures to immunize conflicting statutes or reinstate invalidated ones. In"
+    },
+    {
+      "page": 23,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "New Zealand, courts enforce fundamental rights not by invalidating statutes but by interpreting them in line with rights whenever possible. In Britain, courts do the same and, in addition, have the power to call a conflicting statute into question by declaring an incompatibly with a fundamental right, triggering the expectation (though not the legal requirement) that such a statute will be amended or repealed by the legislature.\" Tradução: \"[...] no Canadá, os tribunais exercem revisão judicial, mas estão sujeitos ao poder do Legislativo de imunizar atos normativos conflitantes ou restabelecer os invalidados judicialmente. Na Nova Zelândia, os tribunais garantem os direitos fundamentais não ao invalidar atos normativos, mas ao interpretá-los de acordo com o Direito sempre que possível. Na Grã-Bretanha, os tribunais fazem o mesmo e, além disso, têm o poder de questionar um ato normativo conflitante declarando-o incompatível com um direito fundamental, gerando a expectativa (embora não a exigência) de que tal ato normativo seja alterado ou revogado pelo Legislativo\".\n(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=302401)\n\nNa Teoria do Direito, é conhecido o debate entre Ronald Dworkin e Jeremy Waldron acerca da revisão judicial. Jeremy Waldron defende uma concepção majoritarista em sede de judicial review. Para o autor, a regra majoritária, mesmo que às vezes materialmente injusta, é o único método benéfico para a democracia. O constitucionalismo brasileiro, contudo, incorpora a visão defendida, entre outros, pelo saudoso professor da Universidade de Nova Iorque (NYU), o jusfilósofo norte-americano Ronald Dworkin, para quem a judicial review segue uma concepção principiológica e contramajoritária de democracia constitucional, protagonizada por ministros guardiões da Constituição. A expressão \"contramajoritária\" não significa ser contra a maioria, e sim, não ceder sempre e sempre à sua vontade. Nas palavras de R. Dworkin:"
+    },
+    {
+      "page": 24,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "\"Is democracy, understood as majority rule, something valuable in itself? That seems at least doubtful. Why should the fact that numerically more people favor one course of action over another signal that the more favored policy is either fairer or better?\" Tradução: \"A democracia, entendida como regra da maioria, é algo valioso por si só? Isso parece pelo menos duvidoso. Por que o fato de um número maior de pessoas favorecer determinado curso de ação em vez de outro sinaliza que o curso favorecido é melhor ou mais justo?\".\n(DWORKIN, Ronald. Justice for Hedgehogs. Cambridge: The Belknap Press of Harvard University Press, 2011, p. 348)\n\nA atitude do Congresso Nacional de rejeitar o veto em análise, mesmo após a advertência expressa de violação à jurisprudência da Suprema Corte, (i) busca posicionar a sua fala - e não a do STF - como sendo a última em sede de controle de constitucionalidade, claramente violando a separação de poderes, e (ii) tenta tropicalizar a chamada override clause ou reação legislativa, sem qualquer acolhida na Constituição brasileira ou na fundação teórica adotada em terrae brasilis.\nNota-se um nítido efeito backlash, é dizer, um \"contra-ataque\" do Poder Legislativo ao resultado \"desconfortável\" gerado por decisões da Suprema Corte. Algo como se juízes devessem, antes de aplicar o melhor direito, \"pensar nas consequências da aplicação desse mesmo direito\", numa atitude flagrantemente pragmática. Como criticado por Mauro Messias:\n\n\"O jurista pragmático admite ceder ao apelo da opinião pública, em franco prejuízo ao direito em jogo, o que, decerto, agrada a muitos, sobretudo aqueles mergulhados no senso comum teórico [...]. Portanto, juízes devem ser uma espécie de estrategistas, segundo os pragmáticos. Daí a crítica de Dworkin"
+    },
+    {
+      "page": 25,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "conceber o pragmatismo como uma visão cética do Direito, que rejeita a existência de pretensões juridicamente tuteladas genuínas, uma vez pouco confortáveis, não estratégicas.\" (MESSIAS, Mauro. Execução provisória da pena e a crítica de Dworkin ao pragmatismo. Belo Horizonte: D'Plácido, 2020, p. 115-\n116)\n\nExposto o marco teórico em que o recente gesto do Congresso Nacional se baseia, cumpre expor especificamente os dois momentos em que se desrespeita a jurisprudência desta E. Corte Suprema ao interpretar a CRFB acerca do tema.\nO novel § 2º preceitua que a instalação do dispositivo de captação ambiental poderá ser realizada, quando necessária, por meio de operação policial disfarçada ou no período noturno, exceto na casa, nos termos do inciso XI do caput do art. 5º da Constituição Federal.\nA simples leitura do dispositivo permite as interpretações inconstitucionais de que os métodos de investigação acima nunca poderão ser realizados na casa, ou, em o sendo, na casa, a medida pode ser usada somente durante o dia.\nOra, no conhecido Inq 2424/RJ, Rel. Min. Cezar Peluso, o Pleno da Suprema Corte sedimentou a possibilidade de ingresso da autoridade policial, no período noturno e em local classificado constitucionalmente como \"casa\" (na hipótese, um escritório de advocacia), para instalação de equipamento de captação ambiental.\nPelo fato de o Inq 2424/RJ referendar muitos outros julgados do Supremo nessa temática, vários deles geradores de resultados \"desconfortáveis\" para investigados e réus, a atitude do Congresso Nacional de rejeitar o veto, introduzindo o § 2º, evidencia uma clara reação legislativa."
+    },
+    {
+      "page": 26,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "É óbvio ululante que, em situações excepcionais e plenamente justificáveis, o Judiciário pode autorizar a instalação, à noite, de equipamento de captação ambiental em local classificado constitucionalmente como casa. Como salientado em inúmeros precedentes do Supremo, (vide RHC 172299 AgR, RE 1298036 AgR, ARE 1281760 AgR, HC 168038 AgR, MS 23452) o direito à inviolabilidade do domicílio - tal como diversos outros direitos de matiz constitucional - não é absoluto, e, por certo, não deve servir como escudo impenetrável em favor de autores de crimes.\nCurioso notar que o mencionado Inq 2424/RJ versou, entre outros delitos, sobre o crime de corrupção passiva. O precedente dá robustez a inúmeros julgados no tema pelo Supremo, pelo Superior Tribunal de Justiça e pelos demais tribunais do país. Com isso, o backlash promovido pelo Congresso Nacional, materializado na derrubada do veto e inserção do § 2º, significa um forte revés no combate à corrupção. Nunca é demais lembrar a péssima colocação do Brasil entre os países com maior quantidade de corrupção do mundo, a saber, 106ª dentre 180 países, segundo dados da Transparency International (www.transparency.org/cpi2019?/news/ feature/cpi-2019).\nAmbas as interpretações, possíveis apenas a partir da rejeição do veto pelo Congresso Nacional, não consideram que determinadas infrações penais previstas no ordenamento jurídico brasileiro demandam a utilização de meios adequados e suficientes de investigação, sob pena de esvaziamento da proteção penal assegurada pela norma.\nOrganizações criminosas, em especial, exigem um reforço dos poderes estatais que possa fazer frente ao fenômeno criminológico que representam. É preciso reconhecer que a contração de determinados"
+    },
+    {
+      "page": 27,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "direitos fundamentais - consagrada por esta E. Corte Suprema - mostra-se absolutamente necessária a consecução da atividade persecutória de graves infrações penais.\nNo caso, o legislador estabelece mecanismo de controle jurisdicional e procedimentaliza o emprego da medida de modo que não se justificaria o seu esvaziamento a partir das possíveis interpretações acima, que na prática fariam da investigação de gravíssimos delitos uma tarefa impossível, protegendo de forma deficiente bens jurídico-penais (untermassverbot).\nNeste ponto, valiosa a explicação de Frederico Valdez Pereira:\n\n\"(...) entende-se haver razões para se admitir a existência de princípios e valores constitucionais os quais, mais que permitir, impõe que se considerem finalidades de prevenção ou repressão de delitos como fazendo parte das funções principais do processo penal. Podem-se referir reflexos e projeções do princípio da obrigatoriedade d atuação penal dos órgãos responsáveis pela persecução criminal como uma indicação constitucional clara de que não se pode retirar do processo penal necessidades de eficiência e esclarecimento de delitos, isso sem incluir no momento a concepção objetiva dos direitos fundamentais e a consequente imposição de proteção a cargo do Estado.\" (PEREIRA, Frederico Valdez. Delação premiada: legitimidade e procedimento. 2. ed. Curitiba: Juruá, 2012. p.54)\n\nPor sua vez, o § 4º dispõe que a captação ambiental feita por um dos interlocutores, sem o prévio conhecimento da autoridade policial ou do Ministério Público, poderá ser utilizada, em matéria de defesa, quando demonstrada a integridade da gravação."
+    },
+    {
+      "page": 28,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "O dispositivo causa perplexidade.\nEm primeiro lugar, não se compreende o porquê do trecho \"sem o prévio conhecimento da autoridade policial ou do Ministério Público\". O conhecimento da captação ambiental por tais agentes públicos não torna lícita a diligência investigativa. Por ser matéria afeta à cláusula constitucional de reserva de jurisdição, apenas a ciência e autorização do Poder Judiciário dá legalidade ao expediente invasivo.\nEm segundo lugar, a expressão \"em matéria de defesa\" permite a interpretação inconstitucional de que a captação ambiental, na forma descrita no § 4º, é admitida exclusivamente à defesa, em flagrante violação à lealdade processual, à paridade de armas e à busca pela verdade processual. Observe-se que esta discussão não gira em torno da excepcional admissibilidade da prova ilícita para provar a inocência da pessoa imputada. O que se enuncia no § 4º é um meio de prova capaz de servir apenas aos interesses da defesa, dada a sua referência exclusiva.\nSeria não apenas algo inédito no Brasil, mas em qualquer sistema de justiça criminal que se tenha conhecimento.\nA problemática redação do § 4º cria uma summa iniuria, que precisa ser urgentemente repelida por esta Suprema Corte. Além do desiquilíbrio flagrantemente inconstitucional entre as partes no processo penal que se reputa acusatório, cria-se um desamparo a vítimas cuja vulnerabilidade demandava do legislador mais e não menos proteção.\nTome-se como exemplo o recente Caso Menino Henry, os diuturnos episódios de violência doméstica contra a mulher e muitos outros delitos praticados no interior da casa. A leitura do § 4º admite a interpretação inconstitucional de que eventual captação ambiental feita pela própria"
+    },
+    {
+      "page": 29,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "vítima apenas poderia ser utilizada exclusivamente em matéria de defesa.\nOs dados a seguir evidenciam que a casa, inviolável como seja, infelizmente abriga a grande maioria dos delitos de estupro cometidos contra crianças e adolescentes. Nesses e em muitos outros casos, é extremamente equivocado impedir que a vítima possa fazer uso de um dos poucos meios de prova ao seu alcance, o qual, inclusive, é considerado lícito por esta Suprema Corte.\nAo analisar 127.585 ocorrências de estupro e estupro de vulnerável nos anos de 2017 e 2018, o Fórum Brasileiro de Segurança Pública buscou identificar o perfil da população submetida a tais delitos. Verificou-se que 63,8% dos casos de estupro são cometidos contra vulneráveis.\nAmpliando a análise até 17 anos de idade, notou-se 71,8% de registros de estupro nessa faixa etária. O ápice da violência sexual sofrida por meninas se dá aos 13 anos; por meninos, aos 7 anos de idade. (fonte: Anuário Brasileiro de Segurança Pública - www.forumseguranca.org.br/wp-content/uploads/2019/10/Anuario-2019-FINAL_21.10.19.pdf) A doutrina já teve a oportunidade de comentar a importância da exclusão do § 4º quando do veto presidencial que viria a ser posteriormente revisto pelo Congresso Nacional. Adriana Cruz pontuou que:\n\n[...] o expurgo é pertinente, tendo em consideração que, no novo regime, resta indene de dúvida a aplicabilidade da captação ambiental a um amplo universo de infrações penais.\n(CRUZ, Adriana. Captação Ambiental: O Pacote Anticrime e as Modificações na Lei 9.296/1996. In: Lei Anticrime:"
+    },
+    {
+      "page": 30,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Comentários à Lei 13.964/2019. Belo Horizonte: D'Plácido, 2020, p. 109)\n\nCrimes como estupro de vulnerável (art. 217 do CP) ou de redução à condição análoga a de escravo, por exemplo, de extrema gravidade e em algumas situações praticados também no ambiente doméstico teriam a investigação e instrução privadas do uso potencial da medida.\nMais uma vez afronta-se a própria evolução do Direito Constitucional acerca da horizontalidade dos direitos fundamentais, concebidos, a partir do pós-guerra, como de natureza também prestacional. Há tempos, os direitos fundamentais passaram a ser vistos:\n\nnão apenas como liberdades negativas do indivíduo frente ao Estado, mas também como capazes de gerar direitos prestacionais em face do Estado, como direito à educação, à saúde e à eficaz prestação de serviços públicos essenciais (v.g., a segurança pública), em concepção plenamente acolhida pela CRFB/88, que assegura inúmeros direitos fundamentais prestacionais, não sendo compatível com o paradigma oitocentista do Estado Liberal de Direito.\n(ANDRADE, Carlos Gustavo Coelho de. Mandados implícitos de criminalização: a tutela penal dos direitos humanos na Constituição e na Convenção Americana. Rio de Janeiro: Lumen Juris, 2019. p.37).\n\nDessa concepção desenvolveram-se os deveres estatais de proteção e a releitura da proporcionalidade no sentido de compelir o legislador a proteger de forma suficiente determinados valores constitucionais pela via da criminalização primária ou mesmo da promoção de adequada persecução penal."
+    },
+    {
+      "page": 31,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Eis, portanto, o anteriormente já referido desdobramento do princípio constitucional da proporcionalidade da vedação da proteção deficiente (untermassverbot), consagrado na jurisprudência deste E.\nSupremo Tribunal Federal, desde o conhecido caso Ellwanger (HC nº\n82.424-RS) até a mais recente decisão pela criminalização da homofobia (ADO 26-DF e MI 4.733).\nA alteração legislativa deixa de oferecer proteções mínimas àquelas vítimas mais vulneráveis, em flagrante violação ao princípio da vedação da proteção deficiente.\nMais do que procurar o sentido jurídico da norma, parece fundamental o esclarecimento crítico de um entendimento que precede a redação legal, na lição do hermeneuta Jean Grondin (GRONDIN, Jean.\nHermenêutica. Tradução Marcos Marcionilo. São Paulo: Parábola Editorial, 2012, p. 48-50). Em outras palavras, qual a intencionalidade de um dispositivo legal que, desafiando a jurisprudência do Supremo, promove inúmeras situações de extrema injustiça? Afinal, para o Pleno da Suprema Corte, \"é lícita a prova obtida mediante a gravação ambiental, por um dos interlocutores, de conversa não protegida por sigilo legal\" (Inq 2116 QO, Rel. Min. Marco Aurélio, Red. acórdão Min. Ayres Britto).\nResta claro que o § 4º tem a espúria intenção de derrotar o consolidado precedente do Pleno do Egrégio Supremo Tribunal Federal, gerando impunidade a um sem-número de casos penais graves.\nNão pudesse ser mais trágico o quadro aqui exposto, no momento da apreciação do veto, congressistas, como a Deputada Federal Adriana Ventura, alertaram a Casa acerca da flagrante contrariedade aos precedentes do STF e dos prejuízos, por exemplo, ao combate à corrupção."
+    },
+    {
+      "page": 32,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Segundo a parlamentar, em sessão publicada na página 92 do Diário do Congresso Nacional de 18/3/2021:\nAlém disso, Sr. Presidente, contraria jurisprudência do STF.\nEspecificamente, o STF dispõe que é lícita prova obtida, mediante gravação ambiental, por um de seus interlocutores, de conversa não protegida por sigilo legal. Até mesmo o texto constitucional faz uso do termo \"meio ilícito\". Dessa forma, se a prova é considerada ilícita e, tão logo, inadmissível, isso deve valer para a acusação e para a defesa, sob pena de ofensa aos princípios da lealdade, da boa-fé objetiva e da cooperação.\nEntão, imaginem que alguém esteja sendo acusado pela prática de corrupção e, por meio de uma gravação ambiental, consiga provar que quem praticou o ato ilícito foi outra pessoa, o seu colega de trabalho. Neste caso, especificamente, pela nova redação, apenas seria possível o uso da prova por parte do primeiro, para fins de absolvição.\nNão faz sentido a alteração proposta, que pode criar embaraços para a atuação judicial, para o Ministério Público e também para o nosso combate à impunidade.\nPosto o problema e feita a devida argumentação jurídica, cumpre a esta entidade de classe nacional requerer a Vossa Excelência a declaração de inconstitucionalidade da rejeição do veto materializada nos dispositivos 56.19.020 e 021, que, ao inserir os §§ 2º e 4º no art. 8º-A da Lei nº 9.296/1996, incluído pela Lei nº 13.964/2019, desafia a sedimentada jurisprudência do Egrégio Supremo Tribunal Federal:\n- no caso do § 2º, (i) ao vedar a possibilidade de ingresso da autoridade policial, no período noturno e em local classificado"
+    },
+    {
+      "page": 33,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "constitucionalmente como \"casa\", para instalação de equipamento de captação ambiental, e,\n- no caso do § 4º, (ii.a) ao declarar o prévio conhecimento da autoridade policial ou do Ministério Público como apto a validar medida investigativa invasiva, em prejuízo à cláusula de reserva de jurisdição, e (ii.b) ao admitir o meio de prova em questão exclusivamente em favor da defesa.\"\n\nAo término da transcrição acima, convém expedir sucinta consideração sobre a validade de captação ambiental feita por um dos interlocutores, sem o prévio conhecimento da autoridade policial ou do Ministério Público, poderá ser utilizada, em matéria de defesa, quando demonstrada a integridade da gravação.\n\nNão há dúvida de que o art.5º, LV, da Lei Maior garante aos acusados ampla defesa, mas, não se pode olvidar que, na mesma disposição constitucional, consagra-se o princípio do contraditório no processo penal.\nDoutrinariamente, o conceito de contraditório, no processo penal, significa paridade entre a acusação e a defesa. Sem dúvida, a norma questionada viola o princípio constitucional do contraditório, que pode ser traduzido como princípio isonômico. Aqui, a norma consagra disparidade de tratamento entre acusador e acusado.\n\nDO PEDIDO LIMINAR\n\nPor todo o exposto, a fumaça do bom direito decorre da simples leitura dos dispositivos e das expressões impugnadas, que contrariam, radical e manifestamente, as disposições constitucionais previstas nos artigos 127 e 129,"
+    },
+    {
+      "page": 34,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "bem como o sistema acusatório e contraditório, os princípios da isonomia, da razoabilidade, da proporcionalidade e da celeridade processual penal, todos insculpidos no texto constitucional.\n\nA relevância jurídica da questão manifesta-se pelos fundamentos expostos nas razões acima mencionadas, visto que esta ação direta de inconstitucionalidade tem o objetivo de preservar as disposições constitucionais que dizem respeito à atuação funcional dos membros do Ministério Público, para garantia de sua independência e autonomia, bem como para proteger e respeitar o modelo acusatório vigente.\n\nPor fim, o periculum in mora consiste no risco imediato às vítimas de violência doméstica contra a mulher, de delitos contra a liberdade sexual, e de muitos outros crimes praticados no interior da casa, as quais, ausente a cautelar ora requerida, não poderão contar com um dos poucos meios de prova à sua disposição.\n\nIsso posto, a CONAMP requer seja concedida a medida liminar, com o fim de determinar a imediata suspensão da eficácia das normas questionadas.\n\nDO PEDIDO FINAL\n\nPor todo o exposto, a Associação Nacional dos Membros do Ministério Público - CONAMP requer, após a concessão do pedido liminar, sejam colhidas as informações do presidente do Congresso Nacional e as manifestações do Excelentíssimo Senhor Advogado-Geral da União e do Excelentíssimo Senhor Procurador-Geral da República. Após, seja julgada procedente a ação, para declarar a inconstitucionalidade dos três dispositivos questionados, ou para proclamar a nulidade com redução do texto, ou, ainda,"
+    },
+    {
+      "page": 35,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "subsidiariamente, sem redução do texto, conferir-lhes interpretação conforme a Constituição.\n\nPede deferimento.\nBrasília, 22 de junho de 2021.\n\nARISTIDES JUNQUEIRA ALVARENGA OAB/DF 12.500\n\nJULIANA MOURA ALVARENGA DILÁSCIO OAB/DF 20.522"
+    }
+  ]
+}

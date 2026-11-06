@@ -1,0 +1,196 @@
+{
+  "id": "ADI_7381",
+  "arquivo_pdf": "ADI_7381.pdf",
+  "sha256": "1a4e13a7e3667f367c21e61fb1083ee1c4f56147e32d094b8201786af0613e35",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:30:14",
+  "resumo": {
+    "paginas": 21,
+    "paginas_digital": 21,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 35924,
+    "chars_clean": 31515,
+    "reducao_pct": 12.3,
+    "linhas_removidas": 102,
+    "limpeza_detalhe": {
+      "cabecalho_rodape": 81,
+      "hifen_mantido": 0,
+      "hifenizacao_unida": 0,
+      "numero_pagina": 21
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "(61) 3246-4057 | 99963-2576 advogados@aragaoeferraro.com SGAN 601, Bl. H, salas 2059-2064 - Asa Norte - Ed. ION Brasília, DF | CEP: 70.830-018\n\nEXCELENTÍSSIMA SENHORA MINISTRA ROSA WEBER, PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL\n\nA ASSOCIAÇÃO NACIONAL DOS PROCURADORES DOS ESTADOS E\nDO DISTRITO FEDERAL - ANAPE, CNPJ n° 89.137.863/0001-19, com sede no Setor Comercial Sul, Q 01, Bl. 'E', Sls. 1001-1014, Edifício Ceará, Brasília/DF, representada por seu Presidente, Sr. Vicente Martins Prata Braga, brasileiro, casado, Procurador do Estado do Ceará, inscrito no CPF nº 972.687.393-20, vem, perante Vossa Excelência, com fundamento nos artigos 102, I, \"a\" e \"p\" e 103, IX, ambos da Constituição Federal, e na Lei nº 9.868/199, propor a presente\n\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE\ncom pedido de medida cautelar\n\nem detrimento dos artigos 4º, inciso II, 8º, inciso II, 11, §2º, 37, 42, 43, 47, 50, inciso III, 51, 52, inciso II e Anexos I, II, VII e IX, todos da Lei 3.656/2011 do Estado do Amazonas, que instituem a criação do cargo de procurador jurídico e do órgão de procuradoria jurídica próprio da UEA - Universidade do Estado do Amazonas, visto que os dispositivos violam diretamente o art. 132 da Constituição da República, bem como violam o princípio da Unicidade, que estabeleceu a competência exclusiva dos Procuradores Estaduais para representar juridicamente os estados da federação."
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "I - DO CABIMENTO\nDA\nPRESENTE AÇÃO DIRETA\nDE\nINCONSTITUCIONALIDADE\n\n1.\nDe acordo com o artigo 102, I, alínea \"a\", da Constituição Federal, podem ser objeto de controle concentrado de constitucionalidade, mediante ação direta de inconstitucionalidade, as leis ou atos normativos estaduais.\n\n2.\nA presente ação questiona dispositivos de Lei do Estado do Amazonas que dispõe sobre a criação de Procuradoria Jurídica e dos cargos de Procurador Jurídico específicos da UEA - Universidade do Estado do Amazonas, instituição integrante da administração pública indireta estadual.\n\n3.\nConsiderando que o objeto impugnado é ato normativo estadual que não possui caráter regulamentar, é cabível o manejo de Ação Direta de Inconstitucionalidade perante esse e. Supremo Tribunal Federal, nos termos do\nart. 102, I, \"a\", da Constituição Federal.\n\n4.\nAs inconstitucionalidades que serão aqui demonstradas são todas diretas, tendo em vista que o dispositivo questionado, ao criar função jurídica no âmbito da Administração Indireta do Estado e a direcionar a servidores públicos que não foram aprovados em concurso público especificamente para a carreira de procurador estadual, viola o art. 132 da Constituição Federal e o princípio da unicidade da consultoria e representação judicial dos Estados e do Distrito Federal, tendo em vista que a representação, consultoria e assessoria jurídicas são competências exclusivas dos Procuradores dos Estados."
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "5.\nPortanto, por preenchidos todos os requisitos, tem-se por cabível a utilização do instrumento da Ação Direta de Inconstitucionalidade no caso em tela, motivo pelo qual se requer o seu processamento.\n\nII - DA LEGITIMIDADE AD CAUSAM\n\n6.\nA ANAPE - Associação Nacional dos Procuradores dos Estados e do Distrito Federal é uma entidade de classe de âmbito nacional, sem fins lucrativos, que tem por finalidade representar, patrocinar e defender, de forma exclusiva, os interesses gerais dos Procuradores dos Estados e do Distrito Federal relacionados com o seu exercício funcional, bem como agir no sentido de consolidar a Advocacia de Estado como instituição essencial à Justiça.\n\n7.\nNo bojo de sua estrutura estatutária, a ANAPE dispõe, dentre outros vários, de objetivos inerentes a sua existência que, sobretudo, incorpora os valores e prerrogativas dos Procuradores dos Estados e Distrito Federal. Assim, destacam-se no art. 3º, os seguintes preceitos:\n\nArt. 3º A ANAPE tem os seguintes objetivos:\nI - propugnar pela melhoria dos padrões de desempenho profissional e pela elevação funcional de seus membros;\n[...] VIII - promover, em âmbito nacional, com exclusividade, a representação, a defesa judicial e extrajudicial dos interesses e das prerrogativas institucionais e funcionais, zelando pela dignidade, valorização e independência dos Procuradores dos Estados e do Distrito Federal, bem como da Advocacia Pública;\n(gn) IX - promover ações diretas de inconstitucionalidade contra qualquer lei ou ato normativo, mandados de segurança coletivo, mandado de injunção e demais ações cuja legitimação lhe seja"
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "outorgada por lei, com vistas da salvaguarda das prerrogativas dos Procuradores dos Estados e do Distrito Federal;(gn)\n\n8.\nAssim, demonstrada que a requerente é entidade de classe de âmbito nacional, resta configurada a sua legitimidade ativa para o ingresso de ação de controle concentrado de constitucionalidade, com fundamento no art. 103, IX da CF/88 e art. 2º, IX da Lei nº 9.868/99.\n\n9.\nAdemais, há que se destacar que a jurisprudência desse e. Supremo Tribunal Federal já se consolidou no sentido de reconhecer a legitimidade ativa da ANAPE para a proposição de ações concentradas de constitucionalidade, oportunidade que se destaca a decisão proferida no bojo da ADPF 328, vejamos:\n\nDIREITO CONSTITUCIONAL.\nARGUIÇÃO\nDE\nDESCUMPRIMENTO\nDE\nPRECEITO FUNDAMENTAL.\nLEGITIMIDADE ATIVA PARA PROPOSITURA DE ADPF DA ASSOCIAÇÃO NACIONAL\nDE\nPROCURADORES\nDO\nESTADO E DO DISTRITO FEDERAL - ANAPE. LEI ESTADUAL QUE ESTABELECE EQUIPARAÇÃO REMUNERATÓRIA ENTRE PROCURADORES DO ESTADO E DELEGADOS DE POLÍCIA. EXISTÊNCIA DE PERTINÊNCIA\nTEMÁTICA. PROVIMENTO DO AGRAVO. 1. Legitimidade da Associação Nacional dos Procuradores do Estado e do Distrito Federal - ANAPE para ajuizar ação de descumprimento de preceito fundamental visando à invalidação da Lei nº 4.983/1989, do Estado do Maranhão, que estabelece equiparação remuneratória entre procuradores do estado e delegados de polícia.\n2. A jurisprudência desta Corte é no sentido de que a ANAPE tem legitimidade para propor ações de controle de abstrato em que se discute a equiparação remuneratória entre procuradores de estado e outras categorias. Precedente: ADPF 97, Rel. Min.\nRosa Weber, j. em 21.08.2014. 3. Agravo regimental a que se dá provimento. (ADPF 328 AgR, Relator(a): MARCO AURÉLIO,"
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Relator(a) p/ Acórdão: ROBERTO BARROSO, Tribunal Pleno, julgado em 18/08/2016)\n\n10.\nNo tocante à pertinência temática, esta se faz clara quando observamos que a presente ADI tem como objeto dispositivos da Lei 3.656/2011 do Estado do Amazonas, que delegam às procuradorias jurídicas e procuradores, da Universidade do Estado do Amazonas, a representação e a prestação de consultoria relacionada a questões jurídicas, usurpando com isso a competência exclusiva de representação de órgãos da administração direta e indireta dos Procuradores do Estado do Amazonas, conforme determinado pela Constituição Federal em seu artigo 132.\n\n11.\nDessa forma, em observância às suas disposições estatutárias e à autorização legal e constitucional existente, a ANAPE possui inequívoca legitimidade para proposição do presente feito, conforme o art. 103, inciso IX da Constituição Federal, para assegurar a atuação e defender a missão institucional dos membros da advocacia pública estadual.\n\nIII. DO ATO IMPUGNADO. CRIAÇÃO DA PROCURADORIA JURÍDICA E DOS CARGOS\nDE\nPROCURADOR JURÍDICO ESPECÍFICOS\nDA\nUNIVERSIDADE DO ESTADO DO AMAZONAS\n\n12.\nA Assembleia Legislativa do Estado do Amazonas decretou e o Governador do Estado do Amazonas sancionou a Lei n. 3.656/2011 que institui o plano de cargos, carreiras e remuneração do Magistério Público Superior e dos Servidores Técnicos e Administrativos da Universidade do Estado do Amazonas."
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "13.\nOcorre que nos artigos 4º, inciso II, 8º, inciso II, 11, §2º, 37, 42, 43, 47, 50,\ninciso III, 51, 52, inciso II e Anexos I, II, VII e IX há clara violação a dispositivo constitucional, ainda mais ao observar que o texto dos dispositivos estabelece a criação da Procuradoria Jurídica e da carreira de Advogado Público, ao passo que também estabelece competências de tal função. A fim de demonstrar a violação, colaciona-se o exato teor dos dispositivos.\n\nArt. 4.º Os cargos de provimento efetivo da Universidade do Estado do Amazonas são estruturados na forma abaixo: [...]\nII - Procuradoria Jurídica Universitária;\n\n***\n\nArt. 8.º A remuneração dos cargos integrantes das carreiras a que se refere o art. 4° desta Lei será composta das seguintes parcelas de caráter geral: [...]\nII - Procurador Jurídico: Vencimento e Gratificação de Procuratório, observadas as classes e níveis respectivos, nos termos fixados pelos Anexos VII desta Lei.\n\n***\n\nArt. 11. Aos integrantes do quadro de pessoal da Universidade do Estado do Amazonas serão devidas as seguintes Gratificações: [...]\n§ 2.º Dos Procuradores Jurídicos e Servidores Técnicos e Administrativos\n\n***\n\nArt. 37. O quadro de Procuradores Jurídicos e Servidores Técnicos e Administrativos da Universidade do Estado do Amazonas é composto pelos cargos constantes do Anexo I desta Lei, estruturados em 05 (cinco) Séries de Classes, divididas em 03 (três) níveis, correspondentes às simbologias \"A\", \"B\" e \"C\"."
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "***\n\nArt. 42. Os Procuradores Jurídicos e Servidores Técnicos e Administrativos serão lotados, por ato do Reitor, em quaisquer das unidades da Universidade do Estado do Amazonas no município para o qual prestou concurso, observadas as seguintes regras:\n\n***\n\nArt. 43. Os Procuradores Jurídicos e Servidores Técnicos e Administrativos ficarão submetidos ao regime de trabalho de 40 (quarenta) horas semanais.\n\n***\n\nArt. 47. A evolução dos Procuradores Jurídicos e Servidores Técnicos e Administrativos na carreira da Universidade do Estado do Amazonas, formalizada em ato de exclusiva competência do Reitor, dar-se-á por meio de promoção horizontal ou promoção vertical, observado o disposto nesta Lei e em resolução aprovada pelo Conselho Universitário.\n\n***\n\nArt. 50. Aos Procuradores Jurídicos e Servidores Técnicos e Administrativos da Universidade do Estado do Amazonas, em efetivo exercício, são devidas as seguintes gratificações, sem prejuízo de outras previstas em Lei: [...] III Gratificação de Procuratório - GP: atribuída exclusivamente aos ocupantes do cargo efetivo de Procurador Jurídico, nos valores constantes do Anexo VII;\n\n***\n\nArt. 51. Fica estabelecido o dia 1º de maio de cada ano como a data base para o reajuste da remuneração dos integrantes da carreira do Magistério Público Superior, Procuradores Jurídicos e Servidores Técnicos e Administrativos da Universidade do"
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Estado do Amazonas, a ser promovido mediante Lei específica, conforme disposto no art. 37, inciso X, da Constituição Federal de 1988.\n\n***\n\nArt. 52. Os Docentes, Procuradores Jurídicos e Servidores Técnicos e Administrativos, ocupantes dos cargos públicos criados, respectivamente, pelas Leis nºs. 3.098, de 13 de dezembro de 2006, e 3.114, de 08 de janeiro de 2007, passam a integrar o quadro de pessoal permanente de que trata esta Lei, sem prejuízo da regular contagem do tempo de serviço já despendido no cargo, nas seguintes classes e níveis: [...]\nII - Procuradores Jurídicos, Técnicos e Administrativos: nível inicial da classe inicial.\n\n***\n\nANEXO I - QUADRO GERAL DE CARGOS EFETIVOS DA UEA\n[...]\nPROCURADORIA JURÍDICA UNIVERSITARIA\nPROCURADOR JURÍDICO SUPERIOR 1ª 2ª 3ª 4ª 5ª N Í V E\nL 2 NS.131.20 A B C 3 NS.132.19 A B C 4 NS.133.18 A B C 5 NS.134.17 A B C 6 NS.135.16 A B C\n\n***\n\nANEXO II - QUADRO DE ATRIBUIÇÕES DOS CARGOS DA UEA [...] PROCURADORIA JURÍDICA UNIVERSITÁRIA CARGO CLASSE QUALIFICAÇÃO NECESSARIA PROCURADOR\nJURÍDICO 1ª 2ª 3ª 4ª 5ª ATRIBUIÇÕES DO CARGO 1 - Diploma de Bacharelado em direito, com registro na Ordem dos Advogados do Brasil.\n1 - Representação da Instituição em juízo ou fora dele, nas ações em que a UEA é a Autora, Ré, opoente ou interessada, acompanhando o andamento dos processos, prestando assistência jurídica, apresentando recursos em qualquer instância, comparecendo às audiências, julgamentos e outros atos que requeiram a presença do procurador, exercendo o"
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "procuratório judicial e extrajudicial na defesa dos direitos e interesses da Universidade.\n2 - Execução de quaisquer outras atividades correlatas\n\n***\n\nANEXO VII - REMUNERAÇÃO DE PROCURADORES E TÉCNICOS ADMINISTRATIVOS DA UEA [...] PROCURADORIA JURÍDICA UNIVERSITÁRIA NÍVEL SUPERIOR PROCURADOR JURÍDICO\n\n***\n\nANEXO IX - TABELA DE TRANSPOSIÇÃO DE CARGOS [...]\nPROCURADOR PROCURADOR JURÍDICO - 5ª CLASSE A\n\n14.\nNo que tange ao assessoramento jurídico dos órgãos da administração pública, os mencionados dispositivos explicitam a criação de órgão de procuradoria jurídica e o cargo de procurador jurídico, ambos exclusivos da UEA - Universidade do Estado do Amazonas, ou seja, procuradores autárquicos próprios para um órgão da administração indireta\n\n15.\nOcorre que tal prerrogativa é função típica e exclusiva da Procuradoria Geral do Estado, a quem compete o assessoramento jurídico principal do Estado.\nAssim, o objeto central dessa ação resta configurado para declarar a inconstitucionalidade dos artigos supracitados, por violar o art. 132 da CF/88 e o princípio da unicidade, conforme será demonstrado a seguir."
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "IV. MÉRITO. DA NATUREZA JURÍDICA DOS ÓRGÃOS MEMBROS DA ADMINISTRAÇÃO INDIRETA. DA VIOLAÇÃO AO ART. 132 DA CONSTITUIÇÃO FEDERAL E AO PRINCÍPIO DA UNICIDADE.\n\n16.\nA Universidade do Estado do Amazonas é integrante da administração pública indireta, descrita como autarquia em regime especial, conforme leciona a brilhante Dra. Irene Patrícia Nohara1:\n\nAs universidades federais, em razão da organização administrativa do Estado brasileiro, compõem a chamada administração pública indireta e são conceituadas na doutrina do direito administrativo como sendo \"autarquias em regime especial.\n\n17.\nLogo, resta inequívoca a natureza da universidade em questão, e como membro da Administração Pública indireta, faz-se obrigatória a incidência do artigo 132 da CF/88.\n\n18.\nComo demonstrado no tópico anterior, os artigos em comento criam procuradorias universitárias e os cargos de procuradores universitários no bojo de órgão da administração pública indireta amazonense. Vale registrar que os membros integrantes dessa carreira de advogado público não são Procuradores do Estado, e sim servidores comissionados ou aprovados em concurso público específico, prestando consultoria jurídica em paralelo aos Procuradores Estaduais.\n\n1 NOHARA, Irene Patrícia. Direito Administrativo. São Paulo: Atlas, 2013, p. 557"
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "19.\nOu seja, órgão da administração pública, cria a função de procurador universitário para prestar serviços de consultoria jurídica, quando estas funções são exclusivas dos Procuradores do Estado do Amazonas. Sendo assim, todos os dispositivos previamente expostos violam o artigo 132 da Constituição Federal por ofender a atribuição exclusiva dos Procuradores do Estado para realizar o assessoramento jurídico de órgãos integrantes da administração pública. Senão vejamos:\n\nArt. 132. Os Procuradores dos Estados e do Distrito Federal, organizados em carreira, na qual o ingresso dependerá de concurso público de provas e títulos, com a participação da Ordem dos Advogados do Brasil em todas as suas fases, exercerão a representação judicial e a consultoria jurídica das respectivas unidades federadas.\nParágrafo único. Aos procuradores referidos neste artigo é assegurada estabilidade após três anos de efetivo exercício, mediante avaliação de desempenho perante os órgãos próprios, após relatório circunstanciado das corregedorias.\n\n20.\nDessa maneira, tem-se, pela inteligência do dispositivo supratranscrito, que inexiste permissivo para criação de uma carreira de advocacia que trata da assessoria jurídica em autarquia estadual. A função a ser exercida pelos mencionados advogados públicos configura atribuição reservada aos Procuradores do Estado, a saber: o assessoramento jurídico da Administração Pública Indireta.\n\n21.\nPela leitura do dispositivo constitucional que trata das Procuradorias dos Estados e do Distrito Federal, infere-se que é obrigatória a representação dos Procuradores Estaduais na organização administrativa dos entes federativos,"
+    },
+    {
+      "page": 12,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "de modo que qualquer lei estadual que crie funções típicas da Procuradoria dos Estados e os reserve a servidores que não sejam procuradores é manifestamente inconstitucional.\n\n22.\nDessa maneira, os dispositivos impugnados, quando dispõe a respeito da existência de servidores - que ocupariam cargos que exercem a assessoria jurídica da fundação - não pertencentes à carreira da Procuradoria-Geral do Estado do Amazonas, viola-se a literalidade do mencionado art. 132 da CF/88.\n\n23.\nHá que se reforçar que o art. 132 da Constituição Federal, a partir de sua redação, bem como da construção jurisprudencial muito bem encaminhada por esse e. Supremo Tribunal Federal, dispõe sobre a unicidade institucional que é centralizada na Procuradoria-Geral do Estado, impedindo a concorrência das atribuições jurídicas.\n\n24.\nNeste sentido, a unicidade orgânica impede a criação de cargos ou a permissão para que ocupantes de cargos comissionados exerçam atribuições exclusivas dos Procuradores dos Estados.\n\n25.\nO respeito ao princípio da unicidade é necessário para a consagração da autonomia dos Procuradores dos Estados e do Distrito Federal, de modo que possam atuar de forma independente às interferências e aos interesses políticos dos titulares do poder e, consequentemente, em prol da proteção dos interesses da sociedade. É por este caminho que se respeita e se consolida instituição prevista constitucionalmente como essencial à justiça."
+    },
+    {
+      "page": 13,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "26.\nNa trilha do exposto até aqui, este eg. Supremo Tribunal Federal tem o entendimento consolidado no sentido da inconstitucionalidade das normas estaduais que dispõe sobre a existência de procuradorias jurídicas exclusivas de universidades, bem como cargos de procuradores universitários a serem ocupados por servidores não pertencentes à Procuradoria-Geral do Estado. O Requerente colaciona, abaixo, importantes julgados desta c. Corte Suprema para que não pairem dúvidas do quanto alegado, isto é, de que a jurisprudência desta\nc. Corte é no sentido do defendido na presente ação:\n\nAção direta de inconstitucionalidade. 2. Emenda Constitucional 59/2018 à Constituição do Estado de Roraima. Vício de iniciativa.\n3. Emenda Constitucional 61/2018. PEC de iniciativa do Governador do Estado de Roraima. Vício formal sanado. 5.\nEmenda Constitucional 61 com idêntica redação dada a Emenda Constitucional 59. Vício material. 6. Emenda Constitucional que amplia a autonomia universitária, conferindo autonomia administrativa, financeira e orçamentária à Universidade estadual, iniciativa privativa para propositura de lei, eleição de reitor e procuradoria jurídica própria. 7. Inconstitucionalidade material. Caput e §§1º, 3º, 4º e 5º do art. 154 da Constituição estadual, na redação dada pela EC 61/2018. Violação ao princípio da separação dos poderes. Usurpação de competência do Poder Executivo. 8. Constitucionalidade do §2º do art. 154 da Constituição estadual, na redação dada pela EC 61/2018.\nPossibilidade de repasse orçamentário por duodécimo. 8. Ação direta de inconstitucionalidade julgada parcialmente procedente.\n(ADI 5946, Relator(a): GILMAR MENDES, Tribunal Pleno, julgado em 24/05/2021, PROCESSO ELETRÔNICO DJe-118\nDIVULG 18-06-2021 PUBLIC 21-06-2021)\n(Grifou-se)"
+    },
+    {
+      "page": 14,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "27.\nA fim de demonstrar a perfeita compatibilidade do precedente apresentado - ADI 5946 - e o objeto desta ADI, faz-se necessário observar o voto do e. Ministro Relator, Gilmar Mendes, que de maneira acertada rememora que as universidades estaduais possuem autonomia didático-científica, administrativa e de gestão financeira. Veja-se:\n\nNão há dúvidas de que a Constituição de 1988 assegurou a autonomia universitária, dividindo-a em três campos de incidência: didático-científica, administrativa e de gestão financeira e patrimonial.\nNesse sentido, além das garantias decorrentes do não agir, do não interferir do Estado, como qualquer direito constitucional, a autonomia universitária, reafirmada em diversos precedentes do STF, demanda ações positivas do Estado para a plena realização da função social da Universidade. Observadas as normas de repetição obrigatória, os entes da Federação possuem liberdade para conferir contornos próprios à autonomia que será garantida às universidades estatais por eles criadas, podendo ampliá-las, sem jamais restringi-las.\nA ampliação da autonomia universitária só se encontra limitada pela Constituição Federal naquilo que puder implicar violação ao princípio da separação dos poderes.\n\n28.\nTodavia, o e. Ministro Relator também acerta ao expor que a autonomia universitária não liberta as Universidades Públicas dos limites constitucionais e legais impostos à administração pública. Veja-se:\n\nDa mesma forma, é clara a jurisprudência do STF no sentido de reconhecer a unicidade da advocacia pública a partir da vigência da Constituição de 1988.\nAssim, a partir do disposto no artigo 132 da Constituição Federal, a Advocacia Pública passou a ser una, admitindo-se, apenas, as procuradorias autárquicas ou fundacionais já existentes quando do advento da nova ordem Constitucional."
+    },
+    {
+      "page": 15,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Desse modo, não pode o Estado-membro, por meio de sua Constituição ou legislação, instituir procuradorias jurídicas próprias para a administração indireta. O § 5º, acrescido ao art.\n154, que criou Procuradoria Jurídica própria para a Universidade, apartada da Procuradoria-Geral do Estado, com carreira e estrutura próprias, portanto, viola o disposto no artigo 132 da Constituição Federal.\n[...] É farta a jurisprudência desta Corte no sentido de que a Constituição Federal estabelece um modelo de advocacia pública fundado no princípio da unicidade de representação judicial e de consultoria jurídica dos estados e do Distrito Federal, exceção feita apenas às Procuradorias autárquicas e fundacionais que já existiam quando do advento da Constituição. Nesse sentido, cito os seguintes precedentes: ADI 145, Rel. Min. Dias Toffoli, DJ 9.8.2018; ADI 5.393, Rel. Min.\nRoberto Barroso, DJ 18.2.2019; ADI 1.679, de minha relatoria, DJ\n8.10.2003; e ADI 5.541, Rel. Min. Edson Fachin, assim ementada:\n[...] Portanto, verifico que a Emenda Constitucional 61/2018 à Constituição do Estado de Roraima, ao conferir à Universidade autonomia administrativa, financeira e orçamentária próprias de órgãos de poder, usurpou a competência do Poder Executivo, de modo a violar o princípio da separação dos poderes - norma de observância obrigatória pelo poder constituinte decorrente - e o\nart. 132 da Constituição Federal, com exceção do novo §2º do art.\n154, que, ao determinar o repasse do orçamento da Universidade na forma de duodécimos, se encontra no âmbito de discricionariedade do poder executivo, autor da PEC, para escolher, de acordo com as peculiaridades regionais e locais, as políticas de gestão estadual.\n\n(Grifou-se)\n\n29.\nAssim, indubitável que este eg. STF, em conformidade com o disposto no artigo 132 da Constituição Federal, firmou jurisprudência no sentido de que Lei Estadual não pode criar cargos em comissão para o desempenho das atribuições de assessoramento jurídico no âmbito do Poder Executivo."
+    },
+    {
+      "page": 16,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "30.\nPortanto, de acordo com os preceitos constitucionais e a jurisprudência consolidada deste eg. Supremo Tribunal Federal, artigos 4º, inciso II, 8º, inciso II, 11, §2º, 37, 42, 43, 47, 50, inciso III, 51, 52, inciso II e Anexos I, II, VII e IX da Lei\n3.656/2011 do Estado do Amazonas devem ser declarados inconstitucionais em sua integralidade, tendo em vista a manifesta violação ao artigo 132 da Constituição Federal e, consequentemente, ao princípio da unicidade da representação judicial dos Estados e do Distrito Federal.\n\nV- DA TUTELA DE URGÊNCIA DE CARÁTER LIMINAR\n\n31.\nO deferimento do pedido de concessão de tutela de urgência em caráter liminar pressupõe a demonstração, pelo Requerente, da plausibilidade jurídica do pedido formulado na ADI (fumus boni juris) e do fundado receio de dano irreparável ou de difícil reparação (periculum in mora).\n\n32.\nNo que tange à plausibilidade jurídica da alegação de inconstitucionalidade dos dispositivos impugnados, tem-se que esta resta devidamente demonstrada pelos fundamentos expostos na presente peça. Em resumo, as normas impugnadas, ao preverem para servidores comissionados cargos cujas atribuições são essencialmente de assessoramento jurídico no âmbito do Poder Executivo, violam frontalmente o disposto no artigo 132 da Constituição Federal e o princípio da unicidade, conforme demonstrado.\n\n33.\nJá no que se refere ao periculum in mora, denota-se que os dispositivos impugnados mantêm existentes cargos incompatíveis com a Constituição da"
+    },
+    {
+      "page": 17,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "República. E não só isso, como também a possibilidade de se realizar concursos públicos, ou mesmo contratação de comissionados, para o preenchimento de cargos atinentes ao assessoramento jurídico prestado por procuradores universitários que não pertencem à carreira de Procuradores do Estado do Amazonas.\n\n34.\nEsta c. Corte Suprema já deferiu pedido de liminar em casos semelhantes ao presente. Senão vejamos:\n\nDIREITO CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. REFERENDO EM MEDIDA CAUTELAR. LEI ESTADUAL QUE ATRIBUI A CONSULTORIA E O ASSESSORAMENTO JURIDICO DE AUTARQUIA A AGENTES QUE NÃO SÃO PROCURADORES DO ESTADO.\n1. Ação direta de inconstitucionalidade contra dispositivos da Lei nº 7.751/2016, do Estado de Alagoas, que, ao reestruturar a gestão do regime próprio de previdência dos servidores públicos estaduais, criou a autarquia denominada\nALAGOAS\nPREVIDÊNCIA, como unidade gestora única, estruturando seus órgãos internos e definindo as respectivas competências.\nAtribuição de funções de consultoria e assessoramento jurídico a órgãos e agentes da própria autarquia, em estrutura paralela à Procuradoria-Geral do Estado.\n2. Plausibilidade do direito alegado. O art. 132 da Constituição Federal confere às Procuradorias dos Estados e do Distrito Federal a atribuição exclusiva das funções de representação judicial, consultoria e assessoramento jurídico das unidades federativas. O exercício da atividade de representação judicial e de consultoria jurídica no âmbito dos Estados e do Distrito Federal é de competência exclusiva dos Procuradores do Estado, organizados em carreira única.\nO modelo"
+    },
+    {
+      "page": 18,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "constitucional da atividade de representação judicial e consultoria jurídica dos Estados exige a unicidade orgânica da advocacia pública estadual, incompatível com a criação de órgãos jurídicos paralelos para o desempenho das mesmas atribuições no âmbito da Administração Pública Direta ou Indireta. Precedentes.\n3. Perigo na demora. Notícia da prática recente de típicos atos de assessoria jurídica pelos órgãos da ALAGOAS PREVIDÊNCIA sem a participação da Procuradoria-Geral do Estado. Além disso, risco de prejuízo aos cofres públicos, em decorrência de multas aplicadas ao Estado por mora no cumprimento de ordens e decisões judiciais. Situação fática resultante do quadro normativo impugnado, cuja permanência poderá produzir efeitos de difícil reversão.\n4. Medida cautelar deferida, para que, até o julgamento definitivo da presente ação direta de inconstitucionalidade: (i) seja conferida interpretação conforme a Constituição ao inciso V e aos §§ 4º e 8º do art. 7º da Lei nº 7.751/2015, do Estado de Alagoas, para que o cargo de Diretor Jurídico da ALAGOAS PREVIDÊNCIA, bem como seus eventuais substitutos, seja necessariamente ocupado por um Procurador do Estado; (ii) seja suspensa a eficácia da palavra \"jurídica\" no inciso VII do art. 13 da Lei nº 7.751/2015, do Estado de Alagoas, para que se assegure a exclusividade da competência da Procuradoria-Geral do Estado para prestar consultoria jurídica e dirimir questões jurídicas na administração pública estadual, em que se inclui a atribuição de editar resoluções com o fito de consolidar entendimentos na área jurídica; (iii) seja conferida interpretação conforme a Constituição ao Anexo I da referida lei, nas disposições que definem as atribuições do cargo de analista previdenciário da área jurídica da ALAGOAS PREVIDÊNCIA, para que o assessoramento jurídico ali previsto seja compreendido como atividade instrumental, de assistência e auxílio aos Procuradores do Estado, aos quais incumbe constitucionalmente a consultoria jurídica e a representação judicial daquela autarquia. Ficam suspensas, portanto, quaisquer"
+    },
+    {
+      "page": 19,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "interpretações do Anexo I da Lei nº 7.751/2015, do Estado de Alagoas, que concluam no sentido de que os analistas previdenciários poderiam desempenhar, por si mesmos, competências exclusivas da Procuradoria- Geral do Estado.\n(ADI n. 6.397, Rel. Min. Luis Roberto Barroso, DJe 05.10.2020) (Grifou-se)\n\n35.\nDesta feita, estando presentes os requisitos essenciais, é fundamental a concessão da medida liminar ora pleiteada, a fim de que seja determinada a suspensão da eficácia dos artigos 4º, inciso II, 8º, inciso II, 11, §2º, 37, 42, 43, 47, 50, inciso III, 51, 52, inciso II e Anexos I, II, VII e IX da Lei 3.656/2011 do Estado do Amazonas.\n\n36.\nSubsidiariamente, pleiteia-se a proibição de realização de concursos públicos ou a contratação de novos servidores comissionados, para preencher os cargos de advogados públicos, isto é, para integrar a função de procuradoria jurídica dos órgãos integrantes da administração indireta do Estado do Amazonas fora da carreira da Procuradoria-Geral do Estado do Amazonas.\n\nVII - DOS PEDIDOS\n\n37.\nAssim, por todo o exposto, a ANAPE, ora Requerente, firme nas razões constitucionais acima apresentadas, requer:\n\na.\nA concessão da tutela de urgência de caráter liminar, ad referendum, a fim de suspender os efeitos dos artigos 4º, inciso II, 8º, inciso II, 11, §2º, 37, 42, 43, 47, 50, inciso III, 51, 52, inciso II e Anexos I, II, VII e IX da Lei"
+    },
+    {
+      "page": 20,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "3.656/2011 do Estado do Amazonas.\n\nb.\nSubsidiariamente, na remota hipótese deste eg. Supremo Tribunal Federal não suspender a eficácia dos inconstitucionais artigos, pleiteia-se pela proibição de realização de concursos públicos, bem como o impedimento para contratar novos servidores comissionados, ambos para integrar as funções associadas ao cargo de procuradores universitários e/ou integrar cargos associados à procuradoria jurídica universitária da Universidade do Estado do Amazonas.\n\nc.\nA notificação do Exmo. Governador do Estado do Amazonas para que preste as devidas informações sobre os termos desta ação, observados os prazos legais;\n\nd.\nA citação do Exmo. Sr. Advogado-Geral da União e a intimação do Exmo. Sr. Procurador-Geral da República para que apresentem manifestação, nos termos do art. 8º da Lei nº 9.868/99 e do §1º do art. 103 da CF/88;\n\ne.\nNo mérito, a procedência total da presente ação, a fim de que seja declarada a inconstitucionalidade dos artigos 4º, inciso II, 8º, inciso II, 11, §2º, 37, 42, 43, 47, 50, inciso III, 51, 52, inciso II e Anexos I, II, VII e IX da Lei 3.656/2011 do Estado do Amazonas, objeto da presente ação, ante sua inconstitucionalidade material;\n\nf.\nTambém no mérito, a fixação da obrigação de que os servidores, já empossados, fiquem sujeitos à prestação de serviços instrumentais,"
+    },
+    {
+      "page": 21,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "prestando assistência e auxílio aos procuradores estaduais, subordinados à procuradoria Geral do Estado do Amazonas.\n\nTermos em que, pede e espera deferimento.\n\nBrasília, em 19 de abril de 2023.\n\nVicente Martins Prata Braga\nOAB/DF 51.599\nEugênio Aragão\nOAB/DF 4.935\n\nAngelo Longo Ferraro\nOAB/DF 37.922\nMarcelo Winch Schmidt\nOAB/DF 53.599\n\nMiguel Filipi Pimentel Novaes\nOAB/DF 57.469\nMaria Eduarda Praxedes Silva\nOAB/DF 48.704\n\nRoberta Nayara Pereira Alexandre\nOAB/DF 59.909\nMatheus Henrique Domingues Lima\nOAB/DF 70.190"
+    }
+  ]
+}

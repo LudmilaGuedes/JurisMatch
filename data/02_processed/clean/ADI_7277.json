@@ -1,0 +1,212 @@
+{
+  "id": "ADI_7277",
+  "arquivo_pdf": "ADI_7277.pdf",
+  "sha256": "f66f041d177e08381c099db6b141eefaf120c17fdf0b834b80d5df8ee7ccd9c3",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:30:12",
+  "resumo": {
+    "paginas": 23,
+    "paginas_digital": 23,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 43237,
+    "chars_clean": 35745,
+    "reducao_pct": 17.3,
+    "linhas_removidas": 112,
+    "limpeza_detalhe": {
+      "cabecalho_rodape": 89,
+      "hifen_mantido": 26,
+      "hifenizacao_unida": 58,
+      "numero_pagina": 23
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "MINISTÉRIO PÚBLICO FEDERAL PROCURADORIA-GERAL DA REPÚBLICA EXCELENTÍSSIMA SENHORA MINISTRA PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL\nPETIÇÃO INICIAL AJCONST/PGR Nº 843445/2022 O PROCURADOR-GERAL DA REPÚBLICA, com fundamento nos arts. 102, I, \"a\", 103, VI, e 129, IV, da Constituição Federal; no art. 46,\nparágrafo único, I, da Lei Complementar 75, de 20.5.1993 (Lei Orgânica do Ministério Público da União); e na Lei 9.868, de 10.11.1999, vem propor\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE\ncontra o art. 110, §§ 1º e 2º, da Lei Complementar 85, de 27.12.1999, do Estado do Paraná, que estabelece a Lei Orgânica do Ministério Público paranaense.\nOs dispositivos disciplinam critérios para remoção de membros do MP/PR.1 1 Acompanha a petição inicial cópia da norma impugnada, na forma do art. 3º da Lei\n9.868/1999.\nDocumento assinado via Token digitalmente por PROCURADOR-GERAL DA REPÚBLICA ANTONIO AUGUSTO BRANDAO DE ARAS, em 22/11/2022 16:15. Para verificar a assinatura acesse http://www.transparencia.mpf.mp.br/validacaodocumento. Chave 3e59526b.0b9f5170.dc6ef7f6.4ae7c30c"
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "I. OBJETO DA AÇÃO\nEis o teor dos dispositivos impugnados:\nLei Complementar 85/1999 do Paraná Seção VI\nDAS REMOÇÕES\n(…)\nArt. 110 As remoções obedecerão critério alternado de antiguidade e merecimento, a pedido singular ou por permuta, por opção ou compulsoria-mente, no interesse do Ministério Público.\n§ 1º Ao provimento inicial e à promoção, precederá a remoção voluntária.\n§ 2º À remoção por merecimento só poderão concorrer os membros do Ministério Público que perfizerem seis meses de efetivo exercício na comarca em que são titulares, salvo se não houver com tal requisi-to quem aceite o lugar vago, ou quando o número limitado de membros do Ministério Público inviabilizar a formação de lista tríplice.\nConsoante se demonstrará, os dispositivos atacados desrespeitam o modelo de repartição de competência legislativa e de iniciativas reservadas (Constituição Federal, arts. 24, §§ 1º a 4º, e 61, § 1º, II, d, c/c art. 128, § 5º), ao inovarem quanto a critérios básicos de remoção de integrantes das carreiras das magistraturas constitucionais (judicial e do Ministério Público - CF, art. 93, c/c art. 129, § 4º)."
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "II. COMPETÊNCIA LEGISLATIVA PARA EDITAR NORMAS GERAIS DO REGIME JURÍDICO DO MP E DO PODER JUDICIÁRIO\nO art. 61, § 1º, II, d, da Constituição Federal reserva à iniciativa privativa do Presidente da República leis que disponham sobre organização do Ministério Público e sobre normas gerais de organização dos Ministérios Públicos dos Estados.\nO art. 128, § 5º, da CF, por sua vez, submete a lei complementar de iniciativa do respectivo Procurador-Geral de Justiça a disciplina da organização, das atribuições e do estatuto de cada Ministério Público.\nPortanto, para os MPs dos Estados há dois regimes de organização:\n(i) o estabelecido pela Lei Orgânica Nacional do Ministério Público - LONMP (Lei 8.625/1993), que, deflagrada pelo Presidente da República, versa sobre normas gerais de organização e sobre o estatuto básico de seus membros, e (ii) o da lei orgânica estadual, que, por lei complementar de iniciativa do respectivo PGJ, dispõe sobre a organização, as atribuições e o estatuto de cada um dos MPs, observado o regramento geral definido pela Lei Orgânica Nacional.\nA propósito, esclarece Emerson Garcia que \"somente quem tem o poder de iniciativa da lei orgânica pode deflagrar o processo legislativo que vise a alterá-la\".\nAdverte, ademais, que a identificação do que sejam normas gerais de organização"
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "dos MPs dos Estados, cuja iniciativa pertence ao Presidente da República (CF,\nart. 61, § 1º, II, d), e o que sejam normas particularizadas de cada um dos MPs dos Estados, de iniciativa dos respectivos PGJs (CF, art. 128, § 5º), \"pressupõe um necessário juízo valorativo entre o que deve ser considerado interesse geral, exigindo uma regulação uniforme, e o que é da alçada do interesse setorial, devendo atender às especificidades de cada Ministério Público\".2 Demais disso, a partir da Emenda Constitucional 45, de 30.12.2004, cresceu em densidade no Direito Positivo a aproximação de regimes entre os membros do Poder Judiciário e do Ministério Público, a qual preexistia à referida emenda, dada a similitude de disciplina jurídica de cada uma das respectivas carreiras.\nFormalizou a EC 45/2004 esse paralelismo institucional, quando alterou a redação do § 4º do art. 129, que passou a dispor: \"Aplica-se ao Ministério Público, no que couber, o disposto no art. 93.\"3 Os relevantes traços contemporâneos da natureza unitária do Ministério Público nacional conduzem a que, sempre que possível, dê-se azo 2 GARCIA, Emerson. Ministério Público: organização, atribuições e regime jurídico.\n4. ed. São Paulo: Saraiva, 2014. p. 55-57.\n3 Ainda antes, o art. 129, § 4º, já dispunha na direção dessa simetria, pois preceituava:\n\"Aplica-se ao Ministério Público, no que couber, o disposto no art. 93, II e VI.\""
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "a que o regramento de direitos, vantagens e prerrogativas funcionais contem com disciplina nacional e simétrica.\nSobre a estrutura do Ministério Público brasileiro e o escopo da norma constitucional que prevê a unidade como princípio institucional, é a lição de Emerson Garcia:\nA estrutura do Ministério Público brasileiro apresenta nítida distin-ção em relação à forma federativa do Estado. Nessa última, como se disse, a União personifica a República Federativa do Brasil, resultando da \"união indissolúvel dos Estados e Municípios e do Distrito Federal\" (CR/1988, art. 1o). Já o Ministério Público \"abrange\" o Ministério Público da União e os Ministérios Públicos dos Estados. Nesse caso, os congêneres da União e dos Estados, em seu conjunto, inte-gram o que se denomina de \"Ministério Público\". A peculiaridade é que, enquanto a União possui real existência, o denominado \"Ministério Público\", concebido de modo dissociado de seus ramos, é uma instituição empírica, que nem sequer alcança a realidade. Se o Ministério Público não existe, qual é a ratio essendi da sistemática constitucional? A resposta é simples: o objetivo é o de estabelecer uma identidade comum entre os distintos ramos que materializam o \"Ministério Público\", todos imbuídos da mesma teleologia, a de \"defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis\" (CR/1988, art. 127, caput).\n(…) É justamente a unidade institucional que afasta a necessidade de mais de um ramo do Ministério Público atuar na mesma relação pro-cessual. Essa afirmação, no entanto, demanda uma explicação. A des-necessidade não pode chegar ao extremo de subjugar os interesses afetos a uma instituição aos juízos valorativos realizados por outra, o que importaria em evidente comprometimento de sua própria autonomia"
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "existencial, ou, mesmo, afastar a possibilidade de a lei, em situações de parcial concorrência de atribuições, autorizar sua atuação conjunta, isso sob a forma de litisconsórcio facultativo.4 Devido à unidade de regime jurídico, importa haver igualmente unidade de direitos, prerrogativas e de estrutura remuneratória. Aquela não é absoluta, pois se admitem normas legais e infralegais específicas dos entes da Federação para reger aspectos particulares do regime jurídico dos membros do MP e do funcionamento dos seus órgãos.\nContudo, as grandes linhas do estatuto demandam normatização uniforme, o que não é novidade, pois já decorre da própria edição da Lei\n8.625/1993, como Lei Orgânica Nacional para o Ministério Público.\nPor essas características e pelo mandamento expresso do art. 129,\n§ 4º, da Constituição, consideradas ainda as peculiaridades sociopolíticas do federalismo pátrio, há de haver uniformidade para um equilíbrio na disciplina funcional dos membros do Ministério Público, notadamente no que toca ao regramento de direitos, vantagens e prerrogativas funcionais.\nPor se tratar de matéria de cunho institucional e com abrangência nacional, a movimentação funcional de membros das magistraturas judicial e 4 GARCIA, Emerson. A unidade do Ministério Público: essência, limites e relevância pragmática. Boletim de Direito Administrativo. São Paulo: NDJ, v. 28, n. 9, p. 1035, set. 2012."
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "do Ministério Público tem a sua disciplina estabelecida por normas gerais na Lei Complementar 35/1979 (LOMAN) e na Lei 8.625/1993 (LONMP).\nO regramento geral da matéria por meio de leis nacionais tem por finalidade manter a uniformidade básica nas carreiras, evitar disparidades institucionais profundas e promover o fortalecimento do Poder Judiciário e do Ministério Público brasileiro.\nConforme ensina o Ministro Moreira Alves, normas gerais são \"aquelas preordenadas para disciplinar matéria que o interesse público exige seja unanimemente tratada em todo o país. Assim, são normas gerais aquelas que, por alguma razão, convém ao interesse público sejam tratadas por igual, entre todas as ordens da Federação, para que sejam devidamente instrumentalizados e viabilizados os princípios constitucionais com que têm pertinência\" (Rp 1.150/RS, Rel. Min. Aldir Passarinho, Red. para o acórdão Min. Oscar Corrêa, DJ de 25 out. 1985).\nAssim, o regramento básico da promoção e remoção dos membros dos MPs estaduais é disciplinado pela LONMP nos seguintes termos:\nArt. 61. A Lei Orgânica regulamentará o regime de remoção e promoção dos membros do Ministério Público, observados os seguintes princípios:\nI - promoção voluntária, por antiguidade e merecimento, alternadamen-te, de uma para outra entrância ou categoria e da entrância ou categoria mais elevada para o cargo de Procurador de Justiça, aplicando-se, por asseme-lhação, o disposto no art. 93, incisos III e VI, da Constituição Federal;"
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "II - apurar-se-á a antiguidade na entrância e o merecimento pela atuação do membro do Ministério Público em toda a carreira, com prevalência de critérios de ordem objetiva levando-se inclusive em conta sua conduta, operosidade e dedicação no exercício do cargo, presteza e segurança nas suas manifestações processuais, o número de vezes que já tenha participado de listas, bem como a frequência e o aproveitamento em cursos oficiais, ou reconhecidos, de aperfeiçoamento;\nIII - obrigatoriedade de promoção do Promotor de Justiça que figure por três vezes consecutivas ou cinco alternadas em lista de merecimento;\nIV - a promoção por merecimento pressupõe dois anos de exercício na respectiva entrância ou categoria e integrar o Promotor de Justiça a primeira quinta parte da lista de antiguidade, salvo se não houver com tais requisitos quem aceite o lugar vago, ou quando o número limitado de membros do Ministério Público inviabilizar a formação de lista tríplice;\nV - a lista de merecimento resultará dos três nomes mais votados, desde que obtida maioria de votos, procedendo-se, para alcançá-la, a tantas votações quantas necessárias, examinados em primeiro lugar os nomes dos remanescentes de lista anterior;\nVI - não sendo caso de promoção obrigatória, a escolha recairá no membro do Ministério Público mais votado, observada a ordem dos escrutí-nios, prevalecendo, em caso de empate, a antiguidade na entrância ou categoria, salvo se preferir o Conselho Superior delegar a competência ao Procurador-Geral de Justiça.\nArt. 62. Verificada a vaga para remoção ou promoção, o Conselho Superior do Ministério Público expedirá, no prazo máximo de sessenta dias, edital para preenchimento do cargo, salvo se ainda não instalado.\nArt. 63. Para cada vaga destinada ao preenchimento por remoção ou promoção, expedir-se-á edital distinto, sucessivamente, com a indicação do cargo correspondente à vaga a ser preenchida.\nArt. 64. Será permitida a remoção por permuta entre membros do Ministério Público da mesma entrância ou categoria, observado, além do disposto na Lei Orgânica:\nI - pedido escrito e conjunto, formulado por ambos os pretendentes;"
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "II - a renovação de remoção por permuta somente será permitida após o decurso de dois anos;\nIII - que a remoção por permuta não confere direito a ajuda de custo.\nNo âmbito do Poder Judiciário, por sua vez, previu a Lei Orgânica da Magistratura Nacional (LC 35/1979) normas gerais relativas à remoção de membros da magistratura dos entes federados:\nCAPÍTULO II\nDa Promoção, da Remoção e do Acesso\nArt. 80. A lei regulará o processo de promoção, prescrevendo a observância dos critérios ele antigüidade e de merecimento, alternadamen-te, e o da indicação dos candidatos à promoção por merecimento, em lista tríplice, sempre que possível.\n§ 1º Na Justiça dos Estados:\nI - apurar-se-ão na entrância a antigüidade e o merecimento, este em lista tríplice, sendo obrigatória a promoção do Juiz que figurar pela quinta vez consecutiva em lista de merecimento; havendo empate na antigüidade, terá precedência o Juiz mais antigo na carreira;\nII - para efeito da composição da lista tríplice, o merecimento será apurado na entrância e aferido com prevalência de critérios de ordem objetiva, na forma do Regulamento baixado pelo Tribunal de Justiça, tendo-se em conta a conduta do Juiz, sua operosidade no exercício do cargo, número de vezes que tenha figurado na lista, tanto para entrância a prover, como para as anteriores, bem como o aproveitamen-to em cursos de aperfeiçoamento;\nIII - no caso de antigüidade, o Tribunal de Justiça, ou seu órgão especial, somente poderá recusar o Juiz mais antigo pelo voto da maioria absoluta do seus membros, repetindo-se a votação até fixar-se a indicação;\nIV - somente após dois anos de exercício na entrância, poderá o Juiz ser promovido, salvo se não houver, com tal requisito, quem aceite o"
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "lugar vago, ou se forem recusados, pela maioria absoluta dos membros do Tribunal de Justiça, ou de seu órgão especial, candidatos que hajam completado o período.\n§ 2º Aplica-se, no que couber, aos Juízes togados da Justiça do Traba-lho, o disposto no parágrafo anterior.\nArt. 81. Na Magistratura de carreira dos Estados, ao provimento inicial e à promoção por merecimento precederá a remoção.\n§ 1º A remoção far-se-á mediante escolha pelo Poder Executivo, sempre que possível, de nome constante de lista tríplice, organizada pelo Tribunal de Justiça e contendo os nomes dos candidatos com mais de dois anos de efetivo exercício na entrância.\n§ 2º A juízo do Tribunal de Justiça, ou de seu órgão especial, poderá, ainda, ser provida, pelo mesmo critério fixado no parágrafo anterior vaga decorrente de remoção, destinando-se a seguinte, obrigatoria-mente, ao provimento por promoção.\nArt. 82 Para cada vaga destinada ao preenchimento por promoção ou por remoção, abrir-se-á inscrição distinta, sucessivamente, com a indicação da Comarca ou Vara a ser provida.\nParágrafo único. Ultimado o preenchimento das vagas, se mais de uma deva ser provida por merecimento, a lista conterá número de Juízes igual ao das vagas mais dois.\nArt. 81. Na Magistratura de carreira dos Estados, ao provimento inicial e à promoção por merecimento precederá a remoção.\n§ 1º. A remoção far-se-á mediante escolha pelo Poder Executivo, sempre que possível, de nome constante de lista tríplice, organizada pelo Tribunal de Justiça e contendo os nomes dos candidatos com mais de dois anos de efetivo exercício na entrância.\nEmbora possam os parlamentos estaduais disciplinar de maneira particularizada as formas de movimentação funcional na carreira do MP e do"
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Judiciário para atendimento de peculiaridades locais,5 não poderão divergir nem inovar em relação aos critérios básicos previstos na legislação nacional, sob pena de incorrerem em inconstitucionalidade formal por vício de iniciativa e por usurpação de competência legislativa da União.\nConsiderado o sistema constitucional de repartição de competência legislativa, não pode lei estadual dispor, fora das peculiaridades locais e da competência suplementar, contrariamente ou sobre matéria típica de normas próprias de lei geral, sob pena de invasão direta da competência legislativa da União.\nÉ o que tem afirmado o Supremo Tribunal Federal:\nCOTEJO ENTRE LEI COMPLEMENTAR ESTADUAL E LEI COMPLEMENTAR NACIONAL - INOCORRÊNCIA DE OFENSA MERAMENTE REFLEXA - A USURPAÇÃO DA COMPETÊNCIA LEGISLATIVA, QUANDO PRATICADA POR QUALQUER DAS PESSOAS ESTATAIS, QUALIFICA-SE COMO ATO DE TRANS-GRESSÃO CONSTITUCIONAL.\n- A Constituição da República, nos casos de competência concorren-te (CF, art. 24), estabeleceu verdadeira situação de condomínio legislativo entre União Federal, os Estados-membros e o Distrito Federal (Raul Machado Horta, Estudos de Direito Constitucional, p. 336, item n. 2, 1995, Del Rey), daí resultando clara repartição vertical de 5 A própria Constituição Federal lista em seu texto a promoção e as demais formas de movimentação funcional na carreira como regra, não como princípio ou diretiva ampla, de modo que o legislador detém espaço discricionário reduzido nesse tema específico."
+    },
+    {
+      "page": 12,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "competências normativas entre essas pessoas estatais, cabendo, à União, estabelecer normas gerais (CF, art. 24, § 1º), e, aos Estados-membros e ao Distrito Federal, exercer competência suplementar (CF, art. 24,\n§ 2º). Doutrina. Precedentes.\n- Se é certo, de um lado, que, nas hipóteses referidas no art. 24 da Constituição, a União Federal não dispõe de poderes ilimitados que lhe permitam transpor o âmbito das normas gerais, para, assim, invadir, de modo inconstitucional, a esfera de competência normativa dos Estados-membros, não é menos exato, de outro, que o Estado-membro, em existindo normas gerais veiculadas em leis nacionais (…), não pode ul-trapassar os limites de competência meramente suplementar, pois, se tal ocorrer, o diploma legislativo estadual incidirá, diretamente, no vício da inconstitucionalidade.\n- A edição, por determinado Estado-membro, de lei que contrarie, frontalmente, critérios mínimos legitimamente veiculados, em sede de normas gerais, pela União Federal ofende, de modo direto, o texto da Carta Política. Precedentes.\n(ADI 2.903/PR, Rel. Min. Celso de Mello, DJe de 19 set. 2008.) (…) 1. As leis complementares estaduais que dispõem sobre organização, atribuições e estatuto dos respectivos Ministérios Públicos (i) são de iniciativa do Procurador-Geral de Justiça daquele Estado-membro;\n(ii) devem respeito à lei federal de normas gerais, de iniciativa privativa do Presidente da República. Precedentes: ADI 852, rel. min. Il-mar Galvão, Tribunal Pleno, julgada em 29/8/2002, DJ de 18/10/2002; ADI 3.041, rel. min. Ricardo Lewandowski, Tribunal Pleno, julgada em 10/11/2011; DJe de 1º/2/2012.\n(ADI 5.402/PI, Rel. Min. Luiz Fux, DJe de 16 set. 2019).\n(…) I. Inconstitucionalidade Formal. A Lei nº 8.625/1993 - Lei Orgânica Nacional do Ministério Público (LONMP) -, ao traçar as normas gerais sobre a remuneração no âmbito do Ministério Público, não prevê o pagamento de auxílio-moradia para membros aposentados"
+    },
+    {
+      "page": 13,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "do parquet. Como a LONMP regula de modo geral normas referentes aos membros do Ministério Público e não estende o auxílio-moradia aos membros aposentados, conclui-se que o dispositivo em análise viola o\nart. 127, § 2º, da Carta Magna, pois regula matéria própria da Lei Orgânica Nacional do Ministério Público e em desacordo com esta.\n(ADI 3.783/RO, Rel. Min. Gilmar Mendes, DJe de 6 jun. 2011).\nPortanto, lei complementar estadual fundada no art. 128, § 5º, da CF não pode dispor sobre matéria própria de normas gerais de alcance nacional ou em desacordo com estas, sob pena de afronta aos arts. 24, §§ 1º a 4º, 61, § 1º, II, d, e 129, § 4º, c/c art. 93 da Constituição Federal.\nIII. INCONSTITUCIONALIDADE DAS NORMAS QUESTIONADAS\nO art. 110, § 1º, da Lei Complementar 85/1999 do Paraná veiculou norma relativa à remoção voluntária de membros do Parquet paranaense, dispondo que ela há de ocorrer em precedência ao provimento inicial e à promoção, seja esta por merecimento ou antiguidade.\nJá o § 2º do art. 110 desse diploma estabeleceu a possibilidade de concorrerem à remoção por merecimento os membros do MP/PR que \"perfizerem seis meses de efetivo exercício na comarca em que são titulares, salvo se não houver com tal requisito quem aceite o lugar vago, ou quando o número limitado de membros do Ministério Público inviabilizar a formação de lista tríplice\" - grifou-se."
+    },
+    {
+      "page": 14,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Como visto, ao dispor sobre o regime da remoção de magistrados, a LOMAN veiculou, no art. 81, § 1º, a exigência de mais de 2 anos de efetivo exercício na entrância para se habilitar à remoção.\nDemais disso, dispôs o caput do art. 81 da LOMAN que a remoção precede ao provimento inicial e à promoção por merecimento, o que leva à conclusão de que, no que diz respeito à promoção por antiguidade, esta tem prioridade.\nNo ponto, o silêncio do legislador nacional, no que não incluiu no dispositivo o critério da antiguidade, indica exatamente que esse critério prepondera sobre a remoção. Interpretação diversa seria imprimir à norma uma elasticidade maior do que ela efetivamente tem, para, na verdade, alterar o seu sentido e tornar a remoção um critério de preponderância absoluta.\nCom base nesse entendimento, o Supremo Tribunal Federal tem declarado a inconstitucionalidade formal de leis estaduais que, a pretexto de detalhar critérios para a promoção na carreira judicial, divergem do modelo traçado pela Constituição e pela LOMAN:\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI COMPLEMENTAR N. 212, DO ESTADO DE SANTA CATARINA, QUE CONFERIU NOVA REDAÇÃO AO ART. 192 DA LEI N.\n5.624/79. PRECEITO QUE DETERMINA A PRECEDÊNCIA DA REMOÇÃO DE JUÍZES ÀS PROMOÇÕES POR ANTIGUIDA-"
+    },
+    {
+      "page": 15,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "DE OU MERECIMENTO. INCONSTITUCIONALIDADE. VIOLAÇÃO DO ART. 93 DA CONSTITUIÇÃO DO BRASIL.\n1. Até o advento da lei complementar prevista no art. 93, caput, da Constituição do Brasil, a matéria própria ao Estatuto da Magistratura será disciplinada pelo texto da Lei Complementar n. 35/79, recebi-da pela Constituição. Precedentes.\n2. A lei atacada dispôs sobre matéria constitucionalmente reservada a lei complementar de iniciativa do Supremo Tribunal Federal, vio-lando o disposto no art. 93 da Constituição.\n3. Ressalvada a validade dos atos de ofício praticados por magistrados promovidos ou removidos na conformidade da lei impugnada.\nPedido julgado procedente, para declarar inconstitucional a Lei Complementar n. 212, que conferiu nova redação ao art. 192 da Lei n.\n5.624/79, do Estado de Santa Catarina.\n(ADI 2.494/SC, Rel. Min. Eros Grau, DJ, 13.10.2006) Medida cautelar em ação direta de inconstitucionalidade. 2. Art. 92, III, alínea e, da Constituição do Estado de Mato Grosso, com a redação determinada pela Emenda Constitucional no 46, de 22 de novem-bro de 2006. 3. Consideração do tempo de exercício da advocacia para fins de classificação no critério de antiguidade na carreira da magistratura, da mesma forma que se considera o tempo de serviço público.\n4. Alegada violação ao art. 93 da Constituição Federal. 5. Até a edição da lei complementar prevista no art. 93, caput, da Constituição Federal, compete exclusivamente à Lei Orgânica da Magistratura dispor sobre a promoção, a remoção e o acesso de magistrados a cargos. 6. Precedentes. 7. Medida cautelar deferida para suspender, com eficácia ex tunc, a vigência do art. 92, III, alínea e, da Constituição do Estado de Mato Grosso, com a redação determinada pela EC nº 46/2006.\n(ADI-MC 4.042/MT, Rel. Min. Gilmar Mendes, DJe 79, de\n30.4.2009)"
+    },
+    {
+      "page": 16,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Em julgados recentes, reafirmou a Corte seu entendimento pela inconstitucionalidade de atos normativos que estabelecem a precedência da remoção de juízes às promoções por antiguidade. Confira-se:\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE. ART. 82 DA LEI COMPLEMENTAR N. 96/2010 DA PARAÍBA. NORMA SOBRE REMOÇÃO E PROMOÇÃO DE MAGISTRADOS.\nAFRONTA AO ART. 93 DA CONSTITUIÇÃO DA REPÚBLICA.\nINCONSTITUCIONALIDADE FORMAL E MATERIAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE JULGADA PROCEDENTE.\n1. A jurisprudência deste Supremo Tribunal reconhece a legitimidade ad causam de associações que representem apenas fração da clas-se de magistrados \"quando a norma objeto de controle abstrato de constitucionalidade referir-se exclusivamente à magistratura de determinado ente da Federação\".\n2. Até a edição da lei complementar prevista no caput do art. 93 da Constituição da República, compete exclusivamente à Lei Orgânica da Magistratura dispor sobre a promoção, a remoção e o acesso de magistrados aos cargos.\n3. Ao acrescentar a promoção por antiguidade às hipóteses em que a remoção terá prevalência, a lei complementar paraibana contrariou o disposto no art. 81 da LOMAN, segundo o qual, na magistratura de carreira dos Estados-membros, ao provimento inicial e à promoção apenas por merecimento precederá a remoção.\n4. Necessidade de convalidação dos atos de ofício praticados por magistrados promovidos ou removidos nos termos da lei impugnada, em observância aos princípios da segurança jurídica e da presunção de constitucionalidade das leis.\n5. Ação direta de inconstitucionalidade julgada procedente com efei-tos ex nunc.\n(ADI 4.758/PB, Rel. Min. Cármen Lúcia, DJe de 6.3.2020)"
+    },
+    {
+      "page": 17,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTIGO 2º\nDA LEI 3.658/2009, DO ESTADO DO MATO GROSSO DO SUL, QUE ALTEROU O ARTIGO 202-A DA LEI 1.511/94,\nACRESCENTANDO-LHE O §2º. LEGITIMIDADE DA ANAMAGES. OFENSA DIRETA À CONSTITUIÇÃO FEDERAL.\nPRECEITO QUE DETERMINA A PRECEDÊNCIA DE REMOÇÃO DE JUÍZES ÀS PROMOÇÕES POR ANTIGUIDADE OU MERECIMENTO. INCONSTITUCIONALIDADE. VIOLAÇÃO AO ARTIGO 93 DA CONSTITUIÇÃO FEDERAL.\n1. Em que pese a ANAMAGES representar apenas uma parte da classe dos magistrados, o Supremo Tribunal Federal firmou entendimento no sentido de reconhecer sua legitimidade ativa quando a nor-ma objeto de controle abstrato de constitucionalidade alcançar apenas magistrados de determinado estado da federação. O que se verifica, no caso em análise, é a impugnação de norma válida para magistratura do Estado do Mato Grosso do Sul, o que afasta, para este feito, o entendimento uníssono da Corte acerca da inviabilidade das ações di-retas propostas pela ANAMAGES quando a norma alcançar toda a magistratura nacional. A propósito: ADI-AgR 4.788, Rel. Min. Edson Fachin, Plenário, 8.8.2017.\n2. O desrespeito às normas contidas na LOMAN pode ser examinado em sede de controle abstrato de constitucionalidade. Entende o Supremo Tribunal Federal que, nessa hipótese, ocorre violação à própria Constituição Federal, a qual reserva à lei complementar de iniciativa desta Corte o tratamento dos temas atinentes ao Estatuto da Magistratura. Precedentes.\n3. A requente postula a declaração de inconstitucionalidade de dispositivo que determina a precedência de remoção de juízes às promoções por antiguidade ou merecimento, no Estado de Mato Grosso do Sul.\nVerifica-se, no caso, conflito entre o art. 2º da Lei 3.658, de 30 de abril de 2009, que alterou o art. 202-A da Lei 1.511/94, e o artigo 93, caput, da Constituição Federal, notadamente porque a norma atacada disciplina matéria constitucionalmente reservada a lei complementar de iniciativa do Supremo Tribunal Federal."
+    },
+    {
+      "page": 18,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "4. Ação julgada procedente.\n(ADI 4.816/MS, Rel. Min. Gilmar Mendes, DJ de 15.8.2019)\nAGRAVO REGIMENTAL EM MEDIDA CAUTELAR NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI N. 7.621/2012 DO ESTADO DO PARÁ. ANAMAGES. LEGITIMIDADE ATIVA. NORMA DE INTERESSE DA MAGISTRATURA ESTADUAL. PROVIMENTO DO AGRAVO REGIMENTAL.\nENCERRAMENTO DA INSTRUÇÃO. POSSIBILIDADE DE JULGAMENTO DO MÉRITO DA AÇÃO DIRETA. PRECEDENTES. NORMA ESTADUAL QUE DISPÕE SOBRE A CARREIRA DA MAGISTRATURA. INCONSTITUCIONALIDADE FORMAL. PRECEDENTES.\n1. Embora a ANAMAGES represente apenas fração da classe dos magistrados, a jurisprudência do Supremo Tribunal Federal passou a reconhecer sua legitimidade ativa quando a norma objeto do controle abstrato referir-se exclusivamente à magistratura de determinado ente da federação. Precedentes.\n2. Estando devidamente aparelhada para o julgamento em definitivo, é possível ao Colegiado converter o julgamento da medida cautelar no mérito da ação direta. Precedentes.\n3. Padece de inconstitucionalidade formal norma estadual que disci-pline matéria relativa à Lei Orgânica da Magistratura Nacional.\nPrecedentes.\n4. Agravo regimental provido para julgar procedente o mérito da ação direta.\n(ADI-AgR 4.788/PA, Rel. Min. Edson Fachin, DJe de 8.8.2017) Como bem explicitado pelo Ministro Edson Fachin, ao proferir seu voto nesse último precedente:"
+    },
+    {
+      "page": 19,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "(…) o art. 81 da Loman prevê que \"na magistratura de carreira dos Estados, ao provimento inicial e à promoção por merecimento precederá a remoção\". A norma impugnada, por sua vez, prevê que a remoção precederá qualquer forma de promoção e de provimento inicial (\"ao provimento inicial de Comarca ou Vara e à promoção precederá a remoção\"). Nesse sentido, tal como se assentou no precedente rela-tado pelo e. Ministro Eros Grau, ADI 2.494, Pleno, DJ 13.10.2006, além da usurpação de competência e da ofensa à reserva de lei complementar, a inconstitucionalidade formal também decorre do fato de se ter disposto sobre as formas de provimento de maneira distinta da que prevê a Loman.\n(…) a norma impugnada padece de inconstitucionalidade formal.\nIsso porque, disciplinando a matéria relativa à precedência das formas de provimento de vagas na carreira da magistratura, a norma impugnada desbordou dos limites fixados no art. 81 da Lei Orgânica da Magistratura Nacional. Como o Supremo Tribunal Federal já se manifestou em diversas oportunidades, a Lei Orgânica Nacional disciplina o art. 93 da Constituição Federal, razão pela qual devem as demais leis da carreira a ela se conformar. A incompatibilidade da norma estadual vis-a-vis à Loman importa dupla vício de inconstitucionalidade formal, por ofensa à reserva de lei complementar e à iniciativa privativa do Supremo Tribunal Federal.\nFinalmente, a questão voltou a ser objeto de apreciação, pelo STF, em setembro de 2020, no julgamento do RE 1.037.926/RS, em que a Corte fixou tese de repercussão geral segundo a qual \"a promoção na magistratura por antiguidade precede a mediante remoção\" (Rel. Min. Marco Aurélio, DJe, 5.10.2020).\nO mesmo entendimento há de ser aplicado no toca às carreiras do"
+    },
+    {
+      "page": 20,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "A disciplina das movimentações funcionais na carreira da magistratura judicial, prevista no art. 93 da Constituição Federal, é aplicável, no que for compatível, aos membros do Ministério Público, por expressa disposição constitucional (CF, art. 129, § 4º).6 A esse respeito, esclarece José Adércio Leite Sampaio:\n(…) o art. 129, § 4º, da Constituição manda aplicar ao Ministério Público, no que couber, o disposto no artigo constitucional 93. \"No que couber\" deve ser entendido em vista das particularidades de estrutura e funcionamento das duas magistraturas, requerendo adaptações. É óbvio, por exemplo, que não se aplica o disposto no inciso IX a autorizar a constituição de órgão especial nos tribunais com número superior a vinte e cinco julgadores. Por outro lado, há algumas garantias e princípios constantes do artigo remetido que já se encontram expressos para o MP de maneira exaustiva (arts. 128, §§ 5º, I, a e b e c; II, a a f; e 6º; 129, §§ 2º a 5º). Outros admitem conjugação sistemática (art. 129, § 3º c/c 93, I).7 A progressão horizontal na carreira do Ministério Público (remoção a pedido ou permuta) de membros do MP de comarca de igual entrância ou 6 O art. 129, § 4º da Constituição, inserido pela EC 45/2004, manda aplicar os princípios fundamentais do Estatuto da Magistratura ao Ministério Público. O Constituinte Reformador, nos mesmos moldes do constitucionalismo contemporâneo de matriz europeia ocidental, conferiu ao Ministério Público fisionomia institucional cujos traços e atributos jurídicos são próprios da Magistratura Judicial. É dizer, o direito constitucional brasileiro, na sua formulação contemporânea, reconhece ao Ministério Público e à Magistratura Judicial a natureza jurídica de magistraturas constitucionais.\n7 SAMPAIO, José Adércio Leite. Comentário ao art. 128. In: CANOTILHO, J. J. Gomes;\nMENDES, Gilmar F.; SARLET, Ingo W.; STRECK, Lenio L. (Coord.). Comentários à Constituição do Brasil. 2. ed. São Paulo: Saraiva, 2018. p. 1641."
+    },
+    {
+      "page": 21,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "mesmo nível de carreira atenderá às regras para promoção. Sobre os requisitos para remoção voluntária e permuta, ressalta Emerson Garcia:\nDe acordo com o art. 93-VIII-A da Constituição da República, aplicável aos membros do Ministério Público por força do art. 129, § 4º, com a redação dada pela Emenda Constitucional n. 45/2004, a remoção a pedido ou a permuta de magistrados de comarca de igual entrância atenderá, no que couber, o seguinte: 1) é obrigatória a promoção do juiz que figure por três vezes consecutivas ou cinco alternadas em lista de merecimento; 2) a promoção por merecimento pressupõe dois anos de exercício na respectiva entrância e integrar o juiz a primeira quinta parte da lista de antiguidade desta, salvo se não houver com tais requisitos quem aceite o lugar vago; 3) aferição do merecimento conforme o desempenho e pelos critérios objetivos de produtividade e presteza no exercício da jurisdição e pela frequência e aproveitamento em cursos oficiais ou reconhecidos de aperfeiçoamento; e 4) não será promovido o juiz que, injustificadamente, retiver autos em seu poder além do prazo legal, não podendo devolvê-los ao cartório sem o devido despacho ou decisão.\nSegundo o art. 61, caput, o regime de remoção e promoção dos membros do Ministério Público será regulamentado pela lei orgânica estadual, observados os princípios estatuídos nos incisos do artigo.\nConsiderando que os incisos I, III, IV e VI eram especificamente direcionados à promoção, teria o legislador estadual liberdade para estender, ou não, tais critérios à remoção. De qualquer modo, em relação a esta, seriam de observância obrigatória os incisos II e V. Com o advento da Emenda Constitucional n. 45/2004 a margem de liberdade foi em muito reduzida, sendo igualmente obrigatória, como vimos, a observância dos incisos III e IV, que correspondem às\nalíneas b e c do inciso II do art. 93 da Constituição.\nEmbora o art. 93, VIII-A da Constituição não faça remissão à alínea d do inciso II do art. 93 (\"na apuração da antiguidade, o tribunal somente poderá recusar o juiz mais antigo pelo voto de dois terços de seus membros, conforme procedimento próprio, repetindo-se a votação"
+    },
+    {
+      "page": 22,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "até fixar-se a indicação), tal não erige-se como óbice a que o Conselho não acolha o pedido de remoção ou de permuta, quer em decorrência do não preenchimento dos requisitos legais, quer em virtude da existência de razões de interesse público que justifiquem o seu desacolhimento.8 Inovação ou intromissão de legislação estadual em matéria própria da LONMP e da LOMAN - como são os critérios básicos de movimentação funcional nas carreiras do Judiciário e do MP - significa, portanto, usurpação da competência da privativa da União para estabelecer normas gerais do regime jurídico dos membros, com violação direta do art. 129, § 4º, c/c art. 93 da Constituição Federal.\nAo estabelecer a precedência da remoção sobre a promoção por antiguidade e ao fixar em 6 meses o tempo de efetivo exercício para remoção, cuidaram os §§ 1º e 2º do art. 110 da LC paranaense 85/1999 de matéria típica de norma geral, já disciplinada no âmbito do Estatuto da Magistratura, com ofensa ao art. 93, c/c o art. 129, § 4º, da Constituição Federal.\nIV. PEDIDOS E REQUERIMENTOS\nEm face do exposto, requer o PROCURADOR-GERAL DA REPÚBLICA que se colham as informações da Assembleia Legislativa, do Governador e do 8 GARCIA, EMERSON. Ministério Público: organização, atribuições e regime jurídico.\n4. ed. São Paulo: Saraiva, 2014. p. 835."
+    },
+    {
+      "page": 23,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Procurador-Geral do Estado do Paraná, nos termos do art. 103, § 3º, da Constituição Federal. Superadas essas fases, pede prazo para a manifestação da Procuradoria-Geral da República.\nAo final, postula que se julgue procedente o pedido para declarar a inconstitucionalidade do art. 110, §§ 1º e 2º, da Lei Complementar 85/1999 do Estado do Paraná.\nBrasília, data da assinatura digital.\nAugusto Aras Procurador-Geral da República Assinado digitalmente\nAMO"
+    }
+  ]
+}

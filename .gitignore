@@ -1,0 +1,59 @@
+# O repositório guarda o código, os metadados e os resultados do pipeline
+# (texto limpo, trechos, embeddings, logs) — o suficiente para escrever o artigo e
+# montar um front sem rodar OCR nem gerar embeddings de novo.
+# Ficam de fora os PDFs (grandes e baixáveis de novo pelo
+# scripts/baixar_iniciais_stf.py) e o que é local ou temporário.
+
+# ---------------------------------------------------------------- PDFs
+*.pdf
+*.tmp
+*.crdownload
+# pastas de coleta manual/antiga (não alterar; só os PDFs e o log local)
+peticoes_iniciais/
+peticoes_teste/
+
+# ---------------------------------------------------------------- dados intermediários
+# texto bruto do OCR: o que vale é o clean/ (texto limpo por página)
+data/02_processed/ocr/
+# OCR alternativo do Luigi (tesserocr, só Mac/Linux)
+data/02_processed/textos_jsonl/
+# trechos: a mesma lista vai alinhada com os vetores em data/04_embeddings/chunks.jsonl
+data/03_chunks/
+# indice FAISS: se recria em milissegundos a partir de data/04_embeddings/ (o info.json fica)
+data/05_faiss/*.faiss
+# checkpoint dos embeddings (apagado sozinho quando termina)
+data/04_embeddings/_parcial/
+# checkpoint do download (estado local da máquina que baixou)
+data/01_raw/iniciais_stf/_estado.json
+data/amostra/
+data/**/_run.log
+
+# modelos do Tesseract (tessdata_best): o extrair_texto.py baixa sozinho
+modelos/
+
+# versão 1 do pipeline (Markdown) e scripts de conversão única: só histórico local
+_arquivo/
+
+# ---------------------------------------------------------------- python / ambiente
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ---------------------------------------------------------------- sistema / editor / assistente
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+.vscode/
+.idea/
+CLAUDE.md
+.claude/
+
+# ---------------------------------------------------------------- segredos
+.env
+
+# cópia solta na raiz (a planilha oficial está em data/00_planilhas/)
+/casos_para_teste.xlsx

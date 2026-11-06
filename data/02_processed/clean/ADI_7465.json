@@ -1,0 +1,132 @@
+{
+  "id": "ADI_7465",
+  "arquivo_pdf": "ADI_7465.pdf",
+  "sha256": "aa600f98bc997a231caf9a01ae308bf0bee78785f6033f2bbf4dd6c9d1ee19c4",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:30:17",
+  "resumo": {
+    "paginas": 13,
+    "paginas_digital": 13,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 22031,
+    "chars_clean": 17717,
+    "reducao_pct": 19.6,
+    "linhas_removidas": 63,
+    "limpeza_detalhe": {
+      "cabecalho_rodape": 49,
+      "hifen_mantido": 2,
+      "hifenizacao_unida": 0,
+      "numero_pagina": 14
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "MINISTÉRIO PÚBLICO FEDERAL PROCURADORIA-GERAL DA REPÚBLICA EXCELENTÍSSIMA SENHORA MINISTRA PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL\nPETIÇÃO INICIAL AJCONST/PGR Nº 1014357/2023 O PROCURADOR-GERAL DA REPÚBLICA, com fundamento nos arts. 102, I, \"a\" e \"p\", 103, VI, e 129, IV, da Constituição Federal; no art.\n46, parágrafo único, I, da Lei Complementar 75, de 20.5.1993 (Lei Orgânica do Ministério Público da União); e na Lei 9.868, de 10.11.1999, vem propor\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE COM PEDIDO DE MEDIDA CAUTELAR\ncontra a expressão \"não remunerado\", contida no § 2º do art. 7º da Lei 9.647, de\n29.6.2022, do Estado do Pará, que institui o Comitê Estadual de Prevenção e Documento assinado via Token digitalmente por PROCURADOR-GERAL DA REPÚBLICA ANTONIO AUGUSTO BRANDAO DE ARAS, em 26/09/2023 20:30. Para verificar a assinatura acesse http://www.transparencia.mpf.mp.br/validacaodocumento. Chave 020481a3.5b45077e.ff065ae8.67e45613"
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Combate à Tortura do Pará (CEPCT/PA) e cria o Mecanismo Estadual de Prevenção e Combate à Tortura do Pará (MEPCT/PA).1\nI. OBJETO DA AÇÃO\nEis o teor do dispositivo sob invectiva:\nArt. 7º (...)\n§ 2º A atuação dos membros participantes do Mecanismo Estadual de Prevenção e Combate à Tortura do Pará (MEPCT/PA), será considerada prestação de serviço público relevante, não remunerado.\nComo se demonstrará, referida expressão afronta os princípios republicano e democrático (art. 1º, caput, da CF), a dignidade da pessoa humana (art. 1º, III, da CF), o pluralismo político (art. 1º, V, da CF), o princípio da igualdade (art. 5º, caput, da CF), a proibição de tortura (art. 5º, III e XLIII, da CF) e o princípio da eficiência administrativa (art. 37, caput, da CF), pois, ao prever que a atuação dos membros do Mecanismo Estadual de Prevenção à Tortura é prestação de serviço público relevante, \"não remunerado\", dificulta a implementação do Mecanismo no Estado do Pará e reduz a possibilidade de participação nos referidos conselhos de integrantes da sociedade civil oriundos de classes menos abastadas.\n1 Acompanham a petição inicial cópia das normas impugnadas, conforme o art. 3º da Lei 9.868/1999, e peças do Procedimento Administrativo 1.00.000.017456/2022-77."
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "II. ASPECTOS INICIAIS\nO § 2º do art. 7º da Lei 9.647/2022 do Estado do Pará determina que a participação dos Membros no Mecanismo Estadual de Prevenção e Combate à Tortura constitui serviço público relevante, mas não remunerado.\nEmbora seja louvável a criação, pelo referido diploma, do Comitê Estadual de Combate à Tortura do Pará (CEPCT/PA) e do Mecanismo Estadual de Combate à Tortura do Pará (MEPCT/PA), o dispositivo ora atacado é preocupante na medida em que veiculado por ente federativo cujas dimensões continentais dificultam a fiscalização das unidades prisionais pelos peritos e o deslocamento das equipes do Mecanismo Estadual.\nAlém disso, o Estado do Pará apresenta número expressivo de denúncias de tortura e tratamento desumano no âmbito do sistema prisional respectivo,2 circunstância que exigirá maior empenho e dedicação por parte dos integrantes do Mecanismo recém-criado. Todavia, a ausência de remuneração dificulta sobremaneira que os peritos realizem seu importantíssimo trabalho de forma adequada.\n2 Disponível:\nhttps://redepara.com.br/Noticia/223417/familiares-de-presos-protestam-contra-maus-tratos-na-penitenciaria-de-santarem. Acesso em: 20.9.2023."
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "III. CONSELHOS, ORGANIZAÇÕES DA SOCIEDADE CIVIL E SUA RELAÇÃO COM A DEMOCRACIA\nA Constituição de 1988, ao contrário das anteriores, investe fortemente na valorização de configurações coletivas, que constituem instrumentos para a materialização do pluralismo político que ela busca alcançar.\nA democracia impõe a participação social, dos mais diferentes segmentos, nos diferentes espaços de poder. A Constituição distribuiu direitos e propôs a reorganização dos espaços sociais, mas tal projeto só é possível porque o constituinte reconheceu a importância da participação social.\nNão faltam exemplos de conformações coletivas no texto constitucional: direito de reunião (art. 5º, XVI), liberdade sindical (art. 8º), direito de greve (art. 9º), direito de participação em audiências públicas, entre outros.\nOs mais diversos conselhos foram criados a partir de comandos constitucionais que preveem a participação social na elaboração e fiscalização de políticas públicas, a exemplo do Conselho Nacional de Saúde (art. 198, I e"
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "III);3 da Assistência Social (art. 204);4 do Meio Ambiente (art. 225);5 e da Criança e Adolescente (art. 227, § 1º).6 Os conselhos constituem instrumentos de intervenção democrática e de participação direta da sociedade civil na formação e orientação de políticas públicas, notadamente na área de direitos humanos e coletivos, por 3\nArt. 198. As ações e serviços públicos de saúde integram uma rede regionalizada e hierarquizada e constituem um sistema único, organizado de acordo com as seguintes diretrizes:\nI - descentralização, com direção única em cada esfera de governo;\n(…) III - participação da comunidade.\n4\nArt. 204. As ações governamentais na área da assistência social serão realizadas com recursos do orçamento da seguridade social, previstos no art. 195, além de outras fontes, e organizadas com base nas seguintes diretrizes:\nI- descentralização político-administrativa, cabendo a coordenação e as normas gerais à esfera federal e a coordenação e a execução dos respectivos programas às esferas estadual e municipal, bem como a entidades beneficentes e de assistência social;\nII - participação da população, por meio de organizações representativas, na formulação das políticas e no controle das ações em todos os níveis.\n5\nArt. 225. Todos têm direito ao meio ambiente ecologicamente equilibrado, bem de uso comum do povo e essencial à sadia qualidade de vida, impondo-se ao Poder Público e à coletividade o dever de defendê-lo e preservá-lo para as presentes e futuras gerações.\n6\nArt. 227. É dever da família, da sociedade e do Estado assegurar à criança, ao adolescente e ao jovem, com absoluta prioridade, o direito à vida, à saúde, à alimentação, à educação, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária, além de colocá-los a salvo de toda forma de negligência, discriminação, exploração, violência, crueldade e opressão.\n§ 1º O Estado promoverá programas de assistência integral à saúde da criança, do adolescente e do jovem, admitida a participação de entidades não governamentais, mediante políticas específicas e obedecendo aos seguintes preceitos: (Redação dada Pela Emenda Constitucional nº 65/2010). (…)."
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "isso o Estado há de permitir e estimular a sua formação e seu funcionamento de forma autônoma.\nA autonomia dos entes colegiados, no entanto, está intrinsecamente relacionada à estruturação material dos órgãos respectivos, com a disponibilização de recursos materiais e humanos, o que inclui a remuneração adequada de seus membros.\nEnfim, a adequada remuneração dos membros tem por efeito possibilitar a participação nos conselhos de todos os segmentos sociais, sendo um imperativo republicano e do princípio da igualdade, além de materializar políticas públicas no espaço do direito estatal de forma mais democrática.\nIV. INCONSTITUCIONALIDADE DA NORMA QUESTIONADA\nFeitas tais considerações, passa-se aos vícios de inconstitucionalidade que inquinam o § 2º do art. 7º da Lei 9.647/2022 do Estado do Pará, que prevê que a participação dos Membros no Mecanismo Estadual de Prevenção e Combate à Tortura do Pará constitui serviço público relevante, \"não remunerado\".\nA Constituição de 1988, permeada pela garantia da dignidade da pessoa humana, determina que ninguém será submetido a tortura, nem a"
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "tratamento desumano ou degradante e a lei deverá considerar o crime de tortura como inafiançável e insuscetível de graça ou anistia (art. 5º, III e XLIII, da CF).\nComo forma de combater e prevenir os crimes de tortura, o Brasil aderiu ao Protocolo Facultativo à Convenção contra a Tortura e outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes. Embora referido Protocolo tenha sido internalizado por meio do Decreto 6.085, de 19.4.2007, os tratados internacionais de direitos humanos têm caráter materialmente constitucional, a teor do art. 5º, § 2º, da CF.\nReferido Protocolo determina que órgãos nacionais e internacionais independentes realizem visitas regulares a lugares onde pessoas são privadas de sua liberdade.7 Em seu art. 3º prevê que cada Estado-Parte \"deverá designar ou manter em nível doméstico um ou mais órgãos de visita encarregados da prevenção da tortura e outros tratamentos ou penas cruéis, desumanos ou degradantes (doravante denominados mecanismos preventivos nacionais)\". Quer dizer, internamente os Estados-Parte têm o dever de criar pelo menos um 7 \"Artigo 1. O objetivo do presente Protocolo é estabelecer um sistema de visitas regulares efetuadas por órgãos nacionais e internacionais independentes a lugares onde pessoas são privadas de sua liberdade, com a intenção de prevenir a tortura e outros tratamentos ou penas cruéis, desumanos ou degradantes.\" (Protocolo Facultativo à Convenção contra a Tortura e outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes. Disponível em:\nhttp://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6085.htm. Acesso em: 20.9.2023)."
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "órgão encarregado da prevenção da tortura e outros tratamentos degradantes.\nEm cumprimento ao referido acordo internacional, a Lei federal\n12.847/2013 instituiu o Sistema Nacional de Prevenção e Combate à Tortura (SNPCT), composto pelos seguintes órgãos: Comitê Nacional de Prevenção e Combate à Tortura (CNPCT); Mecanismo Nacional de Prevenção e Combate à Tortura (MNPCT); Conselho Nacional de Política Criminal e Penitenciária (CNPCP) e o órgão do Ministério da Justiça responsável pelo sistema penitenciário nacional (art. 1º, § 1º).\nO art. 8º, §§ 5º, 6º e 7º, da Lei 12.847/2013 faculta aos Estados criarem Mecanismos Estaduais, com a função de prevenir e combater a tortura em seu território, por meio de visitas periódicas em conjunto com o Mecanismo Nacional.8 Dessa forma, embora a criação dos Mecanismos Estaduais seja uma faculdade, uma vez criados, passam a integrar o Sistema Nacional de Prevenção e Combate à Tortura (SNPCT).\n8\nArt. 8º (…)\n§ 5º Os Estados poderão criar o Mecanismo Estadual de Prevenção e Combate à Tortura - MEPCT, órgão responsável pela prevenção e combate à tortura e a outros tratamentos ou penas cruéis, desumanos ou degradantes, no âmbito estadual.\n§ 6º A visita periódica a que se refere o inciso I do caput e o § 2º , ambos do art. 9º , deverá ser realizada em conjunto com o Mecanismo Estadual, que será avisado com antecedência de 24 (vinte e quatro) horas.\n§ 7º A inexistência, a recusa ou a impossibilidade de o Mecanismo Estadual acompanhar a visita periódica no dia e hora marcados não impede a atuação do MNPCT."
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Além disso, a legislação estadual deverá adotar as mesmas atribuições e prerrogativas conferidas aos peritos do Mecanismo Nacional, de forma a garantir-se sua atuação autônoma e independente, a teor do disposto no art. 8º, § 2º, da Lei 12.847/2013.9 Todavia, conforme dito alhures, a autonomia dos órgãos colegiados está intrinsecamente relacionada à estruturação material, com a disponibilização de recursos materiais e humanos, o que inclui a remuneração adequada seus membros. A atividade de perito do Mecanismo exige empenho, dedicação e tempo, sendo dificílimo conciliá-la com outra atividade remunerada.\nNesse sentido, o Plenário do Supremo Tribunal Federal, no julgamento da ADPF 607/DF, da Relatoria do Ministro Dias Toffoli, reconheceu a inconstitucionalidade do Decreto 9.831/2019 que havia transformado o cargo de perito do Mecanismo Nacional de Prevenção e Combate à Tortura em serviço público relevante não remunerado.10 9\nArt. 8º (…)\n§ 2º Os membros do MNPCT terão independência na sua atuação e garantia do seu mandato, do qual não serão destituídos senão pelo Presidente da República nos casos de condenação penal transitada em julgado, ou de processo disciplinar, em conformidade com as Leis nºs\n8.112, de 11 de dezembro de 1990, e 8.429, de 2 de junho de 1992.\nADPF 607/DF, Rel. Min. Dias Toffoli, Tribunal Pleno, julg. 28.3.2022, DJe de 1º.6.2022."
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Em seu voto, o Ministro Relator ressaltou que a atividade de perito do Mecanismo de inspecionar unidades prisionais e asilares envolve muita responsabilidade e exige dedicação, tempo e significativa especialização técnica, sem falar nos riscos à saúde e à incolumidade física dos profissionais:\n(…) A realidade das instituições de privação de liberdade demonstra que o Brasil se encontra distante de cumprir o mandamento constitucional de vedação à tortura, conforme já assentou este Supremo Tribunal Federal ao reconhecer um estado de coisas inconstitucional no sistema carcerário nacional. Melhor sorte não assiste às instituições de privação de liberdade de natureza não penal, a exemplo dos hospitais psiquiátricos, frequentemente marcados pela desassistência e pela violação de direitos fundamentais.\nA criação do MNPCT é resultado de compromissos internacionais assumidos pelo Brasil, cujo cumprimento demanda que o país não apenas instale, mas conceda condições financeiras, administrativas e logísticas para que o órgão exerça a função de inspecionar unidades de privação de liberdade e expedir recomendações ao Poder Público visando evitar e punir a prática da tortura.\nDa análise das competências do MNPCT e da forma de execução das atribuições dos peritos, é possível verificar que se trata de ofício de enorme responsabilidade, a ser exercido em todo o território nacional perante as mais diversas instituições públicas e privadas de privação de liberdade. Trata-se, ademais, de atribuição técnica, especializada e que demanda tempo e dedicação por parte dos peritos, pois, quando não estão executando a missão em si, consistente na visita a unidades de privação de liberdade e reuniões com autoridades e sociedade civil, estão tomando providências para que a missão ocorra ou processando os dados coletados para a elaboração do relatório da missão."
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Ademais, a atividade de perito do MNPCT é de alto risco, considerando que o trabalho consiste na inspeção de unidades de privação de liberdade, especialmente estabelecimentos penais, que, como regra, têm estruturas físicas precárias, concentram mais pessoas do que suporta a capacidade do local, encontram-se sob o controle de facções criminosas e estão diuturnamente na iminência de rebeliões violentas.\nO Decreto nº 9.831/19, ao remanejar do Ministério da Mulher, da Família e dos Direitos Humanos para outro órgão os 11 cargos em comissão outrora destinados aos peritos do MNPCT, determinar a exoneração dos ocupantes desses cargos e transformar a atividade em serviço público não remunerado, tem o condão de fragilizar o combate à tortura no país. Tais medidas esvaziam a estrutura de pessoal técnico do MNPCT, valendo destacar que a transformação da atividade em serviço público não remunerado impossibilita que o trabalho seja feito com dedicação integral e desestimula profissionais especializados a integrarem o corpo técnico do órgão.\nO esvaziamento de políticas públicas previstas em lei, mediante atos infralegais, importa em abuso do poder regulamentar e, por conseguinte, contraria a separação dos poderes. Na espécie, a violação se mostra especialmente grave diante do potencial desmonte de órgão cuja competência é a prevenção e o combate à tortura.\nDessa forma, sendo integrantes do SNPCT e ostentando as mesmas prerrogativas e atribuições dos peritos do Mecanismo Nacional, os peritos do Mecanismo Estadual importam ser adequadamente remunerados, sob pena de fragilizar-se o combate à tortura e o cumprimento pelo Brasil dos compromissos internacionais decorrentes da adesão ao Protocolo Facultativo à Convenção da ONU contra a tortura e outros tratamentos ou penas cruéis."
+    },
+    {
+      "page": 12,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "V. DO PEDIDO CAUTELAR\nEstão presentes os pressupostos para a concessão de medida cautelar.\nA plausibilidade jurídica do pedido (fumus boni juris) está suficientemente demonstrada pelos argumentos deduzidos nesta petição inicial, que encontram amparo na jurisprudência do Supremo Tribunal Federal.\nO perigo na demora processual (periculum in mora) decorre dos riscos que a prevenção à tortura impõe aos peritos, além de dificultar o desempenho de suas atribuições sem prejuízo da sua manutenção pessoal e de suas famílias. Por fim, a falta de remuneração embaraça a instalação em si do Mecanismo Estadual, dificultando que o Brasil cumpra compromissos internacionais de direitos humanos.\nDessa forma, além do sinal do bom direito evidenciado pelos próprios fundamentos constitucionais em que se apoia esta ação direta, há premência em que essa Suprema Corte conceda medida cautelar para determinar a imediata suspensão dos aludidos efeitos da expressão \"não remunerado\", contida no art.\n7º, § 2º, da Lei 9.647 do Estado do Pará."
+    },
+    {
+      "page": 13,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "VI. PEDIDOS E REQUERIMENTOS\nque esse Supremo Tribunal conceda medida cautelar para suspensão da eficácia da norma impugnada, para os fins expostos acima e nos termos do\nart. 10, § 3º, da Lei 9.868/1999.\nEm seguida, pleiteia que se colham as informações do Governador e do Presidente da Assembleia Legislativa do Estado do Pará, e que se ouça a Advocacia-Geral da União, nos termos do art. 103, § 3º, da Constituição Federal. Superadas as fases, pede prazo para a manifestação da Procuradoria-Geral da República.\nAo final, postula que se julgue procedente o pedido para declarar a inconstitucionalidade da expressão \"não remunerado\", contida no § 2º do art. 7º da Lei 9.647 do Estado do Pará.\nBrasília, data da assinatura digital.\nAugusto Aras Procurador-Geral da República Assinado digitalmente\nATM"
+    }
+  ]
+}

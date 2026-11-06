@@ -1,0 +1,140 @@
+{
+  "id": "ADI_6604",
+  "arquivo_pdf": "ADI_6604.pdf",
+  "sha256": "ce09b05e09e4d56e8d280cb762f14b424e8124d8b23be680f5398523bbd075ae",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:29:36",
+  "resumo": {
+    "paginas": 14,
+    "paginas_digital": 14,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 22328,
+    "chars_clean": 17676,
+    "reducao_pct": 20.8,
+    "linhas_removidas": 66,
+    "limpeza_detalhe": {
+      "cabecalho_rodape": 52,
+      "hifen_mantido": 2,
+      "hifenizacao_unida": 0,
+      "numero_pagina": 14
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "MINISTÉRIO PÚBLICO FEDERAL PROCURADORIA-GERAL DA REPÚBLICA EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL\nPETIÇÃO INICIAL AJCONST Nº 387261/2020 O PROCURADOR-GERAL DA REPÚBLICA, com fundamento nos arts. 102, I, \"a\" e \"p\", 103, VI, e 129, IV, da Constituição da Federal, no art. 46,\nparágrafo único, I, da Lei Complementar 75, de 20.5.1993 (Lei Orgânica do Ministério Público da União) e na Lei 9.868, de 10.11.1999, vem propor\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE COM PEDIDO DE MEDIDA CAUTELAR\ncontra (i) o art. 115 da Lei Complementar 96, de 3.12.2010, e o art.\n137 da Lei Complementar 97, de 22.12.2010, ambas do Estado da Paraíba; e\n(ii) por arrastamento, o Ato 4, de 15.1.2019, do Presidente do Tribunal de Justiça do Estado da Paraíba, o Ato 1, de 15.1.2019, do Procurador-Geral de Justiça do Estado da Paraíba, e o Ato 1, de 15.1.2019, do Presidente do Tribunal de Contas do Estado da Paraíba. As normas disciplinam a fixação Documento assinado via Token digitalmente por PROCURADOR-GERAL DA REPÚBLICA ANTONIO AUGUSTO BRANDAO DE ARAS, em 24/11/2020 14:21. Para verificar a assinatura acesse http://www.transparencia.mpf.mp.br/validacaodocumento. Chave F9E0CA06.2313E6C5.7F22C522.6F434B2F"
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "dos subsídios de magistrados estaduais e de membros do MP/PB e do\nTCE/PB.1\n1. OBJETO DA AÇÃO\nEste é o teor dos textos normativos contra os quais se dirige a ação:\nLei Complementar 96/2010 da Paraíba\nArt. 115. O subsídio do desembargador é de noventa vírgula vinte cinco por cento do subsídio mensal, em espécie, do ministro do Supremo Tribunal Federal.\nLei Complementar 97/2010 da Paraíba\nArt. 137. O subsídio de Procurador de Justiça é de noventa vírgula vinte e cinco por cento do subsídio mensal, em espécie, do Procurador-Geral da República.\nAto 4/2019 do Presidente do TJ/PB\nArt. 1º O subsídio mensal dos Magistrados do Estado da Paraíba, a partir de 1º de janeiro de 2019, é o seguinte\nCARGO/SÍMBOLO SUBSÍDIO DESEMBARGADOR (PJ-4)\nR$ 35.462,22 JUIZ DE DIREITO DE 3ª ENTRÂNCIA (PJ-3) R$ 33.689,11 JUIZ DE DIREITO DE 2ª ENTRÂNCIA (PJ-2) R$ 32.004,65\nJUIZ DE DIREITO AUXILIAR (PJ-2)\nR$ 32.004,65 JUIZ DE DIREITO DE 1ª ENTRÂNCIA (PJ-1) R$ 30.404,42 1 Acompanha a petição inicial cópia das normas impugnadas, na forma do art. 3º da Lei\n9.868/1999, bem como cópia de ofício em que o Procurador-Geral de Justiça da Paraíba defendeu a constitucionalidade das normas impugnadas aplicáveis ao Ministério Público."
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "JUIZ SUBSTITUTO (PJ-S)\nR$ 30.404,42\nArt. 2º Este ato entra vigor na data de sua publicação.\nArt. 3º Ficam revogadas as disposições em contrário.\nAto 1/2019 do PGJ/PB\nArt. 1º O subsídio mensal dos membros do Ministério Público do Estado da Paraíba, a partir de 1º de janeiro de 2019, é o seguinte:\nCARGO/SÍMBOLO SUBSÍDIO PROCURADOR DE JUSTIÇA/MP-4\nR$ 35.462,22 PROMOTOR DE JUSTIÇA DE 3ª ENTRÂNCIA/MP- 3 R$ 33.689,11 PROMOTOR DE JUSTIÇA DE 2ª ENTRÂNCIA/MP- 2 R$ 32.004,65 PROMOTOR DE JUSTIÇA DE 1ª ENTRÂNCIA/MP- 1 R$ 30.404,42\nPROMOTOR DE JUSTIÇA SUBSTITUTO/MP-S\nR$ 28.884,20\nArt. 2º Este Ato entra em vigor na data de sua publicação.\nArt. 3º Ficam revogadas as disposições em contrário.\nAto 1/2019 do Presidente do TCE/PB\nArt. 1º. O subsídio mensal dos membros do Tribunal de Contas do Estado da Paraíba e do Ministério Público de Contas, a partir de 1º de janeiro de 2019, é o seguinte:\nCARGO/SÍMBOLO SUBSÍDIO CONSELHEIRO\nR$ 35.462,22\nCONSELHEIRO SUBSTITUTO\nR$ 33.689,11\nPROCURADOR\nR$ 33.689,11\nArt. 2º. Esta Portaria entra em vigor a partir de sua publicação.\nArt. 3º. Revogam-se as disposições em contrário."
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Oficiados o Presidente do Tribunal de Justiça e o Procurador-Geral de Justiça da Paraíba para prestarem informações e contribuições a respeito do tema, este último defendeu a compatibilidade com a Constituição Federal das normas impugnadas aplicáveis ao Ministério Público, em ofício que segue anexo a esta petição inicial.\nAo ver da Procuradoria-Geral da República, as normas afrontam a Constituição Federal, especificamente o art. 25 (autonomia do Estado-membro); art. 37, incisos X (fixação de remuneração por lei específica) e XIII (vedação à vinculação remuneratória); e art. 39, § 1º (parâmetros para a fixação de vencimentos).\n2. INCONSTITUCIONALIDADE MATERIAL\nAo disciplinarem a política remuneratória de membros de Poder estadual, as normas questionadas das Leis Complementares 96/2010 e 97/2010 da Paraíba estabeleceram que os subsídios mensais dos ocupantes dos cargos de Desembargador do Tribunal de Justiça e de Procurador de Justiça serão iguais a 90,25% da remuneração atribuída, respectivamente, a Ministro do Supremo Tribunal Federal e ao Procurador-Geral da República."
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Com fundamento nas leis ora em exame, o Tribunal de Justiça, o Procurador-Geral de Justiça e o Presidente do Tribunal de Contas da Paraíba editaram os Atos 4/2019, 1/2019 e 1/2019, respectivamente, por meio dos quais fixaram, sem a participação do parlamento estadual, novos valores para os subsídios de membros da magistratura estadual, do MP/PB e do TCE/PB2.\nDe plano, verifica-se que, para além de firmarem vinculações remuneratórias, os dispositivos legais sob testilha atrelaram os futuros reajustes dos subsídios de agentes públicos estaduais, de forma automática, às alterações promovidas pela legislação federal pertinente, ou seja, aos reajustes concedidos pela União aos Ministros do Supremo Tribunal Federal e ao Procurador-Geral da República.\n2 O Presidente do Tribunal de Contas do Estado da Paraíba editou o aludido ato com fundamento tanto no Ato 4/2019 do Presidente do Tribunal de Justiça do Estado da Paraíba, quanto no art. 73, § 3º, da Constituição do Estado da Paraíba, que estabelece que \"os Conselheiros terão as mesmas garantias, prerrogativas, impedimentos, vencimentos e vantagens dos Desembargadores e somente poderão aposentar-se com as vantagens do cargo quando o tiverem exercido, efetivamente por mais de cinco anos\". Como os subsídios dos Desembargadores encontram-se atrelados à remuneração dos Ministros do STF por força do ora questionado art. 115 da LC estadual 96/2010, resulta que, em sendo acolhido o pedido de declaração de inconstitucionalidade dessa norma legal, a fixação de subsídios estabelecida pelo TCE/PB via ato infralegal também há de sofrer invalidação, ainda que por arrastamento, de modo que sua inclusão no pedido revela apenas cautela."
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "O princípio da autonomia do Estado-membro, além de inerente à forma federativa adotada pelo Estado brasileiro, encontra-se expresso no art.\n25 da Constituição Federal:\nArt. 25. Os Estados organizam-se e regem-se pelas Constituições e leis que adotarem, observados os princípios desta Constituição.\nQuanto aos parâmetros de fixação remuneratória dos servidores e agentes públicos, dispõe o art. 37, incisos X e XIII, da Carta Magna:\nArt. 37. A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, ao seguinte:\n(…) X - a remuneração dos servidores públicos e o subsídio de que trata o § 4º do art. 39 somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices;\n(…) XIII - é vedada a vinculação ou equiparação de quaisquer espécies remuneratórias para o efeito de remuneração de pessoal do serviço público;\n(Grifou-se.) Consta do art. 39, § 1º, da Lei Fundamental:\nArt. 39. A União, os Estados, o Distrito Federal e os Municípios instituirão conselho de política de administração e remuneração de"
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "pessoal, integrado por servidores designados pelos respectivos Poderes. (Redação dada pela Emenda Constitucional nº 19, de 1998)\n§ 1º A fixação dos padrões de vencimento e dos demais componentes do sistema remuneratório observará:\nI - a natureza, o grau de responsabilidade e a complexidade dos cargos componentes de cada carreira;\nII - os requisitos para a investidura;\nIII - as peculiaridades dos cargos.\nEis, portanto, o arcabouço jurídico sobre o qual o Supremo Tribunal tem se debruçado para expressar firme e reiterada jurisprudência que rechaça a vinculação de \"quaisquer espécies remuneratórias para o efeito de remuneração de pessoal do serviço público\", aí incluída a proibição de vinculação para fins de reajuste automático.\nA cláusula proibitória de equiparação ou vinculação de quaisquer espécies remuneratórias é consectária da reserva absoluta de lei em matéria remuneratória do funcionalismo público. A Constituição proíbe, no art. 37, XIII, o atrelamento remuneratório, para evitar que a alteração de uma carreira repercuta automaticamente em outra.\nJosé Afonso da Silva distingue isonomia e paridade de vinculação e equiparação remuneratória, para efeito do art. 37, XIII, da CF, nos seguintes termos:\nNão há confundir isonomia e paridade com equiparação ou vinculação para efeitos de vencimentos. \"Isonomia\" é igualdade de"
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "espécies remuneratórias entre cargos de atribuições iguais ou assemelhadas. \"Paridade\" é um tipo especial de isonomia, é igualdade de vencimentos atribuídos a cargos de atribuições iguais ou assemelhadas pertencentes a quadros de Poderes diferentes.\n\"Equiparação\" é a comparação de cargos de denominação e atribuições diversas, considerando-os iguais para fins de se lhes conferir mesmos vencimentos, é igualação jurídico-formal de cargos ontologicamente desiguais, para o efeito de se lhes dar vencimentos idênticos, de tal sorte que, ao aumentar-se o padrão do cargo-paradigma, automaticamente o do outro ficará também majorado na mesma proporção. Na isonomia e na paridade, ao contrário, os cargos são ontologicamente iguais, daí devendo decorrer a igualdade de retribuição; isso está de acordo com o princípio geral da igualdade perante a lei: \"tratamento igual para situações reputadas iguais\" é, em verdade, aplicação do princípio da isonomia material - trabalho igual deve ser igualmente remunerado.\nA equiparação quer tratamento igual para situações desiguais.\n\"Vinculação\" é relação de comparação vertical, diferente da equiparação, que é relação horizontal. Vincula-se um cargo inferior - isto é, de menores atribuições e menor complexidade - com outro superior, para efeito de retribuição, mantendo-se certa diferença de vencimentos entre um e outro, de sorte que, aumentando-se os vencimentos de um, os do outro também ficam automaticamente majorados, para guardar a mesma distância preestabelecida. Os regimes jurídicos desses institutos são, por isso mesmo, diametralmente opostos. A isonomia, em qualquer de suas formas, incluída nela a paridade, é uma garantia constitucional e um direito do funcionário, ao passo que a vinculação e a equiparação de cargos, empregos ou funções, para efeito de remuneração, são vedados pelo\nart. 37, XIII. É isso que o texto quer dizer na sua redação defeituosa.\nDe fato, o dispositivo veda a vinculação ou equiparação de quaisquer espécies remuneratórias para efeito de remuneração do pessoal do serviço público, quando, na verdade, o que se veda é a vinculação ou"
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "equiparação de cargos, empregos ou funções para efeito de remunerações. E assim é que se deve entender o dispositivo.3 O atrelamento remuneratório implicaria reajuste automático de uma categoria de agentes públicos sem lei específica, sempre que a categoria paradigma fosse contemplada com elevação de estipêndios. A vedação constitucional visa a preservar, em última análise, o princípio da reserva de lei em matéria remuneratória, explicitado, após a EC 19/1998, no art. 37, X, da Carta da República.\nA esse respeito, ressalta Luciano de Araújo Ferraz que \"as vinculações e equiparações, conquanto conceitualmente distintas, produzem o mesmo efeito prático: aumento remuneratório, por via reflexa, de determinado grupo de agentes públicos, pelo fato de outros agentes (hierarquicamente superiores ou com status equivalente na estrutura estatal) terem sido beneficiados pelo acréscimo pecuniário\".4 Observe-se que, já no ano de 2002, na ADI 196/AC, de relatoria da Ministra Ellen Gracie, o Plenário da Corte reiterara jurisprudência no sentido 3 SILVA, José Afonso da. Comentário contextual à Constituição. 7. ed. São Paulo:\nMalheiros, 2010. p. 347.\n4 FERRAZ, Luciano de Araújo. Comentário ao art. 37, XIII. In: CANOTILHO, J. J.\nGomes; MENDES, Gilmar F.; SARLET, Ingo W.; STRECK, Lenio L. (Coord.).\nComentários à Constituição do Brasil. São Paulo: Saraiva; Almedina, 2013. p. 866."
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "da inconstitucionalidade da equiparação de vencimentos entre servidores estaduais e federais, em face dos arts. 25 e 37, XIII, da Constituição Federal.\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE. ART. 37,\n§ 1º DA CONSTITUIÇÃO DO ESTADO DO ACRE. Conforme reiterada jurisprudência desta Corte, mostra-se inconstitucional a equiparação de vencimentos entre servidores estaduais e federais, por ofensa aos arts. 25 e 37, XIII da Constituição Federal. Precedentes:\nADIMC 117, ADIMC 193 e ADI 237. Procedência da ação, declarando-se inconstitucional a expressão \"cujo soldo não será inferior ao dos servidores militares federais\", constante da norma estadual acima citada.\n(ADI 196/AC, Rel. Min. Ellen Gracie, DJ de 20.9.2002) E assim o decidiu sob a ratio de que o estabelecimento de equiparação ou vinculação entre servidores (civis ou militares) estaduais e federais é contrário ao princípio federativo refletido no art. 25 da Constituição Federal, visto que do aumento de remuneração concedido aos servidores federais por lei da União resultava majoração de despesa para os Estados.\nNa ADI 336/SE (Rel. Min. Eros Grau, DJe de 17.9.2010), foi extirpado da ordem jurídica o art. 100 da Constituição de Sergipe, que vinculava o reajuste de remuneração dos servidores do Poder Judiciário à dos magistrados. Consignou-se:"
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Trata-se de ação direta na qual é objetivada a declaração de inconstitucionalidade de diversos preceitos da Constituição sergipana e de seu ADCT. (...) Art. 100 da Constituição estadual (...). Ao vincular o reajuste dos servidores do Poder Judiciário ao dos magistrados, o preceito confere privilégio aos servidores daquele Poder, em detrimento dos demais, em desrespeito ao comando constitucional que assegura revisão geral de remuneração dos servidores públicos. (Grifo nosso.) Diante da jurisprudência da Suprema Corte e em face do disposto nos arts. 25, art. 37, X e XIII, e 39, § 1º, da Constituição Federal, há de se concluir pela inconstitucionalidade das disposições ora questionadas.\nAo disciplinarem o subsídio de membros do Tribunal de Justiça, do Tribunal de Contas e do Ministério Público estadual, as normas efetuaram vinculação remuneratória e atrelamento automático de reajustes às alterações futuras promovidas pela legislação federal no subsídio das carreiras paradigmas.\n3. PEDIDO CAUTELAR\nEstão presentes os pressupostos para a concessão de medida cautelar.\nA plausibilidade jurídica do pedido (fumus boni juris) está suficientemente demonstrada pelos argumentos deduzidos nesta petição inicial, que encontram amparo na jurisprudência do Supremo Tribunal Federal."
+    },
+    {
+      "page": 12,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "O perigo na demora processual (periculum in mora) está no impacto financeiro significativo decorrente da continuidade de pagamentos indevidos aos membros do TJ/PB, TCE/PB e MP/PB, por força das disposições normativas ora questionadas.\nTais pagamentos consubstanciam dano econômico de incerta ou de difícil reparação a ser suportado pelo Estado da Paraíba, tendo em vista o caráter alimentar das verbas, revelando-se assim a urgência necessária para a concessão de medida cautelar, com respaldo no art. 10 da Lei 9.868/1999.\nPrimeiramente, porque há de se considerar que as normas que estipulam a indevida vinculação remuneratória seguem cerceando a autonomia do Estado, com especial repercussão negativa sobre suas finanças.\nAdemais, registre-se que a situação é ainda mais preocupante na atual conjuntura de enfrentamento da epidemia de Covid-19, com queda substancial da arrecadação dos Estados, decorrente da paralisação de setores estratégicos para a economia, e da necessidade de auxílio estatal para a população mais carente de recursos, afigurando-se sobremaneira prejudicial a manutenção de pagamentos a agentes públicos de remunerações majoradas de forma incompatível com os termos constitucionais."
+    },
+    {
+      "page": 13,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Portanto, além do sinal do bom direito, evidenciado pelos próprios fundamentos constitucionais em que se apoia esta ação direta, há premência em que esta Corte conceda a medida cautelar para determinar a imediata suspensão dos efeitos das normas questionadas.\n4. PEDIDOS E REQUERIMENTOS\nEm face do exposto, requer o PROCURADOR-GERAL DA REPÚBLICA que esse Supremo Tribunal conceda medida cautelar para suspensão da eficácia das normas impugnadas, para os fins expostos acima e nos termos do art. 10, § 3º, da Lei 9.868/1999.\nEm seguida, pleiteia que se colham informações do Procurador-Geral de Justiça, do Tribunal de Justiça, do Tribunal de Contas, da Assembleia Legislativa e do Governador do Estado da Paraíba. Ainda, que se ouça a Advocacia-Geral da União, nos termos do art. 103, § 3º, da Constituição Federal. Superadas essas fases, pede prazo para a manifestação da Procuradoria-Geral da República.\nAo final, postula que se julgue procedente o pedido para declarar a inconstitucionalidade (i) do art. 115 da Lei Complementar 96/2010 e do art.\n137 da Lei Complementar 97/2010, da Paraíba; e (ii) por arrastamento, do Ato 4/2019 do Presidente do Tribunal de Justiça do Estado da Paraíba, do Ato"
+    },
+    {
+      "page": 14,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "1/2019 do Procurador-Geral de Justiça do Estado da Paraíba e do Ato 1/2019 do Presidente do Tribunal de Contas do Estado da Paraíba.\nBrasília, data da assinatura digital.\nAugusto Aras Procurador-Geral da República Assinado digitalmente VF"
+    }
+  ]
+}

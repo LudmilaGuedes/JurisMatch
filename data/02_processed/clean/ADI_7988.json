@@ -1,0 +1,155 @@
+{
+  "id": "ADI_7988",
+  "arquivo_pdf": "ADI_7988.pdf",
+  "sha256": "f74e7848b1e0711c16433b01eb6f1e0609e9ce18c2362da78d809881f32dbf4a",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:31:38",
+  "resumo": {
+    "paginas": 16,
+    "paginas_digital": 16,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 26157,
+    "chars_clean": 25590,
+    "reducao_pct": 2.2,
+    "linhas_removidas": 1,
+    "limpeza_detalhe": {
+      "carimbo": 1,
+      "hifen_mantido": 5,
+      "hifenizacao_unida": 0
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "EXCELENTÍSSIMO SENHOR DOUTOR MINISTRO PRESIDENTE DO\n\nANPV\n-\nASSOCIAÇÃO NACIONAL DOS PREFEITOS E VICE-PREFEITOS DA REPÚBLICA FEDERATIVA\nDO BRASIL, entidade de classe de âmbito nacional regularmente inscrita no CNPJ n.º 07.318.016/0001-96, com sede em São Paulo, Capital, na Avenida Casper Líbero, n.º 390 - 6º andar - cj. 602 - Centro - CEP: 01033-000 - São Paulo/SP, neste ato representada pelo seu Presidente nacional Arnaldo Acbas de Lima, brasileiro, casado, portador do RG n.º 8.219.502-X, com Cadastro Nacional de Pessoas Físicas sob o n.º\n637.128.818-00, vem através de sua procuradora outorgada Dra Alessandra Martins Gonçalves Jirardi, advogada, regularmente inscrita na ordem dos Advogados do Brasil sob o n.º 320.762/SP, com fulcro no art. 102, I, alíneas \"a\" e \"p\" e artigo 103, inciso IX, ambos da Constituição Federal e artigo 2.º, inciso IX da Lei nº 9.868, de 10 de novembro de 1999, propor a presente\n\nAÇAO DIRETA DE INCONSTITUCIONALIDADE COM PEDIDO DE MEDIDA CAUTELAR\n\nem face da Emenda Regimental n. 53, de 30 de junho de 2026, do Superior Tribunal de Justiça, publicada no Diário da Justiça eletrônico de 1º de julho de 2026, especificamente dos dispositivos que introduziram no Regimento Interno daquela Corte o artigo 12, parágrafo único, inciso IV; o artigo 21-E, parágrafos 2º, 2º-A e 3º; o artigo 184-A, parágrafos 3º e 3º-A; o artigo 257-F; e o artigo 343-A, pelos fundamentos de fato e de direito a seguir expostos."
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "SÍNTESE DA DEMANDA\n\nNos termos do artigo 343-A do Regimento Interno do Superior Tribunal de Justiça, com a redação que ora se impugna, apresenta-se o resumo da presente demanda - registrando-se, desde logo, o protesto quanto à inconstitucionalidade da própria exigência, adiante demonstrada.\nA presente ação impugna dispositivos da Emenda Regimental n.\n53/2026 do STJ que, a pretexto de racionalizar a gestão do acervo processual, usurpam a competência privativa da União para legislar sobre direito processual (art.\n22, I, CF); criam requisitos formais de admissibilidade recursal por ato regimental e por delegação normativa em branco à Presidência do Tribunal (art. 343-A do RISTJ);\ninstituem sistemática de julgamento de agravo interno pelo próprio prolator da decisão recorrida (art. 21-E, §§ 2º e 2º-A); e consolidam a virtualização compulsória da formação de teses vinculantes de alcance nacional (arts. 184-A, §§ 3º e 3º-A, e 257-F), em violação frontal às garantias do juiz natural, do devido processo legal, do contraditório, da ampla defesa, da publicidade dos julgamentos e da inafastabilidade da jurisdição (art. 5º, XXXV, XXXVII, LIII, LIV, LV e LX; art. 93, IX; art. 96, I, \"a\"; e\nart. 133, todos da Constituição da República).\n\nRequer-se a concessão de medida cautelar para suspensão imediata da eficácia dos dispositivos impugnados e, no mérito, a declaração de sua inconstitucionalidade com eficácia ex tunc e efeitos erga omnes.\n\nDA LEGITIMIDADE ATIVA E DA PERTINÊNCIA TEMÁTICA\nA Requerente é entidade de classe de âmbito nacional, nos exatos termos do artigo 103, inciso IX, da Constituição da República, congregando os prefeitos e vice-prefeitos da República Federativa do Brasil, categoria homogênea e definida, com representatividade e presença associativa em mais de nove unidades da Federação, conforme documentação estatutária anexa, atendendo ao requisito espacial consolidado na jurisprudência desta Suprema Corte."
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "A propositura da presente ação encontra respaldo em autorização expressa de seus órgãos deliberativos, igualmente anexada, e a ANPV já ostenta reconhecida atuação perante este Supremo Tribunal Federal, inclusive na qualidade de amicus curiae em processos de índole constitucional.\n\nA pertinência temática é manifesta. Os prefeitos e vice-prefeitos brasileiros, agentes políticos submetidos a regime peculiar de responsabilização, figuram cotidianamente como jurisdicionados do Superior Tribunal de Justiça: são processados originariamente perante os Tribunais de Justiça (art. 29, X, CF) e têm no recurso especial, no habeas corpus e no agravo em recurso especial os instrumentos essenciais de tutela de sua liberdade, de seus direitos políticos e de seu patrimônio jurídico, seja em ações penais, seja em ações de improbidade administrativa.\n\nToda barreira formal erigida ao acesso à jurisdição do STJ, toda restrição ao direito de recorrer e toda supressão do contraditório dinâmico nos julgamentos daquela Corte atingem, direta e imediatamente, a esfera jurídica dos representados da Requerente.\n\nAdemais, as teses vinculantes formadas nos ritos virtualizados que ora se impugnam projetam efeitos sobre milhares de processos que envolvem gestores municipais em todo o país, o que evidencia o nexo de afinidade entre os objetivos institucionais da entidade e o objeto da presente ação.\n\nDO CABIMENTO DA AÇÃO DIRETA: O CARÁTER NORMATIVO PRIMÁRIO E AUTÔNOMO DO ATO IMPUGNADO\n\nA Emenda Regimental n. 53/2026 do STJ não veicula meras regras de economia interna ou de expediente administrativo."
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Trata-se de ato normativo dotado de generalidade, abstração, impessoalidade e autonomia, que inova originariamente na ordem jurídica ao disciplinar cabimento, processamento e julgamento de recursos, requisitos de admissibilidade de petições, sistemática de formação de precedentes vinculantes e regime de participação das partes e de terceiros nos julgamentos.\n\nExtrai seu fundamento de validade diretamente da Constituição (art. 96, I, \"a\"), qualificando-se como ato normativo primário sujeito ao controle abstrato de constitucionalidade.\n\nÉ pacífico nesta Suprema Corte o cabimento de ação direta contra normas regimentais de tribunais quando revestidas de caráter normativo e autônomo, sobretudo quando extrapolam o espaço constitucional de auto-organização e avançam sobre matéria processual reservada à lei federal.\n\nFoi precisamente o que decidiu o Plenário deste STF, à unanimidade, no recente julgamento da ADI 7.692/MA (Rel. Min. Flávio Dino, j.\n13/03/2026), ao invalidar norma do Regimento Interno do Tribunal de Justiça do Maranhão que restringia o cabimento do agravo interno, fixando a tese de que:\n\n\"É inconstitucional - por violar a competência privativa da União para legislar sobre direito processual civil (CF/1988, art. 22, I) - norma do Regimento Interno do Tribunal de Justiça maranhense que estabelece o não-cabimento de agravo interno contra decisões monocráticas do relator.\"\n\nSe assim é quanto a tribunal estadual, com ainda maior razão o controle se impõe quando o ato emana do Superior Tribunal de Justiça, cujas normas regimentais projetam efeitos sobre a integralidade da jurisdição nacional."
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "DO ATO IMPUGNADO\n\nA Emenda Regimental n. 53, de 30 de junho de 2026, assinada pelo Presidente do STJ e publicada no DJe de 1º de julho de 2026, promoveu profunda reengenharia do Regimento Interno daquela Corte. Quatro núcleos normativos concentram os vícios de inconstitucionalidade que fundamentam esta ação.\n\nPRIMEIRO NÚCLEO - a relatoria do agravo pelo prolator da decisão agravada. O artigo 12, parágrafo único, inciso IV, combinado com o artigo 21-E, parágrafos 2º e 2º-A, estabelece que, interposto agravo interno ou regimental contra decisão da Presidência e não havendo retratação, o próprio Presidente poderá relatar o recurso em sessão de julgamento virtual da respectiva Seção, \"nos termos e limites da regulamentação da Presidência\".\n\nApenas na hipótese de oposição de algum membro do colegiado ao voto do Presidente é que este será desconsiderado, com perda da relatoria e redistribuição do feito. O parágrafo 3º do mesmo artigo autoriza, ainda, a delegação dessa competência ao Vice-Presidente e aos Presidentes das Seções.\n\nSEGUNDO NÚCLEO - o esvaziamento do contraditório no julgamento virtual. O artigo 184-A, parágrafo 3º, relega as sustentações orais e os memoriais ao encaminhamento eletrônico prévio, em até 48 horas antes de iniciado o julgamento em ambiente virtual assíncrono, e submete a oposição das partes ao julgamento virtual à avaliação discricionária do relator.\n\nO parágrafo 3º-A vai além: estabelece que a realização do julgamento virtual sem a prévia avaliação da oposição apresentada pelas partes não acarreta, por si só, a nulidade do julgamento, impondo à parte o ônus de demonstrar prejuízo concreto."
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "TERCEIRO NÚCLEO - a virtualização da formação de teses vinculantes. O artigo 257-F autoriza que a reafirmação de jurisprudência dominante, com os mesmos efeitos processuais dos recursos repetitivos - isto é, com força vinculante sobre todo o território nacional -, seja julgada por meio eletrônico, concomitantemente à própria análise da afetação, por maioria simples e sem debate presencial.\n\nQUARTO NÚCLEO - a barreira formal de admissibilidade por delegação em branco. O artigo 343-A determina que todas as petições iniciais de ações originárias e todas as petições de recurso dirigidas ao STJ contenham resumo dos fundamentos de fato e de direito, dos pedidos, do teor das decisões impugnadas e dos dispositivos legais invocados, \"nos termos de ato regulamentar da Presidência\".\n\nA própria justificativa da Emenda confessa a finalidade do dispositivo: servir de insumo à \"triagem\" e à \"gestão do acervo processual\", em escala, inclusive - como já anunciado publicamente - com apoio de ferramentas de inteligência artificial.\n\nDOS FUNDAMENTOS JURÍDICOS DO PEDIDO\n\nINCONSTITUCIONALIDADE FORMAL: A USURPAÇÃO DA COMPETÊNCIA PRIVATIVA DA UNIÃO PARA LEGISLAR SOBRE DIREITO PROCESSUAL (ART.\n22, I, E\nART.\n96, I, \"A\", DA CONSTITUIÇÃO)\n\nA Constituição da República é peremptória:\ncompete privativamente à União legislar sobre direito processual, aí compreendido, com especial relevo para a presente demanda, o direito processual penal (art. 22, I)."
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "A competência dos tribunais para elaborar seus regimentos internos, assegurada pelo artigo 96, inciso I, alínea \"a\", encontra limite expresso e inafastável no próprio texto constitucional: os regimentos devem observar \"as normas de processo e as garantias processuais das partes\", dispondo tão somente sobre a competência e o funcionamento dos respectivos órgãos jurisdicionais e administrativos.\n\nO regimento interno, portanto, é norma de organização, jamais fonte criadora de direito processual.\n\nNão pode instituir requisitos de admissibilidade recursal, não pode redefinir a sistemática de processamento e julgamento de recursos previstos em lei federal, não pode condicionar o exercício do direito de recorrer a exigências formais inexistentes no Código de Processo Penal e no Código de Processo Civil.\n\nA Emenda Regimental n. 53/2026 rompe todos esses limites. O artigo 343-A do RISTJ cria, por ato regimental - e, pior, por remissão a futuro \"ato regulamentar da Presidência\" -, um novo requisito formal para todas as petições dirigidas ao Tribunal, cuja inobservância se converterá, na prática forense, em fundamento de inadmissão liminar.\n\nTrata-se de requisito de admissibilidade que não encontra previsão no artigo 1.029 do CPC, tampouco na legislação processual penal, e que somente a lei federal, votada pelo Congresso Nacional, poderia instituir.\n\nO vício é dúplice: além da usurpação da competência legislativa da União, opera-se delegação normativa em branco a órgão administrativo do Tribunal, em afronta ao princípio da legalidade (art. 5º, II, CF) e à separação dos Poderes (art. 2º, CF), pois o conteúdo, a extensão e as consequências do requisito ficarão ao alvedrio de portarias e resoluções da Presidência, mutáveis ao sabor da conveniência administrativa."
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "O mesmo vício contamina o artigo 21-E, parágrafos 2º e 2º-A. A disciplina do agravo interno é matéria de lei federal - o artigo 1.021 do CPC assegura o cabimento do recurso contra qualquer decisão monocrática e remete ao regimento apenas as regras complementares de processamento, jamais a redefinição de sua essência revisional.\n\nAo substituir a distribuição do agravo a relator diverso pela relatoria do próprio prolator da decisão agravada, a norma regimental não complementa: inova, redesenhando o recurso e amputando-lhe a função devolutiva que a lei processual lhe confere. Como assentou o Ministro Flávio Dino na ADI 7.692, os tribunais não podem, por norma regimental, criar \"verdadeiro obstáculo ao alcance do comando emergente do art. 1.021 do CPC/2015\".\n\nEsses requisitos formais criados à margem da lei sufocam o direito de recorrer.\n\nErigem barreiras administrativas de admissibilidade que nada têm de jurisdicionais, transformam a porta de entrada da Corte da Cidadania em um balcão de triagem burocrática e geram profunda insegurança jurídica: o jurisdicionado não sabe, e não pode saber, quais exigências formais vigerão no momento da interposição de seu recurso, pois elas não constam de lei, mas de atos regulamentares da Presidência, de alteração unilateral e imprevisível.\n\nA previsibilidade das regras do processo é componente essencial do Estado de Direito; requisitos recursais cambiantes, definidos por ato administrativo, convertem o processo em armadilha."
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "INCONSTITUCIONALIDADE MATERIAL: A VIOLAÇÃO DO JUIZ NATURAL, DA IMPARCIALIDADE OBJETIVA E DO DEVIDO PROCESSO LEGAL NO JULGAMENTO DO AGRAVO PELO PRÓPRIO PROLATOR DA DECISÃO\n\nO agravo interno não é formalidade protocolar. É o instrumento pelo qual a parte devolve ao colegiado - órgão constitucionalmente competente - o controle da decisão monocrática. A sistemática do artigo 21-E, parágrafos 2º e 2º-A, subverte essa lógica elementar: o recurso contra a decisão do Presidente passa a ser relatado, em regra, pelo próprio Presidente, em sessão virtual assíncrona, e a devolução efetiva da matéria a julgador diverso fica condicionada à iniciativa eventual de algum integrante do colegiado que se disponha a opor-se ao voto presidencial.\n\nA violação do princípio do juiz natural (art. 5º, XXXVII e LIII, CF) e da imparcialidade objetiva - esta última reconhecida por este STF e pela Corte Interamericana de Direitos Humanos como componente inarredável do devido processo legal - é evidente. Ninguém é bom revisor de si mesmo. A garantia de revisão efetiva pressupõe procedimento previamente definido, impessoal e compatível com a plena devolução da controvérsia ao órgão julgador competente, e não mecanismo em que a imparcialidade do julgamento depende da vigilância ativa e episódica dos demais ministros em ambiente eletrônico.\n\nNão se trata de preocupação abstrata. Conforme registrou o Conselho Federal da Ordem dos Advogados do Brasil no Ofício n. 057/2026-AJU, dirigido à Presidência do STJ em 3 de julho de 2026, dados oficiais do próprio Tribunal indicam que 2.405 decisões terminativas da Presidência foram reformadas no julgamento dos respectivos agravos apenas no primeiro semestre de 2026. O número demonstra, com eloquência estatística, que o agravo interno é recurso efetivo, por meio do qual milhares de jurisdicionados obtêm a reforma de decisões equivocadas. Suprimir-lhe a independência revisional é suprimir, na prática, a própria via recursal."
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "INCONSTITUCIONALIDADE MATERIAL: A LÓGICA\nDA\nVIRTUALIZAÇÃO COMPULSÓRIA,\nO\nESVAZIAMENTO\nDO\nCONTRADITÓRIO DINÂMICO E O SILENCIAMENTO DA ADVOCACIA CRIMINAL\n\nO problema estrutural da Emenda Regimental n. 53/2026 reside na lógica da virtualização da formação de teses que vincularão todo o país. O artigo\n257-F autoriza que a reafirmação de jurisprudência dominante - com numeração de tema e os mesmos efeitos processuais dos recursos repetitivos, isto é, eficácia obrigatória sobre todos os juízos e tribunais do país - seja deliberada em sessão eletrônica, por maioria simples, de forma concomitante à própria afetação, sem pauta presencial, sem debate oral, sem a deliberação colegiada viva que legitima democraticamente o precedente.\n\nO plenário virtual, concebido como ferramenta excepcional de gestão, converte-se em ambiente ordinário das decisões estruturantes do Tribunal da Cidadania.\nTeses que impactam milhares de cidadãos devem ser formadas à luz do debate público. A legitimidade do precedente vinculante não decorre apenas da autoridade do órgão que o edita, mas da qualidade deliberativa do procedimento que o forja: audiências públicas, sustentações orais reais, intervenção de amici curiae, divergências construídas e respondidas em sessão.\n\nA deliberação assíncrona, fragmentada em votos depositados em sistema eletrônico, sem interação em tempo real, não é deliberação: é agregação de manifestações individuais.\nO julgamento virtual assíncrono fragmenta o julgamento em manifestações sucessivas, descoladas no tempo e no contexto, criando um ambiente que afasta completamente o advogado do protagonismo decisório e torna a sustentação gravada incapaz de interagir com o núcleo decisório do julgamento, resultando em defesa materialmente inócua."
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "A dinâmica instituída pelo artigo 184-A, parágrafos 3º e 3º-A, aprofunda o déficit.\n\nA sustentação oral - que o artigo 937 do CPC e o artigo 7º, incisos IX e X, da Lei n. 8.906/1994 asseguram como prerrogativa essencial da advocacia - é reduzida a arquivo eletrônico protocolado com 48 horas de antecedência, dirigido a destinatário incerto, em momento no qual os votos sequer foram elaborados ou, pior, já se encontram prontos.\n\nA oposição da parte ao julgamento virtual fica submetida à avaliação unilateral do relator e, num requinte de esvaziamento, o parágrafo 3º-A estabelece que nem mesmo a ausência de qualquer avaliação da oposição gera nulidade, transferindo à parte prejudicada o ônus diabólico de demonstrar prejuízo concreto em julgamento do qual foi, precisamente, alijada.\n\nEssa dinâmica esvazia o papel do Amicus Curiae, que perde o ambiente do contraditório dinâmico no qual sua contribuição ganha sentido: o amigo da Corte não intervém para depositar memoriais em sistema, mas para dialogar com o colegiado, responder a questionamentos dos julgadores, iluminar aspectos da controvérsia que somente o debate oral revela.\n\nNum modelo assíncrono de votos pré-prontos, a intervenção do amicus degrada-se a formalidade decorativa, comprometendo a abertura pluralista do procedimento de formação de precedentes que o artigo 138 do CPC e a jurisprudência deste STF consagram como fator de legitimação democrática da jurisdição.\n\nE, principalmente, na advocacia criminal, a sistemática silencia o advogado, que fica impedido de intervir em tempo real sobre questões de fato essenciais à liberdade de seu constituinte."
+    },
+    {
+      "page": 12,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "No processo penal, a sustentação oral não é ornamento retórico:\né o instante em que a defesa técnica corrige a compreensão equivocada de um fato, esclarece a circunstância que os autos não transmitem, responde à dúvida do julgador formulada em sessão, aponta o erro na leitura da prova - atividades impossíveis diante de uma câmera, em vídeo gravado dias antes, sem saber sequer quais premissas fáticas orientarão os votos.\n\nÉ inconcebível que o constitucionalismo digital prive a parte da possibilidade de ser ouvida em juízo em condições de influir na formação da convicção judicial e/ou impeça seu advogado de participar em tempo real, mesmo que à distância, das audiências e sessões de julgamento, pois, a atuação presencial da parte e de seu advogado em audiência é essencial para corrigir o erro, apontá-lo e explicar os contextos alternativos que oferecem uma versão para os fatos diferente daquela construída pelas aparências.\n\nQuando está em jogo a liberdade - bem jurídico de estatura máxima -, o contraditório há de ser pleno, efetivo e síncrono, sob pena de violação do artigo 5º, incisos LIV e LV, da Constituição, do artigo 133 da Carta, que proclama o advogado indispensável à administração da justiça, e do artigo 8.2.h da Convenção Americana sobre Direitos Humanos, que assegura ao acusado o direito de recorrer a juiz ou tribunal superior em procedimento dotado de garantias reais.\n\nA publicidade dos julgamentos (art. 5º, LX, e art. 93, IX, CF) resulta igualmente ferida: o julgamento virtual assíncrono, cujos votos se acumulam em sistema eletrônico sem sessão pública real, não realiza a publicidade em sua dimensão substancial, que exige a possibilidade de acompanhamento, pela sociedade e pelas partes, do processo deliberativo em seu desenvolvimento, e não apenas do resultado consumado."
+    },
+    {
+      "page": 13,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "A\nTECNOLOGIA COMO INSTRUMENTO\nDE\nAMPLIAÇÃO - E NÃO DE BLOQUEIO - DO ACESSO À JUSTIÇA\n\nA Requerente não se opõe à inovação tecnológica no Poder Judiciário. Opõe-se à sua captura para finalidade inversa à que a justifica. A tecnologia deve servir para ampliar o acesso à justiça, e nunca poderá ser utilizada para blindar os Tribunais do debate vivo e presencial. O processo eletrônico, a videoconferência e as ferramentas de gestão são conquistas civilizatórias quando aproximam o cidadão da jurisdição; tornam-se instrumentos de denegação de justiça quando erguem muralhas digitais entre o jurisdicionado e seus juízes.\n\nA arquitetura desenhada pela Emenda Regimental n. 53/2026 - triagem presidencial apoiada em resumos padronizados processáveis por inteligência artificial, agravos relatados pelo próprio prolator em ambiente virtual, teses vinculantes reafirmadas eletronicamente sem debate - revela o projeto de uma justiça convertida em linha de produção automatizada de decisões. A jurisdição, contudo, não é atividade industrial mensurável apenas por índices de produtividade e baixa de acervo.\nÉ função soberana de garantia dos direitos fundamentais, cuja legitimidade repousa no devido processo, na deliberação colegiada autêntica e no diálogo com a advocacia e com a sociedade.\n\nO artigo 5º, inciso XXXV, da Constituição não assegura ao cidadão o direito a um protocolo de saída, mas o direito a uma apreciação jurisdicional efetiva de lesão ou ameaça a direito.\n\nA justiça não pode se tornar uma linha de produção automatizada de decisões; se o volume de processos é desafio real, a resposta constitucional passa pelo legislador - como demonstra a tramitação do projeto de regulamentação do filtro de relevância (art. 105, § 2º, CF) -, jamais pela via oblíqua de emendas regimentais que sacrificam garantias para produzir estatísticas."
+    },
+    {
+      "page": 14,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "DA MEDIDA CAUTELAR\n\nEstão presentes os requisitos do artigo 10 da Lei n. 9.868/1999.\n\nO fumus boni iuris decorre da densa fundamentação exposta, amparada em jurisprudência recentíssima e unânime deste Plenário (ADI 7.692/MA) e na manifestação institucional formal do Conselho Federal da OAB, que apontou os mesmos vícios formais e materiais ora deduzidos.\n\nO periculum in mora é patente: a Emenda entrou em vigor na data de sua publicação (1º/07/2026) e já produz efeitos sobre todos os recursos e ações em tramitação no STJ, alcançando dezenas de milhares de jurisdicionados - o Tribunal recebeu 260,2 mil processos apenas no primeiro semestre de 2026.\n\nA cada sessão virtual realizada sob a nova sistemática, consolidam-se julgamentos de agravos relatados pelo próprio prolator da decisão recorrida, formam-se teses vinculantes sem debate presencial e inadmitem-se recursos por descumprimento de requisitos formais criados à margem da lei, com danos irreversíveis à liberdade de acusados, à segurança jurídica e à autoridade da Constituição.\n\nRequer-se, assim, a concessão de medida cautelar, inaudita altera parte ou após a oitiva das autoridades no prazo do artigo 10 da Lei n.\n9.868/1999, para suspender a eficácia do artigo 12, parágrafo único, inciso IV; do artigo 21-E, parágrafos 2º, 2º-A e 3º (este último na parte em que remete aos §§ 2º e 2º-A); do artigo 184-A, parágrafos 3º e 3º-A; do artigo 257-F; e do artigo 343-A, todos do Regimento Interno do STJ, na redação dada pela Emenda Regimental n. 53/2026, até o julgamento definitivo do mérito desta ação."
+    },
+    {
+      "page": 15,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "DOS PEDIDOS\n\nEx-Positis, requer a Requerente:\n\na) a concessão da medida cautelar, nos termos do item VI, para suspensão imediata da eficácia dos dispositivos impugnados;\n\nb) a requisição de informações ao Superior Tribunal de Justiça, na pessoa de seu Presidente, órgão do qual emanou o ato normativo impugnado, no prazo do artigo 6º da Lei n. 9.868/1999;\n\nc) a subsequente oitiva do Advogado-Geral da União e do Procurador-Geral da República, nos termos do artigo 8º da Lei n. 9.868/1999 e do artigo 103, parágrafos 1º e 3º, da Constituição;\n\nd) no mérito, a procedência integral do pedido, para declarar a inconstitucionalidade, com eficácia ex tunc e efeitos erga omnes e vinculantes, do artigo 12, parágrafo único, inciso IV; do artigo 21-E, parágrafos 2º, 2º-A e 3º; do artigo\n184-A, parágrafos 3º e 3º-A; do artigo 257-F; e do artigo 343-A, todos do Regimento Interno do Superior Tribunal de Justiça, na redação conferida pela Emenda Regimental n. 53, de 30 de junho de 2026, por violação aos artigos 2º; 5º, incisos II, XXXV, XXXVII, LIII, LIV, LV e LX; 22, inciso I; 93, inciso IX; 96, inciso I, alínea \"a\";\ne 133 da Constituição da República, bem como, subsidiariamente e como parâmetro interpretativo, ao artigo 8.2.h da Convenção Americana sobre Direitos Humanos;\n\ne) subsidiariamente, caso não se acolha o pedido de declaração de inconstitucionalidade total dos dispositivos, a realização de interpretação conforme a Constituição, para assentar que:"
+    },
+    {
+      "page": 16,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "(I) o agravo interno contra decisão da Presidência deve ser distribuído a relator diverso do prolator da decisão agravada;\n(II) a oposição da parte ao julgamento virtual, em processos de natureza criminal e naqueles com potencial formação de tese vinculante, impõe a remessa do feito à sessão presencial, com direito a sustentação oral síncrona; e\n(III) a exigência de resumo do artigo 343-A não pode constituir requisito de admissibilidade nem fundamento autônomo de inadmissão de ações e recursos.\nNestes termos, pede deferimento.\n\nSão Paulo, 09 de Julho de 2026.\n\nALESSANDRA MARTINS GONÇALVES JIRARDI\nOAB/SP n.º 320.762"
+    }
+  ]
+}

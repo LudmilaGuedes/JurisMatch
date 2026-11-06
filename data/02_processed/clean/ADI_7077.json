@@ -1,0 +1,156 @@
+{
+  "id": "ADI_7077",
+  "arquivo_pdf": "ADI_7077.pdf",
+  "sha256": "a0fa30709cb3c235410382ffe1459dbf98dd9887f35334ccd9df080ce620b0a2",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:29:41",
+  "resumo": {
+    "paginas": 16,
+    "paginas_digital": 16,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 27425,
+    "chars_clean": 22093,
+    "reducao_pct": 19.4,
+    "linhas_removidas": 76,
+    "limpeza_detalhe": {
+      "cabecalho_rodape": 60,
+      "hifen_mantido": 3,
+      "hifenizacao_unida": 0,
+      "numero_pagina": 16
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "MINISTÉRIO PÚBLICO FEDERAL PROCURADORIA-GERAL DA REPÚBLICA EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL\nPETIÇÃO INICIAL AJCONST/PGR Nº 34966/2022 O PROCURADOR-GERAL DA REPÚBLICA, com fundamento nos arts. 102, I, a e p, 103, VI, e 129, IV, da Constituição Federal; no art. 46,\nparágrafo único, I, da Lei Complementar 75, de 20.5.1993 (Lei Orgânica do Ministério Público da União); e na Lei 9.868, de 10.11.1999, vem propor\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE\ncom pedido de medida cautelar contra o art. 14, VI, \"b\" e \"c\", e VIII, da Lei 2.657, de 26.12.1996, com a redação dada pela Lei 7.508, de 30.12.2016, e o art. 2º, II, da Lei 4.056, de\n30.12.2002, alterado pela Lei 8.643, de 4.12.2019, do Estado do Rio de Janeiro.1 1 Acompanha a petição inicial cópia da norma impugnada e de peças do Procedimento Administrativo 1.30.001.001142/2020-41 (art. 3º da Lei 9.868/1999).\nDocumento assinado via Token digitalmente por PROCURADOR-GERAL DA REPÚBLICA ANTONIO AUGUSTO BRANDAO DE ARAS, em 14/02/2022 18:55. Para verificar a assinatura acesse http://www.transparencia.mpf.mp.br/validacaodocumento. Chave 56d254c3.369dab16.eba2286e.307a6893"
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "1. OBJETO DA AÇÃO\nEis o teor das disposições questionadas nesta ação:\nLei 2.657/1996 do Estado do Rio de Janeiro\nArt. 14. A alíquota do imposto é:\n(...)\nVI - em operação com energia elétrica:\n(...)\nb) 27% (vinte e sete por cento) quando acima do consumo estabelecido na alínea \"a\" até o consumo de 450 quilowatts/hora mensais;\nc) 28% (vinte e oito por cento) quando acima de 450 quilowatts/hora mensais; (Redação dada pela Lei 7.508/2016) (...)\nVIII - na prestação de serviços de comunicação: 28% (vinte e oito por cento); (Redação dada pela Lei 7.508/2016) Lei 4.056/2002 do Estado do Rio de Janeiro\nArt. 2º Compõem o Fundo de Combate à Pobreza e às Desigualdades Sociais:\n(...)\nII - Além do produto da arrecadação adicional de 2% (dois pontos percentuais) previsto no inciso I do Artigo 2º, serão adicionados ao produto da arrecadação mais 2% (dois pontos percentuais), transitoriamente até 31 de dezembro de 2023, no caso do serviço previsto na alínea \"b\" e \"c\" do inciso VI, e do serviço previsto no\ninciso VIII, ambos do art. 14 da Lei 2.657, de 26 de dezembro de 1996. (Redação dada pela Lei 8.643/2019) Demonstrar-se-á que os dispositivos sob testilha afrontam a Constituição Federal, especificamente os arts. 155, § 2º, III, e 167, IV, bem como o"
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "art. 82, § 1º, do Ato das Disposições Constitucionais Transitórias, incluído pela Emenda Constitucional 31/2000.\n2. INCONSTITUCIONALIDADE MATERIAL\nA erradicação da pobreza e da marginalização e a redução das desigualdades sociais e regionais constituem objetivos fundamentais da República (art. 3º, III, da CF), sendo que os Fundos de Combate à Pobreza e Desigualdades Sociais da União, estados, Distrito Federal e municípios foram criados, pela Emenda Constitucional 31/2000, para colaborar com tal mister, por meio do financiamento de políticas públicas.2 Incluído pela EC 31/2000, o art. 82, § 1º, do Ato das Disposições Constitucionais Transitórias determinou que os estados e o Distrito Federal 2 Estudo coordenado pelo Instituto de Pesquisa e Estratégia Econômica do Ceará indica que os níveis de pobreza no Brasil tiveram queda significativa entre 2003 e 2012, período de instituição dos Fundos de Combate à Pobreza. A taxa de pobreza, que era de 35,8% em 2003 foi para 15,9% em 2012; enquanto a extrema pobreza foi de 15,2% para 5,3%. A título exemplificativo, em relação ao Fundo de Combate à Pobreza do Estado do Ceará (FECOP), concluiu-se que este fundo contribuiu para a redução das taxas de pobreza e extrema pobreza no Ceará, todavia, \"esse efeito poderia ser potencializado se os projetos financiados pelo FECOP tivessem ações e público-alvo melhor definidos\". (SILVA, Vitor Hugo Miro C.; MARIANO, Francisca Zilânia;\nCAMPÊLO, Guaracyane Lima; FRANÇA, Natália Cecília de; FRANÇA, João Mário Santos de. FIRMIANO, Marília Rodrigues. Avaliação de políticas de combate à pobreza no Brasil: aplicação do método de Controle Sintético Generalizado para o Fecop no Ceará. Revista Nova Economia, v. 31 n. 1 p. 273-302 2021. Disponível em:\nhttps://www.scielo.br/j/neco/a/8L6f3MbVFMDrKKdf5GBQN7z/?format=pdf&lang=pt.\nAcesso em 24.11.2021)."
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "instituíssem Fundos de Combate à Pobreza e às Desigualdades Sociais, a serem financiados por meio do \"adicional de até dois pontos percentuais na alíquota do Imposto sobre Circulação de Mercadorias e Serviços - ICMS, sobre os produtos e serviços supérfluos e nas condições definidas na lei complementar de que trata o art. 155,\n§ 2º, XII, da Constituição, não se aplicando, sobre este percentual, o disposto no art. 158, IV, da Constituição\".\nEm outras palavras, para o financiamento dos fundos respectivos, determinou-se aos referidos entes federados a criação de um adicional de ICMS com finalidade extrafiscal, no intuito de tributar com alíquota maior produtos considerados não essenciais, com destinação da verba respectiva para políticas sociais.\nNos termos da redação original do art. 83 do ADCT, também incluída pela EC 31/2000, a fim de conferir uniformidade federativa à exação, cabia à lei federal definir as condições e os produtos e serviços supérfluos sobre os quais incidiria o adicional de ICMS.3 Todavia, referida norma até aqui não veio a ser editada.4 3 \"Art. 83. Lei federal definirá os produtos e serviços supérfluos a que se referem os arts.\n80, inciso II, e 82, §§ 1º e 2º.\" (redação conferida pela EC 31/2000).\n4 Não pode ser invocada como norma uniformizadora exigida pelo art. 83 do ADCT a Lei Complementar federal 111/2001, pois esta se limita a regulamentar o Fundo de Combate à Pobreza na esfera da União."
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "A despeito de inexistir legislação federal dispondo sobre tais regras uniformes, vários estados instituíram a exação, dentre eles o Estado do Rio de Janeiro, que promulgou a Lei 4.056/2002, posteriormente alterada pela Lei\n8.643/2019, ora impugnada.\nNo intuito de convalidar os adicionais de ICMS criados pelos estados e pelo Distrito Federal, sobreveio a EC 42/2003, cujo art. 4º dispôs:\nArt. 4º Os adicionais criados pelos Estados e pelo Distrito Federal até a data da promulgação desta Emenda, naquilo em que estiverem em desacordo com o previsto nesta Emenda, na Emenda Constitucional 31, de 14 de dezembro de 2000, ou na lei complementar de que trata o art. 155, § 2º, XII, da Constituição, terão vigência, no máximo, até o prazo previsto no art. 79 do Ato das Disposições Constitucionais Transitórias.\nMuito se debateu sobre a inconstitucionalidade do dispositivo acima, notadamente porque, de forma retroativa, buscou impedir o Poder Judiciário de examinar eventuais vícios contidos em normas estaduais que instituíram o adicional de ICMS em desacordo com a Emenda 31/2000.5 5 JORGE, Alexandre Teixeira; OLIVEIRA, Gustavo da Gama Vital de. A inconstitucional convalidação dos adicionais de ICMS destinados aos Fundos Estaduais de Combate à Pobreza pela Emenda Constitucional nº 42/03: violação da cláusula pétrea da separação de poderes. Revista de Direito Internacional Econômico e Tributário, Brasília, V.\n13, n. 1, p. 209-237, Jan-Jun, 2018."
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "A própria Lei 4.056/2002 do Estado do Rio de Janeiro teve a sua constitucionalidade arguida por meio da ADI 2.869/RJ, cujo seguimento foi negado pelo Ministro Ayres Britto em decisão monocrática assim fundamentada:\n(...) A bem da verdade, observa-se que o art. 4º da Emenda Constitucional nº 42/2003 validou os adicionais criados pelos Estados e pelo Distrito Federal, ainda que estes estivessem em desacordo com o previsto na Emenda Constitucional nº 31/2000.\nSendo assim, se pairavam dúvidas acerca da constitucionalidade dos diplomas normativos ora adversados, estas foram expressamente enxotadas pelo mencionado art. 4º.\nA validade do adicional de ICMS instituído pela Lei fluminense\n4.056/2002 foi, ademais, reconhecida em precedentes de ambas as turmas do Supremo Tribunal Federal:\nAGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO.\nICMS. ADICIONAL. INSTITUIÇÃO POR LEI ESTADUAL.\nFUNDO ESTADUAL DE COMBATE À POBREZA. LEI\n4.056/2002 DO ESTADO DO RIO DE JANEIRO.\nCONVALIDAÇÃO PELO ART. 4º DA EMENDA\nCONSTITUCIONAL 42/2003. AGRAVO IMPROVIDO.\nI - O art. 4º da EC 42/2003 validou os adicionais instituídos pelos Estados e pelo Distrito Federal para financiar os Fundos de Combate à Pobreza. Precedentes.\nII - Agravo regimental improvido.\n(RE 508.993 AgR/RJ, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe de 13.6.2014)"
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ICMS. ADICIONAL. FUNDO ESPECIAL DE COMBATE À POBREZA (ICMS FECP). LEI ESTADUAL\n4.056/2002 E DECRETO ESTADUAL 32.646/2003 DO RIO DE JANEIRO. VALIDAÇÃO PELA EMENDA CONSTITUCIONAL 42/2003. INEXISTÊNCIA DE OFENSA AO PRINCÍPIO DA ANTERIORIDADE.\n1. A jurisprudência do STF já fixou entendimento no sentido de que os adicionais criados pelos estados membros e pelo Distrito Federal, para financiar os Fundos de Combate à Pobreza, foram validados pela Emenda Constitucional 42/2003, nos termos em que foram instituídos, ainda que esses acréscimos estivessem em discordância com o estabelecido na EC 31/2000.\n2. Agravo regimental a que se nega provimento.\n(ARE 1.304.360 AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 7.6.2021) Quanto ao Fundo de Combate à Pobreza instituído no âmbito da União pela Lei Complementar 111/2001, o qual fora previsto nos art. 79, 80 e 81 do ADCT, o art. 1º da EC 67/2010 prorrogou a sua vigência por prazo indeterminado:\nArt. 1º Prorrogam-se, por tempo indeterminado, o prazo de vigência do Fundo de Combate e Erradicação da Pobreza a que se refere o caput do art. 79 do Ato das Disposições Constitucionais Transitórias e, igualmente, o prazo de vigência da Lei Complementar 111, de 6 de julho de 2001, que \"Dispõe sobre o Fundo de Combate e Erradicação da Pobreza, na forma prevista nos arts. 79, 80 e 81 do Ato das Disposições Constitucionais Transitórias\"."
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Já os fundos estaduais previstos no art. 82 do ADCT não foram mencionados pela EC 67/2010, fazendo supor que sua vigência teria se exaurido em 2010, conforme previsto na EC 31/2000. No entanto, a Suprema Corte, no julgamento da ACO 1.039/DF, da relatoria do Min. Gilmar Mendes, manifestou entendimento de que a prorrogação por prazo indeterminado prevista na Emenda 67/2010 também se aplica aos fundos estaduais. Extrai-se do voto do Relator o excerto a seguir:\n(...) Em relação à validade e ao prazo de vigência dos adicionais criados pelos Estados e Distrito Federal entre as ECs 31/2000 e 42/2003 ou, naquilo que estivesse em conflito com a lei complementar federal (ainda inexistente), criou-se a seguinte regra de transição prevista no\nart. 44 da EC 42/2003, 'in verbis':\nArt. 4º Os adicionais criados pelos Estados e pelo Distrito Federal até a data da promulgação desta Emenda, naquilo em que estiverem em desacordo com o previsto nesta Emenda, na Emenda Constitucional 31, de 14 de dezembro de 2000, ou na lei complementar de que trata o art. 155, § 2º, XII, da Constituição, terão vigência, no máximo, até o prazo previsto no art. 79 do Ato das Disposições Constitucionais Transitórias.' Por sua vez, o art. 79 do Ato das Disposições Constitucionais estipulou como prazo para vigorar o Fundo de Combate à Pobreza Federal até o ano de 2010. Confira-se:\nArt. 79. É instituído, para vigorar até o ano de 2010, no âmbito do Poder Executivo Federal, o Fundo de Combate e Erradicação da Pobreza, a ser regulado por lei complementar com o objetivo de viabilizar a todos os brasileiros acesso a níveis dignos de subsistência, cujos recursos serão aplicados em ações suplementares de nutrição, habitação, educação, saúde,"
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "reforço de renda familiar e outros programas de relevante interesse social voltados para melhoria da qualidade de vida.' Entretanto, a Emenda Constitucional 67/2010, em seu art. 1º, prorrogou por tempo indeterminado o prazo previsto no artigo supra, a saber:\nArt. 1º Prorrogam-se, por tempo indeterminado, o prazo de vigência do Fundo de Combate e Erradicação da Pobreza a que se refere o caput do art. 79 do Ato das Disposições Constitucionais Transitórias e, igualmente, o prazo de vigência da Lei Complementar nº 111, de 6 de julho de 2001, que \"Dispõe sobre o Fundo de Combate e Erradicação da Pobreza, na forma prevista nos arts. 79, 80 e 81 do Ato das Disposições Constitucionais Transitórias.\nDessa forma, qualquer legislação posterior à EC 33/2001, bem ainda anterior ou posterior à EC 42/2003, ou mesmo à Lei Complementar na forma do art. 155, § 2º, XII, da Constituição (ainda não editada), naquilo em que conflitar com tais normas, prevaleceria, no máximo, até o prazo previsto no art. 79 do Ato das Disposições Constitucionais Transitórias (inicialmente até 2010 e atualmente prorrogado por tempo indeterminado).\nConsequentemente, naquilo que não conflitar com as ECs 33/2001 e 42/2003, até que sobrevenha a lei complementar federal prevista no\nart. 82, § 2º, do ADCT, valerá o disposto na legislação estadual.\nGrifou-se (ACO 1.039/DF AgR, Plenário, Relator Min. Gilmar Mendes, DJe 08.09.2017).\nRecentemente, a Lei 8.643/2019 do Estado do Rio de Janeiro majorou o adicional de ICMS incidente sobre energia elétrica e serviços de comunicação em mais dois pontos percentuais, extrapolando, assim, o limite de \"até dois por cento\", previsto no art. 82, § 1º, do ADCT."
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Tal aumento contraria, ainda, o princípio da seletividade previsto no\nart. 155, § 2º, III, da CF, que determina a incidência de alíquotas mais baixas sobre os produtos/serviços considerados essenciais à subsistência digna dos cidadãos.\nSegundo Tilbery, citado por João de Souza Alho Neto, o conceito de essencialidade constitui sinônimo daquilo que é necessário e indispensável, e varia no tempo e no espaço.6 A energia elétrica, que no início do século passado era considerada artigo de luxo reservado somente às famílias abastadas, é hoje indispensável em qualquer residência como item mínimo de subsistência e conforto. Pode-se dizer o mesmo sobre a internet e os demais serviços de comunicação, os quais têm adquirido crescente status de essencialidade na vida contemporânea.\nA seletividade do art. 155, § 2º, III, da CF há de ser aferida em função da essencialidade do produto em si, e não da quantidade consumida, que nem sempre corresponde à capacidade contributiva.\nA título exemplificativo, famílias numerosas e de baixa renda, se tiverem um consumo de energia elétrica acima de 450 kwh/mês, perdem o 6 ALHO NETO, João de Souza. Seletividade em Função da Essencialidade: ICMS e Energia Elétrica. Revista de Direito Tributário Atual. v. 39, 2018. Disponível em:\nhttps://ibdt.org.br/RDTA/seletividade-em-funcao-da-essencialidade-icms-e-energia-eletrica/. Acesso em 25.11.2021."
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "direito ao benefício da Tarifa Social, previsto no art. 14, VI, alínea a.1, da Lei 2.657/1996, acrescido pela Lei 9.449/2021, do Estado do Rio de Janeiro.\nDesse modo, embora esses consumidores não detenham capacidade contributiva, terão que pagar pela energia elétrica com a alíquota majorada, como se fossem famílias de alta renda.\nNo caso, a Lei fluminense 7.508/2016 aumentou a alíquota do ICMS incidente sobre os serviços de energia elétrica para 27%, quando o consumo estiver acima de 300 quilowatts/hora mensais, e para 28%, quando acima de 450 quilowatts/hora mensais. A alíquota incidente sobre os serviços de comunicação também foi majorada para 28%.\nSobre referidos valores foram acrescidos, ainda, dois por cento de adicional de ICMS previsto no art. 82, § 1º, do ADCT e, recentemente, por força da Lei 8.643/2019, foram instituídos mais dois pontos percentuais de adicional de ICMS sobre os serviços de energia elétrica e comunicação, ou seja, a alíquota incidente sobre referidos serviços ultrapassa os 30%.\nA distorção promovida pelos dispositivos impugnados fica mais evidente ao se considerar a alíquota geral do ICMS no Estado do Rio de Janeiro, que é de 18%, prevista no art. 14, I, da Lei 2.657/1996; e alíquota"
+    },
+    {
+      "page": 12,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "incidente sobre refrigerantes, que é de 16%, conforme se vê no art. 14, XXXIII, do mesmo diploma.\nNo recente julgado do RE 714.139/SC-RG, a Suprema Corte afastou a alíquota de 25% do ICMS incidente sobre operações de energia elétrica e telecomunicações, prevista no art. 19, alíneas \"a\" e \"c\", da Lei\n10.297/1996 do Estado de Santa Catarina, por entender que, considerada a essencialidade das referidas operações, não poderiam ser tributadas em alíquota superior ao das operações em geral. Fixou-se a seguinte tese:\nAdotada, pelo legislador estadual, a técnica da seletividade em relação ao Imposto sobre Circulação de Mercadorias e Serviços - ICMS, discrepam do figurino constitucional alíquotas sobre as operações de energia elétrica e serviços de telecomunicação em patamar superior ao das operações em geral, considerada a essencialidade dos bens e serviços.\nQuer dizer, o Supremo Tribunal Federal firmou entendimento de que, adotada a técnica da seletividade pelo legislador estadual e sendo a energia elétrica um produto essencial e indispensável, não pode ser tributada com alíquota equivalente aos produtos supérfluos.\nTem sido muito comentada nos meios de comunicação a crise de energia elétrica que fez com que o preço da tarifa aumentasse em todo o país.\nA incidência do ICMS sobre serviços de energia elétrica no Estado do Rio de"
+    },
+    {
+      "page": 13,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Janeiro, em percentual que ultrapassa 30%, agrava sobremaneira tal situação, principalmente para os consumidores mais pobres.7 De acordo com estudos realizados pelo Instituto de Pesquisa Econômica Aplicada (IPEA), a população mais pobre é a que mais sofre com os efeitos regressivos dos impostos indiretos, como o ICMS. 8 Em razão disso, o aumento desse tributo, se realizado de forma indiscriminada e sem estudo prévio, pode ter o efeito de agravar ainda mais as desigualdades sociais.\nAdemais, a vinculação do adicional de ICMS a fundo constitui exceção criada pelo constituinte derivado no art. 82, § 1º, do ADCT. Não se admite a majoração de alíquota além dos dois pontos percentuais nele previstos, sob pena de se contrariar a regra contida no art. 167, IV, da CF, que veda a vinculação de impostos a órgão, fundo ou despesa.\nEnfim, o art. 2º, II, da Lei 4.056/2002 do Estado do Rio de Janeiro, com a redação dada pela Lei 8.643/2019, ao prever um acréscimo de mais dois pontos percentuais no ICMS incidente sobre energia elétrica e serviços de 7 A conta de energia do Rio de Janeiro está entre as três mais caras do país. Disponível:\nhttps://vejario.abril.com.br/cidade/conta-de-luz-rio-terceira-mais-cara-brasil/. Acesso em 26.11.2021.\n8 Disponível:\nhttps://www.ipea.gov.br/desafios/index.php?\noption=com_content&id=3233. Acesso em 1º.12.2021."
+    },
+    {
+      "page": 14,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "comunicação, contraria a literalidade do art. 82, § 1º, do ADCT, que determina o limite de até dois por cento sobre o ICMS incidente sobre produtos e serviços supérfluos, não se podendo enquadrar energia elétrica e comunicação nessa categoria, dada a sua essencialidade.\nJá o art. 14, VI, alíneas \"b\" e \"c\", e VIII, da Lei 2.657/1996, com a redação da Lei 7.508/2016, ao instituir alíquotas de 27% e 28% incidentes sobre serviços de energia elétrica e comunicação, ofende o princípio da seletividade, inscrito no art. 155, § 2º, III, da CF.\nSendo assim, os dispositivos ora impugnados são inconstitucionais, pois contrariam os arts. 155, § 2º, III, e 167, IV, da CF, e o\nart. 82, § 1º, do ADCT.\n4. PEDIDO CAUTELAR\nEstão presentes os pressupostos para concessão de medida cautelar.\nA plausibilidade jurídica do pedido (fumus boni juris) está suficientemente caracterizada pelos argumentos deduzidos nesta petição inicial, que encontram robusto amparo na jurisprudência do Supremo Tribunal Federal.\nJá o periculum in mora decorre da expressiva carga tributária que recai sobre os consumidores de serviços de energia elétrica e de comunicação"
+    },
+    {
+      "page": 15,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "do Estado do Rio de Janeiro, em razão das alíquotas abusivas fixadas pela Lei estadual 7.508/2016, que iguala referidos serviços aos de caráter supérfluo.\nAlém disso, a Lei estadual 8.643/2019 agrava tal situação, ao fixar um adicional de mais dois por cento sobre fornecimento de energia elétrica e serviço de comunicação, até 31.12.2023, destinados ao Fundo de Combate à Pobreza do estado.\nA incidência do ICMS em percentual que ultrapassa 30%, somada aos aumentos de tarifa de energia autorizados pela Agência Nacional de Energia Elétrica, alçaram o Rio de Janeiro à terceira conta mais cara do país. 9 Tendo em vista a majoração exacerbada do tributo, com potencial de causar grave dano aos consumidores mais pobres daquela unidade federativa, faz-se indispensável a imediata sustação dos efeitos das normas questionadas, para que seja restabelecido, a título cautelar e com efeitos ex nunc, a alíquota de 18% (geral) prevista no art. 14, I, da Lei 2.657/1996 do Estado do Rio de Janeiro, em conformidade com a tese fixada no RE-RG\n714.139/SC.\nPor conseguinte, além do sinal do bom direito evidenciado pelos próprios fundamentos constitucionais em que se apoia esta ação direta, há 9 Disponível:\n\nhttps://vejario.abril.com.br/cidade/conta-de-luz-rio-terceira-mais-cara-brasil/. Acesso em 26.11.2021."
+    },
+    {
+      "page": 16,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "premência em que essa Corte conceda a medida cautelar para determinar a imediata suspensão dos efeitos do art. 14, VI, \"b\" e \"c\", e VIII, da Lei\n2.657/1996, com a redação dada pela Lei 7.508/2016, e do art. 2º, II, da Lei\n4.056/2002, alterado pela Lei 8.643/2019, do Estado do Rio de Janeiro.\n5. PEDIDOS E REQUERIMENTOS\nEm face do exposto, requer o PROCURADOR-GERAL DA REPÚBLICA que se colham as informações do Governador e da Assembleia Legislativa do Estado do Rio de Janeiro e que se ouça a Advocacia-Geral da União, nos termos do art. 103, § 3º, da Constituição Federal. Superadas essas fases, pede prazo para a manifestação da Procuradoria-Geral da República.\nAo final, postula que se julgue procedente o pedido para declarar a inconstitucionalidade do art. 14, VI, \"b\" e \"c\", e VIII, da Lei 2.657/1996, com a redação dada pela Lei 7.508/2016, e do art. 2º, II, da Lei 4.056/2002, alterado pela Lei 8.643/2019, do Estado do Rio de Janeiro.\nBrasília, data da assinatura digital.\nAugusto Aras Procurador-Geral da República Assinado digitalmente\nATM"
+    }
+  ]
+}

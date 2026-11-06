@@ -1,0 +1,212 @@
+{
+  "id": "ADI_8008",
+  "arquivo_pdf": "ADI_8008.pdf",
+  "sha256": "e79367e3677a27c881a933e97e714130f0c3f1fad6caee1a8e3116fc9d09897e",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:31:56",
+  "resumo": {
+    "paginas": 23,
+    "paginas_digital": 23,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 35200,
+    "chars_clean": 34197,
+    "reducao_pct": 2.8,
+    "linhas_removidas": 22,
+    "limpeza_detalhe": {
+      "cabecalho_rodape": 21,
+      "hifen_mantido": 2,
+      "hifenizacao_unida": 0,
+      "numero_pagina": 1
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL CONFEDERAÇÃO NACIONAL DOS TRABALHADORES\nEM TRANSPORTES E LOGÍSTICA, CNTTL, confederação sindical de âmbito nacional, inscrita no CNPJ sob o nº 21.983.083/0001-56, com sede no SCS, Quadra 1, Bloco I, Edifício Central, 6º Andar, Asa Sul, CEP 70304-900, Brasília/DF (doc. 01), neste ato representada por seu Presidente, Paulo João Estausia (doc. 02), vem, por seus advogados infra-assinados (doc. 03), com fundamento no art. 102, inciso I, alínea \"a\", e no art. 103,\ninciso IX, da Constituição Federal, e nos arts. 2º, IX, 3º e 10 da Lei nº 9.868/1999, propor\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE\ncom pedido de medida cautelar em face do art. 127, caput e parágrafo único, da Resolução CONTRAN nº 1.020, de 1º de dezembro de 2025 (doc. 04), editado pelo Conselho Nacional de Trânsito - CONTRAN, órgão máximo normativo do Sistema Nacional de Trânsito (art. 12 do Código de Trânsito Brasileiro), e publicado no Diário Oficial da União de 9 de dezembro\n\n[figura embutida, texto via OCR]:\nLUCIANO VITOR ENGHOLM CARDOSO FERNANDO CAPEZ\n\nAIDE CARVALHO ENGHOLM CARDOSO IVO LIBERALINO DA SILVA JUNIOR MARIA PATRÍCIA FERREIRA PIMENTEL GUILHERME FARID MISCHI BOU CHEBL JOSÉ SANTANA FILHO\n\nFABIA PASIN PUGLIS|\n\nMARIA EDUARDA PALERMO CAPEZ LUCA CANELLA PEREIRA"
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "de 2025, Edição 234-B, Seção 1, Extra B. Expõe, para tanto, as razões de fato e de direito a seguir.\nO dispositivo impugnado tem a seguinte redação:\n\"Art. 127. Estão autorizados a serem utilizados nas aulas práticas e nos exames de direção veicular os veículos destinados à formação de condutores, bem como os veículos eventualmente utilizados na aprendizagem, das categorias previstas no art. 96, inciso III, do Código de Trânsito Brasileiro, independentemente de sua propriedade.\nParágrafo único. Para a realização das atividades de que trata o caput, não serão exigidas quaisquer adaptações ou modificações no veículo.\"\nI.\nA\nCONTROVÉRSIA:\nRESOLUÇÃO NÃO REVOGA LEI.\nUMA RESOLUÇÃO DO CONTRAN REVOGOU A DISTINÇÃO DO CTB ENTRE VEÍCULO PARTICULAR E DE APRENDIZAGEM\n1.\nA causa tem objeto único e se resolve pela leitura e comparação entre dois textos, um legal e um infralegal, postos lado a lado.\n2.\nO Código de Trânsito Brasileiro classifica os veículos por categoria e separa o veículo particular, na alínea \"c\" do inciso III do art. 96, do veículo de aprendizagem, na\nalínea \"e\" do mesmo dispositivo.\n3.\nA separação não é mera formalidade.\n4.\nBasta o emprego do senso mínimo de razoabilidade para concluir que existe"
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "fundamento fático relevante para que a lei, o Código de Trânsito, estabeleça diferenças estruturais entre o veículo a ser conduzido por quem ainda está aprendendo a dirigir e o conduzido por pessoa já habilitada.\n5.\nO veículo em que, alguém que ainda está aprendendo a dirigir, necessita de estrutura de segurança diferenciada e bem mais elaborada que um veículo de passeio, conduzido por quem já está habilitado.\n6.\nO CTB determinou expressamente, em seu art. 96, que existem, dentre outras, duas categorias distintas: art. 96, III, \"c\", veículo de passeio, e 96, III, \"e\", veículo de aprendizagem.\n7.\nO mesmo Diploma Legal também impôs, logo a seguir, em seu art. 97, o dever de regulamentação ao CONTRAN, consistente em definir as características que distinguem o veículo de aprendizagem dos demais.\n8.\nObjetivando dar cumprimento a essa determinação legal, a anterior Resolução CONTRAN nº 789/2020 (doc. 05), revogada pela atual, havia fixado para o veículo de aprendizagem, dentre outras características estruturais, o duplo comando de freio e embreagem.\n9.\nEssa estrutura consiste na possibilidade de o instrutor também deter o controle do sistema de freio e, quando aplicável, embreagem na hipótese de o aprendiz cometer algum erro.\n10.\nA Resolução CONTRAN nº 1.020/2025, contestada na presente ADI, revogou a Resolução nº 789/2020, rompeu esse desenho, afrontou o CTB e dispensou qualquer diferença estrutural, equiparando, ilegalmente, veículo de passeio com veículo de aprendizagem.\n11.\nSeu art. 127 determinou, em flagrante afronta ao art. 96, III, do CTB, que"
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "\"não serão exigidas quaisquer adaptações ou modificações no veículo\".\n12.\nDessa maneira, é incontroverso que um ato infralegal, meramente regulamentar, que deveria ter especificado os elementos estruturais de segurança de um veículo de aprendizagem, igualou duas categorias que a lei havia distinguido e determinado que fossem, obrigatoriamente, dotadas de elementos estruturais distintos: o veículo particular passou a servir de veículo de aprendizagem sem a característica que a lei reserva a este último.\n13.\nO CONTRAN, a quem o art. 97 do CTB impôs o dever e conferiu competência para diferenciar veículos segundo sua destinação, por meio do exercício do poder regulamentar, excedeu os limites de sua prerrogativa funcional e legal, e editou uma Resolução, a de nº 1.020/2025, derrogando dispositivos de lei federal, o Código de Trânsito Brasileiro.\n14.\nA questão desta ação é, por isso, estritamente de inobservância da hierarquia normativa imposta pela ordem constitucional.\n15.\nUma resolução não revoga uma lei, nem torna sem efeito a classificação que a lei estabeleceu. Ao fazê-lo, o CONTRAN excedeu o poder regulamentar e invadiu campo reservado ao legislador, com ofensa direta aos arts. 5º, II, 84, IV, 2º e 37, caput, da Constituição.\n16.\nÉ o que a presente ADI, proposta pela CNTTL, submete ao controle concentrado desta Corte, em pedido único.\nII.\nA CNTTL É PARTE LEGÍTIMA: A SEGURANÇA DO VEÍCULO DE ENSINO ATINGE O NÚCLEO DO TRABALHO DA CATEGORIA\n17.\nA CNTTL é confederação sindical de âmbito nacional e figura entre os"
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "legitimados do art. 103, IX, da Constituição. Sua legitimação, nessa classe, exige pertinência temática entre o ato impugnado e os interesses da categoria representada, requisito que aqui se demonstra.\n18.\nA categoria tem interesse direto no ato impugnado.\n19.\nA CNTTL representa os trabalhadores em transportes e logística, entre eles os motoristas profissionais de transporte coletivo de passageiros, de escolares, de produtos perigosos, de veículos de emergência e de cargas, além de mototaxistas e motofretistas. Para esses trabalhadores, a via pública é o ambiente de trabalho, e a formação de condutores é fator direto da segurança desse ambiente.\n20.\nEntre as entidades filiadas à CNTTL encontra-se a FETRAN 1 (doc. 06), federação sindical de âmbito nacional que representa os servidores dos Departamentos Estaduais de Trânsito, entre os quais se encontram os examinadores responsáveis pela aplicação dos exames práticos de direção.\n21.\nO dispositivo impugnado incide diretamente sobre as condições em que esses examinadores exercem suas atribuições, ao admitir a realização do exame em veículos que podem não dispor das adaptações de segurança próprias dos veículos de aprendizagem, submetendo-os a risco concreto. A pertinência temática da autora decorre, portanto, também da representação da categoria funcional diretamente atingida pelos efeitos da norma.\n22.\nAo permitir que o candidato seja formado e examinado em veículo desprovido da característica que a lei reserva ao veículo de aprendizagem, o art. 127 lança na via, todos os dias, condutores instruídos sem a salvaguarda legal. Converte, com isso, o local de trabalho da categoria em ambiente de risco acrescido. A Constituição trata esse risco como matéria de direito do trabalhador, ao assegurar a redução dos riscos inerentes ao\n\n1 https://cnttl.org.br/entidades-filiadas."
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "trabalho (art. 7º, XXII) e ao inscrever o meio ambiente do trabalho entre as matérias de saúde (art. 200, II).\n23.\nA esse interesse soma-se o difuso. O mesmo ato ofende o dever estatal de segurança viária, que o art. 144, § 10, da Constituição atribui aos órgãos de trânsito. Aqui, o interesse da categoria e o interesse público coincidem: proteger a integridade do trabalhador do volante é proteger a via em que ele trabalha. O nexo entre o dispositivo impugnado e a esfera de interesses da autora é, portanto, direto, e não reflexo.\nIII.\nA RESOLUÇÃO DO CONTRAN É ATO NORMATIVO PRIMÁRIO E SE SUBMETE AO CONTROLE CONCENTRADO\n24.\nO art. 127 da Resolução CONTRAN nº 1.020/2025 é ato normativo regulamentar federal, geral e abstrato, dotado de força impositiva direta sobre a generalidade dos destinatários, editado por órgão colegiado federal no exercício de competência normativa própria (art. 12 do CTB). Reúne, por isso, os atributos que autorizam a ação direta (art. 102, I, \"a\", da CF).\n25.\nO Supremo Tribunal Federal já conheceu e julgou o mérito de ação direta contra resolução do próprio CONTRAN. Na ADI 6.313/DF (Rel. Min. Alexandre de Moraes, Plenário, j. 28/08/2023, unânime), a Corte examinou a Resolução CONTRAN nº 969/2022 e assentou a natureza normativa do ato, em julgado cuja ementa é a seguinte:\nEMENTA:\nAÇÃO DIRETA\nDE\nINCONSTITUCIONALIDADE. RESOLUÇÃO 969/2022 DO CONTRAN. PRESTAÇÃO DE SERVIÇOS DE FABRICAÇÃO E ESTAMPAGEM DE PLACAS DE IDENTIFICAÇÃO VEICULAR. HABILITAÇÃO DE EMPRESAS INTERESSADAS MEDIANTE"
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CREDENCIAMENTO. POSSIBILIDADE. ATIVIDADE ECONÔMICA\nEM\nSENTIDO ESTRITO.\nATOS PREPARATÓRIOS À PRÁTICA DE ATOS TÍPICOS DA ADMINSTRAÇÃO PÚBLICA. INEXIGIBILIDADE DE LICITAÇÃO. AUSÊNCIA DE VIOLAÇÃO AO PACTO FEDERATIVO E À AUTONOMIA DOS ESTADOS-MEMBROS.\nIMPROCEDÊNCIA.\n1.\nA fabricação e a estampagem de placas de identificação veicular constituem atos preparatórios à prática de atos típicos da Administração Pública, caracterizando-se como atividade econômica em sentido estrito, cuja execução pode ser validamente confiada a qualquer particular previamente credenciado pelo DENATRAN e pelos órgãos executivos de trânsito dos Estados-Membros e do Distrito Federal. 2. Por expressa autorização constitucional, o dever de licitar comporta exceções especificadas na legislação ordinária (art.\n37, XXI, da CF). 3. Constatadas a inviabilidade de competição e a consequente inexigibilidade de licitação na hipótese, é possível o credenciamento de particulares para, em consonância com os requisitos estabelecidos pelos órgãos competentes, prestar os serviços de fabricação e estampagem de placas de identificação veicular (arts. 6º, XLIII; 74, IV; e 79, II, da Lei 14.133/2021). 4. A regulamentação dos serviços de fabricação e estampagem de placas de identificação veicular integra o rol de atribuições do CONTRAN, enquanto coordenador do Sistema Nacional de Trânsito e seu órgão máximo executivo, normativo e consultivo, que atua sob legitimação da competência deferida à União para legislar sobre trânsito e transporte (art. 22, XI, da CF).\nPrecedentes. 5. Ação Direta julgada improcedente."
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "26.\nO precedente resolve o cabimento em favor do conhecimento: resolução do CONTRAN é ato impugnável por ação direta. Ele não prejudica, porém, o mérito desta causa. A ADI 6.313 examinou o credenciamento de particulares para fabricar placas, atividade econômica em sentido estrito, sem relação com a formação do condutor nem com qualquer característica de segurança de veículo.\n27.\nAqui, a questão é diversa. Uma resolução suprimiu a distinção legal entre categorias de veículo (art. 96, III, do CTB) e a característica que a lei reserva ao veículo de ensino. Sobre esse parâmetro a ADI 6.313 nada decidiu. Não há identidade de causa, e o julgamento de improcedência daquela ação não alcança esta.\n28.\nRegistre-se, por fim, que o art. 127 não integra o objeto da ADI 7978/DF, em curso perante esta Corte. Naquela ação, a Confederação Nacional do Comércio impugnou outros dispositivos da mesma Resolução (arts. 20, I e § 3º; 21; 22, § 4º; 36, I;\n37, III; e 108, II), e a decisão do Relator, Min. André Mendonça, de 26/06/2026, delimitou o controle a esse rol. O dispositivo aqui atacado, e a causa de pedir aqui deduzida, são distintos. Não há litispendência.\nIV.\nO QUE A LEI FIXOU: O ART. 96, III, DO CTB DISTINGUE O VEÍCULO PARTICULAR DO VEÍCULO DE APRENDIZAGEM\n29.\nO Código de Trânsito Brasileiro, ao classificar os veículos, separou por lei as categorias que interessam a esta causa:\n\"Art. 96. Os veículos classificam-se em:\nIII - quanto à categoria:\n(c) particular;"
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "(e) de aprendizagem.\"\n30.\nA distinção foi imposta e determinada expressamente por lei federal, e não por um mero regulamento. Assim, somente poderia ter sido revogada por lei posterior (LINDB, art. 2º, caput), jamais por um regulamento.\n31.\nAssim determinou o Código de Trânsito, fundamentada no dever de proteção e segurança do Estado: o veículo particular é conduzido por quem a lei já habilitou; o veículo de aprendizagem é conduzido por quem ainda aprende e é avaliado.\n32.\nSão finalidades diversas, cuja observância a lei impôs como obrigatória.\n33.\nPor essa razão, o art. 97 do CTB atribuiu ao CONTRAN a competência para estabelecer as características dos veículos \"em função de suas aplicações\":\n\"Art. 97. As características dos veículos, suas especificações básicas, configuração e condições essenciais para registro, licenciamento e circulação serão estabelecidas pelo CONTRAN, em função de suas aplicações.\"\n34.\nO comando normativo do art. 97 é de diferenciação obrigatória.\n35.\nDefinir características em função das aplicações é reconhecer que aplicações distintas pedem características distintas, e delegar ao CONTRAN o poder de traçá-las. É competência para diferenciar, não para igualar.\n36.\nFoi exatamente isso que o CONTRAN havia observado quando, sob a Resolução nº 789/2020, fixou para o veículo de aprendizagem das categorias B a E a exigência de equipamento próprio:\n\"Os veículos de aprendizagem das categorias B, C, D ou E deverão estar equipados com duplo comando de freio, dupla"
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "embreagem e retrovisor interno extra para uso do instrutor e examinador, além dos equipamentos obrigatórios previstos na legislação.\" (art. 46, § 3º, da Resolução CONTRAN nº 789/2020 - Doc. 05)\n37.\nA exigência infralegal do duplo comando concretizava a distinção legal, cumpria a determinação fixada por lei federal, o CTB, e especificava as características que separam o veículo de aprendizagem do de passeio.\n38.\nNessa mesma linha, e deixando clara a necessidade de distinção entre veículo de passeio e aprendizagem, o art. 154, § 2º, do CTB, na redação da Lei nº 14.921/2024, fixou idades máximas para o veículo de aprendizagem, segundo a categoria de habilitação.\n39.\nA distinção do art. 96, III, portanto, não é abstrata: a lei a preenche de conteúdo e manda o regulamento respeitá-la.\nV.\nDA INCONSTITUCIONALIDADE DO ART. 127 DA RESOLUÇÃO 1.020 DO CONTRAN\n40.\nO art. 127 da Resolução nº 1.020/2025 desfez a distinção legal por dois movimentos combinados. No caput, admitiu o veículo \"independentemente de sua propriedade\", de modo que o carro particular do candidato passa a servir de veículo de aprendizagem. No parágrafo único, determinou que \"não serão exigidas quaisquer adaptações ou modificações no veículo\".\n41.\nO resultado é a equiparação. O veículo de aprendizagem deixou de ter característica que o distinga do veículo particular, e as duas categorias que a lei separou passaram a ser, na prática do exame, uma só.\n42.\nA técnica do dispositivo confirma o efeito. A norma não afirmou \"fica"
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "dispensado o duplo comando\"; determinou que não se exija \"qualquer adaptação ou modificação\". O duplo comando é, tecnicamente, uma adaptação do veículo, de sorte que a fórmula ampla o alcança sem nomeá-lo, e com ele alcança toda característica que diferencie o veículo de ensino. A vedação genérica de exigir adaptações suprime, de uma vez, o traço distintivo que a lei reservou ao veículo de aprendizagem.\n43.\nO próprio regime da Resolução torna a igualação mais grave, ao manter no veículo o agente encarregado da segurança. O art. 43, II, da Resolução nº 1.020/2025 impõe ao preposto que acompanha o exame o dever de \"zelar pela segurança do candidato e dos demais usuários da via\". A norma conserva um agente responsável pela segurança dentro do carro e, ao mesmo tempo, lhe retira, pelo art. 127, o instrumento físico que permitiria cumprir esse dever em uma emergência. A incoerência interna reforça que a supressão da característica não foi ajuste técnico de aplicação, mas remoção de salvaguarda.\nVI.\nRESOLUÇÃO NÃO REVOGA LEI: A INVERSÃO HIERÁRQUICA E O EXCESSO DE PODER REGULAMENTAR\n44.\nO vício é de afronta à hierarquia normativa imposta pela CF.\n45.\nA distinção entre veículo particular e veículo de aprendizagem não é facultativa, mas cogente e encontra-se determinada expressamente por lei (art. 96, III, do\nCTB).\n46.\nDo mesmo modo, a competência regulamentar do CONTRAN limita-se a especificar as determinações legais, no sentido de caracterizar a diferenciação estrutural de veículos de diferentes categorias (art. 97 do CTB). Não lhe cabe afrontar o conteúdo de lei federal.\n47.\nAo igualar, por resolução, categorias que a lei determinou fossem"
+    },
+    {
+      "page": 12,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "diferenciadas, o CONTRAN não regulamentou, mas revogou a lei, esvaziando na prática o seu conteúdo.\n48.\nUma resolução, ato infralegal, não tem autoridade para tornar sem efeito a classificação que a lei estabeleceu, nem para dispensar a característica que a lei, pela via do art. 97, mandou o regulamento fixar em função da aplicação. A norma de menor hierarquia cede diante do Código de Trânsito.\n49.\nA conduta ofende, de modo direto, os parâmetros constitucionais do poder regulamentar. O art. 84, IV, da Constituição autoriza o regulamento apenas para a fiel execução da lei, e não para inovar em sentido contrário. O art. 5º, II, da CF, por sua vez, submete a criação e a supressão de obrigações à reserva de lei. Do mesmo modo, o art.\n2º e o art. 37, caput, da Carta Magna, vedam ao Executivo, e a seus órgãos, dispor sobre matéria reservada ao legislador.\n50.\nAo pretender revogar, por resolução, a distinção legal do art. 96, III, o CONTRAN incorreu em excesso de poder regulamentar e em inversão da hierarquia das normas.\n51.\nImporta ressaltar que a CNTTL não sustenta que a resolução tenha validamente revogado o Código de Trânsito, ao contrário. Por ser ato infralegal, não tem autoridade normativa para revogá-lo, nem tampouco esvaziar o conteúdo de lei.\n52.\nAo fazê-lo, a resolução incorreu em nulidade por excesso regulamentar. A lei permanece hígida ao estabelecer a obrigatória distinção legal, o que se pede é a retirada do ordenamento jurídico, mediante declaração de nulidade, do ato regulamentar que impede a projeção dos efeitos concretos do CTB."
+    },
+    {
+      "page": 13,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "VII. NA ADI 7978/DF, A UNIÃO ADMITE A INCONSTITUCIONALIDADE\n53.\nA defesa que a União opôs à Resolução, na ADI 7978/DF, confirma o vício em vez de afastá-lo. A União admite o próprio motivo da supressão.\n54.\nAo defendê-la em juízo, faz três admissões sobre a exigência de duplo comando. Sustenta que ela \"caracterizava uma pesada barreira econômica e regulatória\" e que o ônus \"era repassado integralmente ao consumidor final\". Afirma, ainda, que torná-la facultativa \"alivia a pressão financeira sobre as empresas e viabiliza a inserção no mercado do instrutor\" (Nota Técnica nº 594/2026/CGREG-SENATRAN; Informações nº 00008/2026/CONJUR-MT/CGU/AGU, - cf. docs. 07 e 08).\n55.\nA União admite, ainda, que a norma \"remove o caráter compulsório da medida\", que passa a ficar \"sob o exclusivo critério técnico do proprietário do veículo ou do instrutor\". A supressão foi, portanto, movida por custo, e não pela aplicação do veículo.\n56.\nO art. 97 do CTB, porém, manda diferenciar em função das aplicações, não em função do preço do equipamento. A economia de custo não legitima que uma resolução revogue distinção fixada em lei.\n57.\nNão se pode admitir a criação de uma nova tese de admissão de inconstitucionalidade para redução de custo. Tal avaliação somente pode ser feita por lei posterior, jamais por mera resolução.\n58.\nA isso soma-se o silêncio da defesa sobre o ponto decisivo. Na ADI 7978, a União se manifestou sobre o mérito em três peças: a Nota Técnica nº 594/2026 (doc. 07), as Informações nº 00008/2026/CONJUR-MT (doc. 08) e as Informações nº 00075/2026/CONSUNIAO/CGU/AGU (doc. 09).\n59.\nEm todas, a tese defensiva é a de que a Resolução \"não substitui a vontade do legislador, não cria regime jurídico novo e não modifica os requisitos estabelecidos pelo"
+    },
+    {
+      "page": 14,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Código de Trânsito Brasileiro\".\n60.\nA afirmação é vazia, retórica e feita em abstrato.\n61.\nEm nenhuma passagem a União confronta o texto do art. 127 com o do art.\n96, III, do CTB.\n62.\nEm nenhuma menciona a distinção legal entre veículo particular e de aprendizagem, ou o comando de diferenciação do art. 97.\n63.\nA defesa do ato, construída sobre a premissa de que \"o duplo comando não está no CTB\", não enfrenta o objeto da ADI: o CTB não determinou a imposição do duplo comando, mas a criação, por meio de resolução, de estruturas de segurança diferenciadas entre veículo de passeio e de aprendizagem. Ao revogar a Resolução CONTRAN nº 789/2020, que estabelecia todos os elementos de diferenciação, pela Resolução nº 1.020/2025, que dispensou qualquer obrigatoriedade de diferenciação estrutural, operou-se a inconstitucionalidade que a União, mediante argumentação evasiva, tentou contornar.\n64.\nPor fim, a própria premissa invocada pela União importa em admissão do vício.\n65.\nA União sustenta que ao CONTRAN cabe \"disciplinar aspectos técnicos, sem criar direitos, deveres ou restrições não previstos em lei\", e admite que a Resolução operou \"ampliação das alternativas\" e \"abertura regulatória\" no processo de formação de condutores.\n66.\nSão admissões que confirmam a inconstitucionalidade.\n67.\nIgualar as diferentes categorias de veículos que os arts. 96 e 97 mandaram separar é justamente criar disciplina contrária à lei, em vez de concretizá-la."
+    },
+    {
+      "page": 15,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "68.\nIndependentemente da avaliação acerca da política de ampliação temerária de acesso à habilitação, mediante supressão de exigências impostas pela necessidade de segurança viária, não há justificativa para a edição de uma resolução, que é o ato unilateral e administrativo de quem resolve, no lugar do processo democrático da criação de lei.\n69.\nO meio escolhido, qual seja, a equiparação, por resolução, do veículo de aprendizagem ao particular, é inconstitucional por inversão hierárquica. O juízo desta ação é de validade da norma, não de conveniência da política.\n70.\nResolução não revoga lei. Admitir o contrário é subverter o sistema constitucional de hierarquia de normas e vulnerar o princípio democrático, segundo o qual às autoridades administrativas, desde a mais alta cúspide até o menor nível hierárquico, incumbe a observância e o cumprimento obrigatório da lei.\nVIII. AS DEFESAS DA SENATRAN E DA AGU NA ADI 7978/DF TAMBÉM SEGUEM ANEXAS A ESTA ADI\n71.\nA defesa do ato já está posta, e a autora a junta a esta inicial.\n72.\nNa ADI 7978/DF, a União se manifestou sobre essa mesma Resolução ora impugnada, por meio da Advocacia-Geral da União e também pela SENATRAN, em peças que a requerente traz aos autos (cf. docs. 07, 08 e 09).\n73.\nPede-se, por essa razão, vênia para que se possa conhecer desde logo do pedido de liminar, sem a necessidade de colher novamente os mesmos argumentos a serem apresentados pela União.\n74.\nOs termos de sua defesa já são conhecidos, e nenhum deles enfrenta o objeto central da controvérsia, que é o conflito entre a Resolução nº 1.020/2025, em seu art. 127, e os artigos 96, III, \"c\" e \"e\", e 97 do CTB."
+    },
+    {
+      "page": 16,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "75.\nA tese central da União é a de que a Resolução apenas exerce o poder regulamentar, sem tocar no Código de Trânsito. Trata-se de um sofisma evidente.\n76.\nA premissa de que a Resolução nº 1.020/2025, em seu art. 127, exerceu o poder regulamentar, é seguida pela de que, ao fazê-lo, afrontou o CTB, de modo que a conclusão só pode ser pela sua nulidade, e não o contrário.\n77.\nO art. 96, III, \"c\" e \"e\", do CTB separa o veículo particular do de aprendizagem, enquanto o art. 127 da Resolução nº 1.020/2025 dispôs o contrário, ao admitir veículo de aprendizagem, sem adaptação.\n78.\nIgualar categorias distinguidas por lei, por meio de norma infralegal é modificar o texto legal e não o regulamentar. A tese da União é afirmada em abstrato, mas não corresponde ao objeto concreto da ADI.\n79.\nA União invoca, ainda, a presunção de constitucionalidade e a deferência ao estudo técnico que precedeu a norma, e pede que só prova inequívoca a afaste.\n80.\nNada disso afasta o ponto central que a União tenta, por meio de retórica vazia, contornar: a resolução revogou substancialmente a lei, ao esvaziar por completo o seu conteúdo.\n81.\nA presunção protege a norma contra a dúvida de fato, não contra a incompatibilidade de direito. Aqui a incompatibilidade é normativa e se lê no confronto de dois textos, sem instrução.\n82.\nQuanto à deferência técnica alcança a conveniência da política, nunca a validade do ato: nenhum estudo de impacto, por mais amplo, autoriza uma resolução a revogar lei.\n83.\nA União argumenta que não proibiu o duplo comando, apenas deixou de exigi-lo, de modo que a adaptação continua permitida."
+    },
+    {
+      "page": 17,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "84.\nNovo sofisma.\n85.\nO CTB tornou obrigatória a imposição de estruturas de segurança suplementares nos veículos de aprendizagem. A resolução impugnada a tornou facultativa.\n86.\nÉ isso que está em discussão.\n87.\nAo tornar faculdade, o que era imposição, a resolução promoveu a supressão do conteúdo da lei que deveria ter regulamentado.\n88.\nA União sustenta, também, que exigir o duplo comando seria critério adicional vedado aos órgãos de trânsito pelo art. 108, § 6º, da Resolução.\n89.\nNovo equívoco.\n90.\nO duplo comando foi implementado pelo próprio CONTRAN, ao editar a Resolução nº 789/2020. Ao fazê-lo, regulamentou os artigos 96, III, e 97 do CTB. O vício que a ADI aponta consiste na revogação dessa resolução pela de nº 1.020/2025, a qual tornou facultativa uma estrutura de segurança determinada por resolução anterior, e que, de acordo com a lei federal, é obrigatória e não opcional.\n91.\nMas o pior está por vir.\n92.\nA União, no intuito de contornar o evidente vício de incompatibilidade vertical entre resolução e lei federal, chega a comparar o automóvel de ensino às motocicletas.\n93.\nSeu raciocínio é o de que as motos não têm duplo comando, logo, a Resolução nº 1.020/2025 poderia ter modificado o conteúdo do art. 96, III, e do art. 97, e determinar que, embora a lei imponha como obrigatórios elementos adicionais de segurança para os automóveis de aprendizagem, a resolução pode considerá-los facultativos, uma vez que as motocicletas não têm duplo comando."
+    },
+    {
+      "page": 18,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "94.\nNovamente, importa repisar o objeto da presente ADI, que não é discutir se motocicletas possuem ou não duplo comando, mas se resolução revoga ou modifica lei.\n95.\nPor fim, a União afirma que o duplo comando não está na lei.\n96.\nEsse, no entanto, repita-se mais uma vez, não é o objeto desta ADI.\n97.\nO CTB distinguiu veículo de aprendizagem do de passeio, determinando que, para tanto, houvesse uma resolução impondo estruturas de segurança adicionais para este último. A resolução aqui impugnada revogou resolução anterior que estabelecia tais estruturas adicionais de segurança e ainda afirmou que a distinção é facultativa e não obrigatória.\n98.\nNão se discute aqui tema tão específico como duplo comando, mas tão somente se resolução pode revogar ou modificar lei.\n99.\nO duplo comando não está previsto em lei, mas esse não é o ponto. O que está na lei é a distinção de categorias (art. 96, III) e o dever de diferenciá-las (art. 97); o duplo comando era a forma infralegal de concretizar essa distinção, e ao removê-lo sem substituto a Resolução esvaziou a categoria legal.\n100.\nA União, sempre no afã de evitar discutir se resolução pode ou não revogar lei, desvia a discussão para apresentar números do primeiro semestre de 2026 para demonstrar o sucesso da política, entre eles o aumento dos requerimentos de habilitação.\n101.\nA ADI não discute a política implantada, até porque é cedo para aferir o real aumento do número de acidentes de trânsito em decorrência da política de distribuir habilitações de modo desenfreado e temerário.\n102.\nDe todo modo, esta ação não discute se a política funciona, mas se uma resolução pode revogar uma lei."
+    },
+    {
+      "page": 19,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "103.\nA União não informou o STF de que Tribunais Federais negaram liminares contra a mesma reforma. Aquelas decisões foram proferidas no controle difuso, sobre outros pontos do novo regime, e nenhuma examinou o confronto entre o art. 127 e o art.\n96, III, do CTB.\n104.\nAqui a probabilidade jurídica da tese de que resolução não revoga lei independe de prognóstico, mas resulta da simples leitura e comparação entre os artigos 96, III, e 97 do CTB e o art. 127 da Resolução n° 1.020/2025.\n105.\nE o perigo de dano não é hipotético, mas real e efetivo: em Goiânia, um exame em veículo particular sem duplo comando já resultou no atropelamento de quatro pessoas (doc. 10)\n2.\n106.\nReunidos esses pontos, a oitiva prévia da União é dispensável. Sua defesa já está nos autos e nenhum de seus argumentos enfrenta o vício central da norma.\n107.\nComo a incompatibilidade se resolve no confronto de textos, sem instrução, e o dano se renova a cada exame, o art. 10, § 3º, da Lei nº 9.868/1999 autoriza a concessão da cautelar sem a audiência prévia dos órgãos responsáveis.\nIX.\nA CAUTELAR SE IMPÕE: O DANO JÁ SE CONCRETIZOU E A SUSPENSÃO É INTEGRALMENTE REVERSÍVEL\n108.\nEstão presentes os requisitos do art. 10 da Lei nº 9.868/1999.\n109.\nO fumus boni iuris resulta do próprio confronto de textos: a inconstitucionalidade se demonstra pela leitura paralela do art. 127 da Resolução e do\n\n2 https://g1.globo.com/go/goias/transito/noticia/2026/03/27/quatro-pessoas-sao-atropeladas-durante-prova-para-cnh-apos-aluna-perder-controle-de-carro-particular-sem-pedais-de-seguranca.ghtml."
+    },
+    {
+      "page": 20,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "art. 96, III, do CTB, sem necessidade de dilação probatória. A incompatibilidade é normativa e ostensiva, e a presunção de legitimidade do ato administrativo cede diante da hierarquia entre a lei e a resolução.\n110.\nO periculum in mora é atual, e o dano já ocorreu. Em 27 de março de 2026, em Goiânia, candidata em exame conduzido em veículo particular sem duplo comando perdeu o controle do carro e atropelou quatro pessoas na área de prova; o agente que acompanhava o exame estava no veículo e não teve como detê-lo (cf. doc. 10).\n111.\nOutrossim, o vício é tão claro e veemente, que, face ao princípio da celeridade processual (CF, art. 5º, LXXVIII), não há razão para postergar o exame da inconstitucionalidade resultante da revogação da lei federal por um ato infralegal.\n112.\nEnquanto vigente o art. 127, o dano se acumula a cada nova habilitação.\nCandidatos são formados e examinados sem a salvaguarda que a lei reserva ao veículo de aprendizagem, e ingressam no tráfego em que trabalha a categoria representada pela autora.\n113.\nAlém disso, protrai-se no tempo o mau exemplo de um ato administrativo regulamentar, editado por órgão subalterno à lei, sobrepor-se a um ato normativo nascido, discutido, votado e aprovado no Congresso Nacional e sancionado pelo Presidente da República.\n114.\nO vestígio autoritário de uma resolução revogando uma lei requer providência urgente do Poder Judiciário no sentido de expurgar a norma violadora do ordenamento jurídico.\n115.\nPor outro lado, a medida é integralmente reversível, e sua negativa não é.\n116.\nRequer-se, por isso, a concessão da cautelar inaudita altera parte, pelas razões do tópico anterior e dada a exposição diária que o dispositivo produz."
+    },
+    {
+      "page": 21,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "117.\nSubsidiariamente, para o caso de esta Corte entender de submeter desde logo a controvérsia a julgamento definitivo, requer-se a adoção do rito do art. 12 da Lei nº\n9.868/1999, com a requisição de informações e a prioridade de tramitação, dada a atualidade e a gravidade da matéria.\nX.\nDOS PEDIDOS\n118.\nAnte o exposto, a CNTTL requer:\na) a concessão de medida cautelar, com fundamento no art. 10 da Lei nº\n9.868/1999 e, se necessário, inaudita altera parte, para suspender a eficácia do art. 127, caput e parágrafo único, da Resolução CONTRAN nº 1.020/2025, com o efeito repristinatório do art. 11, § 2º, da mesma lei, restaurando-se provisoriamente a exigência do art. 46, § 3º, da Resolução CONTRAN nº 789/2020;\nb) a requisição de informações ao Conselho Nacional de Trânsito - CONTRAN, bem como a oitiva sucessiva do Advogado-Geral da União (art. 103, § 3º, da CF) e do Procurador-Geral da República (art. 103, § 1º, da CF);\nc) no mérito, a procedência do pedido, para que se declare a inconstitucionalidade do art. 127, caput e parágrafo único, da Resolução CONTRAN nº 1.020/2025, com eficácia erga omnes e efeito vinculante (art. 102, § 2º, da CF, e art. 28, parágrafo único, da Lei nº 9.868/1999);\nd) a modulação dos efeitos da decisão, na forma do art. 27 da Lei nº\n9.868/1999, para preservar as situações jurídicas individuais consolidadas de boa-fé sob a vigência do dispositivo impugnado, até a data do julgamento;\ne) a produção de todas as provas em direito admitidas, em especial a"
+    },
+    {
+      "page": 22,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "documental já juntada e a que vier a ser produzida, reservando-se a autora o direito de juntar documento superveniente (art. 435 do CPC).\n119.\nPor fim, requer-se que todas as publicações e intimações sejam feitas única e exclusivamente em nome dos Drs. FERNANDO CAPEZ (OAB/SP N° 513.902) e GUILHERME FARID M. B. CHEBL (OAB/SP N° 307.099), sob pena de nulidade, nos moldes do art. 272, § 5º, do CPC.\n120.\nDá-se à causa, para fins meramente fiscais e de alçada, o valor de R$ 1.000,00 (mil reais), por se tratar de demanda cujo proveito econômico imediato é inestimável.\nNesses termos, Pede deferimento.\nSão Paulo, 12 de agosto de 2026.\n\nFERNANDO CAPEZ\nOAB/SP Nº 513.902 capez@engholm.com.br\nGUILHERME FARID M. B. CHEBL\nOAB/SP Nº 307.099 guilherme@engholm.com.br\n\nFERNAND O CAPEZ\nAssinado de forma digital por\nFERNANDO CAPEZ\nDados: 2026.08.12 16:50:04 -03'00'"
+    },
+    {
+      "page": 23,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "RELAÇÃO DOS DOCUMENTOS ORA JUNTADOS\nDoc. 01 - Estatuto Social da Confederação Nacional dos Trabalhadores em Transportes e Logística - CNTTL;\nDoc. 02 - Composição da Diretoria da CNTTL;\nDoc. 03 - Procuração;\nDoc. 04 - Resolução CONTRAN nº 1.020, de 1º de dezembro de 2025;\nDoc. 05 - Resolução CONTRAN nº 789, de 18 de junho de 2020;\nDoc. 06 - Estatuto Social da Federação Nacional dos Sindicatos dos Servidores dos Departamentos de Trânsito - FETRAN;\nDoc. 07 - Nota Técnica nº 594/2026/CGREG-SENATRAN;\nDoc. 08 - Informações nº 00008/2026/CONJUR-MT/CGU/AGU;\nDoc. 09 - Informações nº 00075/2026/CONSUNIAO/CGU/AGU;\nDoc. 10 - Matéria jornalística acerca do acidente ocorrido em Goiânia."
+    }
+  ]
+}

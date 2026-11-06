@@ -1,0 +1,123 @@
+{
+  "id": "ADI_7985",
+  "arquivo_pdf": "ADI_7985.pdf",
+  "sha256": "fc1f5d75c5da26ceed33cc23655b15562d7236e8fd46e2da02550a175f6cdda1",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:31:37",
+  "resumo": {
+    "paginas": 12,
+    "paginas_digital": 12,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 17173,
+    "chars_clean": 16738,
+    "reducao_pct": 2.5,
+    "linhas_removidas": 1,
+    "limpeza_detalhe": {
+      "carimbo": 1,
+      "hifen_mantido": 2,
+      "hifenizacao_unida": 0
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "EXCELENTÍSSIMO SENHOR DOUTOR MINISTRO PRESIDENTE DO\n\nANPV\n-\nASSOCIAÇÃO NACIONAL DOS PREFEITOS E VICE-PREFEITOS DA REPÚBLICA FEDERATIVA\nDO BRASIL, entidade de classe de âmbito nacional regularmente inscrita no CNPJ n.º 07.318.016/0001-96, com sede em São Paulo, Capital, na Avenida Casper Líbero, n.º 390 - 6º andar - cj. 602 - Centro - CEP: 01033-000 - São Paulo/SP, neste ato representada pelo seu Presidente nacional Arnaldo Acbas de Lima, brasileiro, casado, portador do RG n.º 8.219.502-X, com Cadastro Nacional de Pessoas Físicas sob o n.º\n637.128.818-00, vem através de sua procuradora outorgada Dra Alessandra Martins Gonçalves Jirardi, advogada, regularmente inscrita na ordem dos Advogados do Brasil sob o n.º 320.762/SP, com fulcro no art. 102, I, alíneas \"a\" e \"p\" e artigo 103, inciso IX, ambos da Constituição Federal e artigo 2.º, inciso IX da Lei nº 9.868, de 10 de novembro de 1999, propor a presente\n\nAÇAO DIRETA DE INCONSTITUCIONALIDADE COM PEDIDO DE MEDIDA CAUTELAR\n\nem face da Lei Federal nº 15.402, de 8 de maio de 2026 (a chamada \"Lei da Dosimetria\"), que alterou a Lei de Execução Penal (Lei nº\n7.210/1984) e o Código Penal (Decreto-Lei nº 2.848/1940), pelas razões de fato e de direito a seguir expostas."
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "DA LEGITIMIDADE ATIVA E DA PERTINÊNCIA TEMÁTICA\nA legitimidade ativa da ANPV para a propositura da presente Ação Direta de Inconstitucionalidade encontra fundamento expresso no artigo 103,\ninciso IX, da Constituição Federal, por se tratar de entidade de classe de âmbito nacional representativa dos Prefeitos e Vice-Prefeitos da República Federativa do Brasil.\nO Supremo Tribunal Federal firmou jurisprudência sólida no sentido de reconhecer a legitimidade ativa de entidades de classe representativas de agentes políticos e de membros de Poder, a exemplo do que ocorre com a Associação dos Magistrados Brasileiros (AMB) e com a Associação Nacional dos Membros do Ministério Público (CONAMP).\n\nOs Prefeitos e Vice-Prefeitos constituem uma categoria homogênea de agentes políticos, chefes do Poder Executivo local, que exercem mandato eletivo e desempenham função fundamental na estrutura federativa brasileira.\nA ANPV congrega esses agentes em âmbito nacional, cumprindo o requisito espacial exigido pela jurisprudência desta Suprema Corte (comprovação de associados em pelo menos nove Estados da Federação, nos termos da ADI 108-QO).\nDiferentemente das associações de Municípios (pessoas jurídicas de direito público), que a jurisprudência desta Corte entende não possuírem legitimidade para o controle concentrado, a ANPV é uma associação civil, classista, constituída por pessoas físicas no exercício do mandato de Prefeito e Vice-Prefeito, amoldando-se perfeitamente ao conceito de entidade de classe.\n\nA pertinência temática, exigência consolidada na jurisprudência do Supremo Tribunal Federal para as entidades de classe, revela-se inequívoca no presente caso."
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "O objeto desta ADI é a Lei Federal nº 15.402/2026, que cria benefícios penais e de execução penal exclusivamente para os condenados pelos crimes previstos no Título XII da Parte Especial do Código Penal (Crimes contra o Estado Democrático de Direito).\n\nA defesa do Estado Democrático de Direito e das instituições democráticas é matéria de interesse direto e indissociável da categoria dos Prefeitos e Vice-Prefeitos.\nComo agentes políticos eleitos pelo voto popular direto, a própria existência de seus mandatos e a estabilidade da gestão municipal dependem intrinsecamente da higidez da ordem democrática.\n\nO Título XII do Código Penal tipifica, inclusive, crimes que afetam diretamente a esfera municipal, como a interrupção do processo eleitoral (art.\n359-N) e a violência política (art. 359-P).\n\nAqui, a homogeneidade é plena: não há divisão possível entre os Prefeitos e Vice-Prefeitos quanto à necessidade de proteção do Estado Democrático de Direito, pressuposto existencial de todos os mandatos eletivos do país.\n\nA defesa das instituições democráticas consubstancia o interesse primordial da classe política, encontrando ressonância expressa no artigo 5º, incisos II, V e XV, do Estatuto da ANPV, que estabelece como finalidade da associação zelar pelos interesses dos gestores públicos no exercício da Administração e proteger as instituições contra atos de irresponsabilidade ou improbidade."
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "DO ATO NORMATIVO IMPUGNADO E DO CONTEXTO DE SUA APROVAÇÃO\n\nA presente ação volta-se contra a integralidade da Lei nº 15.402, de 8 de maio de 2026, que introduziu alterações profundas no sistema penal e de execução penal brasileiro com um propósito claro, confesso e casuístico: beneficiar os condenados pelos ataques antidemocráticos.\n\nA lei impugnada alterou o artigo 112 da Lei de Execução Penal para estabelecer que os condenados por crimes contra o Estado Democrático de Direito (Título XII do Código Penal), mesmo mediante violência ou grave ameaça, farão jus à progressão de regime com o cumprimento de apenas 1/6 (um sexto) da pena. Para garantir esse benefício, o legislador inseriu uma cláusula de exceção (\"salvo em relação aos crimes previstos no Título XII\") nos incisos I e II do referido artigo, que exigem o cumprimento de 25% e 30% da pena para crimes violentos em geral.\n\nAlém disso, a lei acrescentou os artigos 359-M-A e 359-M-B ao Código Penal. O primeiro impõe a aplicação obrigatória do concurso formal próprio para os crimes contra as instituições democráticas praticados \"no mesmo contexto\", ainda que com desígnios autônomos, vedando o concurso material.\n\nO segundo estabelece uma causa de diminuição de pena drástica (de um a dois terços) quando esses crimes forem praticados em \"contexto de multidão\".\nO processo legislativo que culminou na aprovação da Lei nº\n15.402/2026 (originada do PL nº 2.162/2023) foi marcado por vícios procedimentais gravíssimos. Na Câmara dos Deputados, o projeto possuía um escopo geral sobre progressão de regime."
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "No entanto, ao chegar ao Senado Federal, foi apresentada a Emenda nº 6/CCJ, rotulada indevidamente como \"emenda de redação\".\n\nA justificativa dessa emenda confessou abertamente o casuísmo da medida, afirmando textualmente que a redação da Câmara ia \"além do que se necessitava para se conceder uma progressão de regime mais justa aos condenados pelos atos do dia 8 de janeiro de 2023\" e que o texto deveria ser \"direcionado tão somente aos condenados pelos Crimes Contra o Estado Democrático de Direito\".\n\nMesmo alterando substancialmente o mérito do projeto, o Senado não o devolveu à Câmara dos Deputados, encaminhando-o diretamente à sanção. O Presidente da República opôs veto total ao projeto.\n\nContudo, em uma manobra regimental inédita e inconstitucional, a Presidência do Congresso Nacional declarou \"prejudicada\" a votação de partes do veto (incisos IV a X do art. 112), submetendo o veto total a uma apreciação fracionada, que culminou em sua rejeição parcial e na promulgação da lei ora impugnada.\nDA INCONSTITUCIONALIDADE FORMAL\n\nDA\nBURLA\nAO\nBICAMERALISMO DELIBERATIVO (VIOLAÇÃO AO ART. 65, PARÁGRAFO ÚNICO, DA CF)\n\nA Constituição Federal estabelece, em seu artigo 65, parágrafo único, que \"sendo o projeto emendado, voltará à Casa iniciadora\".\n\nEssa regra é o pilar do sistema bicameral paritário adotado pelo Brasil para a edição de leis federais, garantindo que o texto final seja o resultado do consenso entre as duas Casas do Congresso Nacional."
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "No caso da Lei nº 15.402/2026, o Senado Federal aprovou a Emenda nº 6/CCJ, que modificou substancialmente o mérito do projeto aprovado pela Câmara dos Deputados.\n\nA versão da Câmara restringia os percentuais mais gravosos de progressão de regime aos crimes contra a pessoa e o patrimônio (Títulos I e II do CP).\n\nA emenda do Senado alterou essa lógica, criando um regime de exceção benéfico exclusivo para os crimes contra o Estado Democrático de Direito (Título XII do CP).\n\nPara contornar a exigência constitucional de retorno do projeto à Câmara, o Senado rotulou essa alteração de mérito como \"emenda de redação\". Trata-se de evidente fraude à Constituição.\n\nA jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que a introdução, pela Casa revisora, de emenda que implica alteração de conteúdo normativo obriga o retorno da proposição à Casa iniciadora.\n\nNo julgamento da ADI 6.085, esta Suprema Corte declarou a inconstitucionalidade formal de dispositivo legal aprovado por meio de emenda modificativa na Casa revisora sem o devido retorno à Casa iniciadora.\n\nDa mesma forma, na ADI 2.238 MC, o STF já havia rechaçado o \"uso estratégico da emenda de redação\" como subterfúgio para usurpar a competência da Casa iniciadora.\nAo suprimir a deliberação da Câmara dos Deputados sobre o mérito das alterações, o Senado Federal violou frontalmente o devido processo legislativo."
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "DA\nINCONSTITUCIONALIDADE\nDA\nAPRECIAÇÃO\nFRACIONADA DE VETO TOTAL (VIOLAÇÃO AO ART. 66, § 4º, DA CF)\n\nA Lei nº 15.402/2026 padece de um segundo vício formal insanável: a apreciação fracionada de um veto total pelo Congresso Nacional.\n\nO Presidente da República vetou integralmente o PL nº\n2.162/2023.\nNos termos do artigo 66, § 4º, da Constituição Federal, o Congresso Nacional tem a prerrogativa de manter ou rejeitar o veto, exigindo-se o voto da maioria absoluta de seus membros para a rejeição.\n\nA Constituição não autoriza o fracionamento de um veto total. No entanto, a Presidência do Congresso, invocando indevidamente uma norma do Regimento Interno do Senado (art. 334, II), declarou \"prejudicada\" a votação de partes do projeto vetado (incisos IV a X do art. 112), submetendo à deliberação parlamentar apenas os dispositivos que interessavam à maioria ocasional.\n\nEsse fatiamento de um veto total cria uma terceira via decisória não prevista no texto constitucional, usurpando a competência do Chefe do Poder Executivo e desfigurando o sistema de freios e contrapesos.\n\nO Congresso atuou como legislador positivo em momento procedimental inadequado, promulgando um texto que não corresponde nem à versão originalmente aprovada pelo Legislativo, nem à vontade do Executivo expressa no veto."
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "DA INCONSTITUCIONALIDADE MATERIAL\n\nDA VIOLAÇÃO À INDIVIDUALIZAÇÃO DA PENA, À SEPARAÇÃO DOS PODERES E À FUNÇÃO JURISDICIONAL\n\nOs artigos 359-M-A e 359-M-B do Código Penal, introduzidos pela lei impugnada, são materialmente inconstitucionais por violarem o princípio da individualização da pena (art. 5º, XLVI, da CF) e o princípio da separação dos Poderes (art. 2º da CF).\n\nO artigo 359-M-A impõe a aplicação do concurso formal próprio aos crimes contra o Estado Democrático de Direito praticados no mesmo contexto, \"ainda que existente desígnio autônomo\".\n\nO artigo 359-M-B estabelece uma redução obrigatória de pena de um terço a dois terços para crimes cometidos em \"contexto de multidão\".\n\nEsses dispositivos criam automatismos legislativos que esvaziam completamente a função jurisdicional na dosimetria da pena. O legislador substituiu a análise concreta das circunstâncias do fato e da culpabilidade do agente por um comando rígido e inflexível.\n\nO juiz fica impedido de aplicar o concurso material ou formal impróprio, mesmo que constate, com base nas provas, que o agente agiu com desígnios autônomos para cometer múltiplos crimes gravíssimos.\n\nDa mesma forma, é obrigado a reduzir a pena de indivíduos que atuaram em multidão, ignorando o fato de que a psicologia das massas frequentemente potencializa a danosidade da conduta."
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "O Supremo Tribunal Federal, no histórico julgamento do HC\n82.959/SP e na edição da Súmula Vinculante nº 26, assentou que a imposição de regras automáticas na execução penal (como o regime integralmente fechado) viola a garantia da individualização da pena.\n\nNo Tema 972 da Repercussão Geral, a Corte reafirmou a inconstitucionalidade da fixação ex lege de regime inicial, preservando o espaço de valoração judicial.\n\nOs dispositivos ora impugnados incorrem no mesmo vício, suprimindo a dimensão judicial da individualização da pena.\n\nA aplicação dessas regras gera aberrações jurídicas: um indivíduo que cometa os crimes de abolição violenta do Estado Democrático de Direito e golpe de Estado, com desígnios autônomos, terá sua pena reduzida em mais de 80% em comparação com a sistemática normal, resultando em punição inferior à de um furto qualificado.\nDO DESVIO DE FINALIDADE LEGISLATIVA E DA VIOLAÇÃO À IMPESSOALIDADE\n\nA Lei nº 15.402/2026 é um ato normativo de efeitos concretos disfarçado de lei geral. Trata-se de legislação editada com destinatários certos e determinados: os indivíduos condenados pelo Supremo Tribunal Federal em razão dos ataques antidemocráticos.\n\nA violação ao princípio da impessoalidade (art. 37, caput, da CF) e o desvio de finalidade legislativa estão materializados na própria justificativa da Emenda nº 6/CCJ do Senado, que confessou o objetivo de conceder benefícios \"aos condenados pelos atos do dia 8 de janeiro de 2023\"."
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "A edição de leis penais casuísticas para beneficiar um grupo específico de condenados ofende a estrutura da norma jurídica, que deve ser dotada de generalidade e abstração. Como bem pontuado pelo Ministro Celso de Mello no julgamento da\nADI\n2.667, o desvio de poder legislativo configura inconstitucionalidade material, pois a lei não pode ser utilizada como instrumento de favorecimento pessoal ou de facção.\n\nDA PROTEÇÃO DEFICIENTE E DO RETROCESSO NA PROTEÇÃO DA DEMOCRACIA\n\nA Constituição Federal de 1988 elegeu o Estado Democrático de Direito como seu princípio estruturante fundamental (art. 1º, caput).\n\nA proteção das instituições democráticas é uma exigência constitucional inafastável, refletida na classificação da ação de grupos armados contra a ordem constitucional como crime inafiançável e imprescritível (art. 5º, XLIV, da CF).\nA Lei nº 15.402/2026 promove uma proteção deficiente (Untermaßverbot) do Estado Democrático de Direito, ao conferir aos crimes mais graves do ordenamento jurídico o regime de execução penal mais brando possível e criar causas de diminuição de pena injustificáveis.\n\nEssa mitigação desproporcional da resposta penal banaliza os ataques à democracia e funciona como uma anistia parcial disfarçada.\n\nNo julgamento da ADPF 964, que analisou a concessão de graça a indivíduo condenado por ataques ao Estado Democrático de Direito, o Supremo Tribunal Federal firmou o entendimento de que é incompatível com a Constituição a concessão de indulgências estatais que esvaziem a proteção penal da democracia."
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "A lei impugnada cria um verdadeiro círculo de imunidade penal, violando o dever de proteção estatal e configurando um retrocesso inaceitável nas conquistas democráticas do país.\n\nDA MEDIDA CAUTELAR\n\nA concessão de medida cautelar, nos termos do artigo 10 da Lei nº 9.868/1999, impõe-se de forma urgente.\n\nO fumus boni iuris está fartamente demonstrado pelos vícios formais insanáveis no processo legislativo (burla ao bicameralismo e fracionamento de veto total) e pelas flagrantes inconstitucionalidades materiais (violação à individualização da pena, impessoalidade e proteção deficiente da democracia).\n\nO periculum in mora é iminente e gravíssimo. Tratando-se de lei penal e de execução penal mais benéfica (lex mitior), a Lei nº 15.402/2026 tem aplicação retroativa e imediata, nos termos do artigo 2º, parágrafo único, do Código Penal e do artigo 5º, XL, da Constituição Federal.\n\nA manutenção da vigência da lei, ainda que por curto período, ensejará a revisão imediata das penas e a concessão de progressão de regime para dezenas de condenados por crimes contra o Estado Democrático de Direito.\n\nA consumação desses benefícios criará situações jurídicas de difícil ou impossível reversão, gerando insegurança jurídica, descrédito das instituições e perigo de reiteração de condutas antidemocráticas."
+    },
+    {
+      "page": 12,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "DOS PEDIDOS\n\nDiante de todo o exposto, a ASSOCIAÇÃO NACIONAL DOS\nPREFEITOS E VICE-PREFEITOS DA REPÚBLICA FEDERATIVA DO\nBRASIL - ANPV requer a Vossa Excelência:\n\na) O recebimento e o conhecimento da presente Ação Direta de Inconstitucionalidade, reconhecendo-se a legitimidade ativa da ANPV e a pertinência temática;\nb) A concessão de MEDIDA CAUTELAR, inaudita altera parte, para suspender integralmente a eficácia da Lei Federal nº 15.402/2026, até o julgamento final do mérito desta ação;\n\nc) A requisição de informações ao Congresso Nacional e à Presidência da República, nos termos do art. 6º da Lei nº 9.868/1999;\n\nd) A oitiva do Advogado-Geral da União e do Procurador-Geral da República, nos termos do art. 8º da Lei nº 9.868/1999;\n\ne) No mérito, a procedência integral do pedido, para declarar a INCONSTITUCIONALIDADE FORMAL E MATERIAL da Lei Federal nº 15.402, de 8 de maio de 2026, expurgando-a definitivamente do ordenamento jurídico brasileiro.\n\nNestes termos, pede deferimento.\nSão Paulo, 07 de Julho de 2026.\n\nALESSANDRA MARTINS GONÇALVES JIRARDI\nOAB/SP n.º 320.762"
+    }
+  ]
+}

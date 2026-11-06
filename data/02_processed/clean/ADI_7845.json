@@ -1,0 +1,755 @@
+{
+  "id": "ADI_7845",
+  "arquivo_pdf": "ADI_7845.pdf",
+  "sha256": "6320dd3e912d85f39ee384ade70c9e9fb7f71dd1c1f47e5ccb09d411c4ff9d5e",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:31:26",
+  "resumo": {
+    "paginas": 91,
+    "paginas_digital": 91,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 140418,
+    "chars_clean": 134392,
+    "reducao_pct": 4.3,
+    "linhas_removidas": 115,
+    "limpeza_detalhe": {
+      "cabecalho_rodape": 115,
+      "hifen_mantido": 145,
+      "hifenizacao_unida": 638
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Página | 1\nEXCELENTÍSSIMO SENHOR MINISTRO LUIS ROBERTO BARROSO PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL\n\nASSOCIAÇÃO BRASILEIRA DOS ESTUDANTES DE EDUCAÇÃO A DISTÂNCIA (ABE-EAD), pessoa jurídica de direito privado, associação civil sem fins lucrativos, devidamente inscrita no CNPJ/MF sob o n. 09.587.682/0001-55, com sede na Avenida General Ataliba Leonel, 3192, Altos, Parada Inglesa, São Paulo/SP, CEP 02242-001, endereço, neste ato representada na forma de seus atos constitutivos por seu Presidente RICARDO HOLZ VIDAL DOS SANTOS, brasileiro, solteiro, estudante, portador da cédula de identidade RG n. 30.266.150-5 e ins-crito no CPF/MF sob n. 274.863.288-52, por meio de seus advogados devidamente constituídos, todos com endereço comercial na Avenida Brigadeiro Faria Lima, 3729, 5º andar, sala 507, Edifício Antônio Alves Ferreira Guedes, Bairro Itaim Bibi, São Paulo/SP; e na Avenida Gumercindo Barranqueiros, 1.173, Bairro Jardim Santa Tereza, Jundiaí/SP, telefone (11) 4230-2004, eletrônico publica-coes@rlsa.adv.br, vem à Vossa Excelência, com fundamento no artigo 102, inciso I, alínea a, da Constituição Federal, bem como na Lei Federal n. 9868/99, propor a presente\n\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE COM PEDIDO DE MEDIDA CAUTELAR\n\ncontra os artigos 8º e 9º (caput e incisos) do Decreto n. 12.456/2025, do PRESIDENTE DA REPÚBLICA, o qual dispõe sobre a oferta de educação a distância por instituições de educação superior em cursos de graduação e altera o Decreto nº 9.235, de 15 de dezembro de 2017, que dispõe sobre o exercício das funções de regulação, supervisão e avaliação das instituições de educação superior e dos cursos superiores de graduação e de pós-graduação no sistema federal de ensino, em razão da violação de princípios e normas constitucionais que passa expor"
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "1. RESUMO DA PRETENSÃO NA ADI\n\nA presente Ação Direta de Inconstitucionalidade tem por objeto os artigos 8º e 9º do Decreto n. 12.456/2025, emanado da Presidência da República, que, a pretexto de regulamentar a oferta de cursos superiores na modalidade a distância, instituiu, sem amparo legal, um regime geral e abstrato de proibição à EaD em diversas áreas do conhecimento - como todas as Licenciaturas -, além de delegar ao Ministro da Educação poderes normativos discricionários para ampliar indefinidamente tais vedações. Trata-se de inovação normativa com conteúdo material primário, que extrapola os limites do poder regulamentar e subverte a ordem constitucional ao usurpar competência reservada ao Congresso Nacional.\n\nA inconstitucionalidade da norma impugnada revela-se sob múltiplos as-pectos: (i) formal, por violar o princípio da reserva legal, ao criar obrigações e restrições normativas sem respaldo legislativo; (ii) material, por afrontar o direito fundamental à educação (art. 205 da CF), a autonomia universitária (art.\n207), o pluralismo de concepções pedagógicas (art. 206, III) e a própria Lei de Diretrizes e Bases da Educação Nacional (art. 80 da LDB), que impõe ao Poder Público o dever de incentivar, e não de restringir, o desenvolvimento da EaD.\n\nMais grave ainda é o fato de que o Decreto atribui a um agente político do Poder Executivo - o Ministro da Educação - competência normativa aberta e ilimitada para ampliar, por ato infralegal, o rol de cursos proibidos, em flagrante ruptura com os princípios da legalidade, da separação de Poderes e da segurança jurídica. Tal modelo de \"regulação por veto\", instaurado à margem do devido processo legislativo, compromete a previsibilidade normativa e desor-ganiza todo o sistema federal de ensino superior."
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "A pretensão ora deduzida consiste, pois, na declaração de inconstitucionalidade dos dispositivos mencionados, com a concessão imediata da medida cautelar, dada a evidência dos vícios formais e materiais e o risco concreto de dano irreparável aos milhares de estudantes que dependem da modalidade EaD para acessar a educação superior. A continuidade da vigência do Decreto impugnado implicará, de forma imediata, o fechamento de cursos, a interrupção de matrículas, a frustração de projetos pedagógicos legitimamente aprovados, a exclusão educacional em massa e o retrocesso injustificável no processo de democratização do ensino superior brasileiro.\n\nA urgência que justifica a concessão da medida cautelar repousa não ape-nas sobre o tradicional requisito do periculum in mora, mas se ancora, sobretudo, na natureza inovatória, ilegítima e expansiva da norma impugnada, cujos efeitos jurídicos produzem, desde já, restrições concretas, diretas e irreversíveis ao exercício do direito fundamental à educação. Os artigos 8º e 9º do Decreto n.\n12.456/2025 não aguardam regulamentação futura nem dependem de ato complementar: são comandos autoaplicáveis que, desde sua entrada em vigor, im-puseram o dever de interrupção de ofertas educacionais (escalonada), inviabi-lizaram o funcionamento de cursos regularmente credenciados, compromete-ram matrículas em andamento e instauraram um estado de insegurança normativa que paralisa a atuação de instituições de ensino e ameaça a permanência de milhares de estudantes na educação superior.\n\nMais do que isso: trata-se de um decreto que assume feição de poder legiferante autônomo, ao estabelecer, com abstração e generalidade, uma política pública de exclusão normativa da EaD, sem respaldo em qualquer mandamento legal e em contrariedade frontal à própria Lei de Diretrizes e Bases da Educação Nacional. Legisla-se sem lei; proíbe-se sem poder; retrocede-se sem causa legítima. E, ao assim proceder, o Chefe do Executivo rompe a moldura do Estado de"
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Direito e institui um perigoso precedente de exceção normativa: o de que direitos fundamentais podem ser restringidos por decreto, sem debate parlamentar, sem mediação democrática, sem controle de legalidade prévio. Tal cenário exige resposta firme e célere desta Suprema Corte, pois a demora em suspender a eficácia dos dispositivos impugnados significará, na prática, a convalidação de um retrocesso educacional que fere a Constituição pela raiz - ao negar, por via oblíqua, o acesso igualitário à educação, a liberdade pedagógica das instituições e o pluralismo metodológico que constitui pedra angular do sistema educacional brasileiro.\n\n2. DO ATO NORMATIVO QUE MOTIVA A PROPOSITURA DA ADI DECRETO 12.456/2025\n\nA presente ação direta tem por escopo submeter à alta apreciação deste Supremo Tribunal Federal o exame da constitucionalidade dos artigos 8º e 9º do Decreto n. 12.456, de 19 de maio de 2025, emanado da Chefia do Poder Executivo Federal com fundamento nos incisos IV e VI, alínea \"a\", do art. 84 da Constituição da República, e que promove alterações relevantes no Decreto n.\n9.235, de 15 de dezembro de 2017, norma que disciplina, no âmbito do sistema federal de ensino, a regulação, a supervisão e a avaliação das instituições de educação superior e dos cursos de graduação.\n\nArt. 8º A oferta de cursos de graduação em Direito, Me-dicina, Enfermagem, Odontologia e Psicologia será realizada exclusivamente no formato presencial.\n\nArt. 9º É vedada a oferta de cursos de graduação a distância:"
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "I - da área de saúde, observado o disposto no art. 8º;\nII - de licenciaturas; e\nIII - que venham a ser definidos em ato do Ministro de Estado da Educação.\n\nOs dispositivos impugnados encerram uma inovação normativa de feição autônoma, ao instituírem, sob a roupagem formal de decreto regulamentar, vedações gerais e abstratas à oferta da educação a distância, modalidade expressamente admitida pela Lei de Diretrizes e Bases da Educação Nacional (Lei n. 9.394/1996).\n\nCom efeito, o artigo 8º do decreto impugnado estabelece, de forma pe-remptória, que diversos cursos de graduação possíveis de serem ministrados na forma EaD \"serão ofertados exclusivamente na modalidade presencial\", eri-gindo, por comando direto do Poder Executivo, verdadeira proibição normativa à modalidade EaD em áreas inteiras do saber, sem que se encontre, no ordenamento jurídico vigente, autorização legislativa que confira fundamento jurídico válido a tal restrição.\n\nPor sua vez, o artigo 9º aprofundando a feição normativa autônoma do ato presidencial, determina que não será admitida a oferta de cursos de graduação a distância na da área da saúde, de licenciaturas e de outros cursos que venham a ser definidos por ato do Ministro de Estado da Educação.\n\nNesse cenário, verifica-se que a ofensa à ordem constitucional atinge seu ápice no inciso III do artigo 9º, que autoriza o Ministro de Estado da Educação a, por mero ato administrativo infralegal, estabelecer futuras proibições à oferta de cursos a distância, independentemente de qualquer"
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "lei que o autorize a tanto. Trata-se de delegação normativa indevida, que subverte a separação de poderes, viola a hierarquia das fontes do Direito e rompe com o regime de legalidade estrita em matéria de direitos fundamentais.\n\nArt. 9º É vedada a oferta de cursos de graduação a distância:\n[...]\nIII - que venham a ser definidos em ato do Ministro de Estado da Educação. (Destacamos).\n\nCom tal previsão, o Decreto n. 12.456/2025 confere a um agente político do Poder Executivo competência para criar normas de conteúdo material primário, com efeitos gerais e abstratos, sem qualquer filtro legislativo ou limite legal, o que representa flagrante usurpação da competência do Congresso Nacional para legislar sobre diretrizes e bases da educação nacional.\n\nEssa técnica normativa espúria - que transforma um decreto em veículo de delegação aberta a um ministério, para que este edite normas proibitivas à margem da lei - cria uma zona de instabilidade e imprevisibilidade jurídica, incompatível com os postulados da segurança jurídica, da proteção da confiança e da coerência normativa no espaço constitucional da educação superior.\n\nDa análise realizada, constata-se que a estrutura e a densidade dos comandos normativos contidos nesses dispositivos evidenciam que não se está diante de uma simples regulamentação técnica ou executiva de preceitos legais, mas sim da criação ex nihilo de um regime jurídico restritivo, com impacto estrutural sobre o acesso ao ensino superior e sobre a conformação das políticas públicas de educação superior - matérias que, nos termos do princípio da reserva legal, demandam disciplina por meio de lei em sentido formal."
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Nesse sentido, o que se constata é uma exorbitância manifesta do poder regulamentar, pois o decreto, ao invés de se limitar a detalhar os requisitos técnicos ou operacionais da oferta educacional na modalidade a distância, institui proibições de natureza substantiva, autônoma e inovadora, em clara afronta à Constituição Federal e à legalidade estrita.\n\nPor essas razões, o Decreto n. 12.456/2025 assume natureza jurídica materialmente primária, e não meramente regulamentar, porquanto não derivam logicamente de nenhum mandamento legal anterior, mas preten-dem, por si, ordenar e restringir direitos - o que os torna passíveis de controle concentrado de constitucionalidade por esta Suprema Corte.\n\nDiante desse cenário de aparente transgressão à ordem constitucional, impõe-se o ajuizamento da presente ação direta, não para substituir o juízo político-administrativo próprio do Executivo, mas para restaurar os contornos da legalidade constitucional e assegurar a prevalência dos direitos fundamentais à educação e à segurança jurídica, pilares estruturantes do Estado Democrático de Direito.\n\n3. DA INEXISTÊNCIA DE PREVISÃO EM LEI OU DELEGAÇÃO PARA O PODER REGULAMENTAR PROIBIR O ENSINO EAD\n\nA Constituição da República consagra, como princípios estruturantes da ordem educacional, a liberdade de aprender, ensinar, pesquisar e divulgar o pensamento, a arte e o saber (art. 206, II), bem como o pluralismo de ideias e de concepções pedagógicas (art. 206, III). No mesmo sentido, a Lei n.\n9.394/1996 (Lei de Diretrizes e Bases da Educação Nacional) estabelece, em seu artigo 80, que o Poder Público INCENTIVARÁ o desenvolvimento e a veiculação de"
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "programas de ensino a distância, como modalidade legítima e complementar ao ensino presencial, a ser oferecida por instituições credenciadas, com avaliação e supervisão estatal quanto à qualidade.\n\nArt. 80. O Poder Público incentivará o desenvolvimento e a veiculação de programas de ensino a distância, em todos os níveis e modalidades de ensino, e de educação continuada. Destacamos.\n\nEsse ponto - a previsão de que o Poder Público INCENTIVARÁ o desenvolvimento da educação a distância - não pode ser interpretado de modo superficial ou desprovido de rigor hermenêutico. Ao contrário, a escolha termi-nológica do legislador ordinário no caput do artigo 80 da LDB revela um imperativo jurídico de ação positiva e proativa do Estado em relação à modalidade de ensino a distância. Para compreendê-lo com a devida densidade, convém uma análise etimológica e semântica da própria palavra \"incentivará\".\n\nA palavra incentivar deriva do latim incentivus, termo formado pela pre-posição in- (em direção a, para dentro de) e cantus, que significa canto, melodia.\nA forma primitiva incentivus estava relacionada à ideia de estímulo sonoro, ao gesto de despertar ânimo por meio de um canto inicial - como faziam, por exemplo, os guerreiros ou oradores ao serem incitados à ação. A raiz do verbo incentivare, por sua vez, evoluiu para o sentido de \"estimular, motivar, fomentar\" no latim vulgar e nas línguas românicas.\n\nNo português brasileiro contemporâneo, \"incentivar\" possui o sentido claro e inequívoco de fomentar, promover ativamente, impulsionar mediante políticas públicas, estímulos e medidas concretas de apoio. Quando a LDB emprega o futuro do presente do modo indicativo - \"incentivará\" -"
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "não se trata de um conselho programático ou de uma promessa retórica.\nTrata-se, com rigor jurídico, de um mandado de atuação estatal.\n\nEntende-se, que o verbo conjugado dessa forma exprime uma deter-minação normativa dirigida ao Poder Público, com força jurídica vincula-tiva, ainda que compatível com um grau razoável de discricionariedade quanto aos meios de concretização.\n\nNa perspectiva hermenêutica do Direito Constitucional e da teoria dos princípios, o uso do verbo \"incentivar\" não autoriza o retrocesso, a omissão nem tampouco o oposto de seu comando - a vedação ou a repressão.\n\nAo estabelecer que o Estado \"incentivará\" o desenvolvimento da EaD, a LDB cria um dever jurídico positivo de atuação estatal em favor da modalidade, a ser exercido nos limites da legalidade e sob a tutela de critérios de qualidade, mas nunca como fundamento para proibições abstratas, inibi-ções discriminatórias ou restrições sem base legal.\n\nNesse sentido, o verbo \"incentivar\", tal como empregado no texto legal, não admite interpretação regressiva nem admite leitura que o converta, em sua prática estatal, em \"desestimular\", \"restringir\", \"impedir\" ou \"proibir\". Tal operação hermenêutica seria não apenas linguística e logicamente in-sustentável, mas também contrária ao postulado da interpretação conforme a Constituição, à luz dos princípios da promoção da educação, da legalidade, da proporcionalidade e da vedação de retrocesso social.\n\nPortanto, a opção lexicográfica do legislador revela a clara intenção de positivar um dever promocional estatal. A exegese do termo \"incentivará\" deve se articular, assim, com o mandamento constitucional de promoção da educação (art. 205), com o princípio da autonomia universitária (art. 207) e com"
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "a lógica da máxima efetividade dos direitos fundamentais, impedindo que, sob o pretexto de regulamentação, se inverta a finalidade normativa da LDB por meio de decretos proibitivos, desprovidos de qualquer fundamento legal. O dever de incentivo não comporta antônimos normativos travestidos de poder regulamentar.\n\nA partir do cenário analisado, compreende-se que a LDB, assim, não ape-nas reconhece a validade do ensino a distância, como impõe ao Estado o dever de fomentá-lo, nos termos da legislação e dos parâmetros de qualidade fixados em diretrizes curriculares e pareceres técnicos. Ademais, para o caso concreto importa destacar que:\n\nEm nenhum trecho da LDB, todavia, autoriza o Presidente da República a vedar ou restringir, por decreto, a oferta de cursos em EaD - seja em caráter absoluto, seja de forma setorial - tampouco a delegar tal competência a Ministro de Estado.\n\nA ausência de base legal expressa transforma a iniciativa proibitiva do Decreto n. 12.456/2025 em uma norma de natureza primária, a qual configura a usurpação da função legislativa, violando o princípio da legalidade (CRFB, art.\n5º, II) e o regime de competências estabelecido pela Constituição.\n\nA atitude de proibir - ou de delegar a proibição - por ato infralegal, portanto, contraria não apenas a legalidade estrita, mas a própria arquite-tura normativa da educação nacional, que aposta na diversidade metodo-lógica e na ampliação do acesso ao ensino superior como diretrizes centrais da política pública."
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Mais grave ainda é o conteúdo do inciso III do art. 9º do Decreto n.\n12.456/2025, ao atribuir a um ato futuro do Ministro de Estado da Educação o poder de vedar a oferta de cursos em EaD, sem qualquer previsão legal que legitime tal transferência de competência normativa. Estabelece-se, com isso, um mecanismo inconstitucional de subdelegação normativa, por meio do qual um ato infralegal outorga a um agente político não investido da função legiferante o poder de inovar no ordenamento jurídico, criando proibições autônomas sem amparo em lei.\n\nTrata-se, pois, de flagrante transgressão ao princípio da reserva legal em matéria de restrições a direitos fundamentais, como o de organizar livremente o projeto pedagógico e a oferta de cursos, nos termos do art. 207 da Constituição, que assegura às universidades e instituições educacionais autonomia didático-científica.\n\nDiante de todo o exposto, conclui-se que não há, na legislação vigente, qualquer autorização legal - expressa ou implícita - que confira ao Presidente da República ou a Ministro de Estado competência para proibir ou restringir, de forma genérica, a oferta de cursos de graduação a distância.\nAo fazê-lo, o Decreto n. 12.456/2025 ultrapassa os limites do poder regulamentar e usurpa a função legislativa, subvertendo a lógica do sistema constitucional e impondo restrições ilegítimas ao direito à educação.\n\n4. DA POSSIBILIDADE DO CONTROLE DE CONSTITUCIONALIDADE SOBRE O ATO NORMATIVO FEDERAL (DECRETO)\n\nA Constituição da República, ao distribuir competências entre os Poderes da União, atribui ao Presidente da República, nos termos do art. 84, incisos IV e"
+    },
+    {
+      "page": 12,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "VI, a função de expedir decretos para a fiel execução da lei, bem como, em hipóteses específicas, editar decretos autônomos. Tal competência regulamentar, no entanto, não é absoluta nem ilimitada. Está sujeita aos rigores da hierarquia normativa, aos princípios estruturantes da Constituição - como a legalidade, separação dos Poderes e reserva de lei - e à jurisprudência consolidada desta Suprema Corte.\n\nAs funções atribuídas constitucionalmente ao Presidente da República podem assumir, conforme o contexto, natureza política, administrativa, representativa, regulamentar e, em certas hipóteses delimitadas, até legislativa, especialmente quando se trata da iniciativa de proposição normativa ou da edição de medidas provisórias. Cada uma dessas atribuições é exercida dentro de um espectro variável de liberdade decisória, delimitado pela posição hierárquica do ato normativo no ordenamento jurídico e pela sua interface com as competências atribuídas aos demais Poderes da República.\n\nNo âmbito da função regulamentar - notadamente aquela prevista no\nart. 84, IV, da Constituição da República - a liberdade de conformação do Chefe do Poder Executivo não é ampla nem autônoma, pois se insere em um regime de estrita legalidade e subordinação normativa. Trata-se, aqui, de atividade normativa secundária, cuja finalidade é dar fiel execução à lei, sem poder inovar, restringir ou ampliar o conteúdo legislativo previamente fixado.\n\nSendo assim, no que tange à função regulamentar exercida pelo Presidente da República, prevista no artigo 84, incisos IV e VI, da Constituição da República, reconhece-se tratar-se de competência expressamente contemplada pela ordem constitucional, como parte do arranjo funcional entre os Poderes da União delineado pelo artigo 2º da Carta Magna. O exercício desse poder regulamentar, todavia, não é expressão de uma prerrogativa absoluta ou autônoma,"
+    },
+    {
+      "page": 13,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "mas sim uma decorrência da própria lógica da Separação de Poderes, que impõe limites substanciais à atuação normativa do Executivo.\n\nConforme assentado pela doutrina constitucional e pela jurisprudência desta Suprema Corte, o Presidente da República, ao regulamentar a lei, não atua como legislador, mas como executor de comandos legais preexistentes. Portanto, salvo nas hipóteses excepcionais de edição de medidas provisórias - quando preenchidos os requisitos de urgência e relevância - não lhe é dado estabelecer normas gerais criadoras de direitos, deveres ou vedações de forma originária. Tais prerrogativas pertencem, com exclusividade, ao Poder Legislativo, titular da função legiferante em sentido estrito.\n\nNesse diapasão, não pode o regulamento alterar disposições legais, tampouco criar obrigações, proibições ou restrições que delas não se infi-ram logicamente. Quando o decreto extrapola esse papel instrumental e passa a disciplinar matéria com autonomia e densidade normativa próprias, ele deixa de ser um simples ato de execução da lei para se constituir em ato normativo primário - e, portanto, passível de controle direto de constitucionalidade.\n\nÀ luz desse cenário institucional e normativo, a controvérsia ora submetida à Suprema Corte revela-se precisamente na ultrapassagem dos limites impostos ao exercício da atividade normativa secundária do Poder Executivo. A competência regulamentar do Presidente da República - que deve se desenvolver sob os marcos do art. 84, incisos IV e VI, da Constituição - não pode ser exercida de modo desvinculado das advertências constitucionais e legais que a circunscrevem, sob pena de desequilíbrio institucional entre os Poderes da República."
+    },
+    {
+      "page": 14,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Tais advertências se expressam, de um lado, no modelo de regulamento em sentido estrito, que se destina à fiel execução da lei, sem margem para criação de novos deveres ou direitos. De outro, no plano legal, impõe-se a vedação a qualquer tentativa de ampliação, restrição ou substituição do conteúdo normativo emanado do Poder Legislativo. Em ambos os casos, o núcleo da limitação é claro: o Executivo não pode, por meio de decreto, inovar auto-nomamente na ordem jurídica.\n\nCom relação às advertências dos excessos que o Poder Executivo deveria evitar e cuidar de não infringir, PIMENTA BUENO elucida que elas consistem:\n\n\"em criar direitos, ou obrigações novas não estabelecidas pela lei, porquanto seria uma inovação exorbitante de suas atribuições, uma usurpação do Poder Legislativo, que só poderia ser tolerada por câmaras desmoralizadas. Se assim não fôra, poderia o govêrno criar impostos, penas, ou deveres, que a lei não estabeleceu; teríamos dois legislado-res, e o sistema constitucional seria uma verdadeira ilusão.\n2º Em ampliar, restringir ou modificar direitos ou obrigações porquanto a faculdade que lhe foi dada para que fi-zesse observar fielmente a lei, e não para introduzir mu-dança ou alteração alguma nela, para manter os direitos e obrigações como foram estabelecidos, e não para acres-centá-los ou diminuí-los, para obedecer ao legislador, e não para sobrepor-se a êle. 3º Em ordenar ou proibir o que ela não ordena, ou não proíbe, porquanto dar-se-ia abuso igual ao que já notamos no antecedente número primeiro.\n(…) 4º Em facultar ou proibir, diversamente do que a lei estabelece, porquanto deixaria esta de ser qual fôra decre-"
+    },
+    {
+      "page": 15,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "tada, passaria a ser diferente, quando a obrigação do govêrno é de ser, em tudo e por tudo, fiel e submisso à lei.\" (Pimenta Bueno. Direito Publico Brasileiro, p. 236).\n\nNa justa medida em que os regulamentos existem para viabilizar a execução das leis, devem guardar plena observância ao escopo normativo que lhes foi conferido pelo Legislativo, operando dentro de um espaço restrito de delegação normativa. O respeito à lei não é apenas requisito de validade infraconstitucional do decreto regulamentar - é, sobretudo, pressuposto de sua própria constitucionalidade, uma vez que a legalidade (art. 5º, II, da Constituição da República) é pilar estruturante do Estado Constitucional e expressão concreta do princípio da separação de poderes.\n\nA harmonia do sistema normativo exige, portanto, coerência hierárquica entre os atos normativos, os quais não existem em planos paralelos, mas se encontram articulados por uma relação de dependência e subordinação. O regulamento há de ser acessório à lei, jamais substitutivo; densificador, mas não criador de obrigações novas ou de regimes jurídicos autônomos.\n\nSempre que se rompe essa coerência e um ato infralegal passa a atuar como fonte primária de deveres e vedações, ocorre violação à reserva legal e à supremacia do Legislativo, abrindo-se, com isso, a via legítima do controle concentrado de constitucionalidade.\n\nÉ exatamente essa a disfunção normativa que se apresenta no Decreto n.\n12.456/2025, cuja pretensão normativa autônoma - e não apenas subordinada - exige pronta correção por esta Suprema Corte, em nome da integridade constitucional do sistema de repartição de competências legislativas. Essa a natureza"
+    },
+    {
+      "page": 16,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "dos artigos 8º e 9º do Decreto n. 12.456/2025, que não se limitam a densi-ficar comandos legais existentes, mas criam um novo regime jurídico proibitivo - sem base legislativa - e investem o Ministro da Educação de poder normativo discricionário, de duvidosa legitimidade democrática e frontalmente incompatível com os cânones do Estado de Direito.\n\nDiante do cenário apresentado, constata-se que o Presidente da República exorbitou essa esfera de competência estrita, abandonando os marcos do poder regulamentar para se colocar no papel de legislador positivo.\nAo estabelecer, com abstração e generalidade, vedações substantivas à oferta de cursos na modalidade a distância, e ao delegar a um Ministro de Estado o poder de inovar normativamente mediante ato infralegal, o decreto em questão rompe a barreira da função executiva e invade, de forma ilegítima, a seara da legislação - esta, sim, de competência do Congresso Nacional, no exercício da função legiferante ordinária.\n\nEm termos mais precisos, no domínio da atividade regulamentar do Poder Executivo, a lei ostenta precedência ontológica, autonomia normativa e primazia hierárquica, tudo conforme determinado pela ordem constitucional vigente. A atuação do Presidente da República nesse campo - ainda que amparada no art. 84, incisos IV e VI, da Constituição - não pode suplantar nem substituir o conteúdo legislativo previamente fixado pelo Congresso Nacional, devendo operar como instrumento acessório de execução, jamais como fonte normativa originária. O regulamento, assim, não tem existência autônoma em face da lei, e sim se constrói em função dela, subordinando-se aos seus limites materiais e formais.\n\nPelo exposto, não remanesce dúvida de que o Decreto n. 12.456/2025, em especial no que dispõem seus artigos 8º e 9º, não se qualifica como"
+    },
+    {
+      "page": 17,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "simples ato regulamentar secundário, subordinado à legislação preexis-tente, mas sim como verdadeiro ato normativo autônomo, portador de conteúdo primário, dotado de abstração, generalidade e imperatividade próprias - criando vedações e restrições normativas inéditas, sem amparo legal direto, e sem delegação legislativa válida.\n\nTrata-se, portanto, de ato normativo infraconstitucional formalmente infralegal, mas materialmente primário, o que, segundo firme jurisprudência desta Suprema Corte, atrai a plena incidência do controle concentrado de constitucionalidade, nos termos do art. 102, I, \"a\", da Constituição da República.\n\nCom efeito, esta Corte já assentou que, embora atos infralegais não estejam, em regra, sujeitos ao controle abstrato, excepciona-se essa regra quando tais atos ostentam conteúdo normativo autônomo, criador de direitos e obrigações sem suporte legislativo. É o que se extrai, por exemplo, da lição consolidada nos julgados das ADIs n. 6134, 6121, 6119, 5543, entre outras, nas quais se reconheceu a possibilidade de impugnação direta de atos normativos infralegais com pretensão de inovar na ordem jurídica em matéria reservada à lei.\n\nA ratio decidendi desses precedentes é clara: a natureza do conteúdo normativo - e não apenas sua forma - é que determina a sujeição ao controle concentrado. E, no presente caso, o Decreto n. 12.456/2025 inova na ordem jurídica ao estabelecer, de modo unilateral e sem respaldo legislativo, vedações à oferta de cursos superiores na modalidade a distância, além de outorgar ao Ministro da Educação - mediante cláusula normativa aberta e indeterminada - poder para editar atos administrativos com força de proibição geral, o que acen-tua a ilegitimidade do regime instituído.\n\nAdmitir a subsistência de tal decreto como manifestação legítima da função regulamentar do Executivo seria anuir à possibilidade de o Poder Executivo"
+    },
+    {
+      "page": 18,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "legiferar por via transversa, comprometendo os fundamentos republicanos de legalidade, separação de Poderes e segurança jurídica. Impõe-se, pois, o controle concentrado de constitucionalidade como instrumento de defesa da Constituição e de reafirmação dos limites institucionais do poder normativo do Executivo.\n\nPor todas essas razões, mostra-se plenamente possível o controle de constitucionalidade, uma vez que o ato normativo reveste-se, materialmente, das características próprias das normas primárias, legitimando, em toda sua extensão, o controle jurisdicional por esta Suprema Corte.\n\n5. DOS PRECEDENTES CONSTITUCIONAIS QUE AUTORIZAM O CONTROLE DE CONSTITUCIONALIDADE SOBRE DECRETOS\n\nA jurisprudência do Supremo Tribunal Federal vem evoluindo no sentido de admitir o controle concentrado de constitucionalidade sobre decretos presidenciais que, embora formalmente infralegais, inovam na ordem jurídica de modo autônomo, extrapolando os limites próprios da função regulamentar. Tal orientação é particularmente relevante nos casos em que o Presidente da República, sob o pretexto de regulamentar a lei, estabelece normas com conteúdo primário, criando deveres, vedações ou direitos sem respaldo legislativo direto.\n\nFoi exatamente esse o entendimento consolidado, por exemplo, na ADI 6134, de relatoria da MINISTRA ROSA WEBER, quando esta Corte reconheceu que os Decretos n. 9.845/2019, 9.846/2019 e 9.847/2019, ao \"promoverem a flexibilização das armas\", não se limitaram a regulamentar o Estatuto do Desarmamento, mas fragilizaram o programa normativo estabelecido em lei, inovando"
+    },
+    {
+      "page": 19,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "materialmente no ordenamento jurídico e, por isso, tornaram-se suscetíveis ao controle direto de constitucionalidade. Destacou-se, naquele julgamento, que:\n\n\"Os regulamentos estão subordinados às leis que lhes dão fundamento, devendo observância ao espaço restrito de delegação normativa. O respeito a este limite de conformação regulamentar adquire relevância constitucional, na medida em que configura corolário do postulado da separação dos Poderes\" (ADI 6134).\n\nAção direta de inconstitucionalidade. Julgamento conjunto da ADI 6134 e das ADPFs 581 e 586. Decretos presidenciais que dispõem sobre aquisição, cadastro, registro, posse e porte de armas de fogo, acessórios e munições (Decretos nºs 9.845/2019, 9.846/2019 e 9.847/2019). Atos normativos editados com o propósito de promover a chamada \"flexibilização das armas\" no Brasil. Inovações regulamentares incompatíveis com o sistema de controle e fiscalização de armas instituído pelo Estatuto do Desarmamento. Dever estatal de promover a segurança pública como corolário do direito à vida. Normas que exor-bitam dos limites do poder regulamentar outorgado pela Constituição ao Presidente da República, vulne-rando, ainda, políticas públicas de proteção a direitos fundamentais. 1. Conversão da apreciação da liminar em julgamento final de mérito, em observância dos ditames da economia processual e da duração razoável do processo.\nPrecedentes. 2. O modelo contemporâneo de segurança pública - positivado no texto constitucional e no âmbito do"
+    },
+    {
+      "page": 20,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Sistema Global (ONU) e Regional (OEA) de Proteção dos Direitos Humanos - preconiza o controle rigoroso do acesso da população às armas de fogo, acessórios e munições, devido aos efeitos prejudiciais desses produtos sobre a segurança das pessoas, o bem-estar da comunidade, o desenvolvimento social e econômico do Estado e o direito à convivência em harmonia e paz. 3. Inúmeros estudos, nacionais e internacionais, públicos e privados, apoiados por expres-siva maioria da comunidade científica mundial, revelam uma inequívoca correlação entre a facilitação do acesso da população às armas de fogo e o desvio desses produtos para as organizações criminosas, milícias e criminosos em geral, por meio de furtos, roubos ou comércio clandestino, aumentando ainda mais os índices gerais de delitos patri-moniais, de crimes violentos e de homicídios. 4. A segurança pública é corolário do direito à vida. É a tutela prestada pelo Estado em favor da vida digna, livre do medo, livre dos atos de barbárie que revoltam a consciência da humani-dade. O Estatuto do Desarmamento é o diploma legislativo que consubstancia os valores constitucionais concernentes à proteção da vida humana (CF, art. 5º, caput) e à promoção da segurança pública (CF, art. 144, caput) contra o ter-ror e a mortalidade provocada pelo uso indevido das armas de fogo. 5. Os regulamentos estão subordinados às leis que lhes dão fundamento, devendo observância ao espaço restrito de delegação normativa. O respeito a este limite de conformação regulamentar adquire relevância constitucional, na medida em que configura corolário do postulado da separação dos Poderes. 6. Os De-"
+    },
+    {
+      "page": 21,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "cretos presidenciais impugnados, ao inovarem na ordem jurídica, fragilizaram o programa normativo estabelecido na Lei 10.826/2003, que inaugurou uma política de controle responsável de armas de fogo e munições no território nacional. 7. Ações diretas conhe-cidas em parte e, nessa extensão, julgadas procedentes.\n(ADI 6134 MC, Relator(a): ROSA WEBER, Tribunal Pleno, julgado em 03-07-2023, PROCESSO ELETRÔNICO DJe-s/n DIVULG 04-09-2023 PUBLIC 05-09-2023). Destacamos.\n\nNa mesma linha, na ADI 6121, este Supremo Tribunal suspendeu, caute-larmente, a eficácia do Decreto n. 9.759/2019, que extinguia órgãos colegiados instituídos com respaldo legal. O fundamento central foi o de que o Presidente da República, ainda que disponha de competência para organizar a administração pública federal, não pode, por ato unilateral, extinguir colegiados criados por lei, sob pena de violação à separação de poderes e à reserva legal. Mais uma vez, o Tribunal reconheceu que um decreto, ao ultrapassar os limites da legalidade estrita, converte-se em ato normativo primário e, como tal, submete-se ao controle concentrado de constitucionalidade.\n\nPROCESSO OBJETIVO - CONTROLE DE CONSTITUCIONALIDADE - LIMINAR - DEFERIMENTO PARCIAL. Surgindo a plausibilidade jurídica parcial da pretensão e o risco de manter-se com plena eficácia o quadro normativo atacado, impõe-se o deferimento de medida acauteladora, suspen-dendo-o. COMPETÊNCIA NORMATIVA - ADMINISTRAÇÃO PÚBLICA - ÓRGÃOS COLEGIADOS - PREVISÃO LEGAL - EXTINÇÃO - CHANCELA PARLAMENTAR. Considerado o princípio da separação dos poderes, conflita com a Constituição Federal a extinção, por ato unilateralmente editado pelo"
+    },
+    {
+      "page": 22,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Chefe do Executivo, de órgãos colegiados que, contando com menção em lei em sentido formal, viabilizem a participação popular na condução das políticas públicas - mesmo quando ausente expressa \"indicação de suas competências ou dos membros que o compõem\". (ADI 6121 MC, Relator(a): MARCO AURÉLIO, Tribunal Pleno, julgado em 13-\n06-2019, PROCESSO ELETRÔNICO DJe-260 DIVULG 27-11-\n2019 PUBLIC 28-11-2019)\n\nNa ADI 2439, de relatoria do MINISTRO ILMAR GALVÃO, também foi reconhecida a possibilidade de controle direto sobre decreto autônomo que contra-riava normas constitucionais e princípios fundamentais, evidenciando que não é a natureza formal do ato que define sua impugnabilidade, mas sim o seu conteúdo material e sua função normativa.\n\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI N.º\n1.798/97; E ART. 8.º DO DECRETO N.º 9.115/98, DO ESTADO DO MATO GROSSO DO SUL. ALEGADA CONTRARIEDADE AOS ARTS. 150, § 6.º; E 155, § 2.º, XII, G, DA CONSTITUIÇÃO FEDERAL. O primeiro ato normativo estadual, ins-tituindo benefícios relativos ao ICMS sem a prévia e necessária celebração de convênio entre os Estados e o Distrito Federal, contraria os dispositivos constitucionais sob enfo-que. Alegação de inconstitucionalidade igualmente plausível no tocante ao art. 8.º do Decreto n.º 9.115/98, que, extrapolando a regulamentação da mencionada lei, fixa, de forma autônoma, incentivos fiscais sem observância das mencionadas normas da Carta da República. Ação julgada procedente, para declarar a inconsti-"
+    },
+    {
+      "page": 23,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "tucionalidade das normas em questão. (ADI 2439, Relator(a): ILMAR GALVÃO, Tribunal Pleno, julgado em 13-11-\n2002, DJ 21-02-2003 PP-00029 EMENT VOL-02099-01 PP-\n00192). Destacamos.\n\nSem prejuízo dos precedentes anteriores, destaca-se:\n\nSERVIDORES PÚBLICOS. DISPONIBILIDADE. VENCIMENTOS PROPORCIONAIS OU INTEGRAIS. Medida cautelar.\nAção direta de inconstitucionalidade do Decreto nº. 99.300 do Presidente da República, que manda calcular, proporci-onalmente ao tempo de serviço público, os proventos dos servidores estáveis, cujos cargos ou empregos forem extin-tos ou declarados desnecessários. Alegação de ofensa ao\nart. 61, parágrafo 1º, \"c\", da Constituição Federal, por se tratar de ato normativo autônomo (não, assim, decreto regulamentar - art. 84, IV), sobre regime jurídico de servidores públicos, que exigiria lei formal, embora de iniciativa do Presidente da República. Alegação, também, de vício material, por afronta aos artigos 37, XV, 39, parágrafos 2º, 7º, VI, que firmam a irredutibilidade de vencimentos e sa-lários dos servidores públicos. Medida cautelar de suspensão da eficácia do decreto impugnado, em face da relevância dos fundamentos jurídicos da ação e do perigo da demora do processo e julgamento da causa (\"periculum in mora\"), para os servidores atingidos em seus vencimentos.\nDeferimento da medida, por maioria de votos, até o julgamento final da causa, diante, também, do disposto no parágrafo 3º do art. 41 da Constituição e da jurisprudência da Corte, ao tempo da vigência de normas constitucionais"
+    },
+    {
+      "page": 24,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "idênticas a do parágrafo 3º do art. 40. (ADI-MC nº. 309, Rel.\nMin. SYDNEY SANCHES, DJ de 14/02/1992).\n\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE. AUMENTO DE VENCIMENTOS POR DECRETO QUE APROVA TABELAS EM CONFORMIDADE COM INDICES FIRMADOS EM\nACORDO COLETIVO. DECRETO 3.140 DE 14.03.91 DO ESTADO DE MATO GROSSO. - É de conhecer-se da ação direta, porquanto, no caso, o ato normativo impugnado é um decreto autônomo, sendo que, inclusive, um dos fundamentos da ação é justamente o de ter ele invadido a esfera reservada a lei pela Constituição Federal. - Ocorrência, na espécie, da relevância jurídica da fundamentação, bem como do \"periculum in mora\". Pedido de liminar deferido, para suspender-se a eficácia, \"ex nunc\", do Decreto 3.140 de\n14.03.91 do Estado de Mato Grosso. (ADI-MC nº. 519, Rel.\nMin. MOREIRA ALVES, DJ de 11/10/1991)\n\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE. TEM-SE OBJETO IDÔNEO À AÇÃO DIRETA DE INCONSTITUCIONALIDADE QUANDO O DECRETO IMPUGNADO NÃO É DE CAR TER REGULAMENTAR DE LEI, MAS CONSTITUI ATO NORMATIVO QUE PRETENDE DERIVAR O SEU CONTEÚDO DIRETAMENTE DA CONSTITUIÇÃO. II. AÇÃO DIRETA DE INCONSTITUCIONALIDADE: LEGITIMAÇÃO DAS ENTIDADES NACIONAIS DE CLASSE QUE NÃO DEPENDE DE AUTORIZAÇÃO ESPECÍFICA DOS SEUS FILIADOS. III. AÇÃO DIRETA DE INCONSTITUCIONALIDADE: PERTINÊNCIA TEMÁTICA.\n1. A pertinência temática, requisito implícito da legitima-"
+    },
+    {
+      "page": 25,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "ção das entidades de classe para a ação direta de inconstitucionalidade, não depende de que a categoria respectiva seja o único segmento social compreendido no âmbito normativo do diploma impugnado. 2. Há pertinência temática entre a finalidade institucional da Confederação Nacional das Profissões Liberais - que passou a abranger a defesa dos profissionais liberais ainda que empregados -, e a lei questionada, que fixa limite à remuneração dos servidores públicos. IV. Servidor público: teto de remuneração (CF,\nart. 37, XI): auto-aplicabilidade. Dada a eficácia plena e a aplicabilidade imediata, inclusive aos entes empresariais da administração indireta, do art. 37, XI, da Constituição, e do art. 17 do ADCT, a sua implementação - não dependendo de complementação normativa - não parece constituir matéria de reserva à lei formal e, no âmbito do Executivo, à primeira vista, podia ser determinada por decreto, que encontra no poder hierárquico do Governador a sua fonte de legitimação. (ADI-MC nº. 1.590, Rel. Min. SEPÚLVEDA PERTENCE, DJ de 15/08/1997).\n\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE - OBJETO -\nDECRETO. Uma vez ganhando o decreto contornos de verdadeiro ato normativo autônomo, cabível é a ação direta de inconstitucionalidade. Precedente: Ação Direta de Inconstitucionalidade nº. 1.590/SP, Plenário, Relator Ministro SEPÚLVEDA PERTENCE, com aresto veiculado no Diário da Justiça de 15 de agosto de 1997. REMUNERAÇÃO -\nSERVIDORES PÚBLICOS - TETO CONSTITUCIONAL -\nNORMA DE REGÊNCIA. A teor do disposto no inciso XI do"
+    },
+    {
+      "page": 26,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "artigo 37 da Constituição Federal, cumpre à lei fixar o limite máximo e a relação de valores entre a maior e a menor remuneração dos servidores públicos. Descabe substituir o diploma referido no inciso XI do artigo 37 da Constituição Federal, ou seja, a lei em sentido formal e material, por decreto emanado do Poder Executivo. PESSOAL - DES-PESAS - LIMITE - ADEQUAÇÃO. Não se há de promover redução de vencimentos visando a harmonizar a despesa total com pessoal ativo e inativo da União com certo teto.\nPrecedentes: Agravos Regimentais em Agravo de Instrumento nºs. 178.072/MG e 192.870/MG, Segunda Turma, ambos de minha lavra, com acórdãos veiculados no Diário da Justiça de 9 de maio de 1997 e 6 de fevereiro de 1998, respectivamente. (ADI nº. 1.396, Rel. Min. MARCO AURÉLIO, DJ de 07/08/1998).\n\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE. MEDIDA LIMINAR. DECRETO 1.719/95. TELECOMUNICAÇÕES: CONCESSÃO OU PERMISSÃO PARA A EXPLORAÇÃO. DECRETO\nAUTÔNOMO: POSSIBILIDADE DE CONTROLE CONCENTRADO. OFENSA AO ARTIGO 84-IV DA CF/88. LIMINAR DEFERIDA. A ponderabilidade da tese do requerente é segura.\nDecretos existem para assegurar a fiel execução das leis (artigo 84-IV da CF/88). A Emenda Constitucional nº. 8, de 1995 - que alterou o inciso XI e alínea a do inciso XII do artigo 21 da CF - é expressa ao dizer que compete à União explorar, diretamente ou mediante autorização, concessão ou permissão, os serviços de telecomunicações, nos termos da lei. Não havendo lei anterior que possa ser regulamen-"
+    },
+    {
+      "page": 27,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "tada, qualquer disposição sobre o assunto tende a ser adotada em lei formal. O decreto seria nulo, não por ilegali-dade, mas por inconstitucionalidade, já que supriu a lei onde a Constituição a exige. A Lei 9.295/96 não sana a deficiência do ato impugnado, já que ela é posterior ao decreto. Pela ótica da maioria, concorre, por igual, o requisito do perigo na demora. Medida liminar deferida.\". (ADI-MC nº. 1435, Rel. Min. FRANCISCO REZEK, DJ 06/08/1999).\n\nMEDIDA CAUTELAR EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE. 2. CARÁTER NORMATIVO AUTÔNOMO E ABSTRATO DOS DISPOSITIVOS IMPUGNADOS. POSSIBILIDADE\nDE SUA SUBMISSÃO AO CONTROLE ABSTRATO DE CONSTITUCIONALIDADE. Precedentes. 3. ICMS. Guerra fiscal. Artigo 2º da Lei nº. 10.689/1993 do Estado do Paraná. Dispositivo que traduz permissão legal para que o Estado do Paraná, por meio de seu Poder Executivo, desencadeie a denominada \"guerra fiscal\", repelida por larga jurisprudência deste Tribunal. Precedentes. 4. Artigo 50, XXXII e XXXIII, e §§ 36, 37 e 38 do Decreto Estadual nº. 5.141/2001. Ausê cia de convênio interestadual para a concessão de benefícios fiscais. Violação ao art. 155, §2º, XII, g, da CF/88. A ausência de convênio interestadual viola o art. 155, § 2º, incisos IV, V e VI, da CF. A Constituição é clara ao vedar aos Estados e ao Distrito Federal a fixação de alíquotas inter-nas em patamares inferiores àquele instituído pelo Senado para a alíquota interestadual. Violação ao art. 152 da CF/88, que constitui o princípio da não diferenciação ou da uniformidade tributária, que veda aos Estados, ao Distrito"
+    },
+    {
+      "page": 28,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Federal e aos Municípios estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua procedência ou destino. 5. Medida cautelar deferida.\n(ADI-MC nº. 3.936, Rel. Min. GILMAR MENDES, DJ de 09/11/2007).\n\nTais precedentes revelam uma linha jurisprudencial coerente: sempre que um decreto presidencial assume densidade normativa própria - isto é, cria, restringe ou revoga direitos de forma autônoma -, ele passa a se sujeitar ao controle de constitucionalidade próprio das normas primárias.\n\n6. DA INTERPRETAÇÃO CONFORME DE PRECEITO LEGAL E DECLARAÇÃO DE INCONSTITUCIONALIDADE POR ARRASTAMENTO DA NORMA REGULAMENTAR (DECRETO)\n\nNa hipótese de não ser admitida a existência de norma de natureza primária, conforme anteriormente apresentado, pode-se analisar a presente arguição de inconstitucionalidade com a pretensão de combater o Decreto n.\n12.456/2025 por afrontar preceitos constitucionais fundantes da ordem democrática e da tutela do direito à educação.\n\nNesse sentido, todavia, a inconstitucionalidade não pode ser analisada isoladamente da interpretação que lhe serve de base: a indevida leitura restritiva e proibitiva do artigo 80 da Lei nº 9.394/1996 (Lei de Diretrizes e Bases da Educação Nacional - LDB), cujo conteúdo, ao contrário do que foi praticado pelo ato regulamentar, impõe ao Poder Público um dever de fomento, jamais de restrição, à educação a distância."
+    },
+    {
+      "page": 29,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Com efeito, o artigo 80 da LDB estabelece que \"o Poder Público incentivará o desenvolvimento e a veiculação de programas de ensino a distância\". A partir desse enunciado legal, o Decreto impugnado extrai uma normativi-dade oposta, impondo restrições e vedações à oferta de cursos de graduação em EaD. Essa inversão de sentido é incompatível com a Constituição e com a própria literalidade do preceito legal, tornando necessário o em-prego da TÉCNICA DA INTERPRETAÇÃO CONFORME A CONSTITUIÇÃO, bem como, de forma consequencial, da DECLARAÇÃO DE INCONSTITUCIONALIDADE POR ARRASTAMENTO das normas infralegais editadas com base em tal interpretação ilegítima.\n\nA interpretação conforme a Constituição tem por objetivo harmonizar o sentido de dispositivos legais com os preceitos constitucionais, preservando a integridade do ordenamento e evitando a declaração de inconstitucionalidade, sempre que possível, por meio da restrição interpretativa. Segundo LUÍS ROBERTO BARROSO, essa técnica \"pressupõe a compatibilidade semântica entre o texto infraconstitucional e a Constituição, e exige, para sua aplicação, a existência de uma pluralidade de significados possíveis na norma infraconstitucional\" (BARROSO, Luís Roberto. Interpretação e aplicação da Constituição. 8. ed. São Paulo: Saraiva, 2019. p. 293).\n\nNo caso dos autos, porém, o que se observa é o inverso da interpretação conforme: a norma legal, em sua literalidade e espírito, impõe um dever de incentivo à EaD, enquanto o Decreto a interpreta em sentido proibitivo, desvirtuando sua finalidade e transmutando um comando promocional em veto normativo. Diante disso, não se trata apenas de interpretar a norma conforme a Constituição, mas também de reconhecer a inconstitucionalidade do decreto editado com fundamento em leitura transgressora do comando legal, ensejando, portanto, a aplicação da técnica da inconstitucionalidade por arrastamento."
+    },
+    {
+      "page": 30,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "A inconstitucionalidade por arrastamento (também denominada inconstitucionalidade consequencial ou em bloco) é técnica reconhecida pelo Supremo Tribunal Federal como forma de preservar a unidade e a coerência do ordenamento jurídico, permitindo que se declare a invalidade de normas infralegais ou secundárias que, embora não inconstitucionais em si mesmas, estejam fundadas ou estruturadas sobre norma de hierarquia superior que se revele inconstitucional ou interpretada inconstitucional-mente. Nesse sentido, ensina Inocêncio Mártires Coelho:\n\nA inconstitucionalidade por arrastamento é uma técnica decisória que permite ao Tribunal Constitucional estender os efeitos da declaração de inconstitucionalidade a normas que não são, em si mesmas, inconstitucionais, mas cuja sobrevivência, no ordenamento jurídico, se torna logicamente inviável, dado o nexo de dependência ou de subordinação que mantêm com o ato tido como inconstitucional. (COELHO, Inocêncio Mártires. O controle de constitucionalidade das leis no direito brasileiro. 2. ed. Brasília: Brasília Jurídica, 2000.\np. 186).\n\nNo mesmo sentido a jurisprudência do Supremo Tribunal Federal revela:\n\n(...) INVALIDADE, POR ARRASTAMENTO, DE PORTARIA DO MINISTÉRIO DA FAZENDA. AGRAVO IMPROVIDO. (...) II -\nSegundo a jurisprudência dessa Corte, na hipótese de determinada norma constituir fundamento de validade para outro preceito normativo, a inconstitucionalidade daquela implica a invalidade, por arrastamento, desse. Precedentes.\nIII - Agravo regimental improvido. (STF, RE 631698 AgR,"
+    },
+    {
+      "page": 31,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Relator Min. Ricardo Lewandowski, Segunda Turma, j. em 22/05/2012).\n\n(...) Declaração de inconstitucionalidade por arrastamento das normas impugnadas do decreto regulamentar, em vir-tude da relação de dependência com a lei impugnada. Precedentes. 7. Ação direta de inconstitucionalidade julgada parcialmente procedente. (STF, ADI 2158, Relator Min.\nDias Toffoli, Tribunal Pleno, j. em 15/09/2010).\n\"Ação direta de inconstitucionalidade. Artigo 46, caput e § 5º, da Lei nº 9.504/1997, com a redação conferida pela Lei nº 13.165/2015, e art. 32, § 5º, da Resolução nº\n23.457/2015 do TSE. Definição do número de candidatos participantes dos debates eleitorais. Garantia de participação de candidatos de partidos políticos com representação superior a 9 (nove) parlamentares na Câmara dos Deputados. Possibilidade de a emissora convidar outros candidatos. Interpretação conforme à Constituição. 1. Ante a ausência de impugnação específica dos demais preceitos que compõem o art. 32 da Resolução nº 23.457/2015, se co-nhece parcialmente da ação direta, somente quanto aos pleitos de interpretação conforme à Constituição para o\nart. 46, caput e § 5º, da Lei nº 9.504/1997 e de declaração de inconstitucionalidade, por arrastamento, do § 5º do art.\n32 da Resolução nº 23.457/2015 do TSE. Precedente: ADI\n4.079, Rel. Min. Roberto Barroso, Tribunal Pleno, DJe de 5/5/15. 2. O caput do art. 46 da Lei nº 9.504/1997, com a redação conferida pela Lei nº 13.165/2015, assegura a ampla participação, nos debates eleitorais, dos candidatos de partidos políticos com representação superior a 9 (nove)"
+    },
+    {
+      "page": 32,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "parlamentares na Câmara dos Deputados. Nesse contexto, a interpretação que se pretende atribuir ao § 5º do art. 46 - de ser possível que candidatos, partidos ou coligações, ao definirem as regras do debate, excluam candidatos que se\n\nNo caso em análise, é patente que a leitura proibitiva do artigo 80 da LDB não encontra amparo nem no texto legal, nem na Constituição, tampouco em princípios orientadores da política educacional brasileira. Tal leitura, ao ser adotada como fundamento do Decreto n. 12.456/2025, contamina de inconstitucionalidade as disposições regulamentares dele decorrentes, exigindo sua re-tirada do ordenamento por via da inconstitucionalidade por arrastamento.\n\nCom isso, evidencia-se que a manutenção do Decreto implicaria perpetuar a aplicação de uma interpretação inconstitucional da LDB, invertendo o papel do Poder Público de fomentador da educação, conforme impõe o artigo 205 da Constituição, em executor de políticas regressivas e proibitivas que limitam o direito à educação.\n\nNão é outro o sentido da jurisprudência consolidada da Corte Suprema, que tem utilizado a técnica da inconstitucionalidade por arrastamento para expurgar normas regulamentares que apenas reproduzem ou implementam comandos legais já reputados incompatíveis com a Constituição.\n\nPor fim, reitere-se que o artigo 80 da LDB compõe um sistema de incentivo, expansão e democratização da educação mediada por tecnologia. Essa norma deve ser interpretada em harmonia com o artigo 206, inciso II e III, da Constituição, que consagram a liberdade de ensinar e o pluralismo de concepções pedagógicas. Admitir que o Executivo possa, por decreto, impor vedações a cursos em EaD - quando o comando legal exige seu fomento - é conferir"
+    },
+    {
+      "page": 33,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "eficácia normativa a um arbítrio administrativo que desconstitucionaliza o direito à educação e converte a função regulamentar em instrumento de restrição, e não de execução da lei.\n\nDiante desse quadro, impõe-se, com fundamento nos princípios da supremacia da Constituição, da legalidade, da separação dos Poderes e da máxima efetividade dos direitos fundamentais, o reconhecimento da inconstitucionalidade do Decreto n. 12.456/2025, não apenas por sua frontal oposição ao texto constitucional, mas também por decorrer de interpretação normativa que dis-torce a finalidade do artigo 80 da Lei de Diretrizes e Bases da Educação Nacional.\nA norma legal, ao dispor que o Poder Público \"incentivará\" o ensino a distância, não apenas afasta qualquer margem para medidas proibitivas como impõe ao Estado um dever de promoção ativa dessa modalidade educacional. Qualquer exegese em sentido oposto, como a adotada pelo Decreto ora impugnado, des-virtua o comando legal e fere a moldura constitucional de proteção ao direito à educação.\n\nPor esse motivo, impõe-se, no presente caso, a utilização da técnica de interpretação conforme à Constituição - a fim de assegurar que o artigo 80 da LDB seja compreendido como imposição de fomento e não como autorização para restrição - e, correlativamente, a declaração de inconstitucionalidade por arrastamento das disposições do Decreto n. 12.456/2025, que se fundamentam em leitura contrária à Constituição. Trata-se de típica hipótese de cabimento de Ação Direta de Inconstitucionalidade, conforme reiterada jurisprudência do Supremo Tribunal Federal, segundo a qual atos normativos secun-dários, quando se autonomizam e passam a gerar efeitos normativos primários, ou se assentam sobre interpretações legais inconstitucionais, tor-nam-se passíveis de controle direto e concentrado por via de ADI."
+    },
+    {
+      "page": 34,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "É, pois, sob esse ângulo que se justifica a presente impugnação constitucional, cujo escopo é a preservação da coerência normativa, da integridade do sistema constitucional e da própria autoridade da Constituição da República.\n\n7. DA LEGITIMIDADE ATIVA PARA PROPOR A ADI\n\nNos termos do artigo 103, inciso IX, da Constituição da República, bem como do artigo 2º da Lei Federal n. 9.868/99 têm legitimidade para a propositura de Ação Direta de Inconstitucionalidade as confederações sindicais e as entidades de classe de âmbito nacional. Contudo, a interpretação jurisprudencial do Supremo Tribunal Federal, ao longo das últimas décadas, tem reconhecido que o conceito de \"entidade de classe\" não se esgota na vincula-ção estrita a categorias profissionais ou econômicas, sendo compatível com agrupamentos associativos que reúnam membros em torno da defesa de direitos fundamentais, especialmente de grupos vulneráveis ou sub-re-presentados no processo político-institucional.\n\nÉ precisamente o caso da ASSOCIAÇÃO BRASILEIRA DOS ESTUDANTES DE EDUCAÇÃO A DISTÂNCIA (ABE-EAD), entidade de atuação nacional, fundada em 9 de março de 2008, com finalidade estatutária centrada na proteção dos direitos dos estudantes vinculados à modalidade de ensino a distância, em todos os níveis educacionais. A associação atua em defesa da democratização do acesso ao ensino, da isonomia de tratamento entre metodologias presenciais e não presenciais e da qualidade da oferta educacional mediada por tecnologia. Trata-se, pois, de uma entidade que representa um grupo real, determinado e relevante da sociedade brasileira - os estudantes da EaD - cuja voz, não raro, encontra-se excluída dos centros decisórios tradicionais."
+    },
+    {
+      "page": 35,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "O reconhecimento da legitimidade ativa da ABE-EAD harmoniza-se com o entendimento consagrado pelo Supremo Tribunal Federal na ADPF n.\n527/DF, de relatoria do MINISTRO LUÍS ROBERTO BARROSO, no qual se superou a jurisprudência anterior para reconhecer como entidade de classe de âmbito nacional a associação representativa da comunidade LGBTQIA+. A Corte entendeu, com clareza e lucidez, que a legitimação ativa para o controle concentrado de constitucionalidade deve abranger também entidades voltadas à tutela de direitos fundamentais, ainda que não correspondam a categorias profissionais orga-nizadas.\n\n[...]\n\n9. A Associação Brasileira de Lésbicas, Gays, Bissexuais, Travestis e Transexuais (\"ALGBT\") demonstrou possuir caráter nacional. Além de atuar nacionalmente e de apresen-tar diretorias para todas as regiões brasileiras, a requerente reúne filiados em mais de nove Estados da federação, tal como exigido pela jurisprudência desta Corte[5]. Não há dúvida, ademais, da existência de pertinência temática entre os objetivos da ALGBT, consistentes na defesa dos interesses da comunidade LGBT, e a providência postulada por meio desta ação: a transferência de travestis e mulheres transexuais para presídios femininos, justamente para observar sua identidade de gênero e protegê-las contra atos de violência.\n\n10. Entretanto, a ALGBT não constitui entidade de classe de âmbito profissional ou econômico, tal como exigido pela jurisprudência do Supremo, pois não reúne, em seus quadros, afiliados que desempenhem a mesma atividade econômica"
+    },
+    {
+      "page": 36,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "ou profissional. O vínculo que une os associados da ALGBT consiste na busca pela não discriminação com base na orientação sexual ou na identidade de gênero e pelo reconhecimento da sua autonomia e identidade. A pergunta que se coloca aqui, portanto, é: deve o Supremo Tribunal Federal revisitar a sua jurisprudência sobre a configuração do requisito \"classe\", para o fim de conferir-lhe entendimento menos restritivo que aquele praticado até o momento?\nDeve-se buscar interpretação, que permita que grupos vulneráveis e minoritários, unidos pela luta por direitos fundamentais, possam acessar o controle concentrado da constitucionalidade?\n\n11. Parece-me que a resposta é inequivocamente positiva por três ordens distintas de fundamentos. Em primeiro lugar, as justificativas que levaram o STF a construir uma interpretação restritiva do significado de \"classe\" não estão mais presentes. Em segundo lugar, o resultado de tal interpretação implica violação à teleologia e ao sistema da Constituição e impede que o Supremo cumpra uma dimensão fundamental da sua missão institucional: a proteção de direitos fundamentais com celeridade, efetividade e em ampla escala. Em terceiro lugar, trata-se de interpretação que enseja a violação da igualdade por impacto desproporcional sobre grupos minoritários.\n\n[...]"
+    },
+    {
+      "page": 37,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "17. Por fim, a principal missão do Supremo Tribunal Federal, tal como a missão de toda e qualquer corte constitucional ou suprema corte com competência nesta matéria, é identificada atualmente com a proteção dos direitos fundamentais e do adequado funcionamento do processo democrático[11]. Como se demonstrará adiante, essa competência é frustrada pela interpretação restritiva ora exami-nada.\n\n18. Assim, não há qualquer evidência de que a construção de um conceito de classe que permita a abrangência de entidades protetoras de direitos fundamentais possa gerar risco de aumento de ações, a ponto de impactar o funcionamento da Corte, ou que o exercício de tal competência possa comprometer, de algum modo, a estabilidade da Democracia brasileira.\n\n[...]\n\n28. Assim, limitar as entidades de classe às categorias econômicas e políticas significa valer-se do controle de constitucionalidade para preservar interesses de grupos que dispõem de força política e frustrar o acesso à jurisdição constitucional justamente pelos grupos que mais precisam dela.\n\n[...]\n\n34. Portanto, é preciso avançar para reconhecer que a entidade de classe de âmbito nacional é aquela composta por indivíduos ligados por vínculos econômicos, profissionais"
+    },
+    {
+      "page": 38,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "ou de defesa de direitos fundamentais, e que em todos esses casos há legitimidade ativa para a propositura de ação direta. A ideia, de fato, não é nova. O Ministro Fux já defendeu posição semelhante, em voto proferido na ADI 4029[27]. O Ministro Marco Aurélio posicionou-se da mesma forma em decisão monocrática proferida na ADI 5291[28]. Não bastasse isso, a interpretação aqui proposta tem sido defen-dida - e possivelmente aguardada - por diversos acadêmi-cos que se dedicam a acompanhar o funcionamento do Supremo Tribunal Federal [29]. Trata-se, portanto, de \"uma ideia cujo tempo chegou\".\n\n35. Essas são as razões que me levam a superar a jurisprudência anterior do Supremo Tribunal Federal, para assen-tar como entidade de classe de âmbito nacional, aquelas que, tendo comprovado seu caráter nacional, reúnam membros unidos por vínculo de natureza econômica, profissional ou pela defesa de direitos de grupos minoritários e vulneráveis de que façam parte.\n\n36. Por todo o exposto, supero a jurisprudência pretérita do Supremo Tribunal Federal, para reconhecer que a Requerente constitui entidade de classe de âmbito nacional, e, portanto, conheço da ação.\n\nO voto paradigmático do MINISTRO BARROSO, ao tratar do conceito de \"classe\", defende que o acesso à jurisdição constitucional não deve ser um privilégio de grupos tradicionais ou economicamente poderosos, mas também um canal legítimo para aqueles que lutam pela concretização de"
+    },
+    {
+      "page": 39,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "direitos fundamentais, como a EDUCAÇÃO, a igualdade e a não discriminação. Esse entendimento foi acompanhado por outros Ministros, como LUIZ FUX e MARCO AURÉLIO, que já haviam se posicionado em favor de uma interpretação materialmente ampliativa do artigo 103, IX, da Constituição.\n\nNão se ignora, ademais, o reconhecimento institucional já conferido à ABE-EAD pelo próprio Poder Público. A entidade foi formalmente indicada, por meio da Portaria MEC n. 546, de 13 de junho de 2024, para participar da escolha de conselheiros do Conselho Nacional de Educação (CNE), o que comprova sua representatividade e legitimidade nacional perante as autoridades educacionais.\n\nNão menos importante, com vistas a demonstrar a presença da entidade em mais de 9 (nove) unidades federativas e, com isso, satisfazer o critério objetivo de abrangência nacional delineado pela jurisprudência deste Pretório Excelso, por meio de amostragem, demonstra-se o cumprimento do requisito, disponibilizando, caso seja necessário, a totalidade do banco de dados para comprovar a atuação federativa.\n\nComprovação da existência de associados no Estado do Alagoas (2):"
+    },
+    {
+      "page": 40,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": ""
+    },
+    {
+      "page": 41,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": ""
+    },
+    {
+      "page": 42,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": ""
+    },
+    {
+      "page": 43,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "(12):"
+    },
+    {
+      "page": 44,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": ""
+    },
+    {
+      "page": 45,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": ""
+    },
+    {
+      "page": 46,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "(20):"
+    },
+    {
+      "page": 47,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "(23):"
+    },
+    {
+      "page": 48,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": ""
+    },
+    {
+      "page": 49,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Com efeito, a documentação ora apresentada demonstra, de forma clara e objetiva, a atuação institucional da ASSOCIAÇÃO BRASILEIRA DOS ESTUDANTES DE EDUCAÇÃO A DISTÂNCIA - ABE-EAD em todas as 27 (vinte e sete) unidades da Federação, evidenciando não apenas sua presença formal em âmbito nacional, como também sua efetiva inserção nos diversos contextos educacionais regionais do país. Ressalte-se, ademais, que o quantitativo de estudantes identificado nos documentos colacionados constitui mera amostragem representativa do expressivo universo de filiados da entidade, cuja capila-ridade e relevância extrapolam os dados ora disponibilizados, servindo estes, tão somente, como indicativo suficiente da amplitude associativa e do grau de representatividade social que a autora detém perante a comunidade estudantil da modalidade de educação a distância no Brasil.\n\nPor fim, destaca-se a sua atuação processual efetiva no processo n.\n1034657-04.2019.4.01.3400, em trâmite na 7ª Vara Federal Cível da Seção Ju-diciária do Distrito Federal, em que figura no polo passivo ao lado da União em litisconsórcio necessário, na defesa da validade jurídica da oferta do curso de Direito na modalidade a distância - uma das temáticas mais controversas no cenário educacional brasileiro recente.\n\nDiante de todos esses elementos - finalidade estatutária, amplitude nacional, reconhecimento institucional, participação ativa em debates judiciais e pertinência temática com o objeto da presente ação -, não há dúvida de que a ABE-EAD preenche os requisitos constitucionais e jurisprudenciais para ser reconhecida como entidade de classe de âmbito nacional, com legitimidade ativa para a propositura desta Ação Direta de Inconstitucionalidade.\n\nNegar-lhe tal condição equivaleria a obstruir o acesso de um grupo vulnerável à jurisdição constitucional, contrariando não apenas o texto da Constituição, mas sobretudo o seu espírito inclusivo e democrático."
+    },
+    {
+      "page": 50,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "8. DA PERTINÊNCIA TEMÁTICA PARA PROPOSITURA DA ADI\n\nA pertinência temática entre os objetivos institucionais da ASSOCIAÇÃO BRASILEIRA DOS ESTUDANTES DE EDUCAÇÃO A DISTÂNCIA (ABE-EAD) e o objeto da presente Ação Direta de Inconstitucionalidade é manifesta, direta e incontes-tável. Constituída como entidade de classe de âmbito nacional desde 2008, a ABE-EAD tem por missão estatutária a defesa dos direitos dos estudantes de todas as etapas e níveis de ensino, com ênfase na promoção da igualdade material de acesso à educação de qualidade, notadamente por meio da modalidade de ensino a distância - instrumento legítimo, reconhecido legal e constitucionalmente como meio de democratização do ensino superior e de redução das desigualdades sociais e regionais.\n\nÉ nesse horizonte institucional que se insere a presente impugnação do Decreto n. 12.456/2025, norma regulamentar que, ao instituir um regime de proibição à oferta de cursos superiores a distância em determinadas áreas do conhecimento - notadamente Licenciaturas, Saúde e Direito - e ao delegar ao Ministro da Educação o poder de ampliar tais vedações por ato infralegal, vulnera frontalmente os objetivos fundacionais da ABE-EAD e os direitos fundamentais dos estudantes que ela representa. Trata-se, pois, de hipótese típica em que o vínculo de pertinência temática se estabelece de forma objetiva entre a norma impugnada e a atuação estatutária da entidade autora, cujo núcleo essencial reside na defesa da liberdade, da igualdade e da expansão do ensino a distância como instrumento de justiça educacional.\n\nImporta ressaltar que o Decreto ora atacado não apenas limita de modo desarrazoado e desproporcional o acesso de milhares de brasileiros à educação superior, mas também inverte a finalidade programática do artigo 80 da LDB, que determina, de forma clara e imperativa, que o Poder Público \"incentivará\" o"
+    },
+    {
+      "page": 51,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "desenvolvimento da modalidade EaD. A inversão de um mandamento legal de fomento em uma política restritiva de proibição interfere diretamente na missão institucional da ABE-EAD, que é justamente assegurar que a modalidade a distância seja expandida, qualificada e protegida contra discriminações estruturais, preconceitos históricos e retrocessos legislativos ou administrativos.\n\nNessa linha, a jurisprudência do Supremo Tribunal Federal tem reitera-damente afirmado que o requisito da pertinência temática deve ser compreendido de modo teleológico e sistemático, de modo a assegurar que entidades legitimadas possam acessar a jurisdição constitucional quando hou-ver ameaça direta aos fins que justificam sua existência institucional. Em diversos precedentes, inclusive no recente julgamento da ADPF 527/DF, o STF reconheceu que a pertinência temática se estabelece não apenas quando há violação a direitos individuais dos membros da entidade proponente, mas sobretudo quando o ato normativo impugnado atinge o objeto institucional que legitima sua constituição e atuação, especialmente no campo dos direitos fundamentais.\n\nNo presente caso, a atuação da ABE-EAD em prol da educação a distância não é episódica ou retórica, mas concretamente reconhecida por diferentes ins-tâncias do poder público, inclusive pelo Ministério da Educação, que a incluiu no processo de indicação de conselheiros para o Conselho Nacional de Educação (Portaria MEC nº 546/2024), bem como pelo Poder Judiciário, que a admitiu como litisconsorte qualificada em ação movida pela OAB contra o ensino jurídico a distância (Processo nº 1034657-04.2019.4.01.3400 - 7ª Vara Federal Cível da SJDF).\n\nPortanto, diante da inequívoca conexão entre os fins institucionais da ABE-EAD e o conteúdo normativo do Decreto n. 12.456/2025, verifica-"
+    },
+    {
+      "page": 52,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "se atendido, com absoluta clareza, o requisito da pertinência temática exigido para a propositura da Ação Direta de Inconstitucionalidade, conforme a moldura constitucional traçada pelo artigo 103, inciso IX, da Constituição da República, e pela construção jurisprudencial do Pretório Excelso. A atuação da entidade autora nesta ADI não é apenas legítima, mas imprescindível à defesa da Constituição em face de normas que, a pretexto de regulamentar, restringem e negam direitos fundamentais expressamente positivados no texto legal e constitucional.\n\n9. DA INEXISTÊNCIA DE OUTRO MEIO EFICAZ DE SANAR A LESIVIDADE\n\nA Constituição da República, ao instituir o sistema de controle concentrado de constitucionalidade, conferiu à Ação Direta de Inconstitucionalidade\n(ADI) a função de proteger, de modo célere, direto e objetivo, a supremacia da ordem constitucional diante de normas infraconstitucionais que a contrariem.\nA legitimidade do uso desse instrumento exige a presença de pertinência temática, interesse jurídico e adequação quanto à natureza da norma impugnada - requisitos que, como demonstrado, estão integralmente preenchidos no presente caso.\n\nEntre esses requisitos, destaca-se o da inexistência de outro meio eficaz de sanar a lesividade, que, embora esteja expressamente previsto no artigo 4º,\n§ 1º, da Lei n. 9.882/1999 apenas no que tange à Arguição de Descumprimento de Preceito Fundamental (ADPF), também encontra ressonância interpretativa na jurisprudência do Supremo Tribunal Federal como critério de racionalização e eficiência da jurisdição constitucional concentrada, especialmente quando se"
+    },
+    {
+      "page": 53,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "discute a impugnação de atos normativos infralegais, como os decretos do Poder Executivo.\n\nNesse sentido, o Decreto n. 12.456/2025, ora impugnado, ainda que qua-lificado formalmente como ato regulamentar, ostenta conteúdo normativo autônomo e caráter inovador, extrapolando os limites traçados pela lei regulamentada (art. 80 da LDB) e invadindo competência legislativa reservada ao Congresso Nacional. Ao instituir vedações substanciais à oferta de cursos a distância e ao outorgar ao Ministro da Educação poderes normativos amplos para restringir ainda mais essa modalidade de ensino, o decreto ora contestado ultrapassa a função executiva de fiel cumprimento da lei e passa a exercer função normativa primária, razão pela qual se sujeita ao controle direto de constitucionalidade por meio de ADI.\n\nEm situações como esta, a jurisprudência do Supremo Tribunal Federal é firme em admitir o controle concentrado de constitucionalidade quando o ato regulamentar assume densidade normativa própria, funcionando como verdadeiro substitutivo da legislação.\n\nDo ponto de vista prático, não há outro meio processual capaz de pro-ver, com a mesma abrangência, eficácia e generalidade, a tutela dos direitos fundamentais violados pela norma impugnada. A utilização de ações individuais ou mesmo coletivas - como mandados de segurança ou ações civis públicas - não é capaz de oferecer a resposta sistêmica e definitiva exigida pelo caso, pois não solucionaria a inconstitucionalidade em sua dimensão normativa abstrata, nem impediria a perpetuação dos efeitos lesivos sobre toda a comunidade acadêmica e educacional brasileira, em especial os estudantes da modalidade EaD."
+    },
+    {
+      "page": 54,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Assim, o presente caso demanda resposta jurisdicional dotada de força vinculante e eficácia erga omnes, atributo exclusivo das decisões proferidas no controle concentrado de constitucionalidade pelo Supremo Tribunal Federal. A ausência de outro meio eficaz para sanar a lesividade provocada pela norma impugnada justifica, portanto, a via eleita, que se revela necessária, adequada e in-substituível.\n\nDessa maneira, cumpre reconhecer a plena admissibilidade da presente Ação Direta de Inconstitucionalidade como meio processual idôneo, legítimo e imprescindível à proteção da supremacia da Constituição e à restauração da integridade do ordenamento jurídico, em face da afronta direta promovida pelo Decreto n. 12.456/2025 à ordem constitucional vigente.\n\n10. DA INCONSTITUCIONALIDADE FORMAL EM RAZÃO DA USURPAÇÃO DE COMPETÊNCIA LEGISLATIVA\n\nA Constituição da República estrutura o processo normativo em bases democráticas e institui, como regra de competência, a centralidade do PODER LEGISLATIVO na formulação de políticas públicas estruturantes, especialmente aquelas que impactam o exercício de direitos fundamentais, como o direito à educação. A função regulamentar, atribuída ao Chefe do Poder Executivo nos termos do artigo 84, incisos IV e VI da Constituição, deve cingir-se à fiel execução da lei, sem poder inovar na ordem jurídica, sob pena de inva-são indevida da reserva legislativa.\n\nNesse contexto, o artigo 80 da Lei de Diretrizes e Bases da Educação Nacional (Lei n. 9.394/1996) estabelece, de forma inequívoca, um comando nor-"
+    },
+    {
+      "page": 55,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "mativo vinculante, ao prever que o Poder Público INCENTIVARÁ o desenvolvimento e a veiculação de programas de ensino a distância, em todos os níveis e modalidades de ensino. A utilização do futuro do presente do indicativo, conjugada com a opção lexical do verbo \"incentivar\", expressa não uma faculdade discricionária, mas sim um dever estatal de fomento, coerente com os princípios constitucionais da máxima efetividade dos direitos fundamentais e da igualdade no acesso à educação.\n\nO Decreto n. 12.456/2025, ao dispor de maneira restritiva e proibitiva sobre a oferta de cursos na modalidade a distância, inclusive ao delegar ao Ministro de Estado da Educação a faculdade de vedar novos cursos, usurpa a competência normativa do Poder Legislativo e inverte a finalidade da lei regulamentada, promovendo uma interpretação que se coloca em frontal dissonância com a orientação legislativa e constitucional. Em lugar de incentivar, limita; em vez de promover o acesso, restringe; ao invés de realizar a diretriz legal, a subverte.\n\nEssa inversão do sentido normativo revela clara violação ao princípio da legalidade (art. 5º, II, CRFB), à separação dos poderes (art. 2º) e à própria lógica do Estado Democrático de Direito, que exige que modificações substanciais em políticas públicas estruturais - especialmente em matéria educacional - sejam precedidas de amplo debate legislativo, com participação plural e transpa-rente da sociedade civil.\n\nNão se pode olvidar que, sob a aparência de regulamentação, o Decreto n. 12.456/2025 opera como verdadeira FONTE NORMATIVA PRIMÁRIA, criando obrigações e vedações que não encontram respaldo em qualquer dispositivo legal. Tal prática é vedada tanto pelo texto constitucional quanto pela jurisprudência do Supremo Tribunal Federal, que já assentou que a atuação do"
+    },
+    {
+      "page": 56,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Poder Executivo, quando extrapola os limites legais, incorre em inconstitucionalidade formal e material.\n\nO abuso do poder regulamentar, ao modificar o conteúdo essencial da política pública instituída pela LDB, configura também lesão ao PRINCÍPIO DA RESERVA DO LEGISLATIVO, expressão da democracia constitucional que veda ao Executivo o exercício de função legislativa autônoma. Como bem afirma LUÍS ROBERTO BARROSO:\n\n\"[...] nas democracias constitucionais, a produção das normas jurídicas estruturantes da convivência política e social deve ser atribuída ao Legislativo, como casa da soberania popular\" (BARROSO, Curso de Direito Constitucional Contemporâneo, 7. ed., Saraiva, 2022).\n\nEssa advertência é corroborada pelo direito comparado. Na Alemanha, o Bundesverfassungsgericht consolidou a doutrina da Wesentlichkeitstheorie, segundo a qual matérias de elevada densidade normativa - como neste caso em que a educação é pauta -, devem ser tratadas exclusivamente por lei formal, sendo vedado ao Executivo editar normas que alterem o núcleo essencial das diretrizes legislativas. No caso Numerus clausus (BVerfGE 33, 303), a Corte Constitucional Alemã foi enfática ao reafirmar que, mesmo diante da necessidade de planejamento estatal, a centralidade normativa do Parlamento é irrenunciável.\n\nDo mesmo modo, a jurisprudência da Suprema Corte dos Estados Unidos consagra a nondelegation doctrine, reiterando que o Congresso não pode delegar ao Executivo poderes normativos sem estabelecer critérios inteligíveis.\nNo leading case A.L.A. Schechter Poultry Corp. v. United States (1935), a Corte"
+    },
+    {
+      "page": 57,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "considerou inconstitucional a transferência genérica de poderes regulató-rios, por violação ao princípio da separação dos poderes. Em decisões mais recentes, como West Virginia v. EPA (2022), firmou-se a chamada major questi-ons doctrine, que exige autorização legislativa clara para políticas públicas de impacto estrutural.\n\nAssim, o Decreto n. 12.456/2025 incorre no mesmo vício repudiado nos principais sistemas jurídicos democráticos:\n\nA extrapolação do poder regulamentar, a violação da reserva legal e o desvio de finalidade legislativa, promovendo uma regressão normativa que inverte o comando legal de incentivo e converte-o, sem respaldo legislativo, em mecanismo de supressão de direitos.\n\nDiante do cenário apresentado, a problemática central da presente ação reside no uso de decreto regulamentar como instrumento para subverter o sentido teleológico de um comando legal primário - o artigo 80 da Lei de Diretrizes e Bases da Educação Nacional - convertendo dever de incentivo estatal em proibição normativa, sem o correspondente respaldo em lei formal apro-vada pelo Poder Legislativo.\n\nNa lição de JOSÉ AFONSO DA SILVA, a função regulamentar do Poder Executivo é \"a de explicitar a execução da lei, de lhe detalhar a aplicação, sem, contudo, inovar na ordem jurídica\" (Curso de Direito Constitucional Positivo, 39ª ed., Malheiros, 2023, p. 473). Tal função encontra seus limites precisamente na legalidade e na subordinação hierárquica: o regulamento não pode contrariar nem substituir a vontade legislativa, sob pena de violação da reserva legal."
+    },
+    {
+      "page": 58,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Ademais, com propriedade CELSO RIBEIRO BASTOS reitera que a separação de poderes não pode ser entendida como um enunciado puramente formal, mas como garantia da supremacia democrática e da proteção contra o arbítrio. Assim, qualquer exercício de competência normativa fora dos limites impostos pelo legislador é manifestamente inconstitucional, pois \"só ao Parlamento cabe definir o conteúdo dos direitos e deveres dos cidadãos\" (Co-mentários à Constituição do Brasil, vol. 2, Saraiva, 1989, p. 97).\n\nEssa perspectiva é reforçada no pensamento de KONRAD HESSE, para quem o princípio da força normativa da Constituição exige que a concretização dos direitos fundamentais seja orientada por uma atuação estatal que respeite a estrutura de competências delineada pela própria Constituição. Qualquer deslocamento ilegítimo de função normativa, especialmente no campo das políticas públicas estruturantes, representa não apenas ofensa ao princípio da legalidade, mas também ruptura com a coerência do Estado Constitucional (cf. A Força Normativa da Constituição, Martins Fontes, 1991).\n\nNa mesma linha, ROBERT ALEXY desenvolve a noção de colisões de princípios, defendendo que a realização dos direitos fundamentais deve se pautar pela máxima otimização do seu conteúdo, a partir de ponderações juridicamente jus-tificáveis. A substituição do dever de incentivo por proibição administrativa, no caso da EaD, não configura ponderação legítima, mas inversão te-leológica de finalidade normativa, o que esvazia a eficácia do direito à educação sob os parâmetros do princípio da proporcionalidade em sentido estrito (cf. Teoria dos Direitos Fundamentais, Malheiros, 2008, p. 105-110).\n\nDessa forma, a pretensão de sustentar um regime de proibição normativa sobre o ensino a distância, com base em decreto presidencial ou"
+    },
+    {
+      "page": 59,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "ato infralegal ministerial, representa clara afronta à reserva legal, à cláusula pétrea da separação dos poderes (art. 60, § 4º, III, da CF/1988) e ao princípio da legalidade estrita, sobretudo quando se trata da configuração de políticas públicas que tocam o núcleo essencial de um direito fundamental - o direito à educação.\n\nPortanto, diferentemente do que se poderia imaginar à primeira vista, o presente caso não trata apenas de uma divergência interpretativa sobre a LDB, mas de uma violação estrutural à organização constitucional do poder normativo no Estado brasileiro, legitimando, por isso, a jurisdição concentrada do Supremo Tribunal Federal para expurgar da ordem jurídica o ato normativo subalterno que viola preceitos constitucionais estruturantes. A INTERPRETAÇÃO CONFORME A CONSTITUIÇÃO, nesse cenário, é não ape-nas uma técnica hermenêutica, mas uma imposição dogmática do Estado de Direito.\n\nPor essas razões, impõe-se o reconhecimento da inconstitucionalidade do referido decreto, por comprometer o equilíbrio entre os Poderes, esvaziar o espaço deliberativo do Parlamento e contrariar o mandamento constitucional de promoção da educação como direito social fundamental.\n\n11. DA INCOSTITUCIONALIDADE (AUTÔNOMA) DO INCISO II DO\nARTIGO 9º DO DECRETO N. 12.456/2025\n\nAinda que esta Suprema Corte não venha a declarar, de forma plena, a inconstitucionalidade dos artigos 8º e 9º do Decreto n. 12.456/2025, impõe-se, por fundamento autônomo e de urgência inegável, a declaração de inconstitucionalidade do inciso II do artigo 9º, que estabelece, de modo categórico,"
+    },
+    {
+      "page": 60,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "a proibição de oferta de cursos de LICENCIATURA na modalidade a distância, em clara afronta a preceitos constitucionais, legais e à realidade concreta do sistema educacional brasileiro.\n\nCom efeito, a formação de professores da educação básica é reconhecida pela Constituição e pelo legislador ordinário como uma das prioridades estruturantes da política educacional nacional. A meta 15 do Plano Nacional de Educação (Lei nº 13.005/2014), cuja densidade normativa é incontornável, impõe ao Poder Público o dever de assegurar que todos os docentes da educação básica tenham formação específica em curso de licenciatura na área de conhecimento em que atuam, cabendo à União, aos Estados, ao Distrito Federal e aos Municípios atuarem em regime de colaboração para tanto.\n\nNeste cenário, a modalidade de Educação a Distância (EaD) não ape-nas foi reconhecida legalmente no artigo 80 da LDB como ferramenta legítima de democratização da oferta, como se revelou, nos últimos vinte anos, o principal instrumento de interiorização e massificação da formação docente, sobretudo em regiões historicamente desassistidas pela oferta presencial. Dados extraídos do Censo da Educação Superior (INEP/2023) ates-tam que, enquanto apenas 659 municípios possuem oferta presencial de cursos de Pedagogia, a modalidade EaD está presente em 3.366 municípios, viabilizando a formação de professores em todo o território nacional, inclusive em comunidades quilombolas, ribeirinhas e indígenas.\n\nA norma impugnada, ao estabelecer a vedação genérica das Licenciaturas por EaD, ignora esse contexto fático e promove verdadeiro apaga-mento de uma política educacional consolidada, cuja eficácia e alcance foram reconhecidos inclusive por órgãos do próprio Ministério da Educação."
+    },
+    {
+      "page": 61,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "A título ilustrativo, o curso de Pedagogia da Universidade Virtual do Estado de São Paulo (UNIVESP), instituição pública estadual de EaD, conta com 17 mil alunos matriculados e alcança 382 municípios paulistas, dos quais 278 sequer possuem uma única faculdade presencial instalada. Sob as novas regras, a continuidade dessas matrículas se tornará inviável a partir do segundo semestre de 2026, não por deficiência acadêmica, mas por um ato regulamentar que cria obstáculo logístico intransponível à presença do ensino onde ele é mais necessário.\n\nÉ preciso reconhecer, ademais, que a exigência de presencialidade mínima de 50% nas disciplinas do núcleo específico, exigida para as Licenciaturas mesmo na modalidade semipresencial, resulta, na prática, na extinção da oferta em milhares de polos de EaD. Estimativas técnicas apontam que, se fosse exigido um mínimo de 40 alunos por curso/polo para viabilizar a manutenção das aulas presenciais conforme o Decreto, haveria uma redução de 88,6% na cobertura territorial dos cursos de Pedagogia por EaD na rede privada - a qual concentra mais de 90% das matrículas da população mais vulnerável.\n\nEssa imposição normativa constitui, portanto, ato atentatório à inclusão educacional, ao desenvolvimento nacional equilibrado e à redução das desigualdades regionais - objetivos consagrados no art. 3º, incisos I e III, da Constituição. Além disso, a vedação viola diretamente o princípio da autonomia universitária (art. 207), ao subtrair das instituições de ensino superior o poder de definir seus projetos pedagógicos, sua metodologia e sua forma de oferta, impondo modelo único em desacordo com os princípios do pluralismo de ideias e de concepções pedagógicas (art. 206, III, CF), o que, em última análise, resulta em prejuízo ao amplo desenvolvimento dos alunos."
+    },
+    {
+      "page": 62,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Não menos grave é o fato de que não há correlação entre carga ho-rária presencial e qualidade formativa, como demonstram os dados ofici-ais do INEP. No curso de Pedagogia, as notas obtidas pelos alunos da EaD no Exame Nacional de Desempenho dos Estudantes (ENADE) são equivalentes às da modalidade presencial, ambas com Conceito 3, considerado satisfató-rio pelo Sistema Nacional de Avaliação da Educação Superior (SINAES). Ou seja:\n\nNão se trata de uma distinção pautada em evidências de desempenho acadêmico, mas sim de um precon-ceito institucional contra a modalidade EaD, trans-formado em política pública regressiva.\n\nAdemais, a vedação normativa viola o dever constitucional do Estado de fomentar a educação em todos os níveis (art. 205, CF), bem como o próprio comando expresso do artigo 80 da LDB, que impõe ao Poder Público o dever de incentivar o desenvolvimento da EaD, jamais o de restringi-la. Interpretar tal preceito como autorização para proibir Licenciaturas a distância constitui inversão da finalidade legal e afronta ao postulado da interpretação conforme a Constituição.\n\nDiante de todo o exposto, conclui-se que o inciso II do artigo 9º do Decreto n. 12.456/2025 revela-se flagrantemente inconstitucional por diversos fundamentos autônomos e cumulativos: (i) por violar o direito à educação e o dever estatal de formação docente; (ii) por frustrar metas legais de expansão e universalização do acesso; (iii) por atentar contra a autonomia universitária e o pluralismo metodológico; (iv) por comprometer a interiorização do ensino superior e (v) por promover retrocesso social desprovido de base empírica ou legal."
+    },
+    {
+      "page": 63,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Assim, ainda que esta Suprema Corte entenda pela manutenção residual do Decreto n. 12.456/2025, impõe-se, como medida de mínima racionalidade e respeito aos fundamentos constitucionais da educação, a declaração de inconstitucionalidade autônoma do inciso II do art. 9º, a fim de preservar a continuidade da formação docente no país e o exercício efetivo do direito fundamental à educação superior por milhões de brasileiros excluídos do modelo presencial.\n\n12. DA INCOSTITUCIONALIDADE (AUTÔNOMA) DO INCISO III\nDO ARTIGO 9º DO DECRETO N. 12.456/2025\n\nNa remota hipótese de não ser acolhido, de forma integral, o pedido de declaração de inconstitucionalidade dos artigos 8º e 9º do Decreto n.\n12.456/2025, impõe-se, sucessivamente, o exame autônomo da inconstitucionalidade do inciso III do artigo 9º, dispositivo que representa, em si mesmo, vício formal gravíssimo, capaz de fulminar sua validade independentemente da sorte dos demais dispositivos impugnados. Com efeito, o referido\ninciso extrapola de modo flagrante os limites constitucionais da função regulamentar ao outorgar ao Ministro de Estado da Educação competência normativa aberta e ilimitada para definir, mediante ato infralegal, novas hipóteses de vedação à oferta de cursos superiores na modalidade a distância.\n\nArt. 9º É vedada a oferta de cursos de graduação a distância:\n[...]\nIII - que venham a ser definidos em ato do Ministro de Estado da Educação. (Destacamos)."
+    },
+    {
+      "page": 64,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Trata-se, pois, de típica cláusula de delegação normativa genérica e prospectiva, carente de qualquer fundamento legal prévio e revestida de conteúdo material primário, que autoriza um agente político do Poder Executivo - sem investidura legislativa - a restringir, por ato unilateral, o exercício de direito fundamental assegurado pelo ordenamento constitucional.\n\nAo conferir ao Ministro da Educação a faculdade de inovar no ordenamento jurídico mediante ato infralegal com força proibitiva, o Decreto n. 12.456/2025 estabelece um mecanismo de subdelegação normativa ilegítima, violador da reserva legal em matéria de direitos fundamentais, da separação de Poderes (art. 2º da CF), da legalidade estrita (art. 5º, II), e da competência do Congresso Nacional para legislar sobre diretrizes e bases da educação nacional (art. 48, caput, e art. 22, XXIV, da CF).\n\nÉ importante ressaltar que não se trata aqui de mera atribuição técnico-administrativa de execução de política pública, mas de verdadeira competência normativa com densidade legiferante, apta a criar vedações gerais e abstratas, com efeitos estruturantes sobre o sistema de ensino superior. Nessa medida, o inciso III assume feição de norma primária em sentido material, sem respaldo legal ou delegação legislativa específica, configurando usurpação da função legiferante e violação da hierarquia das fontes do Direito.\n\nA jurisprudência consolidada desta Suprema Corte rechaça expressamente essa prática normativa; o Poder Executivo não pode, por decreto ou por subdelegação a ministro de Estado, instituir deveres, proibições ou restrições com conteúdo primário sem prévia autorização legal. A edição de atos normativos primários por autoridades administrativas, ainda que sob a aparência de regulamentação, configura vício de inconstitucionalidade formal e admite controle concentrado por esta Corte."
+    },
+    {
+      "page": 65,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Além disso, o inciso III do artigo 9º do Decreto impugnado enseja grave violação aos princípios da segurança jurídica e da proteção da confiança legítima, uma vez que deixa em aberto o universo de cursos que po-derão, futuramente, ser vedados por ato do Ministro, tornando instável e imprevisível o planejamento institucional das IES, o exercício da autonomia universitária (art. 207, CF) e o acesso dos estudantes ao ensino superior, especialmente aqueles que dependem da modalidade EaD para inclusão educacional.\n\nEm síntese, mesmo que não se reconheça - o que se admite apenas por dever de argumentação - a inconstitucionalidade dos demais dispositivos impugnados, é imprescindível que esta Suprema Corte declare a nulidade autônoma do inciso III do art. 9º do Decreto n. 12.456/2025, por afronta direta aos postulados fundamentais da legalidade, da separação de poderes e da reserva legislativa. Trata-se de vício estrutural que, por si só, compromete a integridade constitucional do regime normativo instituído e deve ser extir-pado do ordenamento jurídico como medida de preservação do Estado de Direito e da supremacia da Constituição.\n\n13. DA INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO FEDERAL E DA INCONSTITUCIONALIDADE POR ARRASTAMENTO\n\nO princípio da supremacia da Constituição - pilar de toda ordem jurídica fundada no Estado Democrático de Direito - impõe não apenas a subordinação formal e material dos atos normativos infraconstitucionais à Lei Maior, mas exige, do intérprete, uma postura ativa no sentido de assegurar a coerência, a integridade e a máxima efetividade dos direitos fundamentais. É"
+    },
+    {
+      "page": 66,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "nessa moldura que se inscrevem duas técnicas centrais de controle de constitucionalidade: a interpretação conforme à Constituição e a declaração de inconstitucionalidade por arrastamento.\n\nA primeira, como já ensinava JOSÉ AFONSO DA SILVA, constitui uma técnica de preservação do ato normativo legal ou infralegal, sempre que, diante de am-biguidade ou pluralidade interpretativa, for possível extrair-lhe um sentido compatível com a Constituição. A segunda - a declaração de inconstitucionalidade por arrastamento - impõe-se nos casos em que normas secundárias, como decretos e regulamentos, tenham como fundamento de validade ou como consequência prática a aplicação de uma norma declarada inconstitucional, ou de uma interpretação inconstitucional da lei. Nesse caso, por coerência sistêmica, deve-se extirpar também os seus efeitos normativos deri-vados.\n\nSegundo a jurisprudência do Supremo Tribunal Federal, destaca-se:\n\nEmenta: Direito Tributário. Ação Direta de Inconstitucionalidade. Reserva de Lei Complementar da União para definição do \"valor adicionado\" utilizado no cálculo da cota-parte do ICMS destinada aos Municípios. Procedente. I.\nCaso em exame 1. Ação Direta de Inconstitucionalidade, com pedido de medida cautelar, proposta pela Procurado-ria-Geral da República, visando à declaração de inconstitucionalidade: (i) do art. 3º, § 16, da Lei nº 5.645/1991 do Estado do Pará, incluído pela Lei Estadual nº 10.310/2023;\n(ii) do art. 3º, inciso III, e do art. 5º, inciso V, ambos do Decreto nº 4.478/2001 do Estado do Pará, incluídos pelo Decreto nº 1.182/2014; e (iii) do art. 4º, inciso VI, da Instrução Normativa nº 16/2021 da Secretaria da Fazenda do"
+    },
+    {
+      "page": 67,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Pará. II. Questão em discussão 2. A controvérsia consiste em verificar se a norma estadual que altera o cálculo do valor adicionado para empresas mineradoras usurpou competência normativa atribuída à Lei Complementar da União. III. Razões de decidir 3. A legislação estadual que define o \"valor adicionado\" para os fins previstos no art. 158,\n§ 1º, inciso I, da Constituição Federal é formalmente inconstitucional, pois invade competência legislativa privativa da União, em afronta ao art. 161, inciso I, da Constituição Federal de 1988. 4. É, portanto, inconstitucional o art.\n3º, § 16, da Lei nº 5.645/1991 do Estado do Pará, que estabeleceu tal definição, por vício insanável. Por consequência, declara-se também a inconstitucionalidade, por arrastamento, do art. 3º, inciso III, e do art. 5º, inciso V, ambos do Decreto nº 4.478/2001 do Estado do Pará, bem como do\nart. 4º, inciso VI, da Instrução Normativa nº 16/2021 da Secretaria da Fazenda do Pará. _________ Dispositivos relevantes citados: CF/1988, arts. 158, § 1º, I, e 161, I. Jurisprudência relevante citada: ADI 3.726, Rel. Joaquim Barbosa, Tribunal Pleno, DJe 19.12.2013; ADI 1.423, Rel. Joaquim Barbosa, Tribunal Pleno, DJe 08.06.2007; ADI 3.262 MC, Rel. Carlos Britto, Tribunal Pleno, DJ 04.03.2005; ADI 2.728, Rel. Maurício Corrêa, Tribunal Pleno, DJ 20.02.2004. (ADI 7685, Relator(a): GILMAR MENDES, Tribunal Pleno, julgado em 16-12-2024, PROCESSO ELETRÔNICO DJe-s/n DIVULG 20-01-2025 PUBLIC 21-01-2025)\n\nEMENTA Ação direta de inconstitucionalidade. Artigo 156, caput, da Lei Complementar nº 75, de 1993. Nomeação do chefe do MPDFT. Prerrogativa do presidente da República."
+    },
+    {
+      "page": 68,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Preliminares rejeitadas. Juízo de exclusão. Possibilidade de declaração de inconstitucionalidade por arrastamento.\nNatureza sui generis do Distrito Federal. Competência da União para organizar e manter o MPDFT. Parquet Distrital como parte da estrutura institucional do MPU. Improce-dência do pedido. 1. Na espécie, a impugnação se volta contra norma editada pelo Congresso Nacional com o objetivo de excluí-la do ordenamento jurídico, tendo em vista sua suposta incompatibilidade com a Constituição Federal. No presente caso, o Supremo Tribunal Federal está autorizado a atuar e, no exercício de sua jurisdição constitucional, realiza tão somente juízo de exclusão, no exercício da competência de rejeição outorgada expressamente pelo art. 102,\ninciso I, alínea a, do texto constitucional. 2. A ausência de impugnação do § 2º do art. 156 da LC nº 75/93 não impede que se conheça da ação e, eventualmente, que se estendam os efeitos da declaração de inconstitucionalidade da norma impugnada ao preceito não contestado pelo requerente, em razão da inegável interdependência entre ambos. A jurisprudência do Supremo Tribunal Federal tem flexibili-zado o princípio do pedido em hipóteses em que se verifica que normas impugnadas e não impugnadas possuem teor semelhante ou estão intimamente conectadas, de modo a admitir a declaração de inconstitucionalidade das últimas por arrastamento (v.g. ADI nº 5.175, Rel. Min. Gilmar Mendes, Tribunal Pleno, julgado em 22/6/20, DJe de 6/8/20).\n3. O Distrito Federal não é unidade federada que possa ser equiparada a qualquer outra, uma vez que possui características peculiares que o distinguem dos demais entes da fe-"
+    },
+    {
+      "page": 69,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "deração. Nesse sentido, o Distrito Federal não pode instituir e manter Poder Judiciário ou Ministério Público, nem conta, em sua estrutura orgânico-administrativa, com instituições de polícia civil, polícia penal, polícia militar e corpo de bombeiros militar. No Distrito Federal, tais órgãos e funções são organizados e mantidos pela União e, no caso das forças de segurança pública, sua utilização pelo Governo do Distrito Federal deve, inclusive, observar o disposto em lei federal (CF, art. 32, § 4º). 4. O Ministério Público do Distrito Federal e Territórios foi concebido pelo constituinte de 1988 como um dos quatro ramos do Ministério Público da União (art. 128) e sua natureza federal também encontra amparo no art. 21, inciso XIII, da Constituição - que prevê como competência da União organizar e manter o Ministério Público do Distrito Federal e dos Territórios - e em seu art. 22, inciso XVIII - que atribui à União competência privativa para legislar sobre a organização do Ministério Público do Distrito Federal e dos Territórios.\n5. Não há dúvidas de que o constituinte originário quis o MPDFT como instituição federal e assegurou seu deside-rato tanto ao estabelecer a estrutura orgânica do Ministério Público da União quanto ao repartir as competências entre os entes federativos. Assim, não há como se cogitar haver paralelismo entre a sistemática de nomeação dos procuradores-gerais de justiça dos ministérios públicos estaduais e a do procurador-geral de justiça do MPDFT, sob pena de se admitir uma distorção disfuncional do desenho organizacional do Ministério Público do Distrito Federal, que é órgão federal pertencente à estrutura orgânica do"
+    },
+    {
+      "page": 70,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Ministério Público da União e, como pretendido pelo constituinte originário, completamente estranho à esfera político-administrativa do ente distrital. 6. Pedido julgado im-procedente. (ADI 6247, Relator(a): DIAS TOFFOLI, Tribunal Pleno, julgado em 19-11-2024, PROCESSO ELETRÔNICO DJe-s/n DIVULG 26-11-2024 PUBLIC 27-11-2024)\n\nEMENTA EMBARGOS DE DECLARAÇÃO EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE. OMISSÃO. DECLARAÇÃO DE INCONSTITUCIONALIDADE POR ARRASTAMENTO.\nCONFIRMAÇÃO DA MEDIDA CAUTELAR CONCEDIDA. 1.\nCabem embargos de declaração em ação direta de inconstitucionalidade (Lei n. 9.868/1999, art. 26), desde que vol-tados a esclarecimento ou correção de omissão, obscuri-dade ou contradição na decisão embargada. 2. Conforme consignado no acórdão embargado, é inconstitucional norma estadual que inclui o tempo de serviço público como um dos critérios de desempate na definição da ordem de antiguidade de defensores públicos, por invadir a competência da União para editar normas gerais sobre o regime dos defensores públicos estaduais e por violar o princípio da isonomia. 3. A utilização do tempo computado para efeito de aposentadoria e disponibilidade como critério de desempate também se mostra ilegítimo, por possibilitar o aproveitamento do tempo no serviço público, já declarado inconstitucional, como critério de discrímen. 4. Embargos de declaração conhecidos e providos para declarar-se a inconstitucionalidade por arrastamento da expressão \"bem como aquele computado para efeito de aposentadoria e"
+    },
+    {
+      "page": 71,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "disponibilidade\", constante do § 1º do art. 115 da Lei Complementar n. 988, de 9 de janeiro de 2006, na redação dada pela LC n. 1.366, de 23 de dezembro de 2021, ambas do Estado de São Paulo, confirmando-se a medida cautelar concedida em 19 de janeiro de 2024, em plantão judicial. (ADI 7314 ED, Relator(a): NUNES MARQUES, Tribunal Pleno, julgado em 24-06-2024, PROCESSO ELETRÔNICO DJe-s/n\nDIVULG 04-07-2024 PUBLIC 05-07-2024)\n\nNo presente caso, o artigo 80 da Lei de Diretrizes e Bases da Educação Nacional (Lei n. 9.394/1996) estabelece, com clareza semântica e força teleoló-gica inequívoca, que:\n\nArt. 80. O Poder Público incentivará o desenvolvimento e a veiculação de programas de ensino a distância, em todos os níveis e modalidades de ensino, e de educação continuada. (destacamos).\n\nCom destacado em outros momentos, a utilização do futuro do presente do verbo \"incentivar\" - conjugação que, no campo do direito constitucional positivo, assume caráter de programa vinculante de ação estatal - não admite interpretação que converta o dever de promoção em permissão de vedação. Como já pontuado, do ponto de vista etimológico, o verbo \"incentivar\" deriva do latim incitare, cujo sentido é \"animar, impulsionar, fomentar\", jamais \"restringir\" ou \"suspender\".\n\nNesse sentido, sob o prisma hermenêutico, a INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO exige que tal dispositivo legal seja lido de forma coadunada com os valores constitucionais que informam o direito fundamental à edu-"
+    },
+    {
+      "page": 72,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "cação (arts. 6º, 205, 206 e 208 da Constituição), o princípio da igualdade, a função social do Estado e os deveres positivos de inclusão e superação das desigualdades regionais e sociais (art. 3º, III e IV).\n\nKONRAD HESSE, em sua clássica obra Grundzüge des Verfassungsrechts der Bundesrepublik Deutschland, lembra que a Constituição deve ser interpretada com o espírito de sua força normativa (normative Kraft der Verfassung), a qual exige não apenas respeito formal, mas também realização material e integridade funcional. Nesse contexto, afirma Hesse que a função reguladora da Constituição se realiza na medida em que seus comandos orientam de maneira vinculante toda atuação normativa infraconstitucional, sendo inadmissível o uso do poder regulamentar para esvaziar o conteúdo de normas constitucionais ou legais estruturantes.\n\nNo mesmo sentido, no sistema brasileiro, CELSO RIBEIRO BASTOS aponta que:\n\n\"Não se pode admitir que o regulamento, sob pretexto de detalhamento técnico ou disciplinar, sub-verta o sentido da norma legal, ainda mais quando esta se fundamenta diretamente em preceitos constitucionais de eficácia plena e imediata, como são os direitos fundamentais.\" (Curso de Direito Constitucional, 37ª ed., Saraiva, 2016, p. 310).\n\nO Decreto n. 12.456/2025, ao estabelecer uma proibição de oferta de cursos na modalidade a distância - e, mais ainda, ao delegar ao Ministro de Estado da Educação o poder de ampliar discricionariamente tal restrição por meio de ato administrativo futuro - inverte o sentido da LDB, esvazia o seu comando e vulnera preceitos constitucionais basilares."
+    },
+    {
+      "page": 73,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Esse tipo de atuação normativa não apenas infringe os limites da legalidade, como também viola o princípio da separação dos poderes (art. 2º, CF/88), por transbordar os contornos da função regulamentar e invadir a competência reservada ao Parlamento para deliberar sobre políticas públicas estruturantes, como a política educacional nacional.\n\nTrata-se, pois, de hipótese paradigmática para a aplicação da inconstitucionalidade por arrastamento, na medida em que o decreto impugnado consubstancia interpretação legislativa incompatível com o sentido constitucional do dever de fomento à educação e com a diretriz legal prevista no artigo 80 da LDB.\n\nO Supremo Tribunal Federal, em diversos precedentes, reconheceu que a validade de normas regulamentares depende da compatibilidade com o fundamento legal que lhes dá suporte. Quando a norma regulamentar representa uma extrapolação, uma inversão ou uma distorção do mandamento legal - ainda mais se este estiver calcado diretamente em norma constitucional -, impõe-se o expurgo do ordenamento jurídico do ato derivado. Vejam-se, entre outros, os julgados nas ADIs 1.923, 1.662, 4.017 e 5.311.\n\nNo plano internacional, vale lembrar que o Bundesverfassungsgericht (Tribunal Constitucional Federal da Alemanha), em diversos julgados - como no Apotheken-Urteil (1972) e no Numerus Clausus-Entscheidung (1972) - rei-terou que o Executivo, embora possa implementar políticas públicas, não pode alterar o conteúdo essencial da lei nem subverter sua finalidade, sob pena de violar o núcleo da separação dos poderes e de anular o controle democrático sobre o conteúdo normativo."
+    },
+    {
+      "page": 74,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Portanto, a utilização da técnica da interpretação conforme à Constituição, conjugada à inconstitucionalidade por arrastamento, é o instrumento jurídico adequado para garantir que a política pública educacional - tal como prevista na LDB e na Constituição da República - seja protegida contra interpretações regressivas e arbitrárias promovidas por atos infralegais, cuja eficácia jurídica deve ser aferida à luz de sua compatibilidade com os man-damentos superiores.\n\nEm conclusão, impõe-se ao Supremo Tribunal Federal, como guardião da Constituição e intérprete último da sua força normativa, declarar a inconstitucionalidade do Decreto n. 12.456/2025, por se tratar de ato normativo que se origina de interpretação inversiva, restritiva e antinômica do artigo 80 da LDB - norma esta que, lida em consonância com os princípios constitucionais, impõe um dever positivo de promoção do ensino a distância, e não uma autorização implícita para sua vedação generalizada.\n\n14. DA INCONSTITUCIONALIDADE POR OFENSA AO DIREITO À EDUCAÇÃO E À MÁXIMA EFETIVIDADE DOS DIREITOS SOCIAIS\n\nO quadro de inconstitucionalidades delineado até aqui culmina, em sua dimensão mais gravosa, na violação direta ao direito fundamental à educação, como corolário de uma política pública regressiva que, ao invés de fomentar o acesso, a permanência e a democratização do ensino superior, impõe barreiras estruturais a milhares de brasileiros em situação de vulnerabi-lidade. A consequência jurídica da usurpação normativa e do desvirtuamento legislativo previamente apontados é, portanto, a lesão substancial aos valores centrais que informam o projeto educacional da Constituição."
+    },
+    {
+      "page": 75,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Com efeito, a educação não é apenas uma prestação pública a ser re-gulada, mas um direito fundamental de primeira grandeza, cujo exercício se vincula à realização da dignidade da pessoa humana, à inclusão social, à igualdade material de oportunidades e à promoção da justiça distribu-tiva. É por essa razão que o texto constitucional consagra, em diversos dispositivos, um mandamento categórico de expansão progressiva, qualitativa e equi-tativa do acesso à educação em todos os níveis (art. 205, CF).\n\nA esse preceito soma-se o artigo 206, que consagra a igualdade de condições para o acesso e permanência na escola (inciso I), a liberdade de aprender, ensinar e pesquisar (inciso II), o pluralismo de ideias e concepções pedagógicas (inciso III), e a valorização dos profissionais da educação escolar (inciso V). O artigo 208, por sua vez, impõe ao Estado o dever de garantir o acesso ao ensino superior segundo a capacidade de cada um (inciso V), bem como programas suplementares de material didático, transporte e assistência estudantil (inciso VII), especialmente para os mais necessitados.\n\nNesse sentido, destaca-se que a doutrina constitucional brasileira reconhece que tais dispositivos não constituem meras proclamações programáticas, mas normas jurídicas vinculantes, dotadas de eficácia imediata e conteúdo normativo determinado. Conforme leciona JOSÉ AFONSO DA SILVA, os direitos sociais, entre os quais a educação se insere, \"impõem ao Estado prestações positivas, visando à redução das desigualdades e à realização do princípio da igualdade substancial\" (Curso de Direito Constitucional Positivo, Malheiros, 2010, p. 271).\n\nNo plano teórico, a compreensão dos direitos fundamentais como mandados de otimização, tal como formulado por ROBERT ALEXY, impõe que toda atuação estatal - inclusive a normativa - seja orientada pela lógica da máxima efetividade. Para o autor alemão, toda restrição a um direito fundamental deve"
+    },
+    {
+      "page": 76,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "ser submetida ao crivo do princípio da proporcionalidade, exigindo demonstra-ção de adequação, necessidade e proporcionalidade em sentido estrito (Theorie der Grundrechte, Suhrkamp, 1994).\n\nNo caso em exame, contudo, a vedação imposta pelo Decreto n.\n12.456/2025 à oferta de cursos superiores a distância em determinadas áreas de formação, sem qualquer base legislativa e sob fundamentos genéricos relaci-onados à \"qualidade\", configura flagrante afronta ao núcleo essencial do direito à educação. Tal vedação não só reduz o espectro de possibilidades de acesso ao ensino superior como o faz de forma desigual, afetando especialmente aqueles que mais dele necessitam: estudantes das regiões Norte e Nordeste, mulheres, mães solo, pessoas com deficiência, populações rurais, indígenas, quilombolas, trabalhadores de baixa renda e cidadãos com limitações de deslocamento.\n\nEm outras palavras, trata-se de política pública regressiva, discrimi-natória e inconstitucional, pois nega a grupos vulneráveis os instrumentos mínimos para a emancipação social por meio da educação. Conforme ensina INGO WOLFGANG SARLET, a proibição de retrocesso social (ou cláusula de vedação à regressividade) decorre diretamente do princípio da dignidade humana e do Estado Social, funcionando como limite negativo à atuação estatal (A Eficácia dos Direitos Fundamentais, Livraria do Advogado, 2001, p. 206).\n\nEssa leitura é corroborada também por KONRAD HESSE, ao afirmar que \"a Constituição é uma ordem normativa dotada de força vinculante\", não podendo ser instrumentalizada para políticas de exclusão, ainda que sob o manto da regulação técnica (Grundzüge des Verfassungsrechts, Müller, 1999). O mesmo entendimento se encontra na obra de CLÈMERSON MERLIN CLÈVE, para quem \"a máxima efetividade dos direitos fundamentais sociais impõe a vedação a políticas regressivas que, sob o pretexto da racionalização, resultem em exclusão\" (Direitos Fundamentais e Controle de Constitucionalidade, RT, 2001, p. 182)."
+    },
+    {
+      "page": 77,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Não bastasse, a restrição ora analisada contraria frontalmente o artigo 3º, inciso III, da Constituição, que elenca como objetivo fundamental da República Federativa do Brasil a redução das desigualdades sociais e regionais.\nAo criar obstáculos artificiais à modalidade EaD, o Decreto em questão contraria esse objetivo constitucional e reforça o desequilíbrio estrutural na distribuição de oportunidades educacionais no território nacional.\n\nDesse modo, resta evidente que o Decreto n. 12.456/2025, ao suprimir o acesso à educação superior por meio da modalidade EaD, infringe o direito fundamental à educação, os princípios da igualdade, da não discriminação, da dignidade da pessoa humana e da máxima efetividade dos direitos sociais, sendo, por isso, inconstitucional em sua essência.\n\nRequer-se, pois, a procedência do pedido para que o Supremo Tribunal Federal, como guardião da Constituição, reafirme o compromisso da República com a inclusão educacional, repelindo quaisquer retrocessos que, sob a aparência da regulação, solapem a realização do direito à educação como instrumento de transformação social e liberdade substantiva.\n\n15. DA INCONSTITUCIONALIDADE EM RAZÃO DA DISCRIMINAÇÃO CONTRA OS ALUNOS DO ENSINO A DISTÂNCIA\n\nA continuidade argumentativa exige que se compreenda que a limitação ao ensino a distância não apenas afeta direitos sociais difusos, como também instaura, de forma escancarada, um regime de discriminação estrutural e institucionalizada contra os alunos vinculados à modalidade da EAD. Se o anteriormente foi demonstrada a incompatibilidade do Decreto n."
+    },
+    {
+      "page": 78,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "12.456/2025 com os compromissos constitucionais do acesso universal à educação, o presente tema revela que tal restrição materializa uma desigualdade ativa, que reproduz e legitima um estigma de inferioridade associado à educação dos pobres e das periferias.\n\nA Constituição da República consagra, no artigo 3º, incisos I e III, como fundamentos da República a dignidade da pessoa humana e o combate às desigualdades sociais. No mesmo sentido, os artigos 5º e 206, inciso I, erigem o princípio da igualdade de acesso e permanência na escola como pedra angular da política educacional brasileira. A atuação do Poder Público que contrarie tal fundamento deve ser interpretada à luz do princípio da vedação ao retrocesso social, da máxima efetividade dos direitos fundamentais e da proibição de discriminação indireta - esta última, inclusive, amplamente reconhecida em tratados internacionais de que o Brasil é signatário, como o PACTO INTERNACIONAL DOS DIREITOS ECONÔMICOS, SOCIAIS E CULTURAIS (art. 2º.2).\n\nA vedação imposta pelo Decreto n. 12.456/2025, ao impor exigências desproporcionais à EAD, culmina na exclusão real e objetiva de estudantes que não possuem condições de arcar com os custos e a logística do ensino presencial. Essa exclusão atinge de modo seletivo trabalhadores adultos, mães solo, mulheres chefes de família, estudantes de comunidades indíge-nas e quilombolas, moradores de periferias urbanas e de pequenos municípios do interior brasileiro - perfil este documentado pelo próprio MEC, pelo INEP e em pesquisas acadêmicas da UFSC e da Educa Insights.\n\nSobre esse quadro, novamente vale destacar a doutrina de ROBERT ALEXY fornece aqui contribuição teórica decisiva: quando direitos fundamentais coli-dem, cabe ao intérprete aplicar a técnica da ponderação, buscando realizar ao máximo ambos os valores em jogo (teoria da máxima realização dos direitos fundamentais). No presente caso, não há sequer colisão: não se demonstrou"
+    },
+    {
+      "page": 79,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "que a restrição à EAD seja indispensável para resguardar outro direito de igual hierarquia. O que há, na realidade, é a criação de barreiras artificiais que reforçam desigualdades já existentes, transformando um modelo historicamente inclusivo em uma ferramenta de segregação.\n\nNo mesmo sentido, INGO WOLFGANG SARLET ensina que o PRINCÍPIO DA IGUALDADE MATERIAl exige do Estado condutas positivas que neutralizem discriminações históricas, estruturais ou funcionais que obstam o exercício de direitos fundamentais. Quando o Decreto promove a estigmatização da EAD como \"educação de segunda classe\" - ao impor-lhe um regime mais restritivo do que o aplicado ao ensino presencial - deslegitima-se o esforço de milhões de brasileiros para superar a pobreza, para romper o ciclo intergeracional de exclusão e para realizar o ideal republicano da cidadania educada.\n\nEsse juízo de desvalor embutido na norma questionada corres-ponde, conforme a doutrina norte-americana de DISPARATE IMPACT, a uma forma de discriminação estrutural que, embora formalmente neutra, gera impactos desiguais na população vulnerável.\n\nSobre esse tema, anota-se que a Suprema Corte dos Estados Unidos já reconheceu, em decisões como Griggs v. Duke Power Co. (1971), que políticas públicas que resultam em exclusão sistemática de grupos historicamente marginalizados, mesmo sem intenção explícita de discriminar, violam princípios constitucionais de igualdade.\n\nNo plano doutrinário brasileiro, os ensinamentos de LUÍS ROBERTO BARROSO são incisivos: \"Em uma sociedade profundamente desigual, a neutralidade do Estado se converte em conivência com a opressão\" (Interpretação e aplicação da Constituição). Em linha similar, PAULO BONAVIDES assevera que a igualdade"
+    },
+    {
+      "page": 80,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "substancial é elemento essencial da justiça social, sendo dever do Estado garantir \"a eliminação das desigualdades de fato, para que as igualdades jurídicas não se convertam em ficção constitucional\" (Curso de Direito Constitucional).\n\nOra, ao excluir, por meio de um decreto, a modalidade educacional que mais serve aos desvalidos da República, o Poder Executivo federal incorre em dupla ofensa: ao dever de promoção da igualdade e ao núcleo essencial do direito fundamental à educação. Em termos alexyanos, trata-se de uma limitação não justificada ao conteúdo essencial do direito - que, por essa razão, é inválida ab initio.\n\nPortanto, impõe-se ao Supremo Tribunal Federal não apenas declarar a inconstitucionalidade formal do Decreto, mas reconhecer, com a devida densidade, que se trata de um ato normativo inaceitável em uma ordem constitucional fundada na igualdade substantiva, na inclusão e na promoção de oportunidades reais para todos. Expurgar esse instrumento discriminató-rio não é apenas um ato de controle de legalidade: é, sobretudo, uma afirmação da própria Constituição de 1988 como projeto civilizatório de justiça social.\n\n16. DA FUNÇÃO CONTRAMAJORITÁRIA DO STF NA DEFESA DA EDUCAÇÃO INCLUSIVA: NECESSIDADE DE EXPURGAR ATOS NÃO FUNDADOS EM EVIDÊNCIA CIENTÍFICA\n\nA afirmação da inconstitucionalidade do Decreto n. 12.456/2025 não repousa apenas sobre a análise dogmática dos preceitos constitucionais e infraconstitucionais violados, mas também sobre o cotejo com o substrato fático-ci-entífico que deve informar as escolhas administrativas em matéria de política"
+    },
+    {
+      "page": 81,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "pública educacional, em estrita obediência aos postulados da racionalidade administrativa, da vedação ao retrocesso social e da máxima efetividade dos direitos fundamentais.\n\nCom efeito, o ensino a distância (EaD) não constitui uma opção meramente instrumental, mas sim uma modalidade legítima de efetivação do direito fundamental à educação, consagrado nos artigos 6º, 205, 206 e 208 da Constituição da República. Tal compreensão é sustentada por evidência empírica robusta e por sólida fundamentação científica, produzida por instituições e pesquisadores de referência no campo educacional, cuja relevância é inconteste no debate sobre o modelo federativo brasileiro e suas desigualdades históricas.\n\nDestaca-se, neste cenário, o trabalho do professor JOÃO VIANNEY VALLE DOS SANTOS, doutor em Ciências da Educação e ex-coordenador do Laboratório de Ensino a Distância da Universidade Federal de Santa Catarina (UFSC), cujas pesquisas de natureza qualitativa e quantitativa revelam o papel estruturante da EaD na inclusão educacional de grupos tradicionalmente marginalizados - como trabalhadores de baixa renda, mães solo, pessoas com deficiência, habitantes de zonas rurais e regiões periféricas urbanas e estudantes das Regiões Norte e Nordeste.\n\nA partir da análise das representações sociais da EaD, VIANNEY identifica, com rigor metodológico, os fatores determinantes da opção dos estudantes por essa modalidade, quais sejam: a flexibilidade de horários e locais, a economia financeira advinda da supressão de custos logísticos e a superação da barreira territorial imposta pela má distribuição de instituições presenciais no território nacional. Trata-se, em verdade, da realização concreta do PRINCÍPIO DA IGUALDADE MATERIAL, ao possibilitar que os desiguais possam efeti-vamente acessar a universidade."
+    },
+    {
+      "page": 82,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "No mesmo sentido, os estudos promovidos pela HOPER EDUCAÇÃO, insti-tuto de análise de políticas públicas educacionais reconhecido nacionalmente, oferecem dados atualizados e precisos sobre o impacto positivo da EaD na democratização do acesso ao ensino superior. Com base em séries históricas do INEP/MEC, a HOPER demonstra que a EaD, embora autorizada para apenas 22,8% dos cursos, responde por mais de 55% das matrículas de graduação no Brasil em 2023. O dado revela que a EaD não é apenas uma alternativa de ensino, mas sim o principal vetor de interiorização do ensino superior, promovendo aquilo que a Constituição denomina de \"redução das desigualdades sociais e regionais\" (art. 3º, III).\n\nA imposição, pelo Decreto n. 12.456/2025, de barreiras à expansão da EaD e de restrições indiretas à sua viabilidade - como exigências desproporcionais de presencialidade docente em polos descentralizados - rompe com a lógica constitucional do dever estatal de fomento à educação (art. 80 da LDB), invertendo-a em diretriz proibitiva disfarçada de regulação.\n\nCom a projeção econômica elaborada pela HOPER, demonstra-se que, sob a vigência das regras estabelecidas no Decreto impugnado:\n\n[...] mais de 88% dos polos de cursos de licenciatura em EaD - com destaque para o curso de Pedagogia - tornar-se-iam inviáveis, esvaziando-se o já precário sistema de formação de professores nas regiões de menor IDH do país. A consequência lógica é o aumento da exclusão educacional, não por falta de interesse discente, mas por intervenção indevida do Estado em violação ao seu dever de promoção."
+    },
+    {
+      "page": 83,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Tal quadro evidencia, à luz da doutrina contemporânea dos direitos fundamentais - e em consonância com os ensinamentos de autores como ROBERT ALEXY, LUÍS ROBERTO BARROSO E INGO WOLFGANG SARLET -, que a atuação normativa do Executivo deve ser conforme à Constituição, orientada pela realização do conteúdo essencial dos direitos sociais e, quando for o caso, pautada por dados técnicos, evidência empírica e fundamentação racional.\n\nNão se trata, pois, de conferir valor absoluto a políticas públicas susten-tadas em estatísticas, mas de afirmar que, no contexto de um Estado Democrático de Direito, a adoção de medidas restritivas que afetam diretamente milhões de estudantes deve necessariamente se justificar à luz da proporcionalidade, da razoabilidade e da máxima efetividade do direito à educação.\n\nComo adverte KONRAD HESSE, ao tratar da força normativa da Constituição, \"a concretização da Constituição pressupõe uma postura ativa dos intérpre-tes e dos aplicadores, de modo que a Constituição tenha força suficiente para vincular os atos do poder público, especialmente no campo das políticas públicas\" (cf. HESSE, Konrad. A Força Normativa da Constituição. Porto Alegre: Sergio Antonio Fabris, 1991).\n\nDo mesmo modo, ao refletir sobre a estrutura de concretização dos direitos sociais, JOSÉ AFONSO DA SILVA assevera que \"o mínimo existencial e os deveres de proteção e promoção pelo Estado não podem ser frustrados sob a in-vocação de opções políticas administrativas, quando se trata da realização dos direitos fundamentais\" (Curso de Direito Constitucional Positivo, Malheiros, 2022)."
+    },
+    {
+      "page": 84,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Em suma, o cenário retratado por JOÃO VIANNEY e pela HOPER EDUCAÇÃO traduz, com acuidade, o imperativo constitucional de que não há como con-ceber a educação superior inclusiva no Brasil sem o pleno reconhecimento e o efetivo fomento da modalidade EaD. Expurgar normas infralegais que obstaculizam tal política, portanto, não é apenas um ato de controle de constitucionalidade, mas uma medida de salvaguarda dos fundamentos da República.\n\n17. DO RISCO DE INVISIBILIZAÇÃO DE GRUPOS VULNERÁVEIS E DA FUNÇÃO SOCIAL INCLUSIVA DO ENSINO A DISTÂNCIA\n\nNa esteira dos fundamentos jurídicos já expostos quanto à inconstitucionalidade material do Decreto n. 12.456/2025, impõe-se aprofundar a refle-xão sobre os seus efeitos concretos, especialmente sobre aqueles segmen-tos sociais estruturalmente invisibilizados pelas políticas públicas educacionais. A análise constitucional não pode prescindir da escuta dos corpos atingidos, pois a concretização dos direitos fundamentais não se esgota na sua pro-clamação abstrata, mas exige sua radicação na experiência histórica dos sujeitos a quem se destinam.\n\nO ensino a distância (EaD), ao contrário do que faz supor certa retórica tecnocrática ou elitista, não constitui uma escolha de conveniência indivi-dual, mas uma estratégia de sobrevivência coletiva para milhares de brasileiros e brasileiras que, sem tal modalidade, estariam condenados à exclusão educacional perene.\n\nTrata-se de TRABALHADORES INFORMAIS, que conciliam múltiplas jornadas para sustentar suas famílias; MÃES SOLO, para quem a ausência de estrutura de apoio inviabiliza a permanência em cursos presenciais; PESSOAS COM DEFICIÊNCIA"
+    },
+    {
+      "page": 85,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "PSÍQUICA, SENSORIAL ou MOTORA, para quem o deslocamento até instituições físi-cas representa um obstáculo material intransponível; POVOS INDÍGENAS e COMUNIDADES QUILOMBOLAS, cujos territórios não são alcançados pela malha institucional tradicional; IDOSOS, cuja reintegração educacional encontra na EaD a única via viável; POPULAÇÕES PRIVADAS DE LIBERDADE, para as quais a educação a distância se converte em instrumento de ressocialização e dignidade; REFUGIADOS, MI-GRANTES E APÁTRIDAS, cujo acesso territorial aos campi universitários é interrom-pido por barreiras linguísticas, documentais e econômicas; e, ainda, NEURODIVER-GENTES que experimentam o ambiente universitário convencional como um espaço hostil à sua saúde mental e emocional.\n\nPara esses sujeitos, o EAD NÃO É APENAS LEGÍTIMO: É VITAL.\n\nA sua limitação por ato infralegal representa, portanto, não mera divergência de desenho administrativo, mas ruptura com o projeto de Nação com-prometido com a inclusão, com a pluralidade e com a superação das desigualdades regionais e sociais, tal como delineado no artigo 3º, incisos I e III, da Constituição da República.\n\nNesse sentido, cumpre invocar a doutrina de MARCELO NEVES, para quem a \"constitucionalização dos direitos sociais exige o abandono da dogmática centrada na homogeneidade abstrata do cidadão ideal e a incorporação dos marca-dores reais de desigualdade\" (Transconstitucionalismo, Martins Fontes, 2009, p. 210). A Constituição não protege um sujeito genérico, mas opera como pro-missora de esperança para os que dela mais necessitam.\n\nO Estado brasileiro, ao editar norma que tolhe a expansão do ensino superior em sua modalidade mais inclusiva e acessível, incorre em omissão qualificada, contrariando os princípios da razoabilidade, da proporcionalidade e da"
+    },
+    {
+      "page": 86,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "vedação ao retrocesso social. A desconsideração dos efeitos sobre os grupos historicamente marginalizados não é neutra: É SELETIVA E INCONSTITUCIONAL.\n\nNo plano infraconstitucional, a Lei n. 13.146/2015 (Estatuto da Pessoa com Deficiência) impõe ao Poder Público o dever de assegurar, \"em igualdade de oportunidades com as demais pessoas, o acesso à educação, em todos os níveis e modalidades, inclusive por meio da oferta de tecnologias assistivas e re-cursos pedagógicos adequados\" (art. 28, §1º). A restrição à EaD compromete a eficácia desse dispositivo, criando obstáculos onde a Constituição exige caminhos.\n\nPor sua vez, a jurisprudência do STF vem reconhecendo a centralidade da escuta dos grupos vulnerabilizados na formulação e no controle das políticas públicas. No julgamento da ADPF 347, o Tribunal afirmou que \"a omissão estatal, ao descumprir os parâmetros mínimos de dignidade humana em ambientes carcerários, compromete a própria legitimidade do Estado Democrático de Direito\". A lógica é a mesma: NÃO SE PODE INVOCAR REGULAÇÃO PARA\nEXCLUIR OS JÁ EXCLUÍDOS.\n\nA hermenêutica constitucional, nesse contexto, deve assumir caráter emancipatório, como ensina Lenio Streck, para quem \"interpretar a Constituição é assumir posição política de afirmação ou de negação de direitos\" (Jurisdição Constitucional e Decisão Jurídica, Saraiva, 2018, p. 174). Optar por um modelo educacional que inviabilize o acesso real dos grupos historicamente opri-midos é, em última análise, abdicar do compromisso transformador que a Constituição representa.\n\nPor tudo isso, o Decreto n. 12.456/2025, ao restringir sem fundamento válido a oferta de EaD, ofende não apenas o artigo 80 da LDB, mas o próprio"
+    },
+    {
+      "page": 87,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "sentido moral e jurídico da República. Viola a lógica da inclusão, da pluralidade de itinerários pedagógicos e da solidariedade constitucional, reduzindo a educação a privilégio dos corpos adaptáveis à estrutura presencial.\n\nA política pública educacional inclusiva deve, por essência, ser mode-lada à imagem dos seus destinatários reais. E, como demonstrado, o perfil do estudante brasileiro que depende da EaD é múltiplo, diverso, resiliente - e exige respostas institucionais à altura da sua dignidade.\n\n18. DA MEDIDA CAUTELAR DE URGÊNCIA\n\nDiante da relevância constitucional da matéria tratada na presente arguição de inconstitucionalidade, impõe-se, desde logo, o deferimento de medida cautelar, por esta Suprema Corte, a fim de suspender os efeitos jurídicos dos artigos 8º e 9º do Decreto n. 12.456/2025, até o julgamento definitivo da presente ação. Cuida-se de providência inafastável, tendo em vista o inequívoco risco de lesão irreparável ou de difícil reparação ao direito fundamental à educação, ao regime constitucional de competências legislativas e aos princípios estruturantes do Estado Democrático de Direito, que não podem ser vulnerados por ato infralegal dotado de conteúdo normativo autônomo e materialmente legislativo.\n\nA medida liminar se justifica, inicialmente, pela manifesta presença do fumus boni iuris, na medida em que os dispositivos impugnados - ao estabele-cerem vedações genéricas à oferta de cursos superiores na modalidade a distância, sem amparo em lei e à margem do processo legislativo - incorrem em vício formal por usurpação da competência normativa do Congresso Nacional, em violação ao princípio da legalidade estrita (art. 5º, II, da Constituição) e da"
+    },
+    {
+      "page": 88,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "reserva legal em matéria de restrição de direitos fundamentais. Ademais, o conteúdo material dos artigos 8º e 9º do decreto presidencial, ao proibir, de forma categórica e abstrata, a educação a distância em diversas áreas do saber, ofende diretamente os artigos 205, 206, III, e 207 da Constituição, que consagram, respectivamente, o direito de acesso igualitário à educação, o pluralismo pedagógico e a autonomia universitária.\n\nPara além desses vícios, destaca-se, com ainda maior gravidade, o teor do inciso III do artigo 9º, o qual atribui ao Ministro de Estado da Educação a competência normativa discricionária para vedar a oferta de quaisquer cursos superiores na modalidade a distância, por meio de simples ato administrativo, sem que haja qualquer filtro legislativo, parâmetro legal ou baliza técnica que discipline ou limite o exercício de tal atribuição.\n\nEssa delegação normativa genérica e ilimitada configura hipótese típica de inconstitucionalidade autônoma, por subversão da hierarquia das fontes do Direito e por violação frontal ao princípio da separação dos Poderes. Não se trata, portanto, de mera exorbitância regulamentar, mas de verdadeira usurpação da função legislativa, agravada pela imprevisibilidade normativa e pelo desequilíbrio institucional instaurado pela cláusula de delegação aberta e indeterminada.\n\nConcorre, de modo igualmente evidente, o periculum in mora, pois os dispositivos impugnados vêm produzindo, desde a entrada em vigor do Decreto n.\n12.456/2025, efeitos concretos e devastadores no plano educacional, tais como o fechamento de cursos regulares, a suspensão de matrículas, a frustração de processos seletivos previamente autorizados, a desorganização de projetos pedagógicos legitimamente aprovados e a exclusão sumária de milhares de estudantes da educação superior, sobretudo daqueles em situação de vulnerabili-dade socioeconômica, para os quais a EaD representa o único meio viável de"
+    },
+    {
+      "page": 89,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "acesso à formação acadêmica. A permanência da eficácia da norma impugnada consuma, dia após dia, um retrocesso educacional de proporções sis-têmicas, promovido por decreto, sem debate público, sem deliberação parlamentar e sem respeito ao arcabouço constitucional.\n\nDiante desse quadro, requer-se o deferimento da medida cautelar para que sejam suspensos, em sua integralidade, os efeitos dos artigos 8º e 9º do Decreto nº 12.456/2025, restaurando-se, com isso, a legalidade do sistema normativo educacional e a proteção dos direitos fundamentais afetados pela norma.\n\nCaso Vossa Excelência não entenda ser cabível, nesta fase processual, a suspensão total dos dispositivos impugnados, requer-se, de forma subsidiária, que se determine, ao menos, a suspensão cautelar dos incisos II e III do artigo 9º, por serem dotados de autonomia normativa suficiente e aptos, por si sós, a perpetuar um estado de instabilidade e violação constitucional. O inciso II, ao proibir a oferta de todas as licenciaturas na modalidade a distância, sem qualquer critério técnico ou fundamento legal, compromete gravemente a política pública de formação de professores e ignora as diretrizes curriculares que regulam tal oferta. O inciso III, como já destacado, reveste-se de vício ainda mais profundo, por outorgar a um agente político do Executivo poderes legiferantes ilimitados, o que transgride a Constituição de forma tão clara quanto alarmante.\n\nPor todos esses fundamentos - que se alicerçam na jurisprudência consolidada desta Corte, no primado da legalidade, na supremacia da Constituição e na urgência da proteção ao direito à educação - é que se impõe, com máxima urgência, o deferimento da medida cautelar, nos termos aqui postulados, a fim"
+    },
+    {
+      "page": 90,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "de que os dispositivos impugnados cessem imediatamente seus efeitos deleté-rios, em nome da integridade constitucional e da preservação do interesse público educacional.\n\n19. DO PEDIDO E REQUERIMENTOS FINAIS\n\nPor tudo que foi exposto, requer-se à Vossa Excelência:\n\n1. A admissibilidade da presente ADI, ante a satisfação dos requisitos estampados na Lei n. 9.868/1999. Caso esta Egrégia Suprema Corte se incline pela inadequabilidade da via eleita, requer-se pelo princípio da fungibilidade a conversão da presente ADI em ADPF, uma vez satisfeitos os requisitos à sua propositura (legitimidade ativa, objeto, fundamentação e pedido), bem como a relevância da matéria;\n\n2. A concessão da medida cautelar em decisão liminar inaudita altera pars, para suspender a eficácia dos artigos 8º e 9º (caput e incisos) do Decreto n. 12.456/2025, com efeitos ex nunc e erga omnes, de modo a preservar a supremacia da Constituição, proteger os direitos fundamentais ameaçados e assegurar que o julgamento definitivo desta ação se processe em ambiente de estabilidade normativa, segurança institucional e respeito à legalidade democrática;\n\n3. Sucessivamente, caso Vossa Excelência não entenda ser cabível, nesta fase processual, a suspensão total dos dispositivos impugnados, requer-se, de forma subsidiária, que se determine, ao menos, a suspensão cautelar dos incisos II e III do artigo 9º,"
+    },
+    {
+      "page": 91,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "por serem dotados de autonomia normativa suficiente e aptos, por si sós, a perpetuar um estado de instabilidade e violação constitucional.\n\n4. No mérito, a confirmação da liminar, julgando-se procedente o pedido para declarar a inconstitucionalidade dos artigos 8º e 9º (caput e incisos) do Decreto n. 12.456/2025.\n\nNestes termos, pede deferimento.\n\nBrasília/DF, 02 de julho de 2025.\n\nRicardo Luiz Salvador Diego Dall' Agnol Maia Ricardo Luiz Salvador Diego Dall' Agnol Maia OAB n. 75.321 - DF OAB n. 304.834 - SP"
+    }
+  ]
+}

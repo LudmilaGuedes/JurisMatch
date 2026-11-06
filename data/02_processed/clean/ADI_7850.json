@@ -1,0 +1,220 @@
+{
+  "id": "ADI_7850",
+  "arquivo_pdf": "ADI_7850.pdf",
+  "sha256": "dfde10ee8f488adce9856585e9e10d16be7a28cfc778d54a4741b1d0aa1c9667",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:31:27",
+  "resumo": {
+    "paginas": 24,
+    "paginas_digital": 24,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 43524,
+    "chars_clean": 38648,
+    "reducao_pct": 11.2,
+    "linhas_removidas": 116,
+    "limpeza_detalhe": {
+      "cabecalho_rodape": 115,
+      "hifen_mantido": 1,
+      "hifenizacao_unida": 0,
+      "numero_pagina": 1
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Unidade São José do Rio Preto\n(17) 99706-3939 stefanny.lopess@outlook.com Rua Sebastião Delgado nº 120 - Parque Quinta das Paineiras\nCEP: 15080-405 EXCELENTÍSSIMO SENHOR DOUTOR MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL - STF- BRASÍLIA - DF\n\nMEDIDA CAUTELAR\n\nASSOCIAÇÃO INTERCONTINENTAL\nDE CINOFILIA - AIC, associação de âmbito nacional, com sede na rua Oriente Tenuta, 138, sala 801, Consil, CEP 78.048-450, Cuiabá - MT, inscrita no CNPJ sob o número 35.574.827/0001-93, por seus advogados e procuradores que assinam digitalmente (procuração anexa), nos termos do artigo 103, da Constituição Federal, combinado com a Lei 9.868/99, vem, respeitosamente à presença de Vossa Excelência, impetrar a presente:\n\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE ADI COM PEDIDO DE MEDIDA CAUTELAR\n\nAção objetiva em desfavor da presunção de constitucionalidade da Lei\n14.204/2007 do Estado de Santa Catarina (e seu consequente Decreto\n1.047/25), pelos motivos a seguir expostos:"
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405 DA LEGITIMIDADE ATIVA\n\nInsta inicialmente salientar que a Impetrante possui legitimidade para o ingresso da presente ação, uma vez que seu Estatuto Social estabelece a associação de \"criadores brasileiros em Cinofilia da raça Pit Monster e outras raças\".\n\nA fim de rechaçar qualquer dúvida acerca da condição de legitimação da Autora, necessário se faz apoiar-se na jurisprudência desse Egrégio Supremo Tribunal Federal a fim de que prevaleça o entendimento atual pelo qual permite que até mesmo associações de associações sejam consideradas autoras de ADIs, o que se dirá da Autora que especificamente defende em nível nacional os interesses dos criadores das raças especificamente tratadas na lei estadual objeto da presente ação.\n\nVejam Nobres Ministros, a Autora possui em seu quadro de associados mais de 6 (seis) mil criadores espalhados por território nacional, inclusive no Estado de Santa Catarina, ultrapassando sobremaneira a exigência legitimadora do mínimo de 9 (nove) estados. (documentos anexos)\n\nEssa Corte trabalha no sentido de afastar uma interpretação restritiva em relação à legitimação especial das ADIs, como podemos, por exemplo, identificar na ADPF 527-MC, a qual considerou legitima a Associação Brasileira de Lésbicas, Gays, Bissexuais, Travestis, Transexuais e Intersexos (ABGLT) mesmo não sendo uma categoria econômica ou profissional, bem como na ADI 3.413, que reconheceu a legitimidade da ABIMAQ - Associação Brasileira da Indústria de Máquinas e Equipamentos, numa evolução jurisprudencial que evidencia a proteção de direitos fundamentais em larga escala, atendente à uma interpretação teleológica e sistemática da Constituição de 1988."
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\n\nAssim, não há dúvidas de que a Autora é associação que fala em nome dos criadores de cães da raça Pit Monster e afins, estando aqui defendendo aquilo que preceitua em seus regulamentos internos e os quais se mostram violados pela produção legislativa do Estado de Santa Catarina através do ato normativo objeto da presente Ação Direta de Inconstitucionalidade.\n\nDA PERTINÊNCIA TEMÁTICA\n\nA pertinência temática resta devidamente comprovada em razão da atuação em âmbito nacional, bem como da especificidade do objetivo estabelecido no Estatuto Social da AIC para raças Pit Monster e outras afins, sendo exatamente as raças atingidas pelas violações constitucionais atribuídas à Lei 14.204/07, efetivada recentemente pela regulamentação por Decreto-estadual número 1.047/2025 do Estado de Santa Catarina.\n\nAssim, Excelências, a legitimação especial exige, nos termos do artigo 103 da Constituição Federal, combinado com o artigo 2º. da Lei 9.868/99, a demonstração de pertinência temática, a qual significa, em breve síntese, a necessidade de demonstração de interesse na propositura da ação, estando a finalidade do impetrante relacionado à sua finalidade institucional, o que de fato está bem demonstrado ante a análise do Estatuto Social da Autora, o qual é específico em relação às raças Pit Monster em todo Brasil, a existência de associados espalhados em quase todos os estados e o objeto da lei estadual questionada, o que será amplamente demonstrado no decorrer dessa exordial.\n\nDO ATO NORMATIVO QUESTIONADO"
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\n\nNos termos do artigo 102, I, \"a\" da Constituição Federal o ato normativo estadual pode ser objeto da ação direta de inconstitucionalidade, sendo certo que o objeto da presente ação é questionamento da Lei estadual número 14.207 de 26 de novembro de 2007, senão vejamos:\nLEI Nº 14.204, DE 26 DE NOVEMBRO DE 2007 Procedência: Dep. Marcos Vieira Natureza: PL 437/07 DO: 18.254 de 26/11/07 Decreto 1.047/2025 Fonte: ALESC/GCAN Dispõe sobre a importação, comercialização, criação e porte de cães no Estado de Santa Catarina e adota outras providências.\nO GOVERNADOR DO ESTADO DE SANTA CATARINA,\nFaço saber a todos os habitantes deste Estado que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:\nArt. 1º Fica proibido, no Estado de Santa Catarina, a criação, comercialização e circulação de cães da raça Pit Bull, bem como das raças que resultem de seu cruzamento, por canis ou isoladamente no Estado de Santa Catarina.\nArt. 2º É obrigatória, a partir dos 6 (seis) meses de idade, a esterilização de todos os cães da raça Pit Bull, ou dela derivada, no Estado de Santa Catarina.\nArt. 3º Ficam vedadas a circulação e a permanência de cães da raça Pit Bull em logradouros públicos, precipuamente, locais em que haja concentração de pessoas, tais como ruas, praças, jardins e parques públicos, e nas proximidades de hospitais, ambulatórios e unidades de ensino público e particular.\nParágrafo único. A circulação de cães da raça Pit Bull nos locais referidos no caput será permitida desde que conduzidos por maiores de dezoito anos por meio de guias com enforcador e focinheira próprios para a tipologia de cada animal.\nArt 4º Os proprietários e/ou condutores de cães da raça Pit Bull, ou dela derivada, são responsáveis pelos danos que venham a ser causados pelo animal sob sua guarda, ficando sujeitos às sanções penais e legais existentes, além daquelas dispostas no art. 5º desta Lei.\nArt. 5º O não-cumprimento do disposto nesta Lei acarretará ao infrator, proprietário e/ou condutor as seguintes sanções, independentemente de outras sanções legais existentes e pertinentes:\nI - multa de R$ 5.000,00 (cinco mil reais), que deverá ser aplicada em dobro e progressivamente, nos casos de reincidência à infração;"
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\nII - apreensão do animal nas hipóteses de reincidência, abandono do animal ou ataque deste a pessoa ou a outro animal; e\nIII - reparação ou compensação de danos causados independentemente da agressão ter sido contra pessoas e/ou animais.\n§ 1º A aplicação da multa prevista no inciso I deste artigo independe da aplicação do disposto nos seus incisos II e III.\n§ 2º Aplicar-se-ão, cumulativamente, as sanções previstas neste artigo, em caso de reincidência.\n§ 3º No caso de aplicação do inciso II, poderá o dono ser considerado fiel depositário, estando sujeito às multas, reparações, indenizações e restrições determinadas.\n§ 4º A multa de que trata o inciso I, deste artigo será aplicada aos proprietários dos cães da raça Pit Bull ou, não sendo estes conhecidos, aos possuidores ou detentores dos mesmos.\nArt 6º Fica o Poder Executivo encarregado do fiel cumprimento desta Lei no prazo de 90 (noventa) dias, contados a partir da publicação.\nArt. 7º Esta Lei entra em vigor na data de sua publicação.\nFlorianópolis, 26 de novembro de 2007\nLUIZ HENRIQUE DA SILVEIRA\nGovernador do Estado\n\nApesar da inexistência de prazo prescricional ou decadencial em relação ao ato normativo impugnado, visto que os atos normativos não se convalidam pelo mero decurso de prazo, conforme precedentes dessa Corte (Súmula 360; ADI-MC 1.247/PA), faz-se necessário dizer que a efetividade da norma se deu através de sua regulamentação através do Decreto-estadual n. 1.047 de 9 de julho de 2025, sendo certo que tal informação será importante quando da análise do pedido de Medida Cautelar no decorrer dessa petição inicial.\n\nSuperada a questão da legitimidade especial da Autora, cumpre apresentar a seguir os fundamentos acerca da alegação de inconstitucionalidade do ato normativo estadual."
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\n\nDOS FUNDAMENTOS DA INCONSTITUCIONALIDADE DO ATO NORMATIVO\n\nDA INCONSTITUCIONALIDADE FORMAL\n\na) incompetência do Estado de Santa Catarina sobre a matéria\n\nA norma estadual é formalmente inconstitucional pois regula a atividade profissional de cães, bem como dispõe sobre proteção, saúde e o bem-estar na criação e comercialização de cães da raça Pitbull e afins, quando na verdade a matéria é de competência reservada da União na esfera legislativa e através do Ministério da Agricultura e Pecuária, nos termos do artigo 19, IV (a) e XII, da Lei 14.600/23 na esfera material.\nA regulamentação Estadual não pode contrariar normas federais.\n\nComo se pôde observar, Excelências, o Estado de Santa Catarina através de sua Assembleia Legislativa não poderia ter tratado sobre as proibições tratadas na Lei 14.204/07, tendo em vista ser esta competência do Congresso Nacional por meio de lei federal.\n\nO artigo 1º da lei estadual trata da proibição de comercialização dos cães da raça Pit Bull e afins, sendo certo que o artigo 22, VIII da Constituição Federal estabelece a competência legislativa privativa do Congresso Nacional em relação a \"comércio exterior e interestadual\", o que implica dizer que aos estados-membros, nos termos do parágrafo único desse artigo, só caberia legislar mediante Lei Complementar que os autorizasse sobre questões específica, o que, sabemos, não é o caso. Ademais disso, a legislação sobre \"direito civil\", prevista no inciso I, diz respeito à propriedade de animais, o"
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\nque resta disciplinado na lei em evidente sobreposição do Estado de Santa Catarina em relação à sua competência federativa constitucional.\n\nAssim, Nobres Ministros, a lei disciplina assuntos os quais são da competência federativa do Congresso Nacional, de tal forma que não se pode alegar que o Estado de Santa Catarina se apoiou em proteção ao meio ambiente, cuja previsão se encontra no artigo 24 da Constituição Federal, especificamente no inciso VI, uma vez que uma simples leitura da lei estadual é capaz de demonstrar a provável extinção da raça Pit Bull e afins no estado, já que proíbe criação, comercialização e circulação dos cães dessas raças, além de impor castração aos 6 (seis) meses de idade.\nObviamente não dá pra falar em proteção ao meio ambiente num contexto dessa natureza.\n\nA declaração formal de inconstitucionalidade dos dispositivos da lei deve ser realizada por Vossas Excelências, uma vez que presentes os argumentos robustos de discrepância para com a Carta Magna de 1988, especialmente às competências federativas.\n\nSe a União permite a criação e comercialização de animais dentro de certos critérios, o Estado de Santa Catarina não pode proibir completamente. A regulamentação Estadual não pode contrariar normas federais sob pena de usurpação de competência.\n\nAdemais disso, se este não for o entendimento de Vossas Excelências, o qual se admite apenas para argumentar, a Lei Estadual\n14.204/2007, fere direitos fundamentais, especialmente nos pontos a seguir tratados:\n\nDA INCONSTITUCIONALIDADE MATERIAL"
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\n\na) da dignidade dos cães\n\nArt. 2º É obrigatória, a partir dos 6 (seis) meses de idade, a esterilização de todos os cães da raça Pit Bull, ou dela derivada, no Estado de Santa Catarina\n\nHá tempos já há consagrada no ordenamento jurídico a ideia de que os animais gozam do princípio da dignidade de pessoa humana, de tal forma que a Ministra do STF, Rosa Weber, em voto proferido na ADI 4983, afirmou que \"O atual estágio evolutivo da humanidade impõe o reconhecimento de que há dignidade para além da pessoa humana, de modo que se faz presente a tarefa de acolhimento e introjeção ecológica ao Estado de Direito\". Nesse mesmo sentido, o Superior Tribunal de Justiça admitiu que a dimensão ecológica do princípio da dignidade humana aponta para a necessidade de aplicação para outros seres vivos. (Resp 1.797.175-SP).\n\nO autor Ingo Sarlet assevera que \"deve-se reformular o conceito de dignidade, objetivando o reconhecimento de um fim em si mesmo, ou seja, de um valor intrínseco conferido aos seres sensitivos não humanos, que passariam a ter reconhecido o status moral e dividir com o ser humano a mesma comunidade moral\".1\n\nA preocupação com a extensão da dignidade da pessoa humana aos animais não reside apenas no ordenamento pátrio, sendo que a Declaração Universal dos Direitos dos Animais, da UNESCO, prevê que \"todos os animais nascem iguais diante da vida, e têm o mesmo direito à existência\" (art. 1º.).\n\n1 NAESS, Arne Apud SARLET, ingo Wolfgang, FENSTERSEIFER, Tiago. Direito Constitucional Ambiental:\nConstituição, direitos fundamentais e proteção ambiental, 5ª. ed., 2017."
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\n\nNo que diz respeito ao ordenamento pátrio, cabe numa interpretação sistemática, apontar para o que reza o artigo 225,\nparágrafo primeiro, VII, o qual revela que a Constituição não adotou uma visão puramente antropocêntrica do meio ambiente:\n\n\"VII - proteger a fauna e a flora, vedadas, na forma da lei, as práticas que coloquem em risco sua função ecológica, provoquem a extinção de espécie ou submetam os animais a crueldade\".\n\nResta claro - e esta não é uma posição exclusive e inovadora do subscritor da presente ação - que o princípio da dignidade não é um atributo exclusivo do ser humano!\n\nA CASTRAÇÃO COMPULSÓRIA CONSISTE EM MUTILAÇÃO, CRUELDADE\nE FUTURA EXTINÇÃO DAS RAÇAS ENVOVIDAS! (art. 225, VII, CF)\n\nA imposição da castração compulsória de cães da raça Pitbull e \"derivados\", bem como a proibição genérica da comercialização desses animais, representa afronta a diversos dispositivos constitucionais, além de violar princípios basilares do Direito Constitucional e do Direito Ambiental.\n\nA jurisprudência do próprio Supremo Tribunal Federal já enfrentou situação análoga em sede de controle concentrado de constitucionalidade. No caso da Lei Estadual nº 12.916/2008 do Estado de São Paulo, que determinava a esterilização compulsória de cães e gatos, foi ajuizada a Ação Direta de Inconstitucionalidade nº 6038/SP, sob a relatoria do Ministro Alexandre de Moraes. O Ministro, em decisão monocrática proferida em 14 de"
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\nfevereiro de 2020, suspendeu os efeitos da lei estadual de São Paulo por reconhecer, em juízo preliminar, a plausibilidade da tese de que a esterilização forçada, sem critério técnico-científico ou respaldo individualizado, viola os princípios da proporcionalidade, da legalidade e da dignidade dos seres vivos não humanos.\n\nA decisão foi clara ao destacar que a intervenção estatal em matéria ambiental e sanitária não pode ocorrer de maneira arbitrária, impositiva e genérica, sem observância das normas técnicas e do devido processo legal substantivo. Veja-se:\n\n\"A norma impugnada, ao impor a esterilização de todos os animais, indistintamente, sem considerar aspectos técnicos, sanitários, clínicos ou mesmo o interesse legítimo dos tutores, extrapola os limites do poder de polícia administrativa ambiental, configurando medida desproporcional e inconstitucional. (ADI nº 6038/SP Medida Cautelar, Rel. Min. Alexandre de Moraes, j.\n14/02/2020)\n\nNo mesmo sentido, a norma catarinense ora impugnada impõe uma obrigação irreversível (castração) de maneira absoluta e sem critério técnico, afetando diretamente a tutela constitucional do direito à propriedade (art. 5º, XXII da CF/88), o direito à livre iniciativa (art. 170 da CF/88), e os direitos dos animais enquanto sujeitos de tutela jurídico-ambiental (art. 225,\n§1º, VII da CF/88).\n\nAssim, resta evidente a tentativa da lei em driblar a posição majoritária firmada nos Tribunais brasileiros em relação à vedação de castração precoce aos 4 (quatro) meses, aumentando a lei para 6"
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\n(seis) meses, o que, em nada muda tudo que já foi consolidado através de estudos e decisões. Não são 2 meses a mais que implicam em afastar a crueldade para com os cães, bem como o perigo de extinção da raça!\n\nNesse sentido, cumpre colacionar a decisão de Medida Cautelar da ADI 7704 de autoria do Ministro Flávio Dino do Supremo Tribunal Federal:\n\nMEDIDA CAUTELAR\nEM\nAÇÃO DIRETA\nDE INCONSTITUCIONALIDADE. LEI Nº 17.972/2024 DO ESTADO\nDE SÃO PAULO. ATIVIDADE ECONÔMICA DE CRIAÇÃO DE CÃES\nE\nGATOS.\nCASTRAÇÃO OBRIGATÓRIA\nE\nINDISCRIMINADA DE CÃES E GATOS COM ATÉ 4 MESES.\nVIOLAÇÃO AO DIREITO À EXISTÊNCIA, À DIGNIDADE E À\nSAÚDE DOS ANIMAIS (ART. 225, §1º, VII, CF). PERIGO DE\nEXTINÇÃO DAS RAÇAS. ALTERAÇÃO IMEDIATA DO MODO DE OPERAÇÃO DA ATIVIDADE ECONÔMICA. IMPOSSIBILIDADE.\nNECESSIDADE DE REGRAS DE TRANSIÇÃO. PRINCÍPIO DA SEGURANÇA JURÍDICA. CAUTELAR DEFERIDA EM PARTE. 1.\nAo se preocupar com outras formas de vida não humanas, a Constituição incorporou uma visão mitigada do antropocentrismo, de modo a reconhecer que seres não humanos podem ter valor e dignidade1. À luz do texto constitucional, a dignidade não é um atributo exclusivo do ser humano. 2. A lei estadual estabelece que os canis e gatis, que realizam atividade econômica de criação, devem castrar todos os cães e gatos antes dos 4 (quatro) meses de idade. Estudos científicos demonstram que a castração precoce e indiscriminada de cães e gatos, sem considerar suas características individuais e o contexto em que inseridos, põe em risco a saúde e a integridade física desses animais, uma vez que aumenta significativamente os riscos de má formação"
+    },
+    {
+      "page": 12,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\nfisiológica e morfológica, além de doenças que prejudicam as presentes e comprometem as futuras gerações dos cães e gatos2. 3. A Lei Estadual n. 17.972/24-SP criou obrigações a todos os criadores de cães e gatos do Estado de São Paulo sem estabelecer um prazo mínimo para adaptação deles às regras, que entraram em vigor na data de sua publicação (art.\n15). A alteração imediata do modo de operação da atividade econômica dos canis e gatis, sem regime transacional, viola o que a doutrina processual denomina de direito à adaptação, decorrente do princípio da segurança jurídica (art. 5º, XXXVI, CF)3. 4. A manutenção dos efeitos da Lei Estadual nº\n17.972/2024 pode resultar na castração indevida de cães e gatos de forma indiscriminada e colocar em risco a existência das raças, bem como causar efeitos negativos sobre a saúde dos animais. Também pode prejudicar a atividade econômica e profissional dos canis e gatis. 5. Medida cautelar referendada para suspender, até julgamento de mérito, os efeitos das expressões \"esterilizar cirurgicamente\", \"esterilização cirúrgica\" e \"esterilizados cirurgicamente\" dos dispositivos da Lei Estadual nº 17.972/2024 do Estado de São Paulo. 6.\nDeterminação para que o Poder Executivo Estadual fixe prazo razoável para que os canis e gatis se adaptem às novas obrigações. 1 DIAS, Jefferson Aparecido; NELSON, Rocco Antônio Rangel Rosso. Do Direito dos animais não humanos - em busca de uma personalidade esquecida, Revista Brasileira de Direito Animal. UFBA. P. 35. 2 DIVINO, Douglas Silva. Efeitos da Seleção artificial no bem-estar canino.Monografia (obtenção do grau de bacharel em Medicina Veterinária) - Centro Universitário do Sul de Minas. Varginha,Minas Gerais.\nP. 18. 3 CABRAL, Antônio do Passo. Segurança Jurídica e Regras de Transição nos Processos Judicial e Administrativo:\nIntrodução ao art. 23 da LINDB, Editora Juspodivm, 2021, p.\n203. (ADI 7704 MC-Ref, Relator(a): FLÁVIO DINO, Tribunal"
+    },
+    {
+      "page": 13,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\nPleno, julgado em 16-09-2024, PROCESSO ELETRÔNICO DJe-s/n DIVULG 04-10-2024 PUBLIC 07-10-2024)\n\nEm estudo publicado na revista Frontiers in Verrinary Science, foram analisados os efeitos da castração precoce em mais de 35 (trina e cinco) raças de cães. Foi comprovado que a castração precoce pode aumentar significativamente os riscos de displasia, problemas nas articulações, cânceres e incontinência urinária dos cães e que o momento adequado à realização do procedimento varia de acordo com cada raça.2\n\nE mais: um artigo publicado sobre o tema, intitulado \"Castração pré-púbere e suas consequências: revisão de literatura\", pesquisadores da Universidade Estadual Paulista Júlio Mesquita Filho concluíram que:\n\n\"A castração dos animais de companhia é considerada importante técnica de contracepção, controle populacional e de zoonoses, diminuição de cães e gatos errantes e um método preventivo ou terapêutico de diversas enfermidades. Aspectos individuais, fatores etiológicos, benefícios e riscos para a escolha do momento ideal do procedimento devem ser ponderados pelo médico-veterinário.\nO desenvolvimento musculoesquelético e geniturinário e a probabilidade de ocorrência de enfermidades em determinadas raças devem ser considerados na decisão da idade mais adequada para realização do procedimento cirúrgico.\nOs profissionais precisam avaliar os efeitos negativos\n\n2 L. HART. Benjamin; A. HART, Lynette; P. Thigpen, Abigail; H WILLITS Neil. Assisting Decision-Marking on Age of Neureting for 35 Breeds of Gods: Associated Join Disorders, Cancers, and Urinary Incontinence.\nFrontiers in Veterinary Science, 2020."
+    },
+    {
+      "page": 14,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\nda castração precoce em detrimento dos benefícios para a tomada de decisão. O médico-veterinário deve ter conduta profissional ética para minimizar prejuízos posteriores ao procedimento, assegurando, desta forma, segurança e qualidade de vida ao seu paciente\"\n\nAssim, a alteração compulsória indiscriminada e artificial da morfologia canina, sem considerar suas características e situações específicas, viola a dignidade desses animais, conforme a Autora junta aos autos laudos de especialistas na área que reforçam essa argumentação com propriedade. (documentos anexos)\n\nNesse sentido, a Associação Autora é sabedora de que a castração pode trazer prejuízos pro resto da vida dos cães, ainda mais se tratada da forma genérica como a legislação estabelece. Nesse ponto reside a necessidade de formular pedido de Medida Cautelar a fim de afastar a aplicabilidade da lei estadual, desobrigando criadores e tutores à esterilização prevista no artigo 2º. por se tratar de uma prática condenável e irreversível.\n\nImportante mencionar que o Parecer juntado aos autos, apesar de tratar especificamente sobre o Decreto 1047/25, assinado pela Dra. Beatriz Taques Martins, CRMV-RJ 12031, a qual é especialista em reprodução, neonatologia e gestão pet, criadora há mais de de 25 (vinte e cinco) anos, demonstra com propriedade o temperamento das raças atingidas pela lei e pelo decreto do Estado de Santa Catarina e, numa síntese, demonstra que a frieza com que trata a questão em âmbito legislativo, não condiz com a lealdade, doçura e afeto que as raças possuem. (parecer anexo)\n\nb) do livre exercício profissional dos criadores"
+    },
+    {
+      "page": 15,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\n\nArt. 1º Fica proibido, no Estado de Santa Catarina, a criação, comercialização e circulação de cães da raça Pit Bull, bem como das raças que resultem de seu cruzamento, por canis ou isoladamente no Estado de Santa Catarina.\n\nAo persistir a proibição de \"criação, comercialização e circulação de cães da raça Pit Bull\" e suas raças derivadas, obviamente a empresa Impetrante fica sujeita à fiscalização dos órgãos governamentais determinados pelo Decreto Estadual e como consequência terá suas portas lacradas, inclusive com a aplicação de multas previstas na lei/decreto.\n\nAqui reside o risco de paralisação das atividades das empresas criadoras, as quais pertencem ao quadro associativo da Autora, as quais estão amparadas pelos princípios da ordem econômica fixados pela Constituição Federal que tendem a assegurar uma existência digna conforme ditames da Justiça Social fundados nos pilares da VALORIZAÇÃO DO TRABALHO HUMANO e da LIVRE-INICIATIVA, os quais são consagrados como\nFUNDAMENTOS DA REPÚBLICA FEDERATIVA DO BRASIL.\n\nAssim, não estamos tratando apenas de um direito fundamental inerente à Associação Autora, mas, muito além disso, de um fundamento do próprio Estado Democrático de Direito, o que admite a intervenção dos órgãos estatais no domínio econômico desde que atendente à razoabilidade e proporcionalidade de caso a caso, sob pena dessa interferência ferir os valores que fundamentadores da República.\n\nAqui não estamos a tratar de atividade exercida clandestinamente, mas, ao contrário disso, plenamente atendente ao bem estar animal, em consonância com a dignidade dos cães da raça Pit Bull e"
+    },
+    {
+      "page": 16,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\nafins, nos termos da legislação vigente para atribuição de certificados e pedigree aos tutores que ficam cientes dos cuidados e responsabilidades inerentes à posse desses animais.\n\nAo serem mantidos os efeitos da Lei - e do Decreto - vigente, restará impedida a atividade regulamente exercida pelos criados legalizados em todo o Estado de Santa Catarina, violando princípio constitucional consagrado na ordem econômica.\n\nInclusive, nesse sentido é preciso dizer que existem normas suficientes para atribuição de responsabilidade de criadores para o caso de não cumprimento de regras inerentes à sua atividade, o que se complementa com as regras, também suficientes, de responsabilização de tutores por atos de descuido, devendo essa ser a atividade fiscalizatória efetiva dos órgãos estatais a fim de evitar incidentes envolvendo qualquer raça de cães que seja. O que a legislação em análise fez foi descriminalizar de forma generalizada e sem respaldo técnico, sendo, portanto, uma medida desproporcional e abusiva para uma situação cuja legislação pátria mostra-se suficiente para gerir.\n\nSomente a concessão de Medida Cautelar evitará danos irreparáveis ao exercício da atividade de criação dos cães da raça Pitbull e afins, tendo em vista a possibilidade real de fiscalização de lacração dos estabelecimentos legalizados que comercializam as raças em questão, inclusive com aplicação de multa. Importante lembrar que o Decreto regulamentador possui aplicação imediata na data de sua publicação, qual seja, 9 de julho de 2025.\n\nDesta forma, a paralisação das atividades dos criadores é imediata, passando como um \"rolo compressor\" sobre seus"
+    },
+    {
+      "page": 17,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\nfuncionários, familiares, fornecedores, clientes e dos próprios animais que se encontram abrigados em seu estabelecimento. Ao simplesmente proibir, a lei com seu decreto, traz graves consequências sociais, fazendo com que os bons criadores paguem por erros que só são cometidos pelos criadores clandestinos ou mesmo pelos tutores irresponsáveis.\n\nAdemais disso, os criadores exercem o princípio da função social da propriedade sobre o animal doméstico, consagrado no artigo 5º., XXII e XXIII, CF, o qual consiste num desdobramento da posse responsável que os impede de praticarem a castração precoce de suas crias.\n\nc) da liberdade de ir e vir dos tutores e cães\n\nArt. 3º Ficam vedadas a circulação e a permanência de cães da raça Pit Bull em logradouros públicos, precipuamente, locais em que haja concentração de pessoas, tais como ruas, praças, jardins e parques públicos, e nas proximidades de hospitais, ambulatórios e unidades de ensino público e particular.\nParágrafo único. A circulação de cães da raça Pit Bull nos locais referidos no caput será permitida desde que conduzidos por maiores de dezoito anos por meio de guias com enforcador e focinheira próprios para a tipologia de cada animal.\n\nNobres Ministros, aqui reside uma violação ao consagrado princípio constitucional da liberdade de locomoção, o qual, devido à sua importância, possui o \"Habeas Corpus\" como ação constitucional com prioridade de tramitação, além de desapego às formalidades tradicionais das leis processuais vigentes, demonstrando o grau de importância da proteção de sua violação."
+    },
+    {
+      "page": 18,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\n\nNo entanto, é preciso ressaltar que a violação ora alegada consiste no fato de que a lei, apesar de permitir a circulação dos cães por maiores de 18 (dezoito) anos por meio de guias com enforcador e focinheira próprios para a tipologia de cada animal, prevê a \"apreensão do animal nas hipóteses de reincidência\" do disposto na lei, senão vejamos:\n\nArt. 5º O não-cumprimento do disposto nesta Lei acarretará ao infrator, proprietário e/ou condutor as seguintes sanções, independentemente de outras sanções legais existentes e pertinentes:\nI - multa de R$ 5.000,00 (cinco mil reais), que deverá ser aplicada em dobro e progressivamente, nos casos de reincidência à infração;\nII - apreensão do animal nas hipóteses de reincidência, abandono do animal ou ataque deste a pessoa ou a outro animal; e (...)\n\nAqui é preciso deixar claro que a inconstitucionalidade se encontra no fato de que um tutor que passeia com seu cachorro da raça Pit Bull ou afim, com focinheira, fica sujeito à apreensão do animal se já tiver sido anteriormente enquadrado em razão de não ter submetido o animal à castração. Isso significa que a lei lhe priva de circular com seu cão, ainda que dentro dos padrões de segurança impostos por ela, uma vez que corre o risco de ter o animal levado pela \"carrocinha\" do Estado de Santa Catarina através da Secretaria do Meio Ambiente e Economia Verde (SEMAE).\n\nA situação trazida acima decorre da negativa do tutor ou criador em submeter o animal à castração genérica imposta pela lei, a qual, conforme já demonstrado, consiste em uma crueldade com o animal, mas que gera, em caso de já ter sofrido uma multa da fiscalização e, portanto, estando em reincidência da lei estadual, a outra violência, dessa vez do direito do animal (de grande porte) de passear com seu tutor, gastando sua energia como tem que ser para sua dignidade."
+    },
+    {
+      "page": 19,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\n\nA malfadada lei consegue impor de modo cruel a castração dos cães, a impossibilidade de circulação daqueles não castrados, bem como, por fim, a extinção da espécie no Estado de Santa Catarina. Um cenário violador dos direitos dos animais e de seus proprietários, bem como um retrocesso sem tamanho em relação à evolução jurisprudencial e doutrinária que envolve a causa animal, a qual tem sido plenamente atendida por essa E. Corte Suprema.\n\nd) da razoabilidade e proporcionalidade das medidas previstas\n\nNo presente tópico, Nobres Ministros, partimos da ideia consolidada de que os princípios constitucionais não são absolutos e que a relatividade inerente a eles só se permite se atendidos os princípios da razoabilidade e da proporcionalidade, sob pena de um invadir a esfera do outro, violando-o. Dessa forma a cedência recíproca proporcional e razoável entre os princípios, caso a caso analisada, implica na coexistência harmônica entre eles.\n\nA afirmativa acima resume algo muito difícil de ser administrado na prática, especialmente por essa Corte em sede de controle de constitucionalidade ou mesmo na análise dos casos concretos que aqui chegam. Só pra citar um exemplo, a questão da transfusão de sangue negada por pessoas testemunhas de Jeová, a qual envolve a necessidade de coexistência entre a liberdade de religião e o direito à vida.\n\nPois bem, ao nosso ver, aqui, na análise da lei estadual objeto da presente ADI, é irrazoável pensar que a extinção das raças Pit Bull e afins seja uma solução de coexistência principiológica entre a segurança pública em praças, ruas e outros logradouros e o direito animal de uma maneira genérica, especialmente no que se refere à dignidade dos cães ante à prática de castração. Tão irrazoável quanto desproporcional!"
+    },
+    {
+      "page": 20,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\n\nEstivéssemos diante de uma situação caótica de frequentes ataques, doenças contagiosas advindos dos cães dessa raça, a ponto das estatísticas apontarem para a necessidade de extinção da raça, mas não, Nobres Ministros, estamos diante de uma norma infundada em quaisquer argumentos plausíveis capazes de minimamente apontar para tal necessidade.\nAo contrário disso, existe um crescimento do mercado de cães dessas raças, adentrando lares com crianças e de maneira dócil convivendo com elas e a par disso estudos demonstrando que o comportamento do cão está diretamente ligado aos tutores e o ambiente que vivem. E mais, que casos de ataques são isolados num universo de tantos cães Brasil afora, geralmente ligados a maus tratos ou abandonos ou irresponsabilidade de tutores.\n\nA lei quer punir criadores e tutores responsáveis pelos atos isolados de pessoas irresponsáveis? Isso é razoável? É proporcional? Obviamente que não e somente a declaração de inconstitucionalidade da norma estadual - inclusive com a concessão de Medida Cautelar - será capaz de conter os abusos previstos por ela.\n\nPor fim - e não menos importante - passa-se a tratar da necessidade de concessão de Medida Cautelar a fim de suspender os efeitos da lei estadual, uma vez que há perigo de dano irreparável a permanência de sua vigência até o julgamento final da presente ação.\n\nDA MEDIDA CAUTELAR\n\nA suspensão dos efeitos da lei estadual\n14.204/07 do Estado de Santa Catarina é medida necessária, uma vez que a manutenção dos efeitos da lei pode resultar na castração indevida de cães da raça Pit Bull e afins, causando efeitos negativos sobre a saúde desses animais,"
+    },
+    {
+      "page": 21,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\nbem como a proibição de comercialização e criação resultam em dano irreparável aos criadores que se encontram devidamente legalizados no Estado, impondo-lhes o fim da sua atividade econômica e, ato contínuo, a extinção progressiva e inevitável dessas raças.\n\nEm razão do caráter irreversível e permanente da medida de castração compulsória imposta pela legislação ora impugnada, mostra-se urgente e imprescindível a concessão de medida cautelar, com fundamento no art. 10 da Lei nº 9.868/1999, para suspender imediatamente os efeitos da Lei Estadual nº 14.207/2007 afastando a insegurança jurídica por ele trazida com sua regulamentação através do Decreto Estadual nº 1.047/2025, do Estado de Santa Catarina.\n\nA plausibilidade jurídica encontra-se fartamente demonstrada na fundamentação acima, e o periculum in mora é evidente, na medida em que:\n\n a castração compulsória constitui procedimento cirúrgico de caráter definitivo e irreversível, que não poderá ser desfeito mesmo na hipótese de procedência da presente ação.\n\n A continuidade da aplicação da norma implica em perda de efetividade da tutela jurisdicional e compromete gravemente o resultado útil do processo, caracterizando hipótese clássica de urgência.\n\n Cada ato de esterilização imposto compulsoriamente representa violação concreta e permanente aos direitos fundamentais dos tutores e aos direitos dos próprios animais, agravando o quadro jurídico e social a cada dia."
+    },
+    {
+      "page": 22,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\n\nA título de amostragem, essa Associação Legitimada tomou conhecimento que a 10ª. Promotoria de Justiça da Comarca de São José/SC, através do Ofício número 0578/2025/10PJ/SJO direcionado ao Sr. Ademilson Luiz da Silva, sócio da empresa MONSTER KENNEL FLORIPA LTDA, cientificou que houve abertura de Inquérito Civil Público número\n06.2024.00002843-4 e consequente ajuizamento de Ação Civil Pública número 5016704-88.2025.8.24.0064, perante a Vara da Fazenda Pública daquela Comarca sob acusação de contrariedade à Lei Estadual n. 14.204/07.\n(documento anexo)\n\nNobres Ministros, observa-se do exemplo acima que já estão ocorrendo prejuízos aos criadores das raças objeto da malfadada lei com ajuizamento de Ação Civil Pública, impedindo-os do livre exercício profissional, mesmo com todas as cautelas inerentes ao comércio desses animais, como se pode notar da cartilha elabora pela empresa em comento. (documento anexo)\n\nDa mesma forma, a imposição irreversível de castração é medida que vem sendo adotada pela fiscalização em cumprimento da lei estadual, levando criadores e tutores a submissão de um processo cruel e irreversível aos cães, o que só pode ser evitando mediante a concessão da Medida Cautela ora pleiteada.\n\nPor isso, requer-se a imediata suspensão, com efeitos ex tunc, da eficácia da Lei Estadual nº 14.207/2007 e do Decreto nº\n1.047/2025, até o julgamento definitivo da presente Ação Direta de Inconstitucionalidade, como medida indispensável à preservação da jurisdição constitucional e da integridade dos direitos envolvidos."
+    },
+    {
+      "page": 23,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\n\nPor fim, importante alertar que a norma se manteve inerte desde sua publicação em 2007 e que somente agora, 9 de julho de 2025, com o advento do mencionado decreto do Governador do Estado de Santa Catarina é que sua aplicabilidade passou a existir efetivamente, razão pela qual ressalta-se a necessidade de concessão da Medida Cautelar ora requerida.\n\nDOS PEDIDOS\n\nDIANTE DO EXPOSTO requer-se a Vossas Excelências:\n\na) seja concedida Medida Cautelar, nos termos do artigo 10, parágrafo terceiro, da Lei 9.868/99, a fim de suspender os efeitos da Lei 14.204/07 do Estado de Santa Catarina, solicitando posteriormente informações à Assembleia Legislativa de Santa Catarina, bem como do Advogado Geral da União e do Procurador Geral da República, a ser, oportunamente submetida ao crivo do Plenário;\nb) seja JULGADA TOTALMENTE PROCEDENTE a presente AÇÃO DIRETA DE INCONSTITUCIONALIDADE a fim de declarar inconstitucional a Lei Estadual 14.204/07 do Estado de Santa Catarina em sua totalidade, tendo em vista a violação formal da competência federativa pelo Estado-membro, nos termos do artigo 22 da Constituição Federal ou, no aspecto material, em razão da violação ao princípio da liberdade de escolha dos cidadãos (art. 5º, caput e LVI, CF); da liberdade do criador no exercício de seu ofício ou atividade de criação e venda de animais domésticos (art. 5º., XIII, CF); do princípio da função social da propriedade sobre o animal doméstico (art. 5º., XXII e XXIII, CF); o princípio da Livre Concorrência (art. 170, IV, CF); e com o dever de proteção da fauna, na qual se inserem os cães da raça Pit Bull e afins, contra a mutilação, crueldade e a extinção (art. 225, caput e VII, CF), com eficácia contra todos e efeito vinculante em relação a todos os órgãos do Poder Judiciário e da Administração Pública federal, estadual e municipal;"
+    },
+    {
+      "page": 24,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CEP: 15080-405\nc) sejam solicitadas as informações da Assembleia Legislativa do Estado de Santa Catarina para, posteriormente, serem ouvidos o Advogado-Geral da União e o Procurador-Geral da República em igual prazo de 15 (quinze) dias, nos termos dos artigos 6º e 8º da Lei 9.868/99;\nd) deixa de atribuir valor à causa devido à impossibilidade aferi-lo.\n\nPor fim, REQUER que todas as intimações e/ou notificações sejam efetivadas em nome dos advogados STEFANNY GOUVEA LOPES OAB/SP nº 408.139 e HENRIQUE MORGADO CASSEB OAB/SP nº 184.376, sob pena de nulidade, nos termos do artigo 272, §2º e 5º do Código de Processo Civil.\n\nNestes Termos,\n\nPede Deferimento.\n\nSão José do Rio Preto, 23 de julho de 2025.\n\nHenrique Morgado Casseb\nOAB 184.376 SP\n\nStefanny Gouvea Lopes Peres\nOAB 408.139 SP\n\nHENRIQUE MORGADO CASSEB\nAssinado de forma digital por HENRIQUE\nMORGADO CASSEB\nDados: 2025.07.25 11:45:28 -03'00'"
+    }
+  ]
+}

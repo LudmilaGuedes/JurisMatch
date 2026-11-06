@@ -1,0 +1,268 @@
+{
+  "id": "ADI_7936",
+  "arquivo_pdf": "ADI_7936.pdf",
+  "sha256": "3897482aeb7b11cc015aeb1314119840c068836c6f2bf64711703898a0a4f57f",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:31:28",
+  "resumo": {
+    "paginas": 30,
+    "paginas_digital": 30,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 63435,
+    "chars_clean": 43428,
+    "reducao_pct": 31.5,
+    "linhas_removidas": 146,
+    "limpeza_detalhe": {
+      "cabecalho_rodape": 116,
+      "hifen_mantido": 5,
+      "hifenizacao_unida": 0,
+      "numero_pagina": 30
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "CONFEDERAÇÃO NACIONAL DE SERVIÇOS\n\nrgodoi.com.br cnservicos.org.br\n\nEXMO.\nSR.\nMINISTRO PRESIDENTE\nDO\nEGRÉGIO SUPREMO TRIBUNAL FEDERAL\n\nCONFEDERAÇÃO NACIONAL DE SERVIÇOS - CNS,\nentidade sindical, inscrita no CNPJ/MF sob o nº 07.127.560/0001-50 (docs. 01 a 04), com sede na ST SRTVS Quadra 701, Conjunto E, Bloco 1, sala 507, s/n, Edifício Palácio do Rádio I, Brasília/DF, por seus advogados que esta subscrevem (doc. 01), vem respeitosamente à presença de V. Exa., com fulcro nos arts. 102, I, alínea \"a\" e 103, IX da Constituição Federal e na Lei nº 9.868/99, propor a presente\n\nA Ç Ã O D I R E T A D E I N C O N S T I T U C I O N A L I D A D E\ncom pedido de MEDIDA CAUTELAR\n\ncontra o art. 4º, §2º, inciso II, \"a\", §3º, I, § 4º, inciso VII e § 5º, caput e\nincisos I e II, da Lei Complementar nº 224, de 26 de dezembro de 2025 (doc. 12), e, por arrastamento, os arts. 2º, §2º, II, \"a\", 3º, I, 11 e 12 do Decreto nº 12.808, de 29 de dezembro de 2025 (doc. 13) e arts. 2º, §1º, II, \"a\", 4º, I, 13, 14 e 15 da Instruçãto Normativa RFB nº 2.305, de 31 de dezembro de 2025, tanto em sua redação original como na redação dada pela Instrução Normativa RFB nº 2.306, de 22 de janeiro de 2026 (doc.\n14), que, de forma complementar, instituíram a majoração da carga tributária incidente sobre as pessoas jurídicas optantes pelo regime do lucro presumido, sob o fundamento de que referido regime constituiria espécie de \"benefício fiscal\", como adiante se passa a demonstrar."
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "I.\nSÍNTESE DOS FATOS E DO OBJETO DA AÇÃO\n\n1.\nA presente ação tem como objeto a declaração de inconstitucionalidade dos seguintes dispositivos:\n\n Art. 4º, §2º, inciso II, \"a\", §3º, I, § 4º, inciso VII, e § 5º, caput e incisos I e II, da Lei Complementar nº 224/2025:\nPromoveram a majoração dos percentuais de presunção aplicáveis ao IRPJ e à CSLL, mediante a equiparação do regime do lucro presumido à benefício fiscal;\n\n Arts. 2º, §2º, II, \"a\", 3º, I, 11 e 12 do Decreto nº 12.808/2025:\nRegulamentam a aplicação prática da majoração instituída pela lei complementar; e\n\n Arts. 2º, §1º, II, \"a\", 4º, I, 13, 14 e 15 da Instrução Normativa RFB nº 2.305/2025, tanto em sua redação original como na redação dada pela Instrução Normativa RFB nº 2.306/2026:\nOperacionalizam a exigência tributária impugnada.\n\n2.\nEm apertada síntese, os dispositivos acima mencionados equipararam o regime de apuração do Imposto de Renda da Pessoa Jurídica (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL) pelo Lucro Presumido à categoria de incentivo ou benefício de natureza tributária, criando o adicional de 10% (dez por cento) sobre os percentuais de presunção deste regime, previstos nos arts. 15 e 20 da Lei nº 9.249/1995, sobre a parcela da receita bruta total que exceda o valor de R$ 5.000.000,00 (cinco milhões de reais) no ano-calendário."
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "3.\nEm outras palavras, as normas impugnadas introduziram novo critério normativo de tratamento do lucro presumido, passando a equipará-lo a \"benefício fiscal\", para fins de aplicação de percentuais majorados de presunção do IRPJ e da CSLL, vinculados exclusivamente ao montante de faturamento anual da pessoa jurídica, sem qualquer alteração legislativa nos critérios materiais de apuração da renda, nem demonstração empírica de modificação da lucratividade média dos setores atingidos.\n\n4.\nO resultado prático da inovação legislativa foi a tributação de base econômica dissociada da realidade, com elevação automática da carga tributária de contribuintes que, há décadas, se submetem ao regime legal expressamente previsto no ordenamento jurídico como opção de apuração da base de cálculo do IRPJ e da CSLL, e não como mecanismo de desoneração fiscal.\n\n5.\nNesse sentido, o cerne da presente ação reside na ilegítima e inconstitucional equiparação do regime do lucro presumido a um \"benefício fiscal\" ou \"incentivo tributário\", eis que afronta diretamente os princípios tributários basilares positivados na constituição.\n\n6.\nIsso porque, o Lucro Presumido, nos termos do art. 44 do Código Tributário Nacional, é um método ordinário de apuração da base de cálculo do IRPJ e da CSLL e, portanto, trata-se de uma das formas de tributação ao lado do lucro real e do lucro arbitrado.\n\n7.\nAlém disso, o adicional de 10%, previsto na legislação ora impugnada, destoa frontalmente do princípio da simplicidade, introduzido na Constituição Federal pela Emenda Constitucional nº 132/2023 (Reforma Tributária)."
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "8.\nEm suma, e conforme será amplamente demonstrado a seguir, a Lei Complementar nº 224/2025 incorre em inconstitucionalidade material, pois contraria os seguintes dispositivos da Constituição Federal:\n\n⮚ Constituição Federal (princípios): art. 5º, XXXVI (proteção à confiança legítima do contribuinte, derivada do princípio da segurança jurídica); art. 145, § 1º (capacidade contributiva); art. 150, IV (vedação ao confisco); e art. 145, § 3º (princípio da simplicidade);\n\n⮚ Constituição Federal (regra-matriz do IRPJ e CSLL): art.\n153, III, art. 195, I, \"c\", 146, III, \"a\" e \"b\".\n\n9.\nÀ luz desses parâmetros constitucionais, impõe-se a declaração de inconstitucionalidade do art. 4º, §2º, inciso II, \"a\", §3º, I, § 4º, inciso VII e § 5º, caput e incisos I e II, da Lei Complementar nº 224, de 26 de dezembro de 2025, e, por arrastamento, dos arts. 2º, §2º, II, \"a\", 3º, I, 11 e 12 do Decreto nº 12.808, de 29 de dezembro de 2025 e arts. 2º, §1º, II, \"a\", 4º, I, 13, 14 e 15 da Instrução Normativa RFB nº 2.305, de 31 de dezembro de 2025, tanto em sua redação original como na redação dada pela Instrução Normativa RFB nº 2.306, de 22 de janeiro de 2026, pelos fundamentos a seguir expostos."
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "II. PRELIMINARMENTE\n\nII.1. A representatividade e a legitimidade ativa da autora.\n\n10.\nA autora, Confederação Nacional de Serviços - CNS, é confederação sindical reconhecida pelo Ministério do Trabalho e Emprego, conforme atesta a anexa Certidão no Cadastro Nacional de Entidades Sindicais (doc. 03) e, portanto, integra o rol de legitimados para propor ação direta de inconstitucionalidade, conforme previsto no art.\n103 da Constituição Federal de 1988 e no art. 2º da Lei 9.868/99.\n\n11.\nA CNS foi fundada em fevereiro de 1999 para representar, no âmbito nacional, os direitos e interesses do setor de serviços das Federações a ela filiadas, organizando o sistema confederativo de representação sindical desse setor, sendo, portanto, a entidade máxima em tal sistema e, nos termos de seu Estatuto Social (art. 1º, § 2º, I - doc.\n03), tem legitimidade para representar judicialmente a categoria econômica das empresas de prestação de serviços em âmbito nacional.\n\n12.\nQuanto à legitimidade ativa para propor ações de controle concentrado de constitucionalidade, a CNS ajuizou duas relevantes Ações Diretas de Inconstitucionalidade - no 5576/SP e 5659/SP perante este C.\nSupremo Tribunal Federal (doc. 06), nas quais se discutiu a tributação de empresas por ela representadas.\n\n13.\nTambém ajuizou recentemente a Ação Direta de Inconstitucionalidade nº 7852/SP (doc.\n07) e a Arguição de Descumprimento de Preceito Fundamental nº 1.296/SP (doc. 08), em que se discutem normas proibitivas de transportes por aplicativo em motocicleta, tendo este Excelso Pretório reconhecido novamente sua legitimidade ativa."
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "14.\nAinda, ajuizou a Ação Direta de Inconstitucionalidade nº 7.905/DF (doc. 09), em conjunto com a Confederação Nacional do Transporte (CNT) e a Confederação Nacional de Saúde (CNSaúde), em face da alteração do índice de correção aplicável aos valores depositados administrativa e judicialmente pelos contribuintes, bem como a Arguição de Descumprimento de Preceito Fundamental nº 1.288/DF (doc. 10), em face de Temas do Tribunal Superior do Trabalho.\n\n15.\nDiante disso, é possível verificar que a autora possui legitimidade ativa para a propositura de ações de controle concentrado de constitucionalidade, nos termos do art. 103, inciso IX, da Constituição Federal e do art. 2º, inciso IX, da Lei nº 9.868/1999.\n\n16.\nRequer-se, assim, preliminarmente, o reconhecimento da legitimidade ativa da entidade autora para a propositura da presente ação direta de inconstitucionalidade.\n\nII.2. A Pertinência temática.\n\n17.\nPara que haja pertinência temática, é necessário que a norma legal impugnada se aplique, direta ou indiretamente, às classes representadas pela entidade sindical autora. E a pretensão aduzida com a presente ação guarda evidente relação de pertinência com os objetivos institucionais da autora.\n\n18.\nIsso porque, as normas impugnadas afetam diretamente o regime de tributação optativo, qual seja, o Lucro Presumido, que consiste forma de apuração dos tributos de milhares de empresas e entidades do setor de serviços, representadas pela autora, com impacto relevante sobre a segurança jurídica e a equidade nas relações tributárias."
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "19.\nCumpre destacar que esta Suprema Corte já firmou entendimento no sentido de que confederações sindicais setoriais detêm legitimidade ativa para o ajuizamento de ações de controle concentrado de constitucionalidade, mesmo quando os efeitos da norma impugnada transcendem os interesses diretos dos representados, desde que haja pertinência temática entre os objetivos institucionais da entidade e o conteúdo normativo questionado, conforme reconhecido, por unanimidade, na ADI nº 4.364, de relatoria do Ministro Dias Toffoli, na qual se reconheceu que:\n\n\"A meu ver, a exigência de pertinência temática não impede, quando o vício de inconstitucionalidade for idêntico para todos os seus destinatários, o amplo conhecimento da ação, nem a declaração de inconstitucionalidade da norma, para além do âmbito dos indivíduos representados pela entidade requerente.\nFoi o que ocorreu, mais recentemente, na ADI nº 15/DF, da relatoria do Ministro Sepúlveda Pertence, DJ de 31/09/07, em que a Corte declarou a inconstitucionalidade do art. 9º da Lei nº 7.689, que mantinha em vigor a contribuição para o FINSOCIAL. A decisão beneficiou todos os potenciais contribuintes do tributo e não apenas a classe representada pela entidade requerente (Confederação das Associações de Microempresas do Brasil), até porque, segundo entendimento da Corte, inconstitucional era a manutenção do FINSOCIAL para quaisquer contribuintes, não havendo especificidade relativa às microempresas. A inconstitucionalidade era, portanto, essencialmente a mesma para todos.\" (g.n.)."
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "20.\nÉ inequívoco, portanto, o interesse jurídico da autora e de suas empresas/entidades ora representadas na obtenção de provimento jurisdicional que declare a inconstitucionalidade das normas ora impugnadas.\n\n21.\nA legitimidade ativa da autora decorre não apenas de sua qualificação como confederação sindical nos termos do art. 103, IX, da Constituição Federal, mas também da clara vinculação entre o objeto da presente ação e os objetivos institucionais da entidade, conforme previsto em seu Estatuto Social. A pertinência temática está, portanto, plenamente caracterizada, legitimando sua atuação na presente ação direta de inconstitucionalidade.\n\n22.\nNão restam dúvidas, portanto, que as disposições impugnadas alcançam empresas que estão acobertadas na representação da autora, impactando o desenvolvimento do setor de serviços, estando presente, portanto, a pertinência temática na presente ação.\n\nIII.\nO DIREITO\n\nIII.1. A NATUREZA JURÍDICA DO LUCRO PRESUMIDO COMO REGIME LEGAL E ORDINÁRIO DE APURAÇÃO DO IRPJ E DA CSLL.\n\n23. A Constituição Federal e o Código Tributário Nacional atribuem à União a competência para instituir imposto sobre a renda e proventos de qualquer natureza, bem como a contribuição sobre o lucro, tendo como critério material a aquisição de disponibilidade econômica de renda ou lucro, nos termos dos arts. 153, III, e 195, I, \"c\", da Constituição, bem como do art. 43 do CTN:"
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Constituição Federal:\nArt. 153. Compete à União instituir impostos sobre:\n(...) III - renda e proventos de qualquer natureza;\n\nArt. 195. A seguridade social será financiada por toda a sociedade, de forma direta e indireta, nos termos da lei, mediante recursos provenientes dos orçamentos da União, dos Estados, do Distrito Federal e dos Municípios, e das seguintes contribuições sociais:\nI - do empregador, da empresa e da entidade a ela equiparada na forma da lei, incidentes sobre:\n(...)\nc) o lucro;\n\nCódigo Tributário Nacional:\nArt. 43. O imposto, de competência da União, sobre a renda e proventos de qualquer natureza tem como fato gerador a aquisição da disponibilidade econômica ou jurídica:\nI - de renda, assim entendido o produto do capital, do trabalho ou da combinação de ambos;\nII - de proventos de qualquer natureza, assim entendidos os acréscimos patrimoniais não compreendidos no inciso anterior.\n§ 1o A incidência do imposto independe da denominação da receita ou do rendimento, da localização, condição jurídica ou nacionalidade da fonte, da origem e da forma de percepção.\n\n24. No exercício dessa competência, a Constituição autoriza o legislador complementar a estabelecer normas gerais em matéria tributária, inclusive no que se refere à definição das bases de cálculo e às técnicas normativas de quantificação do tributo, conforme dispõe o\nart. 146, III, \"a\" e \"b\", da Constituição Federal:"
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Art. 146. Cabe à lei complementar:\n(...)\nIII - estabelecer normas gerais em matéria de legislação tributária, especialmente sobre:\na) definição de tributos e de suas espécies, bem como, em relação aos impostos discriminados nesta Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes;\nb) obrigação, lançamento, crédito, prescrição e decadência tributários;\n\n25. É nesse espaço constitucional que se insere o regime do lucro presumido, expressamente previsto no art. 44 do Código Tributário Nacional, que reconhece como legítimas 3 (três) modalidades de determinação ordinária da base de cálculo do imposto sobre a renda: o lucro real, o lucro arbitrado e o lucro presumido:\n\n\"Art. 44. A base de cálculo do imposto é o montante, real, arbitrado ou presumido, da renda ou dos proventos tributáveis.\" (g.n.)\n\n26. O lucro presumido se configura como regime legal optativo de apuração, disponibilizado ao contribuinte como alternativa ao lucro real, sem qualquer exceção à materialidade/regra-matriz do imposto sobre a renda ou da CSLL, conforme disciplinado pela Lei nº\n9.430/1996:\n\nArt. 25. O lucro presumido será o montante determinado pela soma das seguintes parcelas:\nI - o valor resultante da aplicação dos percentuais de que trata o art. 15 da Lei nº 9.249, de 26 de dezembro de 1995, sobre a receita bruta definida pela art. 12 do Decreto-Lei nº\n1.598, de 26 de dezembro de 1977, auferida no período de"
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "apuração de que trata o art. 1o, deduzida das devoluções e vendas canceladas e dos descontos incondicionais concedidos; e (Redação dada pela Lei nº\n12.973, de 2014) (Vigência)\nII - os ganhos de capital, os rendimentos e ganhos líquidos auferidos em aplicações financeiras, as demais receitas, os resultados positivos decorrentes de receitas não abrangidas pela inciso I, com os respectivos valores decorrentes do ajuste a valor presente de que trata o inciso VIII do caput do art.\n183 da Lei no 6.404, de 15 de dezembro de 1976, e demais valores determinados nesta Lei, auferidos naquele mesmo período.\n\nArt. 26. A opção pela tributação com base no lucro presumido será aplicada em relação a todo o período de atividade da empresa em cada ano-calendário.\n§ 1º A opção de que trata este artigo será manifestada com o pagamento da primeira ou única quota do imposto devido correspondente ao primeiro período de apuração de cada ano-calendário.\n§ 2º A pessoa jurídica que houver iniciado atividade a partir do segundo trimestre manifestará a opção de que trata este artigo com o pagamento da primeira ou única quota do imposto devido relativa ao período de apuração do início de atividade.\n§ 3º A pessoa jurídica que houver pago o imposto com base no lucro presumido e que, em relação ao mesmo ano-calendário, alterar a opção, passando a ser tributada com base no lucro real, ficará sujeita ao pagamento de multa e juros moratórios sobre a diferença de imposto paga a menor.\n§ 4º A mudança de opção a que se refere o parágrafo anterior somente será admitida quando formalizada até a entrega da correspondente declaração de rendimentos e antes de"
+    },
+    {
+      "page": 12,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "iniciado procedimento de ofício relativo a qualquer dos períodos de apuração do respectivo ano-calendário. (g.n.).\n\n27. Nesse regime, a legislação estabelece percentuais objetivos e fixos de presunção, incidentes sobre a receita bruta auferida no período de apuração, os quais variam de 1,6% a 38,4%, conforme a natureza da atividade econômica exercida pela pessoa jurídica, nos termos dos arts.\n15 e 20 da Lei nº 9.249/1995:\n\nArt. 15. A base de cálculo do imposto, em cada mês, será determinada mediante a aplicação do percentual de 8% (oito por cento) sobre a receita bruta auferida mensalmente, observado o disposto no art. 12 do Decreto-Lei no 1.598, de 26 de dezembro de 1977, deduzida das devoluções, vendas canceladas e dos descontos incondicionais concedidos, sem prejuízo do disposto nos arts. 30, 32, 34 e 35 da Lei no 8.981, de 20 de janeiro de 1995.\n§ 1º Nas seguintes atividades, o percentual de que trata este artigo será de:\nI - um inteiro e seis décimos por cento, para a atividade de revenda, para consumo, de combustível derivado de petróleo, álcool etílico carburante e gás natural;\nII - dezesseis por cento:\n(...)\nIII - trinta e dois por cento, para as atividades de:\n(...)\nIV - 38,4% (trinta e oito inteiros e quatro décimos por cento), para as atividades de operação de empréstimo, de financiamento e de desconto de títulos de crédito realizadas por Empresa Simples de Crédito (ESC). (g.n.)\n\nArt. 20. A base de cálculo da Contribuição Social sobre o Lucro Líquido (CSLL) devida pelas pessoas jurídicas que"
+    },
+    {
+      "page": 13,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "efetuarem o pagamento mensal ou trimestral a que se referem os arts. 2º, 25 e 27 da Lei nº 9.430, de 27 de dezembro de 1996, corresponderá aos seguintes percentuais aplicados sobre a receita bruta definida pelo art. 12 do Decreto-Lei nº\n1.598, de 26 de dezembro de 1977, auferida no período, deduzida das devoluções, das vendas canceladas e dos descontos incondicionais concedidos: (Redação dada pela Lei Complementar nº 167, de 2019)\nI - 32% (trinta e dois por cento) para a receita bruta decorrente das atividades previstas no inciso III do § 1º do\nart. 15 desta Lei;\nII - 38,4% (trinta e oito inteiros e quatro décimos por cento) para a receita bruta decorrente das atividades previstas no inciso IV do § 1º do art. 15 desta Lei; e (Incluído pela Lei Complementar nº 167, de 2019)\nIII - 12% (doze por cento) para as demais receitas brutas.\n\n28. Tais percentuais refletem presunções absolutas e normativas de lucro, construídas pelo legislador a partir da média de custos e despesas presumidamente inerentes a cada setor econômico, não havendo qualquer correlação com a natureza dos benefícios fiscais, incentivos ou mecanismos de desoneração tributária.\n\n29. A adoção da receita bruta como elemento de incidência no regime do lucro presumido revela a opção do legislador por um modelo simplificado, objetivo e previsível de tributação, o qual prescinde da apuração contábil analítica do resultado e a dedução individualizada de custos, despesas operacionais ou encargos financeiros, próprios do regime do lucro real."
+    },
+    {
+      "page": 14,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "30. Tais elementos já se encontram implicitamente considerados na fixação do percentual de presunção, razão pela qual a legislação veda qualquer dedução da base de cálculo, com exceção das devoluções, vendas canceladas e dos descontos incondicionais concedidos, exatamente para preservar a coerência do regime.\n\n31. Neste tocante, convém mencionar que a própria legislação do imposto sobre a renda afasta, de modo inequívoco, qualquer tentativa de qualificar o lucro presumido como incentivo ou benefício fiscal.\n\n32. Com efeito, o art. 10 da Lei nº 9.532/1997 dispõe expressamente que:\n\nArt. 10. Do imposto apurado com base no lucro arbitrado ou no lucro presumido não será permitida qualquer dedução a título de incentivo fiscal.\n\n33. Revela o dispositivo que o legislador distingue conceitualmente o regime de apuração da base de cálculo dos mecanismos de incentivo, tratando-os como categorias jurídicas autônomas e não sobreponíveis.\n\n34. Isto é, se o lucro presumido fosse, em si, um incentivo fiscal, não faria sentido lógico nem sistemático vedar a dedução de incentivos sobre o imposto nele apurado.\n\n35. Essa vedação normativa evidencia que o lucro presumido não opera como técnica de desoneração tributária, mas como método alternativo e ordinário de quantificação da base de cálculo, no qual o legislador opta por presunções legais absolutas em troca da simplicidade, previsibilidade e redução da complexidade fiscal."
+    },
+    {
+      "page": 15,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "36. Ao proibir a dedução de incentivos fiscais nesse regime, a lei reforça que o lucro presumido não se caracteriza como benefício fiscal, não se confunde com renúncia de receita e não integra o sistema de incentivos fiscais, sendo, ao contrário, um regime fechado, optativo, incompatível com qualquer lógica de favorecimento fiscal e tão somente voltado a simplificar a tributação e fiscalização.\n\n37. A doutrina de Hugo de Brito Machado1 é bastante esclarecedora ao reconhecer a compatibilidade dessa técnica com a estrutura constitucional do imposto sobre a renda, bem como elucidar que não se trata de benefício fiscal:\n\n\"O regime do lucro presumido é forma de determinação da base de cálculo do imposto de renda das pessoas jurídicas que não estejam obrigadas à apuração do lucro real. (...) Não se trata de um benefício fiscal, mas de uma simplificação. Uma alternativa que a lei oferece ao contribuinte, que pode ou não ser vantajosa, a depender da margem de lucro efetiva de sua atividade\"\n\n38. Nesse contexto, a tentativa de requalificação do lucro presumido como espécie de \"benefício fiscal\", promovida pela Lei Complementar nº 224/2025, pelo Decreto nº 12.808/2025 e pela IN/RFB 2.305/2025, desfigura a natureza do regime previsto no art. 44 do CTN e subverte a lógica da presunção legal absoluta que fundamenta a opção legislativa pela simplificação e previsibilidade da tributação.\n\n1 Machado, Hugo de Brito. Curso de Direito Tributário. 44. Ed. São Paulo. Malheiros Editores, 2023."
+    },
+    {
+      "page": 16,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "39. Ao assim proceder, a norma impugnada rompe com a própria arquitetura normativa do lucro presumido, sendo manifestamente inconstitucional.\n\nIII.2. DA ILEGAL E INCONSTITUCIONAL EQUIPARAÇÃO DO REGIME DO LUCRO PRESUMIDO COMO ESPÉCIE DE BENEFÍCIO FISCAL\n\n40. A equiparação do regime do lucro presumido à espécie de benefício ou incentivo fiscal, promovida pela Lei Complementar nº 224/2025, pelo Decreto nº 12.808/2025 e pela IN/RFB 2.305/2025, não constitui mero ajuste técnico da tributação, mas verdadeira distorção conceitual incompatível do lucro presumido com a arquitetura constitucional do sistema tributário, na medida em que desconsidera a natureza jurídica do lucro presumido como técnica alternativa padrão de tributação do IRPJ e da CSLL, ao lado do lucro real e do lucro arbitrado.\n\n41. Diferentemente do que supõe a norma impugnada, o lucro presumido não se insere no campo dos incentivos fiscais, mas no âmbito das técnicas legais de quantificação da base de cálculo, instituídas no exercício da competência prevista nos arts. 153, III, e 146, III, \"a\" e \"b\", da Constituição Federal, visto alhures.\n\n42. A sua indevida equiparação a benefício fiscal, portanto, desloca o regime de apuração do plano tributário para categorias próprias do direito financeiro e orçamentário, e promove distorção conceitual que compromete a coerência do sistema tributário constitucional, pois trata como renúncia de receita aquilo que jamais foi concebido como tal."
+    },
+    {
+      "page": 17,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "43. Exsurge, neste contexto, a indagação central: o que justifica, à luz da Constituição Federal, a majoração em 10% do percentual de presunção do lucro presumido se ele não é um benefício fiscal?\n\n44. Houve alteração estrutural na economia que impactasse, de modo uniforme, a capacidade contributiva de todas as empresas abrangidas pelo regime? Ou ainda, teriam todas as atividades econômicas experimentado aumento generalizado de margem de lucro?\n\n45. A resposta é negativa. Não há qualquer estudo econômico ou setorial que fundamente a majoração introduzida, revelando a ausência de correlação entre a medida adotada e parâmetros constitucionalmente reconhecidos de capacidade contributiva (art. 145, §1º).\n\n46. Do ponto de vista constitucional, a majoração da base de presunção não se apresenta como técnica legítima de quantificação da renda, mas como caráter arrecadatório dissociado da materialidade do imposto sobre a renda, em afronta ao art. 153, III, da Constituição Federal.\n\n47. Ao assim proceder, a Lei Complementar nº 224/2025 promove verdadeira mutação indevida da regra-matriz de incidência do imposto, ampliando a carga tributária por via oblíqua e conceitualmente imprópria\n\n48. Se a premissa à atuação fiscal fosse a de que os contribuintes do lucro presumido estariam auferindo lucros efetivos superiores à base de presunção legal, o caminho constitucionalmente adequado seria a alteração expressa da legislação que fixa os percentuais de presunção ou das alíquotas aplicáveis, ou mesmo a revisão do próprio regime, mas jamais a sua reclassificação como benefício fiscal."
+    },
+    {
+      "page": 18,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "49. O que não se mostra admissível, à luz da Constituição, é a utilização de conceitos estranhos ao direito tributário, como a noção orçamentária de \"gasto tributário\" (art. 165, §6º), para redefinir a natureza jurídica de regime de apuração disciplinado por normas gerais de direito tributário.\n\n50. A ausência de motivação normativa idônea para tanto evidencia que a Lei Complementar nº 224/2025, o Decreto nº 12.808/2025 e a IN/RFB\n2.305/2025, não se limita a ajustar tecnicamente o regime do lucro presumido, mas promove reclassificação artificial que compromete a segurança jurídica e viola o princípio da proporcionalidade ao impor ônus excessivo e imprevisível aos contribuintes.\n\n51. Merece destaque, neste aspecto, o fato de que a Lei Complementar nº 224/2025 é expressa em seu art. 4º, §2ª, inciso I2, ao definir que os seus efeitos - incluindo o de majoração nos percentuais de presunção do lucro presumido - aplica-se aos incentivos e benefícios tributários discriminados no Demonstrativo dos Gastos Governamentais Indiretos de Natureza Tributária.\n\n52. Todavia, conforme se infere do aludido documento (doc. 11), elaborado pela própria Receita Federal do Brasil, o regime do lucro presumido não é classificado, em momento algum, como gasto tributário.\n\n2 Art. 4º Os incentivos e benefícios federais de natureza tributária são reduzidos na forma deste artigo.\n(...)\n§ 2º O disposto neste artigo abrange os incentivos e benefícios tributários federais relativos aos tributos especificados no § 1º deste artigo:\nI - discriminados no demonstrativo de gastos tributários a que se refere o § 6º do art. 165 da Constituição Federal anexo à Lei Orçamentária Anual de 2026"
+    },
+    {
+      "page": 19,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "53. Tal circunstância é absolutamente relevante, pois o demonstrativo oficial reflete o entendimento consolidado da autoridade fazendária acerca do que efetivamente se configura renúncia de receita/benefício fiscal, nos termos do art. 165, §6º, da Constituição Federal.\n\n54. A ausência do lucro presumido entre os gastos tributários ali identificados evidencia que a própria Fazenda Nacional reconhece se tratar de regime estrutural de apuração da base de cálculo, e não de mecanismo de benefício/desoneração ou incentivo fiscal.\n\n55. Prova cabal disso é que a Receita Federal do Brasil elaborou um documento intitulado \"GASTO TRIBUTÁRIO - Conceito e Critérios de Classificação\"3, publicado em 10/11/2020, esclarecendo expressamente que a tributação do IRPJ e da CSLL pelo lucro presumido se insere no \"sistema padrão de tributação\", não configurando gasto tributário:\n\nSistema tributário de referência para o Imposto de Renda das Pessoas Jurídicas - IRPJ e para a Contribuição Social sobre o Lucro Líquido - CSLL\n\n\"O Imposto de Renda das Pessoas Jurídicas (IRPJ) e a Contribuição Social sobre o Lucro Líquido (CSLL) são dois tributos de caráter fiscal que incidem sobre a base econômica renda e têm como base de cálculo o lucro das pessoas jurídicas. (...) A base de cálculo do imposto de renda e CSLL é o lucro real, apurado segundo registros contábeis e fiscais, ou o lucro presumido, forma simplificada de apuração da base de cálculo. (...) A definição desses critérios e a graduação das alíquotas faz parte da estrutura do imposto de renda. Os impactos na arrecadação decorrentes de sua escolha ou de sua alteração não são considerados gastos tributários, pois configuram a própria referência do tributo.\nPor outro lado, as medidas que se desviam dessa composição e beneficiam algum grupo de contribuintes, por mais nobre ou meritório que seja o motivo, são consideradas gastos tributários.\" (g.n.)\n\n3https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/relatorios/renuncia/gastos-tributarios-bases-efetivas/sistema-tributario-de-referencia-str-v1-02.pdf/view"
+    },
+    {
+      "page": 20,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "56. Com efeito, o art. 4º, §3º, I, da LC nº 224/2025, ao pretender estabelecer apenas o lucro real como o \"sistema padrão de tributação\" do IRPJ/CSLL, ignorando a base de cálculo presumida prevista no art. 44 do CTN, dissocia-se do próprio entendimento da Receita Federal do Brasil.\n\n57. É impossível compreender o lucro presumido como benefício fiscal, pelo simples fato de que ele não é sinônimo de \"gasto tributário\". Por se tratar de opção irretratável para todo o ano-calendário, não é raro que os contribuintes optantes pelo lucro presumido acabem recolhendo IRPJ e CSLL acima do que teria recolhido se tivesse optado pelo lucro real, em razão de equívocos quanto à expectativa de receitas e despesas para o decorrer do ano.\n\n58. Há também aqueles contribuintes que, mesmo sabendo que irão recolher valores a maior de IRPJ e CSLL, preferem o lucro presumido em razão da simplicidade no cumprimento das obrigações acessórias, reduzindo-se o custo de conformidade fiscal.\n\n59. Nessas hipóteses, sequer há redução na arrecadação tributária, mas sim sua majoração.\n\n60. A opção do legislador complementar por reclassificar o lucro presumido como benefício fiscal, em contradição com o diagnóstico técnico da Receita Federal e com o art. 44 do CTN, expõe a fragilidade da fundamentação normativa da Lei Complementar nº 224/2025, do Decreto nº 12.808/2025 e da IN/RFB 2.305/2025, e reforça o caráter meramente extrafiscal e incompatível da equiparação promovida."
+    },
+    {
+      "page": 21,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "61. Se o regime não é tratado como gasto tributário nem pela própria Administração responsável pela arrecadação e fiscalização do tributo, não se pode tê-lo como tal, sob pena de violação à princípios constitucionais basilares, a seguir expostos.\n\nIII.3. VIOLAÇÃO AOS PRINCÍPIOS DA SEGURANÇA JURÍDICA, CONFIANÇA LEGÍTIMA, CAPACIDADE CONTRIBUTIVA, NÃO CONFISCO E A SIMPLICIDADE TRIBUTÁRIA\n\n62. A imposição de um adicional de 10% sobre os percentuais de presunção do IRPJ e da CSLL, fundamentada na errônea qualificação do lucro presumido como \"benefício fiscal\", promove indevida mutação normativa da regra-matriz do imposto sobre a renda, subvertendo técnica constitucionalmente legítima de apuração da base de cálculo e contrariando, simultaneamente, os princípios da segurança jurídica, confiança legítima, capacidade contributiva e não confisco, e, ainda, contradizendo frontalmente os objetivos da Reforma Tributária, especificamente o princípio da simplicidade tributária, todos sob a guarida da Constituição Federal.\n\n63. Pois bem. O princípio da segurança jurídica, previsto no art. 5º, XXXVI, da Constituição Federal, possui como corolário a proteção da confiança legítima, a qual veda que o Estado, após induzir determinados comportamentos nos administrados, venha a frustrar as legítimas expectativas por ele mesmo criadas.\n\n64. O regime do Lucro Presumido, vigente há décadas, gerou no contribuinte a legítima expectativa de que a presunção legal de"
+    },
+    {
+      "page": 22,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "lucratividade seria mantida enquanto as premissas econômicas que a fundamentam permanecessem inalteradas.\n\n65. Ao majorar os percentuais de presunção de forma linear e arbitrária, sem qualquer estudo técnico que demonstre o aumento da margem de lucro real dos setores atingidos, a Lei Complementar nº 224/2025 quebra o elo de confiança entre o Fisco e o administrado.\n\n66. Para além disso, a alteração promovida pela lei impugnada, ao final do exercício financeiro e com efeitos imediatos, desconsidera o tempo necessário para a reorganização societária e contábil das empresas, que se veem obrigadas a suportar um ônus tributário não previsto, ferindo a previsibilidade indispensável ao Estado Democrático de Direito.\n\n67. Ademais, a majoração dos percentuais de presunção, sem lastro na realidade econômica, afronta o princípio da capacidade contributiva, previsto no art. 145, § 1º, da Constituição Federal, o qual determina que os tributos devem ser graduados conforme a aptidão econômica do contribuinte, de modo a respeitar a proporcionalidade da contribuição com sua capacidade financeira real.\n\n68. Nesse sentido, a cobrança do adicional de 10% nos percentuais de presunção sobre a parcela da receita anual que exceder R$ 5.000.000,00 ignora por completo a aptidão econômica efetiva do contribuinte, impondo tributo sobre algo que não é lucro (presumido), desrespeitando sua capacidade contributiva.\n\n69. Empresas que auferem receita anual acima de R$ 5.000.000,00 não necessariamente obtêm lucro superior àquelas que auferem receita abaixo do referido limite. Nessa hipótese, as primeiras terão ainda menor"
+    },
+    {
+      "page": 23,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "capacidade contributiva do que as últimas, não havendo justificativa para sofrerem tributação majorada.\n\n70. Recorde-se que o IRPJ e a CSLL não incidem sobre a receita, mas sobre o lucro, cujos conceitos jurídicos e econômicos não se confundem.\n\n71. Ou seja, a majoração automática por faturamento pode inclusive levar ao pagamento de tributo superior àquele que incidira sobre o lucro efetivamente auferido, o que contraria frontalmente o comando constitucional de que os impostos tenham caráter pessoal e sejam graduados segundo a capacidade econômica do contribuinte.\n\n72. Ainda, ao impor um adicional que potencialmente eleva a tributação a níveis desproporcionais em relação ao lucro efetivamente auferido, especialmente para empresas com margens de lucro menores que os percentuais presumidos, a norma impugnada pode produzir resultado equivalente a confisco indireto de renda ou patrimônio da empresa, ao retirar parcela de riqueza além da capacidade contributiva suportável, em clara afronta à vedação expressa no art. 150, IV, da Constituição Federal.\n\n73. Além disso, necessário ressaltar que a Lei Complementar nº 224/2025 surge em momento histórico contraditório: enquanto a Reforma Tributária é promulgada com o discurso oficial de \"simplificar\", \"modernizar\" e \"reduzir a burocracia\" para liberar a energia produtiva do país, esta lei complementar faz exatamente o oposto no âmbito do IRPJ e da CSLL."
+    },
+    {
+      "page": 24,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "74. Isso porque, a Emenda Constitucional nº 132/2023 (Reforma Tributária) inseriu o § 3º no art. 145 na Constituição Federal, que assim dispõe:\n\nArt. 145 - § 3º O Sistema Tributário Nacional deve observar os princípios da simplicidade, da transparência, da justiça tributária, da cooperação e da defesa do meio ambiente. (Incluído pela Emenda Constitucional nº 132, de 2023)\n\n75. O princípio da simplicidade não é apenas uma diretriz administrativa, mas um mandamento de otimização que impõe ao legislador a redução e a complexidade burocrática no Sistema Tributário Nacional.\n\n76. Neste ponto, destaca-se que o Lucro Presumido é a própria materialização desse princípio, permitindo que as empresas cumpram suas obrigações sem o aparato contábil extremamente oneroso exigido pelo Lucro Real.\n\n77. Assim, ao tornar o Lucro Presumido excessivamente oneroso por meio do inconstitucional adicional de 10% (dez por cento), a norma ora questionada \"força\" indiretamente as empresas a migrarem para o Lucro Real, um regime reconhecidamente burocrático, complexo e custoso, motivo pelo qual a norma impugnada viola o princípio da simplicidade tributária, ensejando diversos prejuízos:\n\n Prejuízo ao Contribuinte: A nova sistemática obriga as empresas a realizarem dois cálculos distintos (até R$ 5 milhões e acima disso), com percentuais diferenciados, aumentando a complexidade contábil e os custos de"
+    },
+    {
+      "page": 25,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "conformidade. Isso é a antítese da simplificação. A medida, na prática, penaliza a opção por um regime que deveria ser justamente a expressão da simplificação. Além disso, caso as empresas migrem para o lucro real, o cenário será ainda mais desastroso, devido à complexidade e onerosidade da conformidade fiscal; e\n\n Prejuízo ao Fisco: Que terá sua capacidade de fiscalização sobrecarregada, uma vez que o controle do Lucro Real exige uma análise pormenorizada de despesas e custos, aumentando a litigiosidade e o tempo de processamento de dados pela Receita Federal.\n\n78. Diante disso, resta evidente a afronta aos pilares da ordem constitucional tributária mencionados acima, motivo pelo qual impõe-se o reconhecimento da inconstitucionalidade material dos dispositivos ora questionados.\n\nIV. NECESSIDADE DE CONCESSÃO DE MEDIDA CAUTELAR\n\n79.\nA plausibilidade jurídica da presente ação direta de inconstitucionalidade decorre dos fundamentos já articulados nesta petição inicial, revelando-se suficiente para o preenchimento do requisito do fumus boni iuris.\n\n80. O perigo da demora, por sua vez, impõe a concessão imediata da medida liminar, tendo em vista as empresas representadas pela autora já estão submetidas aos efeitos da Lei Complementar nº 224/2025, atualmente em vigor."
+    },
+    {
+      "page": 26,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "81. Deste modo, considerando que o recolhimento do IRPJ e da CSLL no lucro presumido ocorre trimestralmente, é iminente o risco de que os contribuintes efetuem pagamentos em montantes superiores aos constitucionalmente devidos, produzindo efeitos financeiros relevantes e continuados ao longo de todo o exercício.\n\n82. Ademais, caso optem por não recolher os tributos nos moldes estabelecidos pela Lei Complementar nº 224/2025, as empresas ficarão sujeitas a autuações fiscais, com o consequente lançamento de tributos, juros e multas, o que poderá resultar na impossibilidade de obtenção de certidões de regularidade fiscal, na restrição ao acesso a contratos administrativos e licitações, à obtenção de crédito bancário, bem como sujeitas ao ajuizamento execuções fiscais e medidas constritivas sobre seu patrimônio.\n\n83. Oportuno destacar que a controvérsia em discussão já foi submetida à apreciação do Poder Judiciário, que já vem deferindo medidas liminares para afastar a majoração de 10% da base de presunção do lucro presumido. Confira-se decisão proferida pela Seção Judiciária do Rio de Janeiro4:\n\n\"O regime do lucro presumido encontra fundamento legal no art.\n44 do CTN, como uma das formas admitidas de determinação da base de cálculo do imposto sobre a renda, ao lado do lucro real e do lucro arbitrado.\n(...) não se verifica a concessão de vantagem tributária garantida, mas apenas a adoção de método alternativo de cálculo, cujo resultado pode revelar-se, inclusive, mais oneroso ao contribuinte, a depender de sua realidade\n\n4 Mandado de Segurança nº 500259-79.2026.4.02.5116, 1ª Vara Federal de Resende-RJ, decisão proferida em 27/01/2026."
+    },
+    {
+      "page": 27,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "econômica. Nesse contexto, a equiparação do regime do lucro presumido a benefício fiscal, para fins de majoração da base de cálculo, mostra-se, ao menos em análise preliminar, juridicamente questionável.\n(...) Ademais, o não recolhimento da exação controvertida pode ensejar a lavratura de autos de infração, a imposição de multas e a restrição à obtenção de certidões de regularidade fiscal, circunstâncias aptas a causar prejuízo de difícil reparação (...) Ante o exposto, DEFIRO A MEDIDA LIMINAR, para suspender a exigibilidade do crédito tributário decorrente da majoração de 10% (dez por cento) dos percentuais de presunção aplicáveis ao IRPJ e à CSLL, prevista no art. 4º, § 4º, inciso VII, e § 5º, da Lei Complementar nº 224/2025, bem como nos atos infralegais que a regulamentaram, assegurando à impetrante o direito de apurar e recolher os referidos tributos segundo os percentuais de presunção anteriormente vigentes, enquanto perdurar a presente demanda.\"\n\n84. Evidencia-se, portanto, a presença de risco concreto, atual e de difícil reparação, apto a justificar a concessão da medida cautelar, a fim de preservar a eficácia da Constituição Federal, assegurar a estabilidade das relações jurídico-tributárias e evitar que os contribuintes suportem ônus excessivo e potencialmente irreversível até o julgamento definitivo da presente ação direta de inconstitucionalidade."
+    },
+    {
+      "page": 28,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "V. PEDIDO\n\n85. Ante todo o exposto, requer a autora que este Supremo Tribunal Federal:\n\na) Conceda medida cautelar, nos termos do art. 10 da Lei nº 9.868/1999, para suspender imediatamente a eficácia do\nart. 4º, §2º, inciso II, \"a\", §3º, I, § 4º, inciso VII e § 5º, caput e\nincisos I e II, da Lei Complementar nº 224/2025, e, por arrastamento, dos arts. 2º, §2º, II, \"a\", 3º, I, 11 e 12 do Decreto nº 12.808/2025 e arts. 2º, §1º, II, \"a\", 4º, I, 13, 14 e 15 da Instrução Normativa RFB nº 2.305/2025, tanto em sua redação original como na redação dada pela Instrução Normativa RFB nº 2.306/2026, afastando-se a majoração dos percentuais de presunção do IRPJ e da CSLL, pela sistemática do lucro presumido, prevista nos artigos 25 e 26 da Lei\n9.430/1996, até o julgamento definitivo da presente ação;\n\nb) Sejam intimados o Presidente da Câmara dos Deputados, o Presidente do Senado Federal e o Presidente da República, para prestarem informações (Lei nº 9.868/1999, art. 6º, caput e\nparágrafo único);\n\nc) Sejam ouvidos o Advogado-Geral da União e o Procurador-Geral da República (Lei nº 9.868/1999, art. 8º);"
+    },
+    {
+      "page": 29,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "d) Ao final, seja julgado procedente o pedido, com a ratificação da medida cautelar anteriormente requerida, para declarar a inconstitucionalidade do art. 4º, §2º, inciso II, \"a\", §3º, I, § 4º,\ninciso VII e § 5º, caput e incisos I e II, da Lei Complementar nº 224/2025, e, por arrastamento, dos arts. 2º, §2º, II, \"a\", 3º, I, 11 e 12 do Decreto nº 12.808/2025 e arts. 2º, §1º, II, \"a\", 4º, I, 13, 14 e 15 da Instrução Normativa RFB nº 2.305/2025, tanto em sua redação original como na redação dada pela Instrução Normativa RFB nº 2.306/2026, afastando-se, em definitivo, a majoração dos percentuais de presunção do IRPJ e da CSLL, pela sistemática do lucro presumido, prevista nos artigos 25 e 26 da Lei 9.430/96.\n\n86. Todas as informações e avisos deverão ser levados a efeito no endereço dos procuradores da autora, qual seja, Rua dos Pinheiros, 870, São Paulo/SP, CEP 05422-001, telefone (11) 3513-4100, Fax (11) 3513- 4101, endereço eletrônico: tributario@rgodoi.com.br.\n\n87. Requer, ainda, sejam as intimações por meio de publicação no Diário Oficial realizadas exclusivamente em nome dos advogados Ricardo Oliveira Godoi, OAB/SP 143.250 e Alexander Gustavo Lopes de França, OAB/SP 246.222, sob pena de nulidade, nos termos do art. 272,\n§ 5º, do Código de Processo Civil.\n\n88. Por fim, declara a autora a autenticidade de todos os documentos que não se encontram em cópia autenticada, nos termos do art. 425, IV, do Código de Processo Civil."
+    },
+    {
+      "page": 30,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "89. Dá-se à presente causa o valor de R$ 1.000,00 (mil reais), para fins fiscais.\nNestes termos, Pede deferimento.\n\nBrasília, 11 de fevereiro de 2026.\n\nRicardo Oliveira Godoi\nOAB/SP 143.250\n\nAlexander Gustavo Lopes de França\nOAB/SP 246.222"
+    }
+  ]
+}

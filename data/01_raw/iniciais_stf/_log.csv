@@ -1,0 +1,1028 @@
+processo,incidente,status,arquivo,bytes,detalhe
+ADC 27,3940394,ok,ADC_27_inicial.pdf,685649,Petição inicial - Petição Inicial
+ADC 43,4986065,ok,ADC_43_inicial.pdf,919406,Petição inicial (25554/2016) - Petição inicial
+ADC 44,4986729,ok,ADC_44_inicial.pdf,607953,Petição inicial (25831/2016) - Petição inicial
+ADC 54,5440576,ok,ADC_54_inicial.pdf,150724,Petição inicial (22113/2018) - Petição inicial
+ADC 79,6320930,ok,ADC_79_inicial.pdf,389535,Petição inicial (118550/2021) - Petição inicial
+ADC 80,6383356,ok,ADC_80_inicial.pdf,390695,Petição inicial (25369/2022) - Petição inicial
+ADC 86,6681004,ok,ADC_86_inicial.pdf,970137,Petição inicial (68105/2023) - Petição inicial - (ID: 7f6a5236)
+ADC 87,6824155,ok,ADC_87_inicial.pdf,1374269,Petição inicial (143384/2023) - Petição inicial - (ID: 148a504f)
+ADC 90,7000789,ok,ADC_90_inicial.pdf,602299,Petição inicial (97966/2024) - Petição inicial - (ID: 531bed36)
+ADC 91,7036064,ok,ADC_91_inicial.pdf,1227442,Petição inicial (116997/2024) - Petição inicial - (ID: 8dd32fb5)
+ADC 92,7041818,ok,ADC_92_inicial.pdf,566248,Petição inicial (119919/2024) - Petição inicial - (ID: acea996d)
+ADC 93,7103080,ok,ADC_93_inicial.pdf,531094,Petição inicial (152419/2024) - Petição inicial - (ID: dda75c51)
+ADC 96,7303647,ok,ADC_96_inicial.pdf,6642865,Petição inicial (90129/2025) - Petição inicial - (ID: d4c19d37)
+ADC 97,7308220,ok,ADC_97_inicial.pdf,820550,Petição inicial (92565/2025) - Petição inicial - (ID: aa38b023)
+ADC 98,7379725,ok,ADC_98_inicial.pdf,7412267,Petição inicial (131966/2025) - Petição inicial - (ID: d9854aaa)
+ADC 99,7386236,ok,ADC_99_inicial.pdf,1227133,Petição inicial (135951/2025) - Petição inicial - (ID: 0403f92c)
+ADC 100,7436290,ok,ADC_100_inicial.pdf,1458732,Petição inicial (163633/2025) - Petição inicial - (ID: dd164bc7)
+ADC 101,7540261,ok,ADC_101_inicial.pdf,322035,Petição inicial (35881/2026) - Petição inicial - (ID: 5609c1cd)
+ADC 102,7554475,ok,ADC_102_inicial.pdf,767469,Petição inicial (42399/2026) - Petição inicial - (ID: 087f46bc)
+ADC 103,7607092,ok,ADC_103_inicial.pdf,885166,Petição inicial (70944/2026) - Petição inicial - (ID: bac72390)
+ADI 2039,1771115,ok,ADI_2039_inicial.pdf,16131078,Petição inicial
+ADI 2945,2146377,ok,ADI_2945_inicial.pdf,3324924,Petição inicial
+ADI 2945,2146377,ok,ADI_2945_inicial_atualizada.pdf,3369088,Petição inicial - Atualizada
+ADI 2957,2149869,ok,ADI_2957_inicial.pdf,167592,Petição inicial
+ADI 3159,2206823,sem_inicial,,0,nenhuma peca chamada 'Peticao inicial'
+ADI 3450,2282869,ok,ADI_3450_inicial.pdf,105652,Petição inicial
+ADI 3494,2294738,ok,ADI_3494_inicial.pdf,10163259,Petição inicial - parte 01
+ADI 3494,2294738,ok,ADI_3494_inicial_2.pdf,7290948,Petição inicial - parte 02
+ADI 3494,2294738,ok,ADI_3494_inicial_3.pdf,6947347,Petição inicial - parte 03
+ADI 3545,2312427,ok,ADI_3545_inicial.pdf,909018,Petição inicial
+ADI 3595,2328685,ok,ADI_3595_inicial.pdf,1713329,Petição inicial
+ADI 3596,2329141,sem_inicial,,0,nenhuma peca chamada 'Peticao inicial'
+ADI 3973,2565571,ok,ADI_3973_inicial.pdf,543485,Petição inicial
+ADI 4067,2609348,ok,ADI_4067_inicial.pdf,179180,Petição inicial
+ADI 4112,2630565,ok,ADI_4112_inicial.pdf,2121999,Petição inicial
+ADI 4151,2640759,ok,ADI_4151_inicial.pdf,1532140,Petição inicial
+ADI 4162,2643750,ok,ADI_4162_inicial.pdf,976509,Petição inicial
+ADI 4164,2644215,ok,ADI_4164_inicial.pdf,2860032,Petição inicial
+ADI 4188,2661577,ok,ADI_4188_inicial.pdf,1157951,Petição inicial
+ADI 4245,2679600,sem_inicial,,0,nenhuma peca chamada 'Peticao inicial'
+ADI 4271,2690639,ok,ADI_4271_inicial.pdf,3802121,Petição inicial
+ADI 4297,3755891,ok,ADI_4297_inicial.pdf,954492,Petição inicial
+ADI 4376,3826881,ok,ADI_4376_inicial.pdf,799271,Petição inicial
+ADI 4393,3847970,ok,ADI_4393_inicial.pdf,1038665,Petição inicial
+ADI 4395,3855030,ok,ADI_4395_inicial.pdf,266942,Petição inicial - Petição Inicial
+ADI 4395,3855030,ok,ADI_4395_inicial_2.pdf,266942,Petição inicial - Petição Inicial
+ADI 4395,3855030,ok,ADI_4395_inicial_3.pdf,266942,Petição inicial - Petição Inicial
+ADI 4437,3924582,ok,ADI_4437_inicial.pdf,636204,Petição inicial - Petição Inicial
+ADI 4447,3932566,ok,ADI_4447_inicial.pdf,1301450,Petição inicial - Petição Inicial
+ADI 4447,3932566,ok,ADI_4447_inicial_2.pdf,1301450,Petição inicial - Petição Inicial
+ADI 4447,3932566,ok,ADI_4447_inicial_3.pdf,1301450,Petição inicial - Petição Inicial
+ADI 4492,3985062,ok,ADI_4492_inicial.pdf,831944,Petição inicial - Petição Inicial
+ADI 4612,4089887,ok,ADI_4612_inicial.pdf,373846,Petição inicial - Petição Inicial
+ADI 4725,4203195,ok,ADI_4725_inicial.pdf,344891,Petição inicial - Petição Inicial 1
+ADI 4822,4277322,ok,ADI_4822_inicial.pdf,438454,Petição inicial - Peticao inicial 1
+ADI 4841,4291691,ok,ADI_4841_inicial.pdf,458459,Petição inicial - Peticao inicial 1
+ADI 4848,4297652,ok,ADI_4848_inicial.pdf,1265383,Petição inicial - Peticao inicial 1
+ADI 4851,4299728,ok,ADI_4851_inicial.pdf,130590,PETIÇÃO INICIAL - Integradorws - Petição Inicial
+ADI 4871,4322974,ok,ADI_4871_inicial.pdf,1038535,Petição inicial - Peticao inicial 1
+ADI 4906,4357880,ok,ADI_4906_inicial.pdf,281918,Petição inicial - Peticao inicial 1
+ADI 4916,4379372,ok,ADI_4916_inicial.pdf,6371943,Petição inicial - Peticao inicial 1
+ADI 4917,4379376,ok,ADI_4917_inicial.pdf,5437663,Petição inicial (11551/2013) - Peticao inicial 1
+ADI 4917,4379376,ok,ADI_4917_inicial_2.pdf,4629208,Petição inicial (86211/2026) - (ID: d1b166cf)
+ADI 4918,4379708,ok,ADI_4918_inicial.pdf,213076,Petição inicial - Peticao inicial 1
+ADI 4920,4379747,ok,ADI_4920_inicial.pdf,8271720,Petição inicial - Peticao inicial 1
+ADI 4926,4383897,ok,ADI_4926_inicial.pdf,790757,Petição inicial - Peticao inicial 1
+ADI 4966,4419751,ok,ADI_4966_inicial.pdf,824711,Petição inicial - Peticao inicial 1
+ADI 5017,4437805,ok,ADI_5017_inicial.pdf,8607186,Petição inicial - Peticao inicial 1
+ADI 5032,4451226,ok,ADI_5032_inicial.pdf,370003,PETIÇÃO INICIAL - Integradorws - Petição Inicial
+ADI 5038,4454504,ok,ADI_5038_inicial.pdf,232747,Petição inicial - Peticao inicial 1
+ADI 5042,4463534,ok,ADI_5042_inicial.pdf,1305355,Petição inicial - Peticao inicial 1
+ADI 5057,4483012,ok,ADI_5057_inicial.pdf,237077,Petição inicial - Peticao inicial 1
+ADI 5059,4483504,ok,ADI_5059_inicial.pdf,1896461,Petição inicial - Peticao inicial 1
+ADI 5063,4494216,ok,ADI_5063_inicial.pdf,654935,Petição inicial - Peticao inicial 1
+ADI 5073,4507489,ok,ADI_5073_inicial.pdf,2319896,Petição inicial - Peticao inicial 1
+ADI 5106,4552501,ok,ADI_5106_inicial.pdf,413811,Petição inicial - Peticao inicial 1
+ADI 5128,4581414,ok,ADI_5128_inicial.pdf,160551,PETIÇÃO INICIAL - Integradorws - Petição Inicial
+ADI 5155,4614803,ok,ADI_5155_inicial.pdf,2254562,Petição inicial - Peticao inicial 1
+ADI 5161,4629263,ok,ADI_5161_inicial.pdf,480423,Petição inicial - Peticao inicial 1
+ADI 5164,4637541,ok,ADI_5164_inicial.pdf,614650,Petição inicial - Peticao inicial 1
+ADI 5170,4655662,ok,ADI_5170_inicial.pdf,407005,Petição inicial - Peticao inicial 1
+ADI 5261,4730342,ok,ADI_5261_inicial.pdf,2067517,Petição inicial - Petição inicial 1
+ADI 5326,4781750,ok,ADI_5326_inicial.pdf,944838,Petição inicial - Petição inicial
+ADI 5334,4794666,ok,ADI_5334_inicial.pdf,362002,Petição inicial - Peça recebida pelo webservice Integradorws.
+ADI 5363,4820806,ok,ADI_5363_inicial.pdf,1804357,Petição inicial - Petição inicial 1
+ADI 5385,4851999,ok,ADI_5385_inicial.pdf,245393,PETIÇÃO INICIAL - Integradorws - Petição Inicial
+ADI 5405,4877684,ok,ADI_5405_inicial.pdf,746186,Petição inicial - Petição inicial 1
+ADI 5435,4904582,ok,ADI_5435_inicial.pdf,413648,Petição inicial - Petição inicial 1
+ADI 5478,4931785,ok,ADI_5478_inicial.pdf,189550,PETIÇÃO INICIAL - Integradorws - Petição Inicial
+ADI 5498,4965002,ok,ADI_5498_inicial.pdf,541236,Petição inicial (18133/2016) - Petição inicial
+ADI 5526,4982736,ok,ADI_5526_inicial.pdf,398590,Petição inicial (24363/2016) - Petição inicial
+ADI 5527,4983282,ok,ADI_5527_inicial.pdf,1262488,Petição inicial (24493/2016) - Petição inicial
+ADI 5613,5078570,ok,ADI_5613_inicial.pdf,936378,Petição inicial (59039/2016) - Petição inicial
+ADI 5614,5078731,ok,ADI_5614_inicial.pdf,190333,PETIÇÃO INICIAL - Integradorws - Petição Inicial
+ADI 5621,5089022,ok,ADI_5621_inicial.pdf,1756773,Petição inicial (63419/2016) - Petição inicial
+ADI 5624,5093069,ok,ADI_5624_inicial.pdf,289239,Petição inicial (64766/2016) - Petição inicial
+ADI 5624,5093069,ok,ADI_5624_inicial_2.pdf,2114892,Petição inicial (70273/2019) - Petição inicial
+ADI 5632,5112187,ok,ADI_5632_inicial.pdf,118006,Petição inicial (71690/2016) - Petição inicial
+ADI 5634,5112772,ok,ADI_5634_inicial.pdf,1333346,Petição inicial (71885/2016) - Petição inicial
+ADI 5689,5167326,ok,ADI_5689_inicial.pdf,1578231,Petição inicial (16679/2017) - Petição inicial
+ADI 5701,5184936,ok,ADI_5701_inicial.pdf,640453,Petição inicial (22944/2017) - Petição inicial
+ADI 5708,5193491,ok,ADI_5708_inicial.pdf,902671,Petição inicial (25317/2017) - Petição inicial
+ADI 5765,5249466,ok,ADI_5765_inicial.pdf,1644721,Petição inicial (46980/2017) - Petição inicial
+ADI 5771,5255150,ok,ADI_5771_inicial.pdf,419000,PETIÇÃO INICIAL - Integradorws - Petição Inicial
+ADI 5775,5259997,ok,ADI_5775_inicial.pdf,265580,PETIÇÃO INICIAL - Integradorws - Petição Inicial
+ADI 5787,5277531,ok,ADI_5787_inicial.pdf,728774,Petição inicial (56615/2017) - Petição inicial
+ADI 5804,5298182,ok,ADI_5804_inicial.pdf,4901299,Petição inicial (63249/2017) - Petição inicial
+ADI 5807,5303588,ok,ADI_5807_inicial.pdf,4676884,Petição inicial (65611/2017) - Petição inicial
+ADI 5820,5311945,ok,ADI_5820_inicial.pdf,633580,Petição inicial (68748/2017) - Petição inicial
+ADI 5823,5316137,ok,ADI_5823_inicial.pdf,631689,Petição inicial (70318/2017) - Petição inicial
+ADI 5841,5323021,ok,ADI_5841_inicial.pdf,280488,Petição inicial (72761/2017) - Petição inicial
+ADI 5843,5325782,ok,ADI_5843_inicial.pdf,859207,Petição inicial (73524/2017) - Petição inicial
+ADI 5846,5326799,ok,ADI_5846_inicial.pdf,775414,Petição inicial (73676/2017) - Petição inicial
+ADI 5882,5341922,ok,ADI_5882_inicial.pdf,2052858,Petição inicial (1672/2018) - Petição inicial
+ADI 5883,5342200,ok,ADI_5883_inicial.pdf,1117675,Petição inicial (1745/2018) - Petição inicial
+ADI 5901,5359950,ok,ADI_5901_inicial.pdf,241278,Petição inicial (8596/2018) - Petição inicial
+ADI 5902,5360093,ok,ADI_5902_inicial.pdf,2599572,Petição inicial (8677/2018) - Petição inicial
+ADI 5905,5365245,ok,ADI_5905_inicial.pdf,7506147,Petição inicial (10527/2018) - Petição inicial
+ADI 5911,5368307,ok,ADI_5911_inicial.pdf,1018777,Petição inicial (11855/2018) - Petição inicial
+ADI 5924,5380278,ok,ADI_5924_inicial.pdf,6928249,Petição inicial (15989/2018) - Petição inicial
+ADI 5926,5384512,ok,ADI_5926_inicial.pdf,535809,Petição inicial (17144/2018) - Petição inicial
+ADI 5936,5445358,ok,ADI_5936_inicial.pdf,781513,Petição inicial (23872/2018) - Petição inicial
+ADI 5952,5480269,ok,ADI_5952_inicial.pdf,392116,Petição inicial (36015/2018) - Petição inicial
+ADI 5956,5481962,ok,ADI_5956_inicial.pdf,216511,Petição inicial (37106/2018) - Petição inicial
+ADI 5959,5485876,ok,ADI_5959_inicial.pdf,578740,Petição inicial (38819/2018) - Petição inicial
+ADI 5964,5489322,ok,ADI_5964_inicial.pdf,864084,Petição inicial (39582/2018) - Petição inicial
+ADI 5982,5513779,ok,ADI_5982_inicial.pdf,877272,Petição inicial (48825/2018) - Petição inicial
+ADI 5985,5514187,ok,ADI_5985_inicial.pdf,335907,Petição inicial (49078/2018) - Petição inicial
+ADI 5998,5535298,ok,ADI_5998_inicial.pdf,635382,Petição inicial (56749/2018) - Petição inicial
+ADI 6002,5537399,ok,ADI_6002_inicial.pdf,767721,Petição inicial (57472/2018) - Petição inicial
+ADI 6029,5562723,ok,ADI_6029_inicial.pdf,141255,Petição inicial (66648/2018) - Petição inicial
+ADI 6042,5588249,ok,ADI_6042_inicial.pdf,579076,Petição inicial (75053/2018) - Petição inicial
+ADI 6081,5639741,ok,ADI_6081_inicial.pdf,950228,Petição inicial (8340/2019) - Petição inicial
+ADI 6130,5693195,ok,ADI_6130_inicial.pdf,717189,Petição inicial (26819/2019) - Petição inicial
+ADI 6142,5701599,ok,ADI_6142_inicial.pdf,440379,Petição inicial (29681/2019) - Petição inicial
+ADI 6157,5719864,ok,ADI_6157_inicial.pdf,495551,Petição inicial (36228/2019) - Petição inicial
+ADI 6164,5721544,ok,ADI_6164_inicial.pdf,1016045,PETIÇÃO INICIAL - Integradorws - Petição Inicial
+ADI 6179,5724100,ok,ADI_6179_inicial.pdf,495361,Petição inicial (37835/2019) - Petição inicial
+ADI 6184,5727040,ok,ADI_6184_inicial.pdf,744180,Petição inicial (38841/2019) - Petição inicial
+ADI 6198,5737192,ok,ADI_6198_inicial.pdf,1105967,PETIÇÃO INICIAL - Integradorws - Petição Inicial
+ADI 6200,5738022,ok,ADI_6200_inicial.pdf,1548405,Petição inicial (42492/2019) - Petição inicial
+ADI 6228,5773148,ok,ADI_6228_inicial.pdf,796074,Petição inicial (55596/2019) - Petição inicial
+ADI 6236,5784525,ok,ADI_6236_inicial.pdf,864887,Petição inicial (59798/2019) - Petição inicial
+ADI 6238,5792373,ok,ADI_6238_inicial.pdf,6672079,Petição inicial (62750/2019) - Petição inicial
+ADI 6239,5792383,ok,ADI_6239_inicial.pdf,990908,Petição inicial (62861/2019) - Petição inicial
+ADI 6246,5806976,ok,ADI_6246_inicial.pdf,1365908,Petição inicial (68414/2019) - Petição inicial
+ADI 6248,5808463,ok,ADI_6248_inicial.pdf,852948,Petição inicial (68899/2019) - Petição inicial
+ADI 6251,5812811,ok,ADI_6251_inicial.pdf,6500513,Petição inicial (71165/2019) - Petição inicial
+ADI 6254,5814691,ok,ADI_6254_inicial.pdf,1485562,Petição inicial (71574/2019) - Petição inicial
+ADI 6255,5814692,ok,ADI_6255_inicial.pdf,1554326,Petição inicial (71604/2019) - Petição inicial
+ADI 6256,5814703,ok,ADI_6256_inicial.pdf,1590692,Petição inicial (71614/2019) - Petição inicial
+ADI 6257,5814706,ok,ADI_6257_inicial.pdf,354795,Petição inicial (71726/2019) - Petição inicial
+ADI 6258,5814708,ok,ADI_6258_inicial.pdf,421447,Petição inicial (71823/2019) - Petição inicial
+ADI 6266,5820018,ok,ADI_6266_inicial.pdf,604466,Petição inicial (73663/2019) - Petição inicial
+ADI 6268,5820020,ok,ADI_6268_inicial.pdf,768014,Petição inicial (73901/2019) - Petição inicial
+ADI 6271,5822257,ok,ADI_6271_inicial.pdf,849734,Petição inicial (74602/2019) - Petição inicial
+ADI 6277,5826543,ok,ADI_6277_inicial.pdf,594360,Petição inicial (76183/2019) - Petição inicial
+ADI 6279,5828258,ok,ADI_6279_inicial.pdf,417206,Petição inicial (76770/2019) - Petição inicial
+ADI 6289,5836735,ok,ADI_6289_inicial.pdf,749502,Petição inicial (80012/2019) - Petição inicial
+ADI 6293,5838900,ok,ADI_6293_inicial.pdf,570772,Petição inicial (80981/2019) - Petição inicial
+ADI 6297,5840114,ok,ADI_6297_inicial.pdf,507336,Petição inicial (81586/2019) - Petição inicial
+ADI 6298,5840274,ok,ADI_6298_inicial.pdf,639465,Petição inicial (81644/2019) - Petição inicial
+ADI 6299,5840373,ok,ADI_6299_inicial.pdf,408860,Petição inicial (81667/2019) - Petição inicial
+ADI 6300,5840552,ok,ADI_6300_inicial.pdf,665500,Petição inicial (1/2020) - Petição inicial
+ADI 6302,5841828,ok,ADI_6302_inicial.pdf,530618,Petição inicial (536/2020) - Petição inicial
+ADI 6304,5843708,ok,ADI_6304_inicial.pdf,662117,Petição inicial (1258/2020) - Petição inicial
+ADI 6305,5844852,ok,ADI_6305_inicial.pdf,357773,Petição inicial (1763/2020) - Petição inicial
+ADI 6309,5848987,ok,ADI_6309_inicial.pdf,1002178,Petição inicial (3330/2020) - Petição inicial
+ADI 6310,5849249,ok,ADI_6310_inicial.pdf,538940,Petição inicial (3351/2020) - Petição inicial
+ADI 6323,5858960,ok,ADI_6323_inicial.pdf,1197181,Petição inicial (7492/2020) - Petição inicial
+ADI 6329,5871353,ok,ADI_6329_inicial.pdf,616813,Petição inicial (12429/2020) - Petição inicial
+ADI 6334,5877662,ok,ADI_6334_inicial.pdf,842174,Petição inicial (14606/2020) - Petição inicial
+ADI 6335,5877790,ok,ADI_6335_inicial.pdf,1233785,Petição inicial (14936/2020) - Petição inicial
+ADI 6336,5877943,ok,ADI_6336_inicial.pdf,1003552,Petição inicial (15015/2020) - Petição inicial
+ADI 6340,5880101,ok,ADI_6340_inicial.pdf,7902015,Petição inicial (15994/2020) - Petição inicial
+ADI 6341,5880765,ok,ADI_6341_inicial.pdf,443216,Petição inicial (16417/2020) - Petição inicial
+ADI 6343,5881008,ok,ADI_6343_inicial.pdf,247418,Petição inicial (16586/2020) - Petição inicial
+ADI 6361,5886033,ok,ADI_6361_inicial.pdf,330508,Petição inicial (19052/2020) - Petição inicial
+ADI 6364,5886995,ok,ADI_6364_inicial.pdf,320638,PETIÇÃO INICIAL - Integradorws - Petição Inicial
+ADI 6367,5887680,ok,ADI_6367_inicial.pdf,976417,Petição inicial (19649/2020) - Petição inicial
+ADI 6384,5892097,ok,ADI_6384_inicial.pdf,489020,Petição inicial (21502/2020) - Petição inicial
+ADI 6385,5892098,ok,ADI_6385_inicial.pdf,474548,Petição inicial (21506/2020) - Petição inicial
+ADI 6399,5899306,ok,ADI_6399_inicial.pdf,1055878,PETIÇÃO INICIAL - Integradorws - Petição Inicial
+ADI 6403,5900086,ok,ADI_6403_inicial.pdf,379327,Petição inicial (25977/2020) - Petição inicial
+ADI 6413,5906341,ok,ADI_6413_inicial.pdf,251280,Petição inicial (29463/2020) - Petição inicial
+ADI 6415,5907820,ok,ADI_6415_inicial.pdf,1283917,Petição inicial (29850/2020) - Petição inicial
+ADI 6439,5919239,ok,ADI_6439_inicial.pdf,356409,Petição inicial (35520/2020) - Petição inicial
+ADI 6459,5934996,ok,ADI_6459_inicial.pdf,1019963,Petição inicial (42500/2020) - Petição inicial
+ADI 6461,5935913,ok,ADI_6461_inicial.pdf,286433,Petição inicial (42684/2020) - Petição inicial
+ADI 6467,5942656,ok,ADI_6467_inicial.pdf,349063,Petição inicial (45772/2020) - Petição inicial
+ADI 6469,5942829,ok,ADI_6469_inicial.pdf,329283,Petição inicial (45774/2020) - Petição inicial
+ADI 6470,5942831,ok,ADI_6470_inicial.pdf,324065,Petição inicial (45775/2020) - Petição inicial
+ADI 6477,5950375,ok,ADI_6477_inicial.pdf,520529,Petição inicial (48831/2020) - Petição inicial
+ADI 6480,5952992,ok,ADI_6480_inicial.pdf,1030922,Petição inicial (49933/2020) - Petição inicial
+ADI 6494,5967309,ok,ADI_6494_inicial.pdf,833832,Petição inicial (57775/2020) - Petição inicial
+ADI 6519,5971951,ok,ADI_6519_inicial.pdf,302353,Petição inicial (59878/2020) - Petição inicial
+ADI 6528,5972781,ok,ADI_6528_inicial.pdf,654502,Petição inicial (60174/2020) - Petição inicial
+ADI 6535,5977392,ok,ADI_6535_inicial.pdf,5695579,Petição inicial (62773/2020) - Petição inicial
+ADI 6546,5994501,ok,ADI_6546_inicial.pdf,348745,Petição inicial (70179/2020) - Petição inicial
+ADI 6553,5997245,ok,ADI_6553_inicial.pdf,459190,Petição inicial (70556/2020) - Petição inicial
+ADI 6556,6004868,ok,ADI_6556_inicial.pdf,4818084,Petição inicial (74851/2020) - Petição inicial
+ADI 6558,6008762,ok,ADI_6558_inicial.pdf,298982,Petição inicial (76446/2020) - Petição inicial
+ADI 6564,6008975,ok,ADI_6564_inicial.pdf,227956,Petição inicial (76754/2020) - Petição inicial
+ADI 6565,6009885,ok,ADI_6565_inicial.pdf,280689,Petição inicial (77351/2020) - Petição inicial
+ADI 6566,6009937,ok,ADI_6566_inicial.pdf,5329413,Petição inicial (77411/2020) - Petição inicial
+ADI 6567,6012093,ok,ADI_6567_inicial.pdf,946920,Petição inicial (78233/2020) - Petição inicial
+ADI 6574,6017661,ok,ADI_6574_inicial.pdf,1719677,Petição inicial (81056/2020) - Petição inicial
+ADI 6601,6057422,ok,ADI_6601_inicial.pdf,247401,Petição inicial (100278/2020) - Petição inicial
+ADI 6604,6057698,ok,ADI_6604_inicial.pdf,249815,Petição inicial (100328/2020) - Petição inicial
+ADI 6606,6058141,ok,ADI_6606_inicial.pdf,230524,Petição inicial (100283/2020) - Petição inicial
+ADI 6618,6062192,ok,ADI_6618_inicial.pdf,388496,Petição inicial (102246/2020) - Petição inicial
+ADI 6628,6071479,ok,ADI_6628_inicial.pdf,190547,Petição inicial (106141/2020) - Petição inicial
+ADI 6634,6074466,ok,ADI_6634_inicial.pdf,4022728,Petição inicial (107624/2020) - Petição inicial
+ADI 6678,6113005,ok,ADI_6678_inicial.pdf,335000,Petição inicial (19700/2021) - Petição inicial
+ADI 6697,6119207,ok,ADI_6697_inicial.pdf,10301286,Petição inicial (22653/2021) - Petição inicial
+ADI 6731,6124480,ok,ADI_6731_inicial.pdf,408149,Petição inicial (24953/2021) - Petição inicial
+ADI 6767,6136681,ok,ADI_6767_inicial.pdf,402143,Petição inicial (30898/2021) - Petição inicial
+ADI 6776,6143857,ok,ADI_6776_inicial.pdf,507572,Petição inicial (34416/2021) - Petição inicial
+ADI 6777,6144916,ok,ADI_6777_inicial.pdf,231198,Petição inicial (34793/2021) - Petição inicial
+ADI 6787,6147163,ok,ADI_6787_inicial.pdf,699647,Petição inicial (35604/2021) - Petição inicial
+ADI 6791,6150299,ok,ADI_6791_inicial.pdf,558320,Petição inicial (37371/2021) - Petição inicial
+ADI 6804,6158472,ok,ADI_6804_inicial.pdf,497113,Petição inicial (41531/2021) - Petição inicial
+ADI 6805,6158634,ok,ADI_6805_inicial.pdf,418043,Petição inicial (41536/2021) - Petição inicial
+ADI 6806,6160177,ok,ADI_6806_inicial.pdf,1235276,Petição inicial (41968/2021) - Petição inicial
+ADI 6816,6167044,ok,ADI_6816_inicial.pdf,295291,Petição inicial (45714/2021) - Petição inicial
+ADI 6841,6169033,ok,ADI_6841_inicial.pdf,854067,Petição inicial (46649/2021) - Petição inicial
+ADI 6847,6173311,ok,ADI_6847_inicial.pdf,444523,Petição inicial (48501/2021) - Petição inicial
+ADI 6886,6194111,ok,ADI_6886_inicial.pdf,412496,Petição inicial (58706/2021) - Petição inicial
+ADI 6889,6199891,ok,ADI_6889_inicial.pdf,434504,Petição inicial (61219/2021) - Petição inicial
+ADI 6914,6202465,ok,ADI_6914_inicial.pdf,593023,Petição inicial (62178/2021) - Petição inicial
+ADI 6915,6202990,ok,ADI_6915_inicial.pdf,414055,Petição inicial (62722/2021) - Petição inicial
+ADI 6916,6203552,ok,ADI_6916_inicial.pdf,297336,Petição inicial (63036/2021) - Petição inicial
+ADI 6918,6206812,ok,ADI_6918_inicial.pdf,227548,Petição inicial (64527/2021) - Petição inicial
+ADI 6919,6207281,ok,ADI_6919_inicial.pdf,573210,Petição inicial (64710/2021) - Petição inicial
+ADI 6929,6220476,ok,ADI_6929_inicial.pdf,880055,Petição inicial (71236/2021) - Petição inicial
+ADI 6932,6222028,ok,ADI_6932_inicial.pdf,702751,Petição inicial (72050/2021) - Petição inicial
+ADI 7005,6264587,ok,ADI_7005_inicial.pdf,771062,Petição inicial (92295/2021) - Petição inicial
+ADI 7021,6293255,ok,ADI_7021_inicial.pdf,781138,Petição inicial (106325/2021) - Petição inicial
+ADI 7033,6311026,ok,ADI_7033_inicial.pdf,394250,Petição inicial (114186/2021) - Petição inicial
+ADI 7046,6317885,ok,ADI_7046_inicial.pdf,1049625,Petição inicial (117335/2021) - Petição inicial
+ADI 7054,6324041,ok,ADI_7054_inicial.pdf,487050,Petição inicial (120038/2021) - Petição inicial
+ADI 7058,6325835,ok,ADI_7058_inicial.pdf,691081,Petição inicial (121109/2021) - Petição inicial
+ADI 7059,6326850,ok,ADI_7059_inicial.pdf,603184,Petição inicial (121438/2021) - Petição inicial
+ADI 7066,6330827,ok,ADI_7066_inicial.pdf,1041208,Petição inicial (1219/2022) - Petição inicial
+ADI 7067,6332631,ok,ADI_7067_inicial.pdf,4217706,Petição inicial (1843/2022) - Petição inicial
+ADI 7069,6333625,ok,ADI_7069_inicial.pdf,479870,Petição inicial (2354/2022) - Petição inicial
+ADI 7070,6333675,ok,ADI_7070_inicial.pdf,1359666,Petição inicial (2372/2022) - Petição inicial
+ADI 7071,6335159,ok,ADI_7071_inicial.pdf,598021,Petição inicial (3097/2022) - Petição inicial
+ADI 7074,6342164,ok,ADI_7074_inicial.pdf,1628407,Petição inicial (6590/2022) - Petição inicial
+ADI 7077,6346293,ok,ADI_7077_inicial.pdf,246531,Petição inicial (8206/2022) - Petição inicial
+ADI 7094,6360950,ok,ADI_7094_inicial.pdf,377404,Petição inicial (15411/2022) - Petição inicial
+ADI 7095,6361174,ok,ADI_7095_inicial.pdf,5897619,Petição inicial (15483/2022) - Petição inicial
+ADI 7100,6366747,ok,ADI_7100_inicial.pdf,642914,Petição inicial (18040/2022) - Petição inicial
+ADI 7107,6372445,ok,ADI_7107_inicial.pdf,434151,Petição inicial (20502/2022) - Petição inicial
+ADI 7115,6372686,ok,ADI_7115_inicial.pdf,224129,Petição inicial (20642/2022) - Petição inicial
+ADI 7143,6383495,ok,ADI_7143_inicial.pdf,947356,Petição inicial (25453/2022) - Petição inicial
+ADI 7144,6383496,ok,ADI_7144_inicial.pdf,797533,Petição inicial (25454/2022) - Petição inicial
+ADI 7146,6387022,ok,ADI_7146_inicial.pdf,649246,Petição inicial (27232/2022) - Petição inicial
+ADI 7156,6396615,ok,ADI_7156_inicial.pdf,457680,Petição inicial (31507/2022) - Petição inicial
+ADI 7162,6399394,ok,ADI_7162_inicial.pdf,490954,Petição inicial (32599/2022) - Petição inicial
+ADI 7164,6404538,ok,ADI_7164_inicial.pdf,542342,Petição inicial (34918/2022) - Petição inicial
+ADI 7165,6404939,ok,ADI_7165_inicial.pdf,413063,Petição inicial (35077/2022) - Petição inicial
+ADI 7170,6408039,ok,ADI_7170_inicial.pdf,9308118,Petição inicial (36585/2022) - Petição inicial
+ADI 7190,6430114,ok,ADI_7190_inicial.pdf,1794967,Petição inicial (47107/2022) - Petição inicial
+ADI 7195,6434957,ok,ADI_7195_inicial.pdf,2047839,Petição inicial (49011/2022) - Petição inicial
+ADI 7201,6442534,ok,ADI_7201_inicial.pdf,415824,Petição inicial (52506/2022) - Petição inicial
+ADI 7207,6444537,ok,ADI_7207_inicial.pdf,250939,Petição inicial (53399/2022) - Petição inicial
+ADI 7216,6449809,ok,ADI_7216_inicial.pdf,598346,Petição inicial (55759/2022) - Petição inicial
+ADI 7217,6449811,ok,ADI_7217_inicial.pdf,686777,Petição inicial (55762/2022) - Petição inicial
+ADI 7222,6455667,ok,ADI_7222_inicial.pdf,1564544,Petição inicial (58708/2022) - Petição inicial
+ADI 7234,6474146,ok,ADI_7234_inicial.pdf,808981,Petição inicial (67208/2022) - Petição inicial
+ADI 7236,6475588,ok,ADI_7236_inicial.pdf,766513,Petição inicial (67843/2022) - Petição inicial
+ADI 7237,6476950,ok,ADI_7237_inicial.pdf,1953927,Petição inicial (68192/2022) - Petição inicial
+ADI 7239,6476966,ok,ADI_7239_inicial.pdf,934753,Petição inicial (68440/2022) - Petição inicial
+ADI 7240,6478769,ok,ADI_7240_inicial.pdf,2080455,Petição inicial (69421/2022) - Petição inicial
+ADI 7243,6483662,ok,ADI_7243_inicial.pdf,409867,Petição inicial (71481/2022) - Petição inicial
+ADI 7245,6495213,ok,ADI_7245_inicial.pdf,1261188,Petição inicial (77160/2022) - Petição inicial
+ADI 7246,6497803,ok,ADI_7246_inicial.pdf,1425239,Petição inicial (78353/2022) - Petição inicial
+ADI 7248,6501079,ok,ADI_7248_inicial.pdf,387855,Petição inicial (79936/2022) - Petição inicial
+ADI 7250,6501414,ok,ADI_7250_inicial.pdf,220899,Petição inicial (79987/2022) - Petição inicial
+ADI 7255,6501511,ok,ADI_7255_inicial.pdf,320456,Petição inicial (80000/2022) - Petição inicial
+ADI 7258,6501701,ok,ADI_7258_inicial.pdf,311996,Petição inicial (79999/2022) - Petição inicial
+ADI 7264,6514190,ok,ADI_7264_inicial.pdf,244134,Petição inicial (86232/2022) - Petição inicial
+ADI 7265,6514968,ok,ADI_7265_inicial.pdf,627336,Petição inicial (86550/2022) - Petição inicial
+ADI 7268,6520151,ok,ADI_7268_inicial.pdf,252352,Petição inicial (89255/2022) - Petição inicial
+ADI 7270,6520178,ok,ADI_7270_inicial.pdf,241886,Petição inicial (89256/2022) - Petição inicial
+ADI 7277,6524797,ok,ADI_7277_inicial.pdf,283856,Petição inicial (91414/2022) - Petição inicial
+ADI 7322,6534435,ok,ADI_7322_inicial.pdf,662218,Petição inicial (96145/2022) - Petição inicial
+ADI 7324,6536883,ok,ADI_7324_inicial.pdf,482857,Petição inicial (97273/2022) - Petição inicial
+ADI 7326,6541230,ok,ADI_7326_inicial.pdf,773546,Petição inicial (99408/2022) - Petição inicial
+ADI 7328,6542827,ok,ADI_7328_inicial.pdf,1151928,Petição inicial (100285/2022) - Petição inicial
+ADI 7329,6543519,ok,ADI_7329_inicial.pdf,416695,Petição inicial (100629/2022) - Petição inicial
+ADI 7330,6543644,ok,ADI_7330_inicial.pdf,370105,Petição inicial (100698/2022) - Petição inicial
+ADI 7333,6544994,ok,ADI_7333_inicial.pdf,863740,Petição inicial (354/2023) - Petição inicial
+ADI 7335,6547099,ok,ADI_7335_inicial.pdf,480872,Petição inicial (1413/2023) - Petição inicial
+ADI 7346,6562437,ok,ADI_7346_inicial.pdf,254997,Petição inicial (7419/2023) - Petição inicial - (ID: 6d4ea246)
+ADI 7348,6562593,ok,ADI_7348_inicial.pdf,1021141,Petição inicial (7515/2023) - Petição inicial - (ID: 41e19ebe)
+ADI 7349,6562915,ok,ADI_7349_inicial.pdf,1257563,Petição inicial (7750/2023) - Petição inicial - (ID: 37dd7bfd)
+ADI 7351,6564152,ok,ADI_7351_inicial.pdf,469896,Petição inicial (8388/2023) - Petição inicial - (ID: 17e95eda)
+ADI 7357,6583673,ok,ADI_7357_inicial.pdf,925422,Petição inicial (18777/2023) - Petição inicial - (ID: 9870425c)
+ADI 7370,6608532,ok,ADI_7370_inicial.pdf,693951,Petição inicial - Petição inicial - (ID: 190d3763)
+ADI 7373,6611522,ok,ADI_7373_inicial.pdf,1121928,Petição inicial (33187/2023) - Petição inicial - (ID: 3a70ee05)
+ADI 7381,6622972,ok,ADI_7381_inicial.pdf,664239,Petição inicial (38727/2023) - Petição inicial - (ID: e2159c38)
+ADI 7388,6643172,ok,ADI_7388_inicial.pdf,544878,Petição inicial (49187/2023) - Petição inicial - (ID: 7134b045)
+ADI 7389,6644330,ok,ADI_7389_inicial.pdf,220281,Petição inicial (49660/2023) - Petição inicial - (ID: ba001dd9)
+ADI 7397,6658355,ok,ADI_7397_inicial.pdf,1697282,Petição inicial (56778/2023) - Petição inicial - (ID: 8fb612f0)
+ADI 7398,6660735,ok,ADI_7398_inicial.pdf,256751,Petição inicial (57929/2023) - Petição inicial - (ID: 6c373274)
+ADI 7403,6669716,ok,ADI_7403_inicial.pdf,614095,Petição inicial (62131/2023) - Petição inicial - (ID: 60f75601)
+ADI 7407,6676433,ok,ADI_7407_inicial.pdf,1866075,Petição inicial (65744/2023) - Petição inicial - (ID: 6e312608)
+ADI 7408,6682263,ok,ADI_7408_inicial.pdf,611767,Petição inicial (69025/2023) - Petição inicial - (ID: 939d361f)
+ADI 7419,6695152,ok,ADI_7419_inicial.pdf,326026,Petição inicial (76291/2023) - Petição inicial - (ID: 110f59fc)
+ADI 7425,6704468,ok,ADI_7425_inicial.pdf,427544,Petição inicial (80623/2023) - Petição inicial - (ID: 4355adb1)
+ADI 7426,6708313,ok,ADI_7426_inicial.pdf,1110908,Petição inicial (84622/2023) - Petição inicial - (ID: 0f9d0fb3)
+ADI 7429,6716168,ok,ADI_7429_inicial.pdf,926533,Petição inicial (88971/2023) - Petição inicial - (ID: 6e53685d)
+ADI 7430,6716477,ok,ADI_7430_inicial.pdf,504725,Petição inicial (89108/2023) - Petição inicial - (ID: ed06c98d)
+ADI 7435,6721181,ok,ADI_7435_inicial.pdf,419610,Petição inicial (91810/2023) - Petição inicial - (ID: d64dc8c5)
+ADI 7438,6723987,ok,ADI_7438_inicial.pdf,8111592,Petição inicial (93066/2023) - Petição inicial - (ID: 2b330168)
+ADI 7443,6728016,ok,ADI_7443_inicial.pdf,323183,Petição inicial (95360/2023) - Petição inicial - (ID: acf18bbe)
+ADI 7444,6729192,ok,ADI_7444_inicial.pdf,245820,Petição inicial (95946/2023) - Petição inicial - (ID: 4e2d70a3)
+ADI 7445,6729193,ok,ADI_7445_inicial.pdf,479879,Petição inicial (95947/2023) - Petição inicial - (ID: 00004fe0)
+ADI 7446,6729910,ok,ADI_7446_inicial.pdf,256356,Petição inicial (96349/2023) - Petição inicial - (ID: bf7b04e1)
+ADI 7448,6731268,ok,ADI_7448_inicial.pdf,1022497,Petição inicial (97133/2023) - Petição inicial - (ID: 78bea169)
+ADI 7452,6736736,ok,ADI_7452_inicial.pdf,274238,Petição inicial (100050/2023) - Petição inicial - (ID: d2ae4157)
+ADI 7453,6736738,ok,ADI_7453_inicial.pdf,243428,Petição inicial (100051/2023) - Petição inicial - (ID: 15fa8974)
+ADI 7454,6740815,ok,ADI_7454_inicial.pdf,557236,Petição inicial (101955/2023) - Petição inicial - (ID: 11be4a5d)
+ADI 7455,6745763,ok,ADI_7455_inicial.pdf,359616,Petição inicial (104594/2023) - Petição inicial - (ID: c1788a09)
+ADI 7457,6748047,ok,ADI_7457_inicial.pdf,245869,Petição inicial (103943/2023) - Petição inicial - (ID: e5632d1e)
+ADI 7460,6748735,ok,ADI_7460_inicial.pdf,1566747,Petição inicial (106009/2023) - Petição inicial - (ID: 6f9b8af4)
+ADI 7461,6750340,ok,ADI_7461_inicial.pdf,383860,Petição inicial (106731/2023) - Petição inicial - (ID: 6a08b723)
+ADI 7462,6751622,ok,ADI_7462_inicial.pdf,366500,Petição inicial (107536/2023) - Petição inicial - (ID: 630248a0)
+ADI 7464,6751768,ok,ADI_7464_inicial.pdf,207202,Petição inicial (107633/2023) - Petição inicial - (ID: 3ab3e49e)
+ADI 7465,6752815,ok,ADI_7465_inicial.pdf,213073,Petição inicial (108273/2023) - Petição inicial - (ID: 210025a3)
+ADI 7468,6757126,ok,ADI_7468_inicial.pdf,257844,Petição inicial (110050/2023) - Petição inicial - (ID: d9d8c077)
+ADI 7469,6757161,ok,ADI_7469_inicial.pdf,1139474,Petição inicial (110333/2023) - Petição inicial - (ID: 2ecdb2f9)
+ADI 7470,6757162,ok,ADI_7470_inicial.pdf,415505,Petição inicial (110345/2023) - Petição inicial - (ID: fba8b055)
+ADI 7471,6759845,ok,ADI_7471_inicial.pdf,1606340,Petição inicial (111583/2023) - Petição inicial - (ID: 39173f53)
+ADI 7473,6760280,ok,ADI_7473_inicial.pdf,242315,Petição inicial (111712/2023) - Petição inicial - (ID: 259bb7cc)
+ADI 7477,6763207,ok,ADI_7477_inicial.pdf,461142,Petição inicial (113406/2023) - Petição inicial - (ID: a37cce2e)
+ADI 7493,6770773,ok,ADI_7493_inicial.pdf,1937377,Petição inicial (117124/2023) - Petição inicial - (ID: d1f0b3a5)
+ADI 7495,6775231,ok,ADI_7495_inicial.pdf,329873,Petição inicial (119074/2023) - Petição inicial - (ID: ed4fc0d4)
+ADI 7499,6777060,ok,ADI_7499_inicial.pdf,227645,Petição inicial (120032/2023) - Petição inicial - (ID: c044328c)
+ADI 7500,6777061,ok,ADI_7500_inicial.pdf,248461,Petição inicial (120034/2023) - Petição inicial - (ID: 92c1dab6)
+ADI 7501,6777062,ok,ADI_7501_inicial.pdf,269741,Petição inicial (120035/2023) - Petição inicial - (ID: 41516b07)
+ADI 7502,6777064,ok,ADI_7502_inicial.pdf,252484,Petição inicial (120039/2023) - Petição inicial - (ID: 053512d7)
+ADI 7506,6783784,ok,ADI_7506_inicial.pdf,1180192,Petição inicial (123460/2023) - Petição inicial - (ID: cc140555)
+ADI 7508,6784521,ok,ADI_7508_inicial.pdf,556357,Petição inicial (123873/2023) - Petição inicial - (ID: e3d69af3)
+ADI 7510,6789017,ok,ADI_7510_inicial.pdf,1177839,Petição inicial (126420/2023) - Petição inicial - (ID: ab23cedf)
+ADI 7511,6790721,ok,ADI_7511_inicial.pdf,553044,Petição inicial (127248/2023) - Petição inicial - (ID: cb3453c2)
+ADI 7512,6790869,ok,ADI_7512_inicial.pdf,495965,Petição inicial (127338/2023) - Petição inicial - (ID: 4c79fb95)
+ADI 7514,6792622,ok,ADI_7514_inicial.pdf,395084,Petição inicial (128317/2023) - Petição inicial - (ID: 9fa9aafa)
+ADI 7516,6800198,ok,ADI_7516_inicial.pdf,254843,Petição inicial (130618/2023) - Petição inicial - (ID: 2c9aee8c)
+ADI 7517,6801228,ok,ADI_7517_inicial.pdf,332203,Petição inicial (131233/2023) - Petição inicial - (ID: 8d37597b)
+ADI 7521,6801383,ok,ADI_7521_inicial.pdf,306899,Petição inicial (131237/2023) - Petição inicial - (ID: 4260e319)
+ADI 7523,6801385,ok,ADI_7523_inicial.pdf,326962,Petição inicial (131239/2023) - Petição inicial - (ID: 31ba5729)
+ADI 7525,6801387,ok,ADI_7525_inicial.pdf,286794,Petição inicial (131241/2023) - Petição inicial - (ID: 82f1eed9)
+ADI 7527,6801389,ok,ADI_7527_inicial.pdf,280774,Petição inicial (131243/2023) - Petição inicial - (ID: 9757fff2)
+ADI 7529,6801391,ok,ADI_7529_inicial.pdf,304073,Petição inicial (131245/2023) - Petição inicial - (ID: ab59dae4)
+ADI 7530,6801394,ok,ADI_7530_inicial.pdf,293883,Petição inicial (131246/2023) - Petição inicial - (ID: 45ec720e)
+ADI 7534,6801400,ok,ADI_7534_inicial.pdf,321928,Petição inicial (131250/2023) - Petição inicial - (ID: 45096e0f)
+ADI 7536,6801402,ok,ADI_7536_inicial.pdf,316741,Petição inicial (131252/2023) - Petição inicial - (ID: 24533867)
+ADI 7539,6801406,ok,ADI_7539_inicial.pdf,343030,Petição inicial (131255/2023) - Petição inicial - (ID: 4d35ddab)
+ADI 7540,6801407,ok,ADI_7540_inicial.pdf,341357,Petição inicial (131256/2023) - Petição inicial - (ID: 97f86ff0)
+ADI 7547,6807513,ok,ADI_7547_inicial.pdf,297368,Petição inicial (134198/2023) - Petição inicial - (ID: 8224f201)
+ADI 7548,6808110,sem_inicial,,0,nenhuma peca chamada 'Peticao inicial'
+ADI 7550,6809112,ok,ADI_7550_inicial.pdf,816261,Petição inicial (135146/2023) - Petição inicial - (ID: b9bfc67e)
+ADI 7551,6812824,ok,ADI_7551_inicial.pdf,405631,Petição inicial (136515/2023) - Petição inicial - (ID: 40b89ec9)
+ADI 7560,6817492,ok,ADI_7560_inicial.pdf,976002,Petição inicial (139362/2023) - Petição inicial - (ID: 9d0ab7a9)
+ADI 7563,6817727,ok,ADI_7563_inicial.pdf,4777538,Petição inicial (139544/2023) - Petição inicial - (ID: 1bf758f6)
+ADI 7564,6818615,ok,ADI_7564_inicial.pdf,841445,Petição inicial (140064/2023) - Petição inicial - (ID: d9d2cf9e)
+ADI 7565,6819811,ok,ADI_7565_inicial.pdf,1503629,Petição inicial (140622/2023) - Petição inicial - (ID: 243eaa07)
+ADI 7566,6821056,ok,ADI_7566_inicial.pdf,426430,Petição inicial (141316/2023) - Petição inicial - (ID: 0a8b2974)
+ADI 7568,6821081,ok,ADI_7568_inicial.pdf,6242086,Petição inicial (141453/2023) - Petição inicial - (ID: f24e1f57)
+ADI 7572,6821130,ok,ADI_7572_inicial.pdf,4949682,Petição inicial (141476/2023) - Petição inicial - (ID: 7f5ed6f1)
+ADI 7577,6822536,ok,ADI_7577_inicial.pdf,739305,Petição inicial (142318/2023) - Petição inicial - (ID: 522c5992)
+ADI 7579,6822811,ok,ADI_7579_inicial.pdf,1568311,Petição inicial (142570/2023) - Petição inicial - (ID: 55c2e1bc)
+ADI 7580,6823597,ok,ADI_7580_inicial.pdf,445871,Petição inicial (142955/2023) - Petição inicial - (ID: b7e31b30)
+ADI 7581,6823936,ok,ADI_7581_inicial.pdf,594336,Petição inicial (143227/2023) - Petição inicial - (ID: 0da091e5)
+ADI 7582,6824370,ok,ADI_7582_inicial.pdf,6142870,Petição inicial (143485/2023) - Petição inicial - (ID: e73e4b8c)
+ADI 7583,6824472,ok,ADI_7583_inicial.pdf,637513,Petição inicial (143598/2023) - Petição inicial - (ID: f24a262d)
+ADI 7584,6824988,ok,ADI_7584_inicial.pdf,563785,Petição inicial (250/2024) - Petição inicial - (ID: 68fba8f0)
+ADI 7585,6825194,ok,ADI_7585_inicial.pdf,824735,Petição inicial (381/2024) - Petição inicial - (ID: cae5e375)
+ADI 7586,6825310,ok,ADI_7586_inicial.pdf,1096854,Petição inicial (425/2024) - Petição inicial - (ID: 6398b6cd)
+ADI 7587,6826100,ok,ADI_7587_inicial.pdf,276162,Petição inicial (895/2024) - Petição inicial - (ID: 9a664b31)
+ADI 7588,6827999,ok,ADI_7588_inicial.pdf,539689,Petição inicial (1872/2024) - Petição inicial - (ID: 507071fe)
+ADI 7590,6833484,ok,ADI_7590_inicial.pdf,995241,Petição inicial (4796/2024) - Petição inicial - (ID: 4af827c6)
+ADI 7591,6834067,ok,ADI_7591_inicial.pdf,697941,Petição inicial (5145/2024) - Petição inicial - (ID: f48aec16)
+ADI 7592,6834356,ok,ADI_7592_inicial.pdf,3209274,Petição inicial (5354/2024) - Petição inicial - (ID: 19ab1dc4)
+ADI 7593,6835332,ok,ADI_7593_inicial.pdf,4140335,Petição inicial (5853/2024) - Petição inicial - (ID: f2454411)
+ADI 7594,6838135,ok,ADI_7594_inicial.pdf,1280129,Petição inicial (7576/2024) - Petição inicial - (ID: bffeb1b0)
+ADI 7595,6840346,ok,ADI_7595_inicial.pdf,830393,Petição inicial (8719/2024) - Petição inicial - (ID: a7c72414)
+ADI 7597,6843007,ok,ADI_7597_inicial.pdf,1817998,Petição inicial (10301/2024) - Petição inicial - (ID: 15a35786)
+ADI 7598,6843291,ok,ADI_7598_inicial.pdf,371893,Petição inicial (10373/2024) - Petição inicial - (ID: d9c06200)
+ADI 7600,6845229,ok,ADI_7600_inicial.pdf,296667,Petição inicial (11707/2024) - Petição inicial - (ID: 3effcb18)
+ADI 7601,6846515,ok,ADI_7601_inicial.pdf,472473,Petição inicial (12282/2024) - Petição inicial - (ID: b7e4de20)
+ADI 7603,6859877,ok,ADI_7603_inicial.pdf,650080,Petição inicial (19447/2024) - Petição inicial - (ID: 69814fff)
+ADI 7604,6861105,ok,ADI_7604_inicial.pdf,962274,Petição inicial (20188/2024) - Petição inicial - (ID: 3cb4f16e)
+ADI 7605,6861511,ok,ADI_7605_inicial.pdf,364972,Petição inicial (20449/2024) - Petição inicial - (ID: 86cac09a)
+ADI 7606,6861859,ok,ADI_7606_inicial.pdf,572107,Petição inicial (20592/2024) - Petição inicial - (ID: 04ad8eb2)
+ADI 7607,6864953,ok,ADI_7607_inicial.pdf,901657,Petição inicial (22270/2024) - Petição inicial - (ID: d095bde0)
+ADI 7608,6865956,ok,ADI_7608_inicial.pdf,364043,Petição inicial (22753/2024) - Petição inicial - (ID: d276073b)
+ADI 7609,6867284,ok,ADI_7609_inicial.pdf,497579,Petição inicial (23642/2024) - Petição inicial - (ID: f1a6af1c)
+ADI 7611,6872296,ok,ADI_7611_inicial.pdf,396736,Petição inicial (26308/2024) - Petição inicial - (ID: 82894edb)
+ADI 7612,6872866,ok,ADI_7612_inicial.pdf,586861,Petição inicial (26632/2024) - Petição inicial - (ID: 7e3474fa)
+ADI 7613,6876800,ok,ADI_7613_inicial.pdf,739992,Petição inicial (28726/2024) - Petição inicial - (ID: c3838b87)
+ADI 7618,6889580,ok,ADI_7618_inicial.pdf,1455877,Petição inicial (36297/2024) - Petição inicial - (ID: 12aa3620)
+ADI 7620,6890119,ok,ADI_7620_inicial.pdf,426109,Petição inicial (36752/2024) - Petição inicial - (ID: 875a13ea)
+ADI 7622,6893025,ok,ADI_7622_inicial.pdf,603219,Petição inicial (38342/2024) - Petição inicial - (ID: 562f5f91)
+ADI 7624,6894796,ok,ADI_7624_inicial.pdf,456540,Petição inicial (39346/2024) - Petição inicial - (ID: 9b964120)
+ADI 7625,6895083,ok,ADI_7625_inicial.pdf,502904,Petição inicial (39501/2024) - Petição inicial - (ID: 95bb21a3)
+ADI 7626,6895403,ok,ADI_7626_inicial.pdf,1190839,Petição inicial (39533/2024) - Petição inicial - (ID: 4a7ba74c)
+ADI 7628,6896365,ok,ADI_7628_inicial.pdf,4388991,Petição inicial (40200/2024) - Petição inicial - (ID: eb8973cf)
+ADI 7631,6902803,ok,ADI_7631_inicial.pdf,765982,Petição inicial (43425/2024) - Petição inicial - (ID: b0e994f0)
+ADI 7632,6907396,ok,ADI_7632_inicial.pdf,361836,Petição inicial (45810/2024) - Petição inicial - (ID: d3423f19)
+ADI 7633,6909105,ok,ADI_7633_inicial.pdf,10088977,Petição inicial (46656/2024) - Petição inicial - (ID: ef809aa8)
+ADI 7634,6909279,ok,ADI_7634_inicial.pdf,355064,Petição inicial (46707/2024) - Petição inicial - (ID: 7a3d0b77)
+ADI 7635,6910171,ok,ADI_7635_inicial.pdf,378720,Petição inicial (47198/2024) - Petição inicial - (ID: 63b0f90f)
+ADI 7639,6917265,ok,ADI_7639_inicial.pdf,499677,Petição inicial (51011/2024) - Petição inicial - (ID: ca344156)
+ADI 7640,6917578,ok,ADI_7640_inicial.pdf,1504339,Petição inicial (51221/2024) - Petição inicial - (ID: 14c65e9c)
+ADI 7642,6923381,ok,ADI_7642_inicial.pdf,443191,Petição inicial (54226/2024) - Petição inicial - (ID: e1a7a796)
+ADI 7643,6924959,ok,ADI_7643_inicial.pdf,2339117,Petição inicial (55025/2024) - Petição inicial - (ID: 6d7b733c)
+ADI 7650,6927290,ok,ADI_7650_inicial.pdf,610842,Petição inicial (56368/2024) - Petição inicial - (ID: 2551160f)
+ADI 7651,6928967,ok,ADI_7651_inicial.pdf,445102,Petição inicial (57318/2024) - Petição inicial - (ID: fa132e34)
+ADI 7653,6930326,ok,ADI_7653_inicial.pdf,398487,Petição inicial (57999/2024) - Petição inicial - (ID: fc9f5291)
+ADI 7655,6931254,ok,ADI_7655_inicial.pdf,454769,Petição inicial (58578/2024) - Petição inicial - (ID: 0742c222)
+ADI 7660,6940788,ok,ADI_7660_inicial.pdf,1479198,Petição inicial (64113/2024) - Petição inicial - (ID: 8ec5e3cf)
+ADI 7662,6943348,ok,ADI_7662_inicial.pdf,455678,Petição inicial (65166/2024) - Petição inicial - (ID: 5923f3ae)
+ADI 7663,6943407,ok,ADI_7663_inicial.pdf,455644,Petição inicial (65699/2024) - Petição inicial - (ID: 6afb72ba)
+ADI 7665,6946398,ok,ADI_7665_inicial.pdf,427882,Petição inicial (67585/2024) - Petição inicial - (ID: 4e26030c)
+ADI 7669,6949587,ok,ADI_7669_inicial.pdf,282425,Petição inicial (69458/2024) - Petição inicial - (ID: 8cc48228)
+ADI 7670,6949987,ok,ADI_7670_inicial.pdf,290349,Petição inicial (69731/2024) - Petição inicial - (ID: b3bf5e6f)
+ADI 7672,6953499,ok,ADI_7672_inicial.pdf,716838,Petição inicial (71697/2024) - Petição inicial - (ID: 56c8562f)
+ADI 7673,6953808,ok,ADI_7673_inicial.pdf,386720,Petição inicial (71729/2024) - Petição inicial - (ID: 48fff0a9)
+ADI 7674,6959971,ok,ADI_7674_inicial.pdf,6132904,Petição inicial (75529/2024) - Petição inicial - (ID: 9aea0e88)
+ADI 7675,6961423,ok,ADI_7675_inicial.pdf,645754,Petição inicial (76304/2024) - Petição inicial - (ID: af19d064)
+ADI 7678,6962451,ok,ADI_7678_inicial.pdf,353726,Petição inicial (76757/2024) - Petição inicial - (ID: 771613c7)
+ADI 7679,6967341,ok,ADI_7679_inicial.pdf,480529,Petição inicial (79542/2024) - Petição inicial - (ID: 4d6033e8)
+ADI 7680,6967768,ok,ADI_7680_inicial.pdf,424656,Petição inicial (79578/2024) - Petição inicial - (ID: 9a73d416)
+ADI 7681,6968364,ok,ADI_7681_inicial.pdf,1502560,Petição inicial (80036/2024) - Petição inicial - (ID: 080b14db)
+ADI 7682,6977266,ok,ADI_7682_inicial.pdf,1055409,Petição inicial (84846/2024) - Petição inicial - (ID: 360faa4d)
+ADI 7684,6979942,ok,ADI_7684_inicial.pdf,551215,Petição inicial (86423/2024) - Petição inicial - (ID: 2f9d6a00)
+ADI 7686,6985097,ok,ADI_7686_inicial.pdf,1197991,Petição inicial (89378/2024) - Petição inicial - (ID: bf49544c)
+ADI 7688,6987935,ok,ADI_7688_inicial.pdf,1965479,Petição inicial (91118/2024) - Petição inicial - (ID: 3421dc55)
+ADI 7689,6988221,ok,ADI_7689_inicial.pdf,1082563,Petição inicial (91228/2024) - Petição inicial - (ID: b3e0bf97)
+ADI 7690,6993503,ok,ADI_7690_inicial.pdf,569935,Petição inicial (94216/2024) - Petição inicial - (ID: 83cf6db9)
+ADI 7691,6993569,ok,ADI_7691_inicial.pdf,483204,Petição inicial (94233/2024) - Petição inicial - (ID: 92da726d)
+ADI 7693,6994080,ok,ADI_7693_inicial.pdf,4207349,Petição inicial (94527/2024) - Petição inicial - (ID: 101cf352)
+ADI 7694,6995338,ok,ADI_7694_inicial.pdf,499772,Petição inicial (95221/2024) - Petição inicial - (ID: 559dd245)
+ADI 7695,6996131,ok,ADI_7695_inicial.pdf,1088625,Petição inicial (95618/2024) - Petição inicial - (ID: 2cf7c4c3)
+ADI 7697,6997560,ok,ADI_7697_inicial.pdf,2590912,Petição inicial (96260/2024) - Petição inicial - (ID: 4dc7c32f)
+ADI 7700,7002198,ok,ADI_7700_inicial.pdf,458177,Petição inicial (98733/2024) - Petição inicial - (ID: 2329758b)
+ADI 7701,7003086,ok,ADI_7701_inicial.pdf,1125925,Petição inicial (99163/2024) - Petição inicial - (ID: cc592a48)
+ADI 7703,7004505,ok,ADI_7703_inicial.pdf,479702,Petição inicial (99939/2024) - Petição inicial - (ID: 19a6b424)
+ADI 7704,7005652,ok,ADI_7704_inicial.pdf,487512,Petição inicial (100696/2024) - Petição inicial - (ID: 16ffdc7b)
+ADI 7706,7014843,ok,ADI_7706_inicial.pdf,1599420,Petição inicial (105632/2024) - Petição inicial - (ID: 9933b375)
+ADI 7707,7016739,ok,ADI_7707_inicial.pdf,289281,Petição inicial (106622/2024) - Petição inicial - (ID: 197a3e2d)
+ADI 7708,7019032,ok,ADI_7708_inicial.pdf,552722,Petição inicial (107892/2024) - Petição inicial - (ID: b0c29092)
+ADI 7708,7019032,ok,ADI_7708_inicial_2.pdf,278277,Petição inicial (19881/2025) - Petição inicial - (ID: 4d5a07db)
+ADI 7714,7033127,ok,ADI_7714_inicial.pdf,592164,Petição inicial (115521/2024) - Petição inicial - (ID: 6dc87412)
+ADI 7717,7038016,ok,ADI_7717_inicial.pdf,519666,Petição inicial (117843/2024) - Petição inicial - (ID: 42720aa4)
+ADI 7720,7043899,ok,ADI_7720_inicial.pdf,2290981,Petição inicial (121009/2024) - Petição inicial - (ID: 96a7e268)
+ADI 7721,7044517,ok,ADI_7721_inicial.pdf,1201191,Petição inicial (121385/2024) - Petição inicial - (ID: 2574e083)
+ADI 7723,7050029,ok,ADI_7723_inicial.pdf,979818,Petição inicial (124245/2024) - Petição inicial - (ID: 12f0dc4b)
+ADI 7724,7052516,ok,ADI_7724_inicial.pdf,614980,Petição inicial (125425/2024) - Petição inicial - (ID: fbdf6fb5)
+ADI 7726,7053295,ok,ADI_7726_inicial.pdf,330212,Petição inicial (125988/2024) - Petição inicial - (ID: dac29193)
+ADI 7727,7053297,ok,ADI_7727_inicial.pdf,432490,Petição inicial (125996/2024) - Petição inicial - (ID: f0b09857)
+ADI 7735,7067657,ok,ADI_7735_inicial.pdf,243098,Petição inicial (134662/2024) - Petição inicial - (ID: af83bc9f)
+ADI 7736,7067751,ok,ADI_7736_inicial.pdf,708018,Petição inicial (134687/2024) - Petição inicial - (ID: f5391ec3)
+ADI 7738,7076822,ok,ADI_7738_inicial.pdf,557271,Petição inicial (139755/2024) - Petição inicial - (ID: b074869d)
+ADI 7747,7094684,ok,ADI_7747_inicial.pdf,1086810,Petição inicial (147761/2024) - Petição inicial - (ID: 1bb94017)
+ADI 7748,7096238,ok,ADI_7748_inicial.pdf,310063,Petição inicial (148417/2024) - Petição inicial - (ID: ff02d6bd)
+ADI 7749,7096595,ok,ADI_7749_inicial.pdf,1048995,Petição inicial (148829/2024) - Petição inicial - (ID: 8ec0d1de)
+ADI 7751,7100567,ok,ADI_7751_inicial.pdf,415790,Petição inicial (150935/2024) - Petição inicial - (ID: 849f2fa1)
+ADI 7752,7100689,ok,ADI_7752_inicial.pdf,655508,Petição inicial (151111/2024) - Petição inicial - (ID: 3c9eeb53)
+ADI 7758,7108840,ok,ADI_7758_inicial.pdf,411786,Petição inicial (155875/2024) - Petição inicial - (ID: bf9233dd)
+ADI 7759,7110810,ok,ADI_7759_inicial.pdf,770557,Petição inicial (156854/2024) - Petição inicial - (ID: 99383c18)
+ADI 7763,7114659,ok,ADI_7763_inicial.pdf,677366,Petição inicial (159202/2024) - Petição inicial - (ID: bde762d5)
+ADI 7766,7117231,ok,ADI_7766_inicial.pdf,570516,Petição inicial (160354/2024) - Petição inicial - (ID: 34d8ab64)
+ADI 7768,7119985,ok,ADI_7768_inicial.pdf,879128,Petição inicial (161661/2024) - Petição inicial - (ID: f23bfc8a)
+ADI 7770,7128831,ok,ADI_7770_inicial.pdf,3052641,Petição inicial (167067/2024) - Petição inicial - (ID: 7ad7b5a5)
+ADI 7773,7133069,ok,ADI_7773_inicial.pdf,1242736,Petição inicial (169074/2024) - Petição inicial - (ID: 790edee2)
+ADI 7774,7134370,ok,ADI_7774_inicial.pdf,802116,Petição inicial (170211/2024) - Petição inicial - (ID: c5867994)
+ADI 7775,7134371,ok,ADI_7775_inicial.pdf,775020,Petição inicial (170214/2024) - Petição inicial - (ID: 8c0722bb)
+ADI 7779,7155620,ok,ADI_7779_inicial.pdf,1222490,Petição inicial (11440/2025) - Petição inicial - (ID: 7b35e8b9)
+ADI 7780,7158591,ok,ADI_7780_inicial.pdf,436447,Petição inicial (12916/2025) - Petição inicial - (ID: b1dfb874)
+ADI 7781,7166869,ok,ADI_7781_inicial.pdf,546487,Petição inicial (16589/2025) - Petição inicial - (ID: 6a8e6b97)
+ADI 7784,7176593,ok,ADI_7784_inicial.pdf,1697407,Petição inicial (22551/2025) - Petição inicial - (ID: a9e44b18)
+ADI 7785,7176670,ok,ADI_7785_inicial.pdf,826322,Petição inicial (22617/2025) - Petição inicial - (ID: 19a212b5)
+ADI 7786,7177894,ok,ADI_7786_inicial.pdf,973008,Petição inicial (23560/2025) - Petição inicial - (ID: abbd0a75)
+ADI 7787,7180340,ok,ADI_7787_inicial.pdf,1153010,Petição inicial (24520/2025) - Petição inicial - (ID: eb87a561)
+ADI 7788,7180375,ok,ADI_7788_inicial.pdf,880413,Petição inicial (24685/2025) - Petição inicial - (ID: 3d351cc4)
+ADI 7790,7186439,ok,ADI_7790_inicial.pdf,879056,Petição inicial (28395/2025) - Petição inicial - (ID: a55c04e2)
+ADI 7791,7186901,ok,ADI_7791_inicial.pdf,3363990,Petição inicial (28557/2025) - Petição inicial - (ID: b3f30aa9)
+ADI 7792,7187641,ok,ADI_7792_inicial.pdf,758342,Petição inicial (28897/2025) - Petição inicial - (ID: 5c197af1)
+ADI 7794,7189830,ok,ADI_7794_inicial.pdf,569843,Petição inicial (29980/2025) - Petição inicial - (ID: d5ab75fb)
+ADI 7796,7201802,ok,ADI_7796_inicial.pdf,1022995,Petição inicial (36933/2025) - Petição inicial - (ID: e62d6b90)
+ADI 7797,7214791,ok,ADI_7797_inicial.pdf,465618,Petição inicial (44145/2025) - Petição inicial - (ID: 9af512b6)
+ADI 7801,7219921,ok,ADI_7801_inicial.pdf,566227,Petição inicial (47106/2025) - Petição inicial - (ID: 51fd8ca2)
+ADI 7802,7221487,ok,ADI_7802_inicial.pdf,1266811,Petição inicial (47712/2025) - Petição inicial - (ID: 04160ab0)
+ADI 7803,7222542,ok,ADI_7803_inicial.pdf,566428,Petição inicial (48457/2025) - Petição inicial - (ID: 47b13623)
+ADI 7805,7227645,ok,ADI_7805_inicial.pdf,582919,Petição inicial (51009/2025) - Petição inicial - (ID: a4737d0e)
+ADI 7806,7235041,ok,ADI_7806_inicial.pdf,1290009,Petição inicial (51962/2025) - Petição inicial - (ID: e848641e)
+ADI 7807,7235125,ok,ADI_7807_inicial.pdf,1473876,Petição inicial (51968/2025) - Petição inicial - (ID: 35c60c7c)
+ADI 7808,7237033,ok,ADI_7808_inicial.pdf,452568,Petição inicial (52781/2025) - Petição inicial - (ID: 32bc103f)
+ADI 7809,7239912,ok,ADI_7809_inicial.pdf,791112,Petição inicial (54282/2025) - Petição inicial - (ID: 9aefe85a)
+ADI 7810,7240064,ok,ADI_7810_inicial.pdf,1142261,Petição inicial (54648/2025) - Petição inicial - (ID: 35bcbc3a)
+ADI 7811,7240147,ok,ADI_7811_inicial.pdf,1035095,Petição inicial (54774/2025) - Petição inicial - (ID: 620e4722)
+ADI 7812,7242197,ok,ADI_7812_inicial.pdf,477255,Petição inicial (55651/2025) - Petição inicial - (ID: a17a0109)
+ADI 7813,7246953,ok,ADI_7813_inicial.pdf,687153,Petição inicial (58436/2025) - Petição inicial - (ID: a068d0d0)
+ADI 7815,7254397,ok,ADI_7815_inicial.pdf,397109,Petição inicial (62749/2025) - Petição inicial - (ID: 65778ba4)
+ADI 7817,7259139,ok,ADI_7817_inicial.pdf,741270,Petição inicial (65126/2025) - Petição inicial - (ID: c3bc9cc7)
+ADI 7818,7260284,ok,ADI_7818_inicial.pdf,695456,Petição inicial (65909/2025) - Petição inicial - (ID: b35cc0b3)
+ADI 7819,7260699,ok,ADI_7819_inicial.pdf,612716,Petição inicial (66333/2025) - Petição inicial - (ID: 7684a9a4)
+ADI 7822,7271290,ok,ADI_7822_inicial.pdf,628795,Petição inicial (72384/2025) - Petição inicial - (ID: 5e4d1ed5)
+ADI 7823,7274286,ok,ADI_7823_inicial.pdf,394109,Petição inicial (73667/2025) - Petição inicial - (ID: 1be2b957)
+ADI 7826,7279026,ok,ADI_7826_inicial.pdf,908305,Petição inicial (76364/2025) - Petição inicial - (ID: d52bb333)
+ADI 7827,7280244,ok,ADI_7827_inicial.pdf,818677,Petição inicial (76751/2025) - Petição inicial - (ID: ace8cc94)
+ADI 7830,7286480,ok,ADI_7830_inicial.pdf,3579121,Petição inicial (80357/2025) - Petição inicial - (ID: e738f22b)
+ADI 7832,7292546,ok,ADI_7832_inicial.pdf,4386878,Petição inicial (83611/2025) - Petição inicial - (ID: f06414e9)
+ADI 7834,7294447,ok,ADI_7834_inicial.pdf,843265,Petição inicial (84726/2025) - Petição inicial - (ID: b1a2e0f9)
+ADI 7838,7300576,ok,ADI_7838_inicial.pdf,799911,Petição inicial (88315/2025) - Petição inicial - (ID: 8ff893fa)
+ADI 7839,7301260,ok,ADI_7839_inicial.pdf,342188,Petição inicial (88836/2025) - Petição inicial - (ID: 5f5c6f8e)
+ADI 7841,7302873,ok,ADI_7841_inicial.pdf,759871,Petição inicial (89598/2025) - Petição inicial - (ID: c72e220d)
+ADI 7842,7303360,ok,ADI_7842_inicial.pdf,628969,Petição inicial (89722/2025) - Petição inicial - (ID: d4186aa1)
+ADI 7843,7303370,ok,ADI_7843_inicial.pdf,531835,Petição inicial (89785/2025) - Petição inicial - (ID: 12266ef5)
+ADI 7844,7303474,ok,ADI_7844_inicial.pdf,4152251,Petição inicial (89951/2025) - Petição inicial - (ID: d3426c0f)
+ADI 7845,7306661,ok,ADI_7845_inicial.pdf,1418705,Petição inicial (91694/2025) - Petição inicial - (ID: f5017500)
+ADI 7846,7314840,ok,ADI_7846_inicial.pdf,774198,Petição inicial (96465/2025) - Petição inicial - (ID: 499d87a0)
+ADI 7848,7320152,ok,ADI_7848_inicial.pdf,1034157,Petição inicial (99637/2025) - Petição inicial - (ID: eced2b5c)
+ADI 7850,7321998,ok,ADI_7850_inicial.pdf,1069924,Petição inicial (100620/2025) - Petição inicial - (ID: 33c901c7)
+ADI 7851,7322797,ok,ADI_7851_inicial.pdf,2404889,Petição inicial (101098/2025) - Petição inicial - (ID: edcf06f6)
+ADI 7853,7325956,ok,ADI_7853_inicial.pdf,1001127,Petição inicial (102921/2025) - Petição inicial - (ID: 96d54b05)
+ADI 7855,7328444,ok,ADI_7855_inicial.pdf,552275,Petição inicial (104207/2025) - Petição inicial - (ID: 517016bd)
+ADI 7856,7329480,ok,ADI_7856_inicial.pdf,529110,Petição inicial (104869/2025) - Petição inicial - (ID: e16e7e84)
+ADI 7857,7330186,ok,ADI_7857_inicial.pdf,850933,Petição inicial (105254/2025) - Petição inicial - (ID: b0ce12fc)
+ADI 7858,7330443,ok,ADI_7858_inicial.pdf,357176,Petição inicial (105278/2025) - Petição inicial - (ID: 30af058a)
+ADI 7862,7346694,ok,ADI_7862_inicial.pdf,744037,Petição inicial (113957/2025) - Petição inicial - (ID: ad6c3952)
+ADI 7863,7346841,ok,ADI_7863_inicial.pdf,1013481,Petição inicial (114194/2025) - Petição inicial - (ID: dfabd59f)
+ADI 7864,7351007,ok,ADI_7864_inicial.pdf,447756,Petição inicial (116650/2025) - Petição inicial - (ID: 619a6ab2)
+ADI 7865,7353441,ok,ADI_7865_inicial.pdf,450702,Petição inicial (118033/2025) - Petição inicial - (ID: f2d4a3a4)
+ADI 7867,7355529,ok,ADI_7867_inicial.pdf,1969304,Petição inicial (118769/2025) - Petição inicial - (ID: 222fccc6)
+ADI 7869,7357161,ok,ADI_7869_inicial.pdf,485807,Petição inicial (119135/2025) - Petição inicial - (ID: 96f3f0a1)
+ADI 7870,7357329,ok,ADI_7870_inicial.pdf,927444,Petição inicial (119496/2025) - Petição inicial - (ID: 42130a82)
+ADI 7871,7360918,ok,ADI_7871_inicial.pdf,801732,Petição inicial (121978/2025) - Petição inicial - (ID: 400e1853)
+ADI 7872,7361062,ok,ADI_7872_inicial.pdf,1022721,Petição inicial (121664/2025) - Petição inicial - (ID: 792cb407)
+ADI 7873,7366591,ok,ADI_7873_inicial.pdf,684896,Petição inicial (124605/2025) - Petição inicial - (ID: 3acb1ade)
+ADI 7875,7374850,ok,ADI_7875_inicial.pdf,394647,Petição inicial (128941/2025) - Petição inicial - (ID: 47fcf386)
+ADI 7877,7376269,ok,ADI_7877_inicial.pdf,659163,Petição inicial (129924/2025) - Petição inicial - (ID: f5e2f89b)
+ADI 7878,7378188,ok,ADI_7878_inicial.pdf,531502,Petição inicial (130897/2025) - Petição inicial - (ID: 3eddf2b1)
+ADI 7879,7385137,ok,ADI_7879_inicial.pdf,1244153,Petição inicial (134949/2025) - Petição inicial - (ID: ee58347c)
+ADI 7880,7386290,ok,ADI_7880_inicial.pdf,1650310,Petição inicial (135956/2025) - Petição inicial - (ID: 4ac7f42c)
+ADI 7881,7391301,ok,ADI_7881_inicial.pdf,1715405,Petição inicial (138517/2025) - Petição inicial - (ID: 7cc70ac9)
+ADI 7883,7394038,ok,ADI_7883_inicial.pdf,857495,Petição inicial (140134/2025) - Petição inicial - (ID: 83d66e33)
+ADI 7885,7399275,sem_inicial,,0,nenhuma peca chamada 'Peticao inicial'
+ADI 7887,7403015,ok,ADI_7887_inicial.pdf,441966,Petição inicial (145480/2025) - Petição inicial - (ID: efc9d145)
+ADI 7889,7404786,ok,ADI_7889_inicial.pdf,911118,Petição inicial (146256/2025) - Petição inicial - (ID: 7d69bb55)
+ADI 7891,7405758,ok,ADI_7891_inicial.pdf,429501,Petição inicial (146824/2025) - Petição inicial - (ID: 0c66e94a)
+ADI 7892,7407031,ok,ADI_7892_inicial.pdf,714878,Petição inicial (147600/2025) - Petição inicial - (ID: 86d76ff0)
+ADI 7893,7407192,ok,ADI_7893_inicial.pdf,610181,Petição inicial (147675/2025) - Petição inicial - (ID: 05c45a09)
+ADI 7895,7419079,ok,ADI_7895_inicial.pdf,440481,Petição inicial (154356/2025) - Petição inicial - (ID: b4158d61)
+ADI 7896,7427660,ok,ADI_7896_inicial.pdf,782561,Petição inicial (158677/2025) - Petição inicial - (ID: 2b58df51)
+ADI 7897,7433748,ok,ADI_7897_inicial.pdf,355712,Petição inicial (162089/2025) - Petição inicial - (ID: 8d92b51f)
+ADI 7899,7435425,ok,ADI_7899_inicial.pdf,376203,Petição inicial (163296/2025) - Petição inicial - (ID: c4291e6b)
+ADI 7901,7441202,ok,ADI_7901_inicial.pdf,515914,Petição inicial (166462/2025) - Petição inicial - (ID: d7f24114)
+ADI 7902,7446134,ok,ADI_7902_inicial.pdf,719088,Petição inicial (168880/2025) - Petição inicial - (ID: 85814eaa)
+ADI 7903,7446172,ok,ADI_7903_inicial.pdf,1303873,Petição inicial (168940/2025) - Petição inicial - (ID: e4fd00ab)
+ADI 7904,7446441,ok,ADI_7904_inicial.pdf,1316192,Petição inicial (169270/2025) - Petição inicial - (ID: 0b4da9f6)
+ADI 7905,7446880,ok,ADI_7905_inicial.pdf,575523,Petição inicial (169460/2025) - Petição inicial - (ID: 76548a8f)
+ADI 7906,7449443,ok,ADI_7906_inicial.pdf,473716,Petição inicial (170892/2025) - Petição inicial - (ID: fdc53002)
+ADI 7908,7450504,ok,ADI_7908_inicial.pdf,241690,Petição inicial (171419/2025) - Petição inicial - (ID: 109796ee)
+ADI 7909,7450626,ok,ADI_7909_inicial.pdf,932950,Petição inicial (171511/2025) - Petição inicial - (ID: 6d242541)
+ADI 7910,7450736,ok,ADI_7910_inicial.pdf,417148,Petição inicial (171541/2025) - Petição inicial - (ID: 3fa5e8f2)
+ADI 7911,7451034,ok,ADI_7911_inicial.pdf,792145,Petição inicial (171869/2025) - Petição inicial - (ID: d513119f)
+ADI 7912,7466925,ok,ADI_7912_inicial.pdf,692667,Petição inicial (179837/2025) - Petição inicial - (ID: 955e6acd)
+ADI 7913,7468448,ok,ADI_7913_inicial.pdf,472352,Petição inicial (180347/2025) - Petição inicial - (ID: 9ece0971)
+ADI 7914,7471784,ok,ADI_7914_inicial.pdf,436588,Petição inicial (182337/2025) - Petição inicial - (ID: 3abef457)
+ADI 7915,7473052,ok,ADI_7915_inicial.pdf,547360,Petição inicial (182963/2025) - Petição inicial - (ID: 60595064)
+ADI 7916,7473191,ok,ADI_7916_inicial.pdf,531602,Petição inicial (183119/2025) - Petição inicial - (ID: 0cf5b8cf)
+ADI 7917,7473716,ok,ADI_7917_inicial.pdf,621324,Petição inicial (183939/2025) - Petição inicial - (ID: 3669f4cb)
+ADI 7918,7474014,ok,ADI_7918_inicial.pdf,2454849,Petição inicial (184123/2025) - Petição inicial - (ID: 539c7bea)
+ADI 7919,7474918,ok,ADI_7919_inicial.pdf,2209086,Petição inicial (184750/2025) - Petição inicial - (ID: 5e8f8da1)
+ADI 7920,7480666,ok,ADI_7920_inicial.pdf,554351,Petição inicial (2738/2026) - Petição inicial - (ID: 342f3468)
+ADI 7921,7482307,ok,ADI_7921_inicial.pdf,553439,Petição inicial (3772/2026) - Petição inicial - (ID: 1f0e9d7b)
+ADI 7922,7484472,ok,ADI_7922_inicial.pdf,259222,Petição inicial (4992/2026) - Petição inicial - (ID: ee249fa9)
+ADI 7923,7484718,ok,ADI_7923_inicial.pdf,654141,Petição inicial (5092/2026) - Petição inicial - (ID: f2acb26e)
+ADI 7931,7492292,ok,ADI_7931_inicial.pdf,1293652,Petição inicial (9214/2026) - Petição inicial - (ID: d823bb9b)
+ADI 7932,7492378,ok,ADI_7932_inicial.pdf,1205996,Petição inicial (9387/2026) - Petição inicial - (ID: 9ba3e684)
+ADI 7933,7495031,ok,ADI_7933_inicial.pdf,623765,Petição inicial (11037/2026) - Petição inicial - (ID: 580f719a)
+ADI 7934,7496045,ok,ADI_7934_inicial.pdf,1795735,Petição inicial (11580/2026) - Petição inicial - (ID: 345a77fc)
+ADI 7935,7501790,ok,ADI_7935_inicial.pdf,1028446,Petição inicial (14384/2026) - Petição inicial - (ID: ad802ac6)
+ADI 7936,7501902,ok,ADI_7936_inicial.pdf,946670,Petição inicial (14452/2026) - Petição inicial - (ID: fdd9a1d6)
+ADI 7937,7502817,ok,ADI_7937_inicial.pdf,230108,Petição inicial (15192/2026) - Petição inicial - (ID: 13ebdd40)
+ADI 7939,7511981,ok,ADI_7939_inicial.pdf,544539,Petição inicial (20182/2026) - Petição inicial - (ID: 32d2134f)
+ADI 7940,7519397,ok,ADI_7940_inicial.pdf,623890,Petição inicial (23926/2026) - Petição inicial - (ID: 01860787)
+ADI 7941,7522805,ok,ADI_7941_inicial.pdf,632061,Petição inicial (25710/2026) - Petição inicial - (ID: 1ba4c4b8)
+ADI 7942,7531465,ok,ADI_7942_inicial.pdf,226517,Petição inicial (30738/2026) - Petição inicial - (ID: 9e04ee29)
+ADI 7942,7531465,ok,ADI_7942_inicial_2.pdf,319012,Petição inicial (71220/2026) - Petição inicial - (ID: c2412719)
+ADI 7943,7532392,ok,ADI_7943_inicial.pdf,547713,Petição inicial (31289/2026) - Petição inicial - (ID: 4711b384)
+ADI 7944,7532393,ok,ADI_7944_inicial.pdf,441324,Petição inicial (31325/2026) - Petição inicial - (ID: f65b3a7c)
+ADI 7945,7535918,ok,ADI_7945_inicial.pdf,751206,Petição inicial (32768/2026) - Petição inicial - (ID: 6e881ef6)
+ADI 7946,7536711,ok,ADI_7946_inicial.pdf,762435,Petição inicial (33496/2026) - Petição inicial - (ID: b2b994ae)
+ADI 7947,7544463,ok,ADI_7947_inicial.pdf,367751,Petição inicial (37981/2026) - Petição inicial - (ID: 921211f4)
+ADI 7948,7544469,ok,ADI_7948_inicial.pdf,452639,Petição inicial (38038/2026) - Petição inicial - (ID: ee3d622b)
+ADI 7949,7548734,ok,ADI_7949_inicial.pdf,1012218,Petição inicial (40239/2026) - Petição inicial - (ID: 01bcde45)
+ADI 7950,7550772,ok,ADI_7950_inicial.pdf,3065863,Petição inicial (41303/2026) - Petição inicial - (ID: d94dad8e)
+ADI 7952,7555125,ok,ADI_7952_inicial.pdf,451615,Petição inicial (42525/2026) - Petição inicial - (ID: 36014058)
+ADI 7953,7556094,ok,ADI_7953_inicial.pdf,752603,Petição inicial (43338/2026) - Petição inicial - (ID: bfe0d64c)
+ADI 7954,7558316,ok,ADI_7954_inicial.pdf,532034,Petição inicial (44773/2026) - Petição inicial - (ID: 586b629f)
+ADI 7955,7560024,ok,ADI_7955_inicial.pdf,1374720,Petição inicial (45955/2026) - Petição inicial - (ID: 75c08fcf)
+ADI 7956,7563157,ok,ADI_7956_inicial.pdf,256936,Petição inicial (47730/2026) - Petição inicial - (ID: 3fcf2378)
+ADI 7957,7569289,ok,ADI_7957_inicial.pdf,782876,Petição inicial (51037/2026) - Petição inicial - (ID: 4e7e2192)
+ADI 7958,7576278,ok,ADI_7958_inicial.pdf,441148,Petição inicial (54382/2026) - Petição inicial - (ID: 5b4048a3)
+ADI 7959,7577911,ok,ADI_7959_inicial.pdf,1373720,Petição inicial (56003/2026) - Petição inicial - (ID: b940d0d3)
+ADI 7960,7577912,ok,ADI_7960_inicial.pdf,559568,Petição inicial (56018/2026) - Petição inicial - (ID: 22ee2cca)
+ADI 7961,7578422,ok,ADI_7961_inicial.pdf,851597,Petição inicial (56281/2026) - Petição inicial - (ID: 47405aea)
+ADI 7962,7578471,ok,ADI_7962_inicial.pdf,2052573,Petição inicial (56293/2026) - Petição inicial - (ID: af760c93)
+ADI 7963,7582954,ok,ADI_7963_inicial.pdf,645192,Petição inicial (58296/2026) - Petição inicial - (ID: 14417659)
+ADI 7964,7583088,ok,ADI_7964_inicial.pdf,400501,Petição inicial (58344/2026) - Petição inicial - (ID: 62499450)
+ADI 7965,7584904,ok,ADI_7965_inicial.pdf,529578,Petição inicial (59252/2026) - Petição inicial - (ID: 6fa9db34)
+ADI 7966,7587580,ok,ADI_7966_inicial.pdf,2324026,Petição inicial (60895/2026) - Petição inicial - (ID: 8e325e7c)
+ADI 7967,7587582,ok,ADI_7967_inicial.pdf,418443,Petição inicial (60987/2026) - Petição inicial - (ID: cbf8f93e)
+ADI 7968,7587896,ok,ADI_7968_inicial.pdf,675638,Petição inicial (61166/2026) - Petição inicial - (ID: 6f52d671)
+ADI 7969,7587897,ok,ADI_7969_inicial.pdf,822036,Petição inicial (61179/2026) - Petição inicial - (ID: 23e2ec31)
+ADI 7970,7593892,ok,ADI_7970_inicial.pdf,403096,Petição inicial (63922/2026) - Petição inicial - (ID: b8105abf)
+ADI 7971,7594398,ok,ADI_7971_inicial.pdf,730576,Petição inicial (64408/2026) - Petição inicial - (ID: 203e9e80)
+ADI 7972,7595088,ok,ADI_7972_inicial.pdf,516995,Petição inicial (64670/2026) - Petição inicial - (ID: adc5eb10)
+ADI 7973,7602454,ok,ADI_7973_inicial.pdf,432893,Petição inicial (68517/2026) - Petição inicial - (ID: ba7822af)
+ADI 7974,7604960,ok,ADI_7974_inicial.pdf,858132,Petição inicial (69811/2026) - Petição inicial - (ID: 8c642efd)
+ADI 7976,7607108,ok,ADI_7976_inicial.pdf,372467,Petição inicial (70967/2026) - Petição inicial - (ID: 86fe3562)
+ADI 7977,7608729,ok,ADI_7977_inicial.pdf,538138,Petição inicial (71609/2026) - Petição inicial - (ID: cf446d14)
+ADI 7978,7619344,ok,ADI_7978_inicial.pdf,820457,Petição inicial (76838/2026) - Petição inicial - (ID: cb457917)
+ADI 7979,7620934,ok,ADI_7979_inicial.pdf,555870,Petição inicial (77632/2026) - Petição inicial - (ID: c95e4ba6)
+ADI 7980,7621767,ok,ADI_7980_inicial.pdf,556942,Petição inicial (77941/2026) - Petição inicial - (ID: d52cb33c)
+ADI 7981,7631730,ok,ADI_7981_inicial.pdf,393795,Petição inicial (83074/2026) - Petição inicial - (ID: 1f955a4d)
+ADI 7982,7631870,ok,ADI_7982_inicial.pdf,449389,Petição inicial (83178/2026) - Petição inicial - (ID: d66123c4)
+ADI 7983,7636686,ok,ADI_7983_inicial.pdf,8247413,Petição inicial (85554/2026) - Petição inicial - (ID: 3b121dac)
+ADI 7984,7641749,ok,ADI_7984_inicial.pdf,464535,Petição inicial (88063/2026) - Petição inicial - (ID: b7be03c9)
+ADI 7985,7641993,ok,ADI_7985_inicial.pdf,244626,Petição inicial (88227/2026) - Petição inicial - (ID: a17a5755)
+ADI 7986,7642309,ok,ADI_7986_inicial.pdf,262394,Petição inicial (88370/2026) - Petição inicial - (ID: 58ad926d)
+ADI 7987,7642967,ok,ADI_7987_inicial.pdf,1377916,Petição inicial (88668/2026) - Petição inicial - (ID: 34960255)
+ADI 7988,7643644,ok,ADI_7988_inicial.pdf,274624,Petição inicial (89008/2026) - Petição inicial - (ID: a2d7fcce)
+ADI 7989,7643956,ok,ADI_7989_inicial.pdf,289563,Petição inicial (89142/2026) - Petição inicial - (ID: 6a380037)
+ADI 7990,7644483,ok,ADI_7990_inicial.pdf,264278,Petição inicial (89443/2026) - Petição inicial - (ID: cfa3a7ae)
+ADI 7991,7646279,ok,ADI_7991_inicial.pdf,197325,Petição inicial (90393/2026) - Petição inicial - (ID: 6177753d)
+ADI 7992,7646283,ok,ADI_7992_inicial.pdf,723244,Petição inicial (90401/2026) - Petição inicial - (ID: dfdf361c)
+ADI 7993,7646521,ok,ADI_7993_inicial.pdf,896219,Petição inicial (90488/2026) - Petição inicial - (ID: f1aec626)
+ADI 7994,7649533,ok,ADI_7994_inicial.pdf,320642,Petição inicial (92094/2026) - Petição inicial - (ID: 8f7757d9)
+ADI 7995,7650369,ok,ADI_7995_inicial.pdf,423385,Petição inicial (92525/2026) - Petição inicial - (ID: 4318a6f3)
+ADI 7996,7650733,ok,ADI_7996_inicial.pdf,1520217,Petição inicial (92834/2026) - Petição inicial - (ID: 0399faaf)
+ADI 7997,7650735,ok,ADI_7997_inicial.pdf,1360625,Petição inicial (92835/2026) - Petição inicial - (ID: 72e5d840)
+ADI 7998,7653901,ok,ADI_7998_inicial.pdf,1047566,Petição inicial (94581/2026) - Petição inicial - (ID: d9e4ce29)
+ADI 7999,7655154,ok,ADI_7999_inicial.pdf,250921,Petição inicial (95160/2026) - Petição inicial - (ID: a0f5bb6c)
+ADI 8000,7655990,ok,ADI_8000_inicial.pdf,582077,Petição inicial (95704/2026) - Petição inicial - (ID: d1bbf8e4)
+ADI 8001,7656717,ok,ADI_8001_inicial.pdf,264071,Petição inicial (96123/2026) - Petição inicial - (ID: 7c10730c)
+ADI 8002,7656895,ok,ADI_8002_inicial.pdf,568521,Petição inicial (96183/2026) - Petição inicial - (ID: 356b2e2f)
+ADI 8003,7658796,ok,ADI_8003_inicial.pdf,377080,Petição inicial (97298/2026) - Petição inicial - (ID: b89b705a)
+ADI 8004,7660334,ok,ADI_8004_inicial.pdf,1050886,Petição inicial (98041/2026) - Petição inicial - (ID: a44e1688)
+ADI 8005,7660454,ok,ADI_8005_inicial.pdf,603854,Petição inicial (98217/2026) - Petição inicial - (ID: 0f4eafe2)
+ADI 8006,7661933,ok,ADI_8006_inicial.pdf,219304,Petição inicial (99011/2026) - Petição inicial - (ID: 4d985391)
+ADI 8007,7666066,ok,ADI_8007_inicial.pdf,871146,Petição inicial (100722/2026) - Petição inicial - (ID: 23e5919f)
+ADI 8008,7666797,ok,ADI_8008_inicial.pdf,453808,Petição inicial (101263/2026) - Petição inicial - (ID: e7b88885)
+ADI 8009,7669331,ok,ADI_8009_inicial.pdf,8999862,Petição inicial (102878/2026) - Petição inicial - (ID: ce18082d)
+ADI 8010,7678980,ok,ADI_8010_inicial.pdf,425012,Petição inicial (107666/2026) - Petição inicial - (ID: 1f8c95bd)
+ADI 8011,7682040,ok,ADI_8011_inicial.pdf,789997,Petição inicial (109016/2026) - Petição inicial - (ID: 12f2f2cb)
+ADI 8012,7684966,ok,ADI_8012_inicial.pdf,317456,Petição inicial (110660/2026) - Petição inicial - (ID: bb2cab5b)
+ADI 8013,7685051,ok,ADI_8013_inicial.pdf,2554140,Petição inicial (110750/2026) - Petição inicial - (ID: 12e981d8)
+ADI 8014,7687739,ok,ADI_8014_inicial.pdf,559976,Petição inicial (111886/2026) - Petição inicial - (ID: 20e7cedf)
+ADO 13,4063331,ok,ADO_13_inicial.pdf,4754628,Petição inicial - Petição Inicial
+ADO 26,4515053,ok,ADO_26_inicial.pdf,1577937,Petição inicial - Peticao inicial 1
+ADO 38,5149458,ok,ADO_38_inicial.pdf,9311609,Petição inicial (11073/2017) - Petição inicial
+ADO 47,5365160,ok,ADO_47_inicial.pdf,636973,Petição inicial (10432/2018) - Petição inicial
+ADO 69,6304210,ok,ADO_69_inicial.pdf,278170,Petição inicial (111094/2021) - Petição inicial
+ADO 77,6486973,ok,ADO_77_inicial.pdf,257024,Petição inicial (73041/2022) - Petição inicial
+ADO 81,6701307,ok,ADO_81_inicial.pdf,242553,Petição inicial (79668/2023) - Petição inicial - (ID: 15d27407)
+ADO 83,6802268,ok,ADO_83_inicial.pdf,242297,Petição inicial (131438/2023) - Petição inicial - (ID: 5b749d48)
+ADO 86,6877646,ok,ADO_86_inicial.pdf,2303292,Petição inicial (29285/2024) - Petição inicial - (ID: ac57d33e)
+ADO 92,7223317,ok,ADO_92_inicial.pdf,2056682,Petição inicial (48754/2025) - Petição inicial - (ID: 685514e2)
+ADO 93,7272296,ok,ADO_93_inicial.pdf,293056,Petição inicial (72706/2025) - Petição inicial - (ID: db3d4c1e)
+ADO 94,7280298,ok,ADO_94_inicial.pdf,674416,Petição inicial (76755/2025) - Petição inicial - (ID: 9857d305)
+ADO 95,7603640,ok,ADO_95_inicial.pdf,323302,Petição inicial (69171/2026) - Petição inicial - (ID: df96de49)
+ADO 96,7665637,ok,ADO_96_inicial.pdf,709388,Petição inicial (100452/2026) - Petição inicial - (ID: abc29e11)
+ADO 97,7677163,ok,ADO_97_inicial.pdf,366132,Petição inicial (106521/2026) - Petição inicial - (ID: d8c26735)
+ADPF 70,2287839,sem_inicial,,0,nenhuma peca chamada 'Peticao inicial'
+ADPF 153,2644116,ok,ADPF_153_inicial.pdf,2235635,Petição inicial
+ADPF 165,2665693,ok,ADPF_165_inicial.pdf,34083703,Petição inicial
+ADPF 219,3974029,ok,ADPF_219_inicial.pdf,1563419,Petição inicial - Petição Inicial
+ADPF 234,4071000,ok,ADPF_234_inicial.pdf,1701578,Petição inicial - Petição Inicial
+ADPF 234,4071000,ok,ADPF_234_inicial_2.pdf,1701578,Petição inicial - Petição Inicial
+ADPF 246,4183656,ok,ADPF_246_inicial.pdf,833173,Petição inicial - Petição Inicial 1
+ADPF 248,4194597,ok,ADPF_248_inicial.pdf,482570,Petição inicial - Petição Inicial 1
+ADPF 289,4448028,ok,ADPF_289_inicial.pdf,451539,Petição inicial - Petição Inicial
+ADPF 293,4466593,ok,ADPF_293_inicial.pdf,432583,Petição inicial - Petição Inicial
+ADPF 320,4574695,ok,ADPF_320_inicial.pdf,2977932,Petição inicial - Peticao inicial 1
+ADPF 322,4583076,ok,ADPF_322_inicial.pdf,969702,Petição inicial - Peticao inicial 1
+ADPF 342,4756470,ok,ADPF_342_inicial.pdf,677444,Petição inicial - Petição inicial 1
+ADPF 347,4783560,ok,ADPF_347_inicial.pdf,659050,Petição inicial - Petição inicial 1
+ADPF 379,4900898,ok,ADPF_379_inicial.pdf,1880304,Petição inicial - Petição inicial 1
+ADPF 402,4975492,ok,ADPF_402_inicial.pdf,521941,Petição inicial (21618/2016) - Petição inicial
+ADPF 403,4975500,ok,ADPF_403_inicial.pdf,320526,Petição inicial (21657/2016) - Petição inicial
+ADPF 420,5027538,ok,ADPF_420_inicial.pdf,4546056,Petição inicial (42496/2016) - Petição inicial
+ADPF 422,5050624,ok,ADPF_422_inicial.pdf,2382027,Petição inicial (50980/2016) - Petição inicial
+ADPF 429,5088869,ok,ADPF_429_inicial.pdf,2142503,Petição inicial (63062/2016) - Petição inicial
+ADPF 433,5093098,ok,ADPF_433_inicial.pdf,3286011,Petição inicial (64797/2016) - Petição inicial
+ADPF 442,5144865,ok,ADPF_442_inicial.pdf,895062,Petição inicial (9362/2017) - Petição inicial
+ADPF 445,5155855,ok,ADPF_445_inicial.pdf,231183,PETIÇÃO INICIAL - Integradorws - Petição Inicial
+ADPF 454,5182993,ok,ADPF_454_inicial.pdf,552263,Petição inicial (21822/2017) - Petição inicial
+ADPF 473,5230598,ok,ADPF_473_inicial.pdf,191272,PETIÇÃO INICIAL - Integradorws - Petição Inicial
+ADPF 490,5293414,ok,ADPF_490_inicial.pdf,1043134,Petição inicial (61443/2017) - Petição inicial
+ADPF 509,5343222,ok,ADPF_509_inicial.pdf,3616761,Petição inicial (2188/2018) - Petição inicial
+ADPF 519,5469789,ok,ADPF_519_inicial.pdf,1325365,Petição inicial (32117/2018) - Petição inicial
+ADPF 557,5601181,ok,ADPF_557_inicial.pdf,957504,Petição inicial (79271/2018) - Petição inicial
+ADPF 564,5620146,ok,ADPF_564_inicial.pdf,327925,Petição inicial (1585/2019) - Petição inicial
+ADPF 599,5727410,ok,ADPF_599_inicial.pdf,1455650,Petição inicial (38900/2019) - Petição inicial
+ADPF 605,5739926,ok,ADPF_605_inicial.pdf,306633,Petição inicial (43292/2019) - Petição inicial
+ADPF 606,5740260,ok,ADPF_606_inicial.pdf,413267,Petição inicial (43308/2019) - Petição inicial
+ADPF 618,5769402,ok,ADPF_618_inicial.pdf,280779,PETIÇÃO INICIAL - Integradorws - Petição Inicial
+ADPF 635,5816502,ok,ADPF_635_inicial.pdf,994292,Petição inicial (72747/2019) - Petição inicial
+ADPF 635,5816502,ok,ADPF_635_inicial_2.pdf,194190,Petição inicial (158824/2025) - Petição inicial - (ID: fd205028)
+ADPF 635,5816502,ok,ADPF_635_inicial_3.pdf,2049568,Petição inicial (158829/2025) - Petição inicial - (ID: 891808ae)
+ADPF 637,5831971,ok,ADPF_637_inicial.pdf,281586,Petição inicial (78670/2019) - Petição inicial
+ADPF 642,5839268,ok,ADPF_642_inicial.pdf,600257,Petição inicial (81122/2019) - Petição inicial
+ADPF 667,5883215,ok,ADPF_667_inicial.pdf,541986,Petição inicial (17623/2020) - Petição inicial
+ADPF 742,6001379,ok,ADPF_742_inicial.pdf,1027794,Petição inicial (73417/2020) - Petição inicial
+ADPF 743,6007933,ok,ADPF_743_inicial.pdf,780969,Petição inicial (76163/2020) - Petição inicial
+ADPF 746,6013147,ok,ADPF_746_inicial.pdf,700860,Petição inicial (78548/2020) - Petição inicial
+ADPF 759,6045159,ok,ADPF_759_inicial.pdf,612354,Petição inicial (93847/2020) - Petição inicial
+ADPF 760,6049993,ok,ADPF_760_inicial.pdf,2299209,Petição inicial (96535/2020) - Petição inicial
+ADPF 762,6050232,ok,ADPF_762_inicial.pdf,567444,Petição inicial (96657/2020) - Petição inicial
+ADPF 769,6068150,ok,ADPF_769_inicial.pdf,1401149,Petição inicial (104935/2020) - Petição inicial
+ADPF 774,6072680,ok,ADPF_774_inicial.pdf,9710809,Petição inicial (106708/2020) - Petição inicial
+ADPF 779,6081690,ok,ADPF_779_inicial.pdf,2557550,Petição inicial (110653/2020) - Petição inicial
+ADPF 800,6125254,ok,ADPF_800_inicial.pdf,196436,Petição inicial (25367/2021) - Petição inicial
+ADPF 817,6143259,ok,ADPF_817_inicial.pdf,516121,Petição inicial (33972/2021) - Petição inicial
+ADPF 826,6153743,ok,ADPF_826_inicial.pdf,677040,Petição inicial (38735/2021) - Petição inicial
+ADPF 828,6155697,ok,ADPF_828_inicial.pdf,682697,Petição inicial (39979/2021) - Petição inicial
+ADPF 837,6168460,ok,ADPF_837_inicial.pdf,616966,Petição inicial (46061/2021) - Petição inicial
+ADPF 854,6199750,ok,ADPF_854_inicial.pdf,449440,Petição inicial (169277/2025) - Petição inicial - (ID: 996fb14c)
+ADPF 857,6205663,ok,ADPF_857_inicial.pdf,1508652,Petição inicial (64035/2021) - Petição inicial
+ADPF 857,6205663,ok,ADPF_857_inicial_2.pdf,410760,Petição inicial (75754/2021) - Petição inicial
+ADPF 863,6213264,ok,ADPF_863_inicial.pdf,434889,Petição inicial (67812/2021) - Petição inicial
+ADPF 867,6221514,ok,ADPF_867_inicial.pdf,381709,Petição inicial (71704/2021) - Petição inicial
+ADPF 870,6227820,ok,ADPF_870_inicial.pdf,804774,Petição inicial (74877/2021) - Petição inicial
+ADPF 877,6240492,ok,ADPF_877_inicial.pdf,618984,Petição inicial (80998/2021) - Petição inicial
+ADPF 881,6256479,ok,ADPF_881_inicial.pdf,717017,Petição inicial (88557/2021) - Petição inicial
+ADPF 889,6278493,ok,ADPF_889_inicial.pdf,248949,Petição inicial (99027/2021) - Petição inicial
+ADPF 899,6291383,ok,ADPF_899_inicial.pdf,606845,Petição inicial (105661/2021) - Petição inicial
+ADPF 919,6313817,ok,ADPF_919_inicial.pdf,874518,Petição inicial (115350/2021) - Petição inicial
+ADPF 925,6324021,ok,ADPF_925_inicial.pdf,339460,Petição inicial (119904/2021) - Petição inicial
+ADPF 935,6331624,ok,ADPF_935_inicial.pdf,2544360,Petição inicial (1351/2022) - Petição inicial
+ADPF 937,6333697,ok,ADPF_937_inicial.pdf,591410,Petição inicial (2381/2022) - Petição inicial
+ADPF 944,6345989,ok,ADPF_944_inicial.pdf,635334,Petição inicial (8264/2022) - Petição inicial
+ADPF 972,6404507,ok,ADPF_972_inicial.pdf,490525,Petição inicial (34825/2022) - Petição inicial
+ADPF 973,6404537,ok,ADPF_973_inicial.pdf,674140,Petição inicial (34915/2022) - Petição inicial
+ADPF 976,6410647,ok,ADPF_976_inicial.pdf,813895,Petição inicial (37777/2022) - Petição inicial
+ADPF 989,6437138,ok,ADPF_989_inicial.pdf,456303,Petição inicial (49977/2022) - Petição inicial
+ADPF 991,6437270,ok,ADPF_991_inicial.pdf,5471772,Petição inicial (50037/2022) - Petição inicial
+ADPF 1005,6468508,ok,ADPF_1005_inicial.pdf,919998,Petição inicial (64665/2022) - Petição inicial
+ADPF 1006,6468597,ok,ADPF_1006_inicial.pdf,640412,Petição inicial (64713/2022) - Petição inicial
+ADPF 1017,6507442,ok,ADPF_1017_inicial.pdf,689136,Petição inicial (82930/2022) - Petição inicial
+ADPF 1025,6516222,ok,ADPF_1025_inicial.pdf,520095,Petição inicial (87074/2022) - Petição inicial
+ADPF 1026,6517297,ok,ADPF_1026_inicial.pdf,593477,Petição inicial (87752/2022) - Petição inicial
+ADPF 1027,6520170,ok,ADPF_1027_inicial.pdf,311828,Petição inicial (89257/2022) - Petição inicial
+ADPF 1032,6528703,ok,ADPF_1032_inicial.pdf,588117,Petição inicial (93266/2022) - Petição inicial
+ADPF 1033,6531475,ok,ADPF_1033_inicial.pdf,629003,Petição inicial (94598/2022) - Petição inicial
+ADPF 1038,6542379,ok,ADPF_1038_inicial.pdf,1331104,Petição inicial (100048/2022) - Petição inicial
+ADPF 1040,6544032,ok,ADPF_1040_inicial.pdf,651231,Petição inicial (100898/2022) - Petição inicial
+ADPF 1046,6571827,ok,ADPF_1046_inicial.pdf,321466,Petição inicial (12346/2023) - Petição inicial - (ID: 67abebcc)
+ADPF 1047,6580645,ok,ADPF_1047_inicial.pdf,723170,Petição inicial (17231/2023) - Petição inicial - (ID: 367f1f07)
+ADPF 1050,6601249,ok,ADPF_1050_inicial.pdf,1435710,Petição inicial (27764/2023) - Petição inicial - (ID: ccc1ccb0)
+ADPF 1051,6605876,ok,ADPF_1051_inicial.pdf,1108891,Petição inicial (30260/2023) - Petição inicial - (ID: 2c1c615d)
+ADPF 1053,6609169,ok,ADPF_1053_inicial.pdf,1433994,Petição inicial (31978/2023) - Petição inicial - (ID: 560fb7af)
+ADPF 1054,6612751,ok,ADPF_1054_inicial.pdf,648959,Petição inicial (33934/2023) - Petição inicial - (ID: add793b1)
+ADPF 1055,6612752,ok,ADPF_1055_inicial.pdf,405317,Petição inicial (33963/2023) - Petição inicial - (ID: 567f7f41)
+ADPF 1057,6617828,ok,ADPF_1057_inicial.pdf,543580,Petição inicial (36589/2023) - Petição inicial - (ID: db26e400)
+ADPF 1059,6620485,ok,ADPF_1059_inicial.pdf,1733397,Petição inicial (37490/2023) - Petição inicial - (ID: 27d0f8c7)
+ADPF 1060,6626998,ok,ADPF_1060_inicial.pdf,2681459,Petição inicial (41024/2023) - Petição inicial - (ID: 15208ea8)
+ADPF 1068,6650659,ok,ADPF_1068_inicial.pdf,8697521,Petição inicial (52691/2023) - Petição inicial - (ID: bd6beeb0)
+ADPF 1075,6669710,ok,ADPF_1075_inicial.pdf,584475,Petição inicial (61975/2023) - Petição inicial - (ID: 97c8b244)
+ADPF 1076,6671452,ok,ADPF_1076_inicial.pdf,297628,Petição inicial (62996/2023) - Petição inicial - (ID: ed71ce2e)
+ADPF 1077,6681365,ok,ADPF_1077_inicial.pdf,902122,Petição inicial (68345/2023) - Petição inicial - (ID: be34595e)
+ADPF 1081,6691456,ok,ADPF_1081_inicial.pdf,1866006,Petição inicial (74531/2023) - Petição inicial - (ID: 0de720cc)
+ADPF 1083,6699877,ok,ADPF_1083_inicial.pdf,746266,Petição inicial (78881/2023) - Petição inicial - (ID: 18f5b3d1)
+ADPF 1087,6748759,ok,ADPF_1087_inicial.pdf,227423,Petição inicial (106219/2023) - Petição inicial - (ID: d4d1fef7)
+ADPF 1090,6757158,ok,ADPF_1090_inicial.pdf,1205027,Petição inicial (110307/2023) - Petição inicial - (ID: 4ac5b3cf)
+ADPF 1097,6792100,ok,ADPF_1097_inicial.pdf,641564,Petição inicial (128097/2023) - Petição inicial - (ID: 1aa423e8)
+ADPF 1100,6801227,ok,ADPF_1100_inicial.pdf,252546,Petição inicial (131232/2023) - Petição inicial - (ID: 202b4474)
+ADPF 1101,6805914,ok,ADPF_1101_inicial.pdf,209408,Petição inicial (133566/2023) - Petição inicial - (ID: 2347af9f)
+ADPF 1102,6808594,ok,ADPF_1102_inicial.pdf,546402,Petição inicial (134988/2023) - Petição inicial - (ID: df1baa75)
+ADPF 1103,6810455,ok,ADPF_1103_inicial.pdf,244460,Petição inicial (135744/2023) - Petição inicial - (ID: d7913ed9)
+ADPF 1104,6811266,ok,ADPF_1104_inicial.pdf,732034,Petição inicial (135934/2023) - Petição inicial - (ID: 5dcabcc5)
+ADPF 1105,6816372,ok,ADPF_1105_inicial.pdf,1451274,Petição inicial (138800/2023) - Petição inicial - (ID: c0af7535)
+ADPF 1106,6816881,ok,ADPF_1106_inicial.pdf,681401,Petição inicial (138944/2023) - Petição inicial - (ID: d8837209)
+ADPF 1108,6818614,ok,ADPF_1108_inicial.pdf,330736,Petição inicial (140038/2023) - Petição inicial - (ID: 6c214979)
+ADPF 1110,6820091,ok,ADPF_1110_inicial.pdf,324969,Petição inicial (141025/2023) - Petição inicial - (ID: 250b30c7)
+ADPF 1115,6826562,ok,ADPF_1115_inicial.pdf,864285,Petição inicial (1096/2024) - Petição inicial - (ID: 48642f27)
+ADPF 1116,6826563,ok,ADPF_1116_inicial.pdf,582015,Petição inicial (1116/2024) - Petição inicial - (ID: 0a4441f3)
+ADPF 1117,6827767,ok,ADPF_1117_inicial.pdf,581995,Petição inicial (1816/2024) - Petição inicial - (ID: 55b41466)
+ADPF 1118,6828814,ok,ADPF_1118_inicial.pdf,745400,Petição inicial (2275/2024) - Petição inicial - (ID: 2c0fed5b)
+ADPF 1119,6828922,ok,ADPF_1119_inicial.pdf,369418,Petição inicial (2310/2024) - Petição inicial - (ID: 6d4edf28)
+ADPF 1122,6836164,ok,ADPF_1122_inicial.pdf,571837,Petição inicial (6436/2024) - Petição inicial - (ID: 373a9ef4)
+ADPF 1123,6846103,ok,ADPF_1123_inicial.pdf,739651,Petição inicial (12022/2024) - Petição inicial - (ID: 735dd00e)
+ADPF 1128,6858073,ok,ADPF_1128_inicial.pdf,292615,Petição inicial (18487/2024) - Petição inicial - (ID: bed28c53)
+ADPF 1141,6895912,ok,ADPF_1141_inicial.pdf,579503,Petição inicial (39950/2024) - Petição inicial - (ID: f2903a19)
+ADPF 1143,6900814,ok,ADPF_1143_inicial.pdf,508376,Petição inicial - Petição inicial - (ID: e14cb0b3)
+ADPF 1144,6904409,ok,ADPF_1144_inicial.pdf,971159,Petição inicial (43996/2024) - Petição inicial - (ID: 6abe3d8a)
+ADPF 1149,6926056,ok,ADPF_1149_inicial.pdf,743746,Petição inicial (55704/2024) - Petição inicial - (ID: 8050feb9)
+ADPF 1157,6926358,ok,ADPF_1157_inicial.pdf,842302,Petição inicial (55812/2024) - Petição inicial - (ID: 8f86c2d3)
+ADPF 1168,6939985,ok,ADPF_1168_inicial.pdf,838472,Petição inicial (63516/2024) - Petição inicial - (ID: f70929a9)
+ADPF 1174,6944832,ok,ADPF_1174_inicial.pdf,1281120,Petição inicial (66515/2024) - Petição inicial - (ID: b095d2b8)
+ADPF 1178,6952622,ok,ADPF_1178_inicial.pdf,830714,Petição inicial (70994/2024) - Petição inicial - (ID: edd0a8e5)
+ADPF 1179,6968287,ok,ADPF_1179_inicial.pdf,452670,Petição inicial (80011/2024) - Petição inicial - (ID: a17bdf11)
+ADPF 1181,6982374,ok,ADPF_1181_inicial.pdf,568745,Petição inicial (87658/2024) - Petição inicial - (ID: a0e2fd9e)
+ADPF 1183,6990125,ok,ADPF_1183_inicial.pdf,329964,Petição inicial (92286/2024) - Petição inicial - (ID: 56f7b606)
+ADPF 1185,6999685,ok,ADPF_1185_inicial.pdf,585351,Petição inicial (97314/2024) - Petição inicial - (ID: a855fb45)
+ADPF 1186,7009998,ok,ADPF_1186_inicial.pdf,637537,Petição inicial (102917/2024) - Petição inicial - (ID: 3c76656e)
+ADPF 1189,7021862,ok,ADPF_1189_inicial.pdf,855322,Petição inicial (109447/2024) - Petição inicial - (ID: f8bf4555)
+ADPF 1192,7056433,ok,ADPF_1192_inicial.pdf,582538,Petição inicial (127983/2024) - Petição inicial - (ID: 60d624b2)
+ADPF 1194,7093636,ok,ADPF_1194_inicial.pdf,1325109,Petição inicial (147140/2024) - Petição inicial - (ID: d1e8a4cb)
+ADPF 1196,7100751,ok,ADPF_1196_inicial.pdf,411927,Petição inicial (151129/2024) - Petição inicial - (ID: 3aafe48e)
+ADPF 1201,7129813,ok,ADPF_1201_inicial.pdf,2364361,Petição inicial (167510/2024) - Petição inicial - (ID: 769eff76)
+ADPF 1206,7152065,ok,ADPF_1206_inicial.pdf,295808,Petição inicial (9449/2025) - Petição inicial - (ID: 4512f431)
+ADPF 1207,7153287,ok,ADPF_1207_inicial.pdf,655609,Petição inicial (10069/2025) - Petição inicial - (ID: 9f1a7b4e)
+ADPF 1209,7174991,ok,ADPF_1209_inicial.pdf,330572,Petição inicial (21584/2025) - Petição inicial - (ID: 29e89d35)
+ADPF 1210,7182363,ok,ADPF_1210_inicial.pdf,578322,Petição inicial (25776/2025) - Petição inicial - (ID: dd7fb002)
+ADPF 1212,7191271,ok,ADPF_1212_inicial.pdf,758362,Petição inicial (30644/2025) - Petição inicial - (ID: 37155189)
+ADPF 1216,7218539,ok,ADPF_1216_inicial.pdf,607094,Petição inicial (45928/2025) - Petição inicial - (ID: 2bd92a8b)
+ADPF 1218,7225468,ok,ADPF_1218_inicial.pdf,298980,Petição inicial (49453/2025) - Petição inicial - (ID: 57a80b87)
+ADPF 1219,7235859,ok,ADPF_1219_inicial.pdf,444313,Petição inicial (52106/2025) - Petição inicial - (ID: 809bc063)
+ADPF 1221,7238233,ok,ADPF_1221_inicial.pdf,722508,Petição inicial (53420/2025) - Petição inicial - (ID: 5ccf9495)
+ADPF 1223,7247080,ok,ADPF_1223_inicial.pdf,495624,Petição inicial (58511/2025) - Petição inicial - (ID: bfd2471b)
+ADPF 1224,7250695,ok,ADPF_1224_inicial.pdf,1337842,Petição inicial (60620/2025) - Petição inicial - (ID: 7ab3d797)
+ADPF 1228,7259500,ok,ADPF_1228_inicial.pdf,1466267,Petição inicial (65506/2025) - Petição inicial - (ID: d34ec7ab)
+ADPF 1230,7270288,ok,ADPF_1230_inicial.pdf,536516,Petição inicial (71889/2025) - Petição inicial - (ID: 84b77243)
+ADPF 1231,7272336,ok,ADPF_1231_inicial.pdf,575093,Petição inicial (72761/2025) - Petição inicial - (ID: 06d27ad2)
+ADPF 1232,7275153,ok,ADPF_1232_inicial.pdf,4367450,Petição inicial (74340/2025) - Petição inicial - (ID: 0c5944df)
+ADPF 1233,7279853,ok,ADPF_1233_inicial.pdf,201815,Petição inicial (76552/2025) - Petição inicial - (ID: 8c8cce04)
+ADPF 1234,7284314,ok,ADPF_1234_inicial.pdf,2918083,Petição inicial (78963/2025) - Petição inicial - (ID: 476b2386)
+ADPF 1235,7284712,ok,ADPF_1235_inicial.pdf,976393,Petição inicial (79205/2025) - Petição inicial - (ID: 9d05e9a3)
+ADPF 1236,7287062,ok,ADPF_1236_inicial.pdf,4658133,Petição inicial (81115/2025) - Petição inicial - (ID: 3d2bfdab)
+ADPF 1238,7290438,ok,ADPF_1238_inicial.pdf,718119,Petição inicial (82427/2025) - Petição inicial - (ID: e7a8bb5a)
+ADPF 1239,7299933,ok,ADPF_1239_inicial.pdf,855815,Petição inicial (87866/2025) - Petição inicial - (ID: 4501b8ec)
+ADPF 1240,7308214,ok,ADPF_1240_inicial.pdf,531996,Petição inicial (92551/2025) - Petição inicial - (ID: 352a5121)
+ADPF 1241,7309806,ok,ADPF_1241_inicial.pdf,611526,Petição inicial (93138/2025) - Petição inicial - (ID: b99eaef4)
+ADPF 1242,7310721,ok,ADPF_1242_inicial.pdf,1251137,Petição inicial (93786/2025) - Petição inicial - (ID: 92091810)
+ADPF 1244,7315257,ok,ADPF_1244_inicial.pdf,4132091,Petição inicial (96746/2025) - Petição inicial - (ID: b924efdc)
+ADPF 1245,7324376,ok,ADPF_1245_inicial.pdf,1013917,Petição inicial (101919/2025) - Petição inicial - (ID: 1ed14c9f)
+ADPF 1247,7325491,ok,ADPF_1247_inicial.pdf,1081525,Petição inicial (102565/2025) - Petição inicial - (ID: b174667b)
+ADPF 1250,7334765,ok,ADPF_1250_inicial.pdf,4101432,Petição inicial (107419/2025) - Petição inicial - (ID: bc2b2e0a)
+ADPF 1252,7337484,ok,ADPF_1252_inicial.pdf,1487656,Petição inicial (108998/2025) - Petição inicial - (ID: 5d2fff04)
+ADPF 1253,7341037,ok,ADPF_1253_inicial.pdf,733392,Petição inicial (110954/2025) - Petição inicial - (ID: d4e39565)
+ADPF 1258,7368542,ok,ADPF_1258_inicial.pdf,421987,Petição inicial (125732/2025) - Petição inicial - (ID: 78de8d08)
+ADPF 1259,7374620,ok,ADPF_1259_inicial.pdf,454579,Petição inicial (128901/2025) - Petição inicial - (ID: 96c454cf)
+ADPF 1260,7374621,ok,ADPF_1260_inicial.pdf,605303,Petição inicial (129458/2025) - Petição inicial - (ID: 12cf2980)
+ADPF 1262,7385243,ok,ADPF_1262_inicial.pdf,302446,Petição inicial (135108/2025) - Petição inicial - (ID: e27d7440)
+ADPF 1263,7385975,ok,ADPF_1263_inicial.pdf,499446,Petição inicial (135779/2025) - Petição inicial - (ID: 909b743a)
+ADPF 1264,7386291,ok,ADPF_1264_inicial.pdf,1415499,Petição inicial (135960/2025) - Petição inicial - (ID: 4f910e17)
+ADPF 1266,7386902,ok,ADPF_1266_inicial.pdf,1073647,Petição inicial (136131/2025) - Petição inicial - (ID: 57f0bc6b)
+ADPF 1267,7391545,ok,ADPF_1267_inicial.pdf,446347,Petição inicial (138558/2025) - Petição inicial - (ID: 2d6983a0)
+ADPF 1268,7396381,ok,ADPF_1268_inicial.pdf,305403,Petição inicial (141033/2025) - Petição inicial - (ID: b0f744a0)
+ADPF 1269,7398368,ok,ADPF_1269_inicial.pdf,2393525,Petição inicial (142597/2025) - Petição inicial - (ID: 3f37cf63)
+ADPF 1271,7400512,ok,ADPF_1271_inicial.pdf,1011406,Petição inicial (144056/2025) - Petição inicial - (ID: 25ce4668)
+ADPF 1272,7401624,ok,ADPF_1272_inicial.pdf,2493342,Petição inicial (144352/2025) - Petição inicial - (ID: a56e25bc)
+ADPF 1276,7407314,ok,ADPF_1276_inicial.pdf,1200339,Petição inicial (147730/2025) - Petição inicial - (ID: 84a5b2b7)
+ADPF 1279,7418389,ok,ADPF_1279_inicial.pdf,957694,Petição inicial (153919/2025) - Petição inicial - (ID: 6a35873f)
+ADPF 1280,7419819,ok,ADPF_1280_inicial.pdf,1143685,Petição inicial (154569/2025) - Petição inicial - (ID: 6334671a)
+ADPF 1281,7426083,ok,ADPF_1281_inicial.pdf,1209196,Petição inicial (157847/2025) - Petição inicial - (ID: 8c9de87e)
+ADPF 1282,7427483,ok,ADPF_1282_inicial.pdf,1301585,Petição inicial (158415/2025) - Petição inicial - (ID: 2d00cac5)
+ADPF 1284,7428982,ok,ADPF_1284_inicial.pdf,513817,Petição inicial (159294/2025) - Petição inicial - (ID: ac9127d3)
+ADPF 1285,7429157,ok,ADPF_1285_inicial.pdf,796899,Petição inicial (159214/2025) - Petição inicial - (ID: 494c1103)
+ADPF 1287,7431110,ok,ADPF_1287_inicial.pdf,524711,Petição inicial (160695/2025) - Petição inicial - (ID: 07cbd141)
+ADPF 1288,7435237,ok,ADPF_1288_inicial.pdf,1198008,Petição inicial (162857/2025) - Petição inicial - (ID: eda98896)
+ADPF 1290,7441089,ok,ADPF_1290_inicial.pdf,3126113,Petição inicial (166329/2025) - Petição inicial - (ID: 5bced861)
+ADPF 1290,7441089,ok,ADPF_1290_inicial_2.pdf,83640,Petição inicial (166330/2025) - Petição inicial - (ID: aa144cb3)
+ADPF 1291,7445088,ok,ADPF_1291_inicial.pdf,778042,Petição inicial (168160/2025) - Petição inicial - (ID: 7619ab78)
+ADPF 1292,7449390,ok,ADPF_1292_inicial.pdf,480042,Petição inicial (170870/2025) - Petição inicial - (ID: 96617a40)
+ADPF 1293,7449728,ok,ADPF_1293_inicial.pdf,643631,Petição inicial (170999/2025) - Petição inicial - (ID: 6c258fee)
+ADPF 1294,7450407,ok,ADPF_1294_inicial.pdf,458838,Petição inicial (171277/2025) - Petição inicial - (ID: d9641954)
+ADPF 1295,7462702,ok,ADPF_1295_inicial.pdf,331961,Petição inicial (177752/2025) - Petição inicial - (ID: 1b671a42)
+ADPF 1296,7465113,ok,ADPF_1296_inicial.pdf,729691,Petição inicial (179101/2025) - Petição inicial - (ID: 23e8d2f4)
+ADPF 1298,7470502,ok,ADPF_1298_inicial.pdf,551531,Petição inicial (181484/2025) - Petição inicial - (ID: 56694914)
+ADPF 1300,7475068,ok,ADPF_1300_inicial.pdf,717935,Petição inicial (184852/2025) - Petição inicial - (ID: 32b97a74)
+ADPF 1303,7487625,ok,ADPF_1303_inicial.pdf,1301948,Petição inicial (6769/2026) - Petição inicial - (ID: 5ad77ca1)
+ADPF 1305,7495047,ok,ADPF_1305_inicial.pdf,1840384,Petição inicial (11047/2026) - Petição inicial - (ID: 733fbd8e)
+ADPF 1308,7507247,ok,ADPF_1308_inicial.pdf,931683,Petição inicial (17745/2026) - Petição inicial - (ID: a9987dd8)
+ADPF 1309,7515936,ok,ADPF_1309_inicial.pdf,763396,Petição inicial (22077/2026) - Petição inicial - (ID: 743021e1)
+ADPF 1310,7517494,ok,ADPF_1310_inicial.pdf,1641489,Petição inicial (22894/2026) - Petição inicial - (ID: 9dedc682)
+ADPF 1311,7517610,ok,ADPF_1311_inicial.pdf,285010,Petição inicial (23163/2026) - Petição inicial - (ID: 64c64159)
+ADPF 1312,7531464,ok,ADPF_1312_inicial.pdf,505333,Petição inicial (30681/2026) - Petição inicial - (ID: 68f340d1)
+ADPF 1313,7541934,ok,ADPF_1313_inicial.pdf,1008456,Petição inicial (36913/2026) - Petição inicial - (ID: 640b615b)
+ADPF 1314,7546568,ok,ADPF_1314_inicial.pdf,816505,Petição inicial (39142/2026) - Petição inicial - (ID: f167e92a)
+ADPF 1315,7546569,ok,ADPF_1315_inicial.pdf,651843,Petição inicial (39163/2026) - Petição inicial - (ID: a7fb6290)
+ADPF 1316,7550472,ok,ADPF_1316_inicial.pdf,773186,Petição inicial (41136/2026) - Petição inicial - (ID: ac9e6848)
+ADPF 1317,7556628,ok,ADPF_1317_inicial.pdf,709907,Petição inicial (43735/2026) - Petição inicial - (ID: cf507e07)
+ADPF 1318,7567251,ok,ADPF_1318_inicial.pdf,974545,Petição inicial (50190/2026) - Petição inicial - (ID: 947158ed)
+ADPF 1319,7569263,ok,ADPF_1319_inicial.pdf,1438788,Petição inicial (51143/2026) - Petição inicial - (ID: f14c66dc)
+ADPF 1320,7573590,ok,ADPF_1320_inicial.pdf,613529,Petição inicial (53467/2026) - Petição inicial - (ID: 2565e777)
+ADPF 1321,7578178,ok,ADPF_1321_inicial.pdf,1436585,Petição inicial (56150/2026) - Petição inicial - (ID: 3863a1b0)
+ADPF 1322,7578879,ok,ADPF_1322_inicial.pdf,793303,Petição inicial (56338/2026) - Petição inicial - (ID: 9ff70c13)
+ADPF 1324,7580851,ok,ADPF_1324_inicial.pdf,742237,Petição inicial (57372/2026) - Petição inicial - (ID: 7bf259ce)
+ADPF 1325,7592050,ok,ADPF_1325_inicial.pdf,654657,Petição inicial (62689/2026) - Petição inicial - (ID: d0f303f7)
+ADPF 1326,7592180,ok,ADPF_1326_inicial.pdf,590472,Petição inicial (63180/2026) - Petição inicial - (ID: 9a980729)
+ADPF 1328,7596823,ok,ADPF_1328_inicial.pdf,654404,Petição inicial (65691/2026) - Petição inicial - (ID: cd4f2cd7)
+ADPF 1330,7601093,ok,ADPF_1330_inicial.pdf,419245,Petição inicial (67921/2026) - Petição inicial - (ID: 9c5cce1a)
+ADPF 1331,7601966,ok,ADPF_1331_inicial.pdf,1765707,Petição inicial (68109/2026) - Petição inicial - (ID: 375a233d)
+ADPF 1332,7603056,ok,ADPF_1332_inicial.pdf,1502456,Petição inicial (68918/2026) - Petição inicial - (ID: bb5bcc52)
+ADPF 1333,7609358,ok,ADPF_1333_inicial.pdf,444790,Petição inicial (71967/2026) - Petição inicial - (ID: dccd050b)
+ADPF 1336,7617676,ok,ADPF_1336_inicial.pdf,859227,Petição inicial (76035/2026) - Petição inicial - (ID: 2e18a861)
+ADPF 1337,7618322,ok,ADPF_1337_inicial.pdf,1042657,Petição inicial (76339/2026) - Petição inicial - (ID: 459df707)
+ADPF 1338,7624408,ok,ADPF_1338_inicial.pdf,538842,Petição inicial (79102/2026) - Petição inicial - (ID: 3865ee77)
+ADPF 1339,7627703,ok,ADPF_1339_inicial.pdf,491333,Petição inicial (80956/2026) - Petição inicial - (ID: d5df759f)
+ADPF 1340,7628693,ok,ADPF_1340_inicial.pdf,1325897,Petição inicial (81684/2026) - Petição inicial - (ID: af12df01)
+ADPF 1341,7637523,ok,ADPF_1341_inicial.pdf,530256,Petição inicial (85941/2026) - Petição inicial - (ID: 5de5a6e4)
+ADPF 1342,7639532,ok,ADPF_1342_inicial.pdf,852338,Petição inicial (86887/2026) - Petição inicial - (ID: bf5c2769)
+ADPF 1343,7641704,ok,ADPF_1343_inicial.pdf,975521,Petição inicial (88017/2026) - Petição inicial - (ID: 0a9c2a2f)
+ADPF 1345,7645110,ok,ADPF_1345_inicial.pdf,1322777,Petição inicial (89681/2026) - Petição inicial - (ID: 071ed807)
+ADPF 1346,7652271,ok,ADPF_1346_inicial.pdf,1606114,Petição inicial (93702/2026) - Petição inicial - (ID: 03a2ac2f)
+ADPF 1347,7654942,ok,ADPF_1347_inicial.pdf,312454,Petição inicial (95019/2026) - Petição inicial - (ID: b67408fd)
+ADPF 1348,7656672,ok,ADPF_1348_inicial.pdf,7351002,Petição inicial (96012/2026) - Petição inicial - (ID: b7b41383)
+ADPF 1349,7661009,ok,ADPF_1349_inicial.pdf,704458,Petição inicial (98563/2026) - Petição inicial - (ID: 96caa431)
+ADPF 1350,7665210,ok,ADPF_1350_inicial.pdf,776047,Petição inicial (100235/2026) - Petição inicial - (ID: 05fcc93c)
+ADPF 1351,7668885,ok,ADPF_1351_inicial.pdf,570688,Petição inicial (102614/2026) - Petição inicial - (ID: e04c2b69)
+ADPF 1352,7679777,ok,ADPF_1352_inicial.pdf,492261,Petição inicial (107973/2026) - Petição inicial - (ID: ec5a3fc4)
+ADPF 1353,7688995,ok,ADPF_1353_inicial.pdf,320144,Petição inicial (112478/2026) - Petição inicial - (ID: 02efcda3)
+ADI 6179,5724100,ok,ADI_6179_inicial.pdf,495361,Petição inicial (37835/2019) - Petição inicial
+ADI 6251,5812811,ok,ADI_6251_inicial.pdf,6500513,Petição inicial (71165/2019) - Petição inicial
+ADI 6179,5724100,ok,ADI_6179_inicial.pdf,495361,Petição inicial (37835/2019) - Petição inicial
+ADI 6251,5812811,ok,ADI_6251_inicial.pdf,6500513,Petição inicial (71165/2019) - Petição inicial
+ADI 6254,5814691,ok,ADI_6254_inicial.pdf,1485562,Petição inicial (71574/2019) - Petição inicial
+ADI 6256,5814703,ok,ADI_6256_inicial.pdf,1590692,Petição inicial (71614/2019) - Petição inicial
+ADI 6257,5814706,ok,ADI_6257_inicial.pdf,354795,Petição inicial (71726/2019) - Petição inicial
+ADI 6277,5826543,ok,ADI_6277_inicial.pdf,594360,Petição inicial (76183/2019) - Petição inicial
+ADI 6302,5841828,ok,ADI_6302_inicial.pdf,530618,Petição inicial (536/2020) - Petição inicial
+ADI 6309,5848987,ok,ADI_6309_inicial.pdf,1002178,Petição inicial (3330/2020) - Petição inicial
+ADI 6343,5881008,ok,ADI_6343_inicial.pdf,247418,Petição inicial (16586/2020) - Petição inicial
+ADI 6367,5887680,ok,ADI_6367_inicial.pdf,976417,Petição inicial (19649/2020) - Petição inicial
+ADI 6439,5919239,ok,ADI_6439_inicial.pdf,356409,Petição inicial (35520/2020) - Petição inicial
+ADI 6467,5942656,ok,ADI_6467_inicial.pdf,349063,Petição inicial (45772/2020) - Petição inicial
+ADI 6469,5942829,ok,ADI_6469_inicial.pdf,329283,Petição inicial (45774/2020) - Petição inicial
+ADI 6494,5967309,ok,ADI_6494_inicial.pdf,833832,Petição inicial (57775/2020) - Petição inicial
+ADI 6546,5994501,ok,ADI_6546_inicial.pdf,348745,Petição inicial (70179/2020) - Petição inicial
+ADI 6553,5997245,ok,ADI_6553_inicial.pdf,459190,Petição inicial (70556/2020) - Petição inicial
+ADI 6565,6009885,ok,ADI_6565_inicial.pdf,280689,Petição inicial (77351/2020) - Petição inicial
+ADI 6604,6057698,ok,ADI_6604_inicial.pdf,249815,Petição inicial (100328/2020) - Petição inicial
+ADI 6678,6113005,ok,ADI_6678_inicial.pdf,335000,Petição inicial (19700/2021) - Petição inicial
+ADI 6731,6124480,ok,ADI_6731_inicial.pdf,408149,Petição inicial (24953/2021) - Petição inicial
+ADI 6787,6147163,ok,ADI_6787_inicial.pdf,699647,Petição inicial (35604/2021) - Petição inicial
+ADI 6889,6199891,ok,ADI_6889_inicial.pdf,434504,Petição inicial (61219/2021) - Petição inicial
+ADI 6919,6207281,ok,ADI_6919_inicial.pdf,573210,Petição inicial (64710/2021) - Petição inicial
+ADI 7046,6317885,ok,ADI_7046_inicial.pdf,1049625,Petição inicial (117335/2021) - Petição inicial
+ADI 7059,6326850,ok,ADI_7059_inicial.pdf,603184,Petição inicial (121438/2021) - Petição inicial
+ADI 7074,6342164,ok,ADI_7074_inicial.pdf,1628407,Petição inicial (6590/2022) - Petição inicial
+ADI 7077,6346293,ok,ADI_7077_inicial.pdf,246531,Petição inicial (8206/2022) - Petição inicial
+ADI 7100,6366747,ok,ADI_7100_inicial.pdf,642914,Petição inicial (18040/2022) - Petição inicial
+ADI 7115,6372686,ok,ADI_7115_inicial.pdf,224129,Petição inicial (20642/2022) - Petição inicial
+ADI 7143,6383495,ok,ADI_7143_inicial.pdf,947356,Petição inicial (25453/2022) - Petição inicial
+ADI 7156,6396615,ok,ADI_7156_inicial.pdf,457680,Petição inicial (31507/2022) - Petição inicial
+ADI 7162,6399394,ok,ADI_7162_inicial.pdf,490954,Petição inicial (32599/2022) - Petição inicial
+ADI 7222,6455667,ok,ADI_7222_inicial.pdf,1564544,Petição inicial (58708/2022) - Petição inicial
+ADI 7236,6475588,ok,ADI_7236_inicial.pdf,766513,Petição inicial (67843/2022) - Petição inicial
+ADI 7237,6476950,ok,ADI_7237_inicial.pdf,1953927,Petição inicial (68192/2022) - Petição inicial
+ADI 7240,6478769,ok,ADI_7240_inicial.pdf,2080455,Petição inicial (69421/2022) - Petição inicial
+ADI 7246,6497803,ok,ADI_7246_inicial.pdf,1425239,Petição inicial (78353/2022) - Petição inicial
+ADI 7277,6524797,ok,ADI_7277_inicial.pdf,283856,Petição inicial (91414/2022) - Petição inicial
+ADI 7322,6534435,ok,ADI_7322_inicial.pdf,662218,Petição inicial (96145/2022) - Petição inicial
+ADI 7328,6542827,ok,ADI_7328_inicial.pdf,1151928,Petição inicial (100285/2022) - Petição inicial
+ADI 7381,6622972,ok,ADI_7381_inicial.pdf,664239,Petição inicial (38727/2023) - Petição inicial - (ID: e2159c38)
+ADI 7419,6695152,ok,ADI_7419_inicial.pdf,326026,Petição inicial (76291/2023) - Petição inicial - (ID: 110f59fc)
+ADI 7426,6708313,ok,ADI_7426_inicial.pdf,1110908,Petição inicial (84622/2023) - Petição inicial - (ID: 0f9d0fb3)
+ADI 7429,6716168,ok,ADI_7429_inicial.pdf,926533,Petição inicial (88971/2023) - Petição inicial - (ID: 6e53685d)
+ADI 7455,6745763,ok,ADI_7455_inicial.pdf,359616,Petição inicial (104594/2023) - Petição inicial - (ID: c1788a09)
+ADI 7457,6748047,ok,ADI_7457_inicial.pdf,245869,Petição inicial (103943/2023) - Petição inicial - (ID: e5632d1e)
+ADI 7465,6752815,ok,ADI_7465_inicial.pdf,213073,Petição inicial (108273/2023) - Petição inicial - (ID: 210025a3)
+ADI 7493,6770773,ok,ADI_7493_inicial.pdf,1937377,Petição inicial (117124/2023) - Petição inicial - (ID: d1f0b3a5)
+ADI 7495,6775231,ok,ADI_7495_inicial.pdf,329873,Petição inicial (119074/2023) - Petição inicial - (ID: ed4fc0d4)
+ADI 7499,6777060,ok,ADI_7499_inicial.pdf,227645,Petição inicial (120032/2023) - Petição inicial - (ID: c044328c)
+ADI 7501,6777062,ok,ADI_7501_inicial.pdf,269741,Petição inicial (120035/2023) - Petição inicial - (ID: 41516b07)
+ADI 7511,6790721,ok,ADI_7511_inicial.pdf,553044,Petição inicial (127248/2023) - Petição inicial - (ID: cb3453c2)
+ADI 7527,6801389,ok,ADI_7527_inicial.pdf,280774,Petição inicial (131243/2023) - Petição inicial - (ID: 9757fff2)
+ADI 7539,6801406,ok,ADI_7539_inicial.pdf,343030,Petição inicial (131255/2023) - Petição inicial - (ID: 4d35ddab)
+ADI 7548,6808110,sem_inicial,,0,nenhuma peca chamada 'Peticao inicial'
+ADI 7563,6817727,ok,ADI_7563_inicial.pdf,4777538,Petição inicial (139544/2023) - Petição inicial - (ID: 1bf758f6)
+ADI 7577,6822536,ok,ADI_7577_inicial.pdf,739305,Petição inicial (142318/2023) - Petição inicial - (ID: 522c5992)
+ADI 7580,6823597,ok,ADI_7580_inicial.pdf,445871,Petição inicial (142955/2023) - Petição inicial - (ID: b7e31b30)
+ADI 7586,6825310,ok,ADI_7586_inicial.pdf,1096854,Petição inicial (425/2024) - Petição inicial - (ID: 6398b6cd)
+ADI 7588,6827999,ok,ADI_7588_inicial.pdf,539689,Petição inicial (1872/2024) - Petição inicial - (ID: 507071fe)
+ADI 7601,6846515,ok,ADI_7601_inicial.pdf,472473,Petição inicial (12282/2024) - Petição inicial - (ID: b7e4de20)
+ADI 7625,6895083,ok,ADI_7625_inicial.pdf,502904,Petição inicial (39501/2024) - Petição inicial - (ID: 95bb21a3)
+ADI 7675,6961423,ok,ADI_7675_inicial.pdf,645754,Petição inicial (76304/2024) - Petição inicial - (ID: af19d064)
+ADI 7693,6994080,ok,ADI_7693_inicial.pdf,4207349,Petição inicial (94527/2024) - Petição inicial - (ID: 101cf352)
+ADI 7700,7002198,ok,ADI_7700_inicial.pdf,458177,Petição inicial (98733/2024) - Petição inicial - (ID: 2329758b)
+ADI 7708,7019032,ok,ADI_7708_inicial.pdf,552722,Petição inicial (107892/2024) - Petição inicial - (ID: b0c29092)
+ADI 7708,7019032,ok,ADI_7708_inicial_2.pdf,278277,Petição inicial (19881/2025) - Petição inicial - (ID: 4d5a07db)
+ADI 7724,7052516,ok,ADI_7724_inicial.pdf,614980,Petição inicial (125425/2024) - Petição inicial - (ID: fbdf6fb5)
+ADI 7747,7094684,ok,ADI_7747_inicial.pdf,1086810,Petição inicial (147761/2024) - Petição inicial - (ID: 1bb94017)
+ADI 7763,7114659,erro_excecao,,0,UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 94: character maps to <undefined>
+ADI 7548,6808110,sem_inicial,,0,nenhuma peca chamada 'Peticao inicial'
+ADI 7763,7114659,ok,ADI_7763_inicial.pdf,677366,Petição inicial (159202/2024) - Petição inicial - (ID: bde762d5)
+ADI 7766,7117231,ok,ADI_7766_inicial.pdf,570516,Petição inicial (160354/2024) - Petição inicial - (ID: 34d8ab64)
+ADI 7768,7119985,ok,ADI_7768_inicial.pdf,879128,Petição inicial (161661/2024) - Petição inicial - (ID: f23bfc8a)
+ADI 7784,7176593,ok,ADI_7784_inicial.pdf,1697407,Petição inicial (22551/2025) - Petição inicial - (ID: a9e44b18)
+ADI 7797,7214791,ok,ADI_7797_inicial.pdf,465618,Petição inicial (44145/2025) - Petição inicial - (ID: 9af512b6)
+ADI 7805,7227645,ok,ADI_7805_inicial.pdf,582919,Petição inicial (51009/2025) - Petição inicial - (ID: a4737d0e)
+ADI 7807,7235125,ok,ADI_7807_inicial.pdf,1473876,Petição inicial (51968/2025) - Petição inicial - (ID: 35c60c7c)
+ADI 7819,7260699,ok,ADI_7819_inicial.pdf,612716,Petição inicial (66333/2025) - Petição inicial - (ID: 7684a9a4)
+ADI 7822,7271290,ok,ADI_7822_inicial.pdf,628795,Petição inicial (72384/2025) - Petição inicial - (ID: 5e4d1ed5)
+ADI 7823,7274286,ok,ADI_7823_inicial.pdf,394109,Petição inicial (73667/2025) - Petição inicial - (ID: 1be2b957)
+ADI 7832,7292546,ok,ADI_7832_inicial.pdf,4386878,Petição inicial (83611/2025) - Petição inicial - (ID: f06414e9)
+ADI 7845,7306661,ok,ADI_7845_inicial.pdf,1418705,Petição inicial (91694/2025) - Petição inicial - (ID: f5017500)
+ADI 7850,7321998,ok,ADI_7850_inicial.pdf,1069924,Petição inicial (100620/2025) - Petição inicial - (ID: 33c901c7)
+ADI 7933,7495031,ok,ADI_7933_inicial.pdf,623765,Petição inicial (11037/2026) - Petição inicial - (ID: 580f719a)
+ADI 7936,7501902,ok,ADI_7936_inicial.pdf,946670,Petição inicial (14452/2026) - Petição inicial - (ID: fdd9a1d6)
+ADI 7939,7511981,ok,ADI_7939_inicial.pdf,544539,Petição inicial (20182/2026) - Petição inicial - (ID: 32d2134f)
+ADI 7950,7550772,ok,ADI_7950_inicial.pdf,3065863,Petição inicial (41303/2026) - Petição inicial - (ID: d94dad8e)
+ADI 7955,7560024,ok,ADI_7955_inicial.pdf,1374720,Petição inicial (45955/2026) - Petição inicial - (ID: 75c08fcf)
+ADI 7965,7584904,ok,ADI_7965_inicial.pdf,529578,Petição inicial (59252/2026) - Petição inicial - (ID: 6fa9db34)
+ADI 7977,7608729,ok,ADI_7977_inicial.pdf,538138,Petição inicial (71609/2026) - Petição inicial - (ID: cf446d14)
+ADI 7978,7619344,ok,ADI_7978_inicial.pdf,820457,Petição inicial (76838/2026) - Petição inicial - (ID: cb457917)
+ADI 7985,7641993,ok,ADI_7985_inicial.pdf,244626,Petição inicial (88227/2026) - Petição inicial - (ID: a17a5755)
+ADI 7988,7643644,ok,ADI_7988_inicial.pdf,274624,Petição inicial (89008/2026) - Petição inicial - (ID: a2d7fcce)
+ADI 7990,7644483,ok,ADI_7990_inicial.pdf,264278,Petição inicial (89443/2026) - Petição inicial - (ID: cfa3a7ae)
+ADI 7991,7646279,ok,ADI_7991_inicial.pdf,197325,Petição inicial (90393/2026) - Petição inicial - (ID: 6177753d)
+ADI 7992,7646283,ok,ADI_7992_inicial.pdf,723244,Petição inicial (90401/2026) - Petição inicial - (ID: dfdf361c)
+ADI 7997,7650735,ok,ADI_7997_inicial.pdf,1360625,Petição inicial (92835/2026) - Petição inicial - (ID: 72e5d840)
+ADI 7998,7653901,ok,ADI_7998_inicial.pdf,1047566,Petição inicial (94581/2026) - Petição inicial - (ID: d9e4ce29)
+ADI 8002,7656895,ok,ADI_8002_inicial.pdf,568521,Petição inicial (96183/2026) - Petição inicial - (ID: 356b2e2f)
+ADI 8007,7666066,ok,ADI_8007_inicial.pdf,871146,Petição inicial (100722/2026) - Petição inicial - (ID: 23e5919f)
+ADI 8008,7666797,ok,ADI_8008_inicial.pdf,453808,Petição inicial (101263/2026) - Petição inicial - (ID: e7b88885)
+ADI 8010,7678980,ok,ADI_8010_inicial.pdf,425012,Petição inicial (107666/2026) - Petição inicial - (ID: 1f8c95bd)

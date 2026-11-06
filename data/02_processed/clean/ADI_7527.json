@@ -1,0 +1,252 @@
+{
+  "id": "ADI_7527",
+  "arquivo_pdf": "ADI_7527.pdf",
+  "sha256": "8efad3d3bce18de00550c675a724b50a315e04d2ed78a68e83ce2cc7fe71d550",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:30:20",
+  "resumo": {
+    "paginas": 28,
+    "paginas_digital": 28,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 48087,
+    "chars_clean": 38718,
+    "reducao_pct": 19.5,
+    "linhas_removidas": 136,
+    "limpeza_detalhe": {
+      "cabecalho_rodape": 108,
+      "hifen_mantido": 2,
+      "hifenizacao_unida": 0,
+      "numero_pagina": 28
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "MINISTÉRIO PÚBLICO FEDERAL PROCURADORIA-GERAL DA REPÚBLICA EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL\nPETIÇÃO INICIAL AJCONST/PGR Nº 1241884/2023 A PROCURADORA-GERAL DA REPÚBLICA, com fundamento nos arts. 102, I, \"a\", 103, VI, e 129, IV, da Constituição Federal; no art. 46,\nparágrafo único, I, da Lei Complementar 75, de 20.5.1993 (Lei Orgânica do Ministério Público da União); e na Lei 9.868, de 10.11.1999, vem propor\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE\nvoltada a conferir interpretação conformadora com os princípios do livre planejamento familiar, da igualdade no exercício de direitos e de deveres referentes à sociedade conjugal, da proteção integral e do melhor interesse da criança, às seguintes disposições normativas do Estado do Maranhão: arts. 138 e 140 da Lei 6.107/1994 (estatuto dos servidores públicos Documento assinado via Token digitalmente por PROCURADORA-GERAL DA REPÚBLICA ELIZETA MARIA DE PAIVA RAMOS, em 24/11/2023 08:52. Para verificar a assinatura acesse http://www.transparencia.mpf.mp.br/validacaodocumento. Chave a60108e7.b8153190.62c66fe2.4083f859"
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "estaduais); e art. 97 da Lei 6.513/1995 (estatuto dos militares estaduais), ambas com alterações promovidas pela Lei 10.464/2016.\nOs dispositivos estabelecem o regramento da licença-maternidade e da licença aos adotantes nos regimes dos servidores públicos e dos militares estaduais.1\nI. OBJETO DA AÇÃO\nEis o teor dos dispositivos contra os quais se dirige a ação:\nLei 6.107/1994 do Maranhão, na redação da Lei 10.464/2016\nSEÇÃO V DA LICENÇA GESTANTE OU ADOTANTE\nArt. 138. A servidora gestante fará jus à licença-maternidade pelo prazo de 180 (cento e oitenta) dias consecutivos, sem prejuízo da remuneração. (Alterado pela Lei nº 10.464, de 7 de junho de 2016).\n§ 1º A licença poderá ter início no primeiro dia do 8º(oitavo) mês de gestação, salvo prescrição médica em contrário.\n§ 2º No caso de nascimento prematuro, a licença terá início a partir do dia imediato ao do parto, provado mediante certidão do registro de nascimento.\n§ 3º No caso de natimorto, decorridos 30 (trinta) dias do evento, a servidora será submetida a exame médico e, se julgada apta, reassumirá o exercício.\n§ 4º No caso de aborto atestado por médico oficial, a servidora terá direito a 30 (trinta) dias de repouso remunerado.\n1 Acompanha a petição inicial cópia das normas impugnadas, nos termos do art. 3º da Lei 9.868/1999."
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "§ 5º Durante a licença, cometerá falta grave a servidora que exercer qualquer atividade remunerada ou mantiver a criança em creche ou organização similar. (Acrescentado pela Lei nº 8.886, de 7 de novembro de 2008).\nArt. 140. À servidora que adotar ou obtiver guarda judicial para fins de adoção serão concedidos cento 180 (cento e oitenta) dias de licença remunerada, a partir da adoção ou concessão da guarda, independentemente da idade da criança. (Alterado pela Lei nº 10.464, de 7 de junho de 2016).\n§ 1º (revogado)\n§ 2º (revogado) Lei 6.513/1995 do Maranhão, na redação da Lei 10.464/2016\nArt. 97. A licença-maternidade será concedida pelo prazo de 180 (cento e oitenta) dias, sem prejuízo da remuneração.\nParágrafo único. À militar estadual que adotar ou obtiver guarda judicial para fins de adoção serão concedidos cento 180 (cento e oitenta) dias de licença remunerada, a partir da adoção ou concessão da guarda, independentemente da idade da criança. (Alterado pela Lei nº 10.464, de 7 de julho de 2016).\nVisa a ação afastar as disparidades na conformação do sistema de proteção parental no âmbito estadual, assentando estarem as respectivas licenças submetidas a um regime jurídico uniforme em toda a Federação, independentemente do vínculo laboral dos beneficiários - estatutário civil ou militar, em caráter permanente ou por tempo determinado -, tendo a mulher a livre decisão quanto ao compartilhamento do período de afastamento com o(a) cônjuge ou companheiro(a) que seja empregado(a), servidor(a) público(a) ou membro de Poder, de órgão autônomo ou das Forças Armadas, por ser"
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "esse o sentido que melhor se compatibiliza com uma leitura atualizada e sistêmica do texto constitucional.\nA interpretação constitucional das normas impugnadas leva em conta os comandos do art. 5º, caput (princípio da igualdade), do art. 6º, c/c arts. 201, II, 203, I, e 226, caput (direito à proteção da maternidade, da infância e da adolescência, e dever estatal de proteger a família); do art. 226, § 5º (princípio da igualdade no exercício de direitos e de deveres referentes à sociedade conjugal) e § 7º (liberdade de planejamento familiar); e do art. 227, caput (princípios da proteção integral e do melhor interesse da criança e direito da criança à convivência familiar a salvo de toda forma de discriminação) e § 6º (proibição de discriminação no tratamento jurídico entre filhos), todos da Constituição Federal.\nII. BREVE CONTEXTUALIZAÇÃO\nNão são poucas as demandas judiciais instauradas em decorrência da disparidade de regimes de licença parental, tendo se orientado o Supremo Tribunal Federal, em julgamentos mais recentes, pela uniformização dos parâmetros de concessão da licença à gestante e à adotante de diferentes categorias de beneficiárias. Questões desse tipo foram já objeto de análise por ocasião de diversos julgamentos nos últimos anos."
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "No RE 778.889/PE, paradigma de repercussão geral (Tema 782), o Tribunal assegurou o direito à licença-maternidade de 120 dias - e também aos 60 dias de prorrogação legal -, a servidora pública federal que obteve guarda, por adoção, de criança de mais de 1 ano de idade.\nNa assentada, afirmou a Corte a impossibilidade de se estabelecer discriminação no tempo de licença-maternidade concedida à mãe biológica e à mãe adotante, por força dos princípios da dignidade da pessoa humana, da igualdade entre filhos biológicos e adotados, da doutrina da proteção integral e dos princípios da prioridade e do melhor interesse da criança. Veja-se:\nDIREITO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO.\nREPERCUSSÃO GERAL. EQUIPARAÇÃO DO PRAZO DA LICENÇA-ADOTANTE AO PRAZO DE LICENÇA-GESTANTE.\n1. A licença maternidade prevista no artigo 7º, XVIII, da Constituição abrange tanto a licença gestante quanto a licença adotante, ambas asseguradas pelo prazo mínimo de 120 dias.\nInterpretação sistemática da Constituição à luz da dignidade da pessoa humana, da igualdade entre filhos biológicos e adotados, da doutrina da proteção integral, do princípio da prioridade e do interesse superior do menor.\n2. As crianças adotadas constituem grupo vulnerável e fragilizado.\nDemandam esforço adicional da família para sua adaptação, para a criação de laços de afeto e para a superação de traumas.\nImpossibilidade de se lhes conferir proteção inferior àquela dispensada aos filhos biológicos, que se encontram em condição menos gravosa. Violação do princípio da proporcionalidade como vedação à proteção deficiente."
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "3. Quanto mais velha a criança e quanto maior o tempo de internação compulsória em instituições, maior tende a ser a dificuldade de adaptação à família adotiva. Maior é, ainda, a dificuldade de viabilizar sua adoção, já que predomina no imaginário das famílias adotantes o desejo de reproduzir a paternidade biológica e adotar bebês. Impossibilidade de conferir proteção inferior às crianças mais velhas. Violação do princípio da proporcionalidade como vedação à proteção deficiente.\n4. Tutela da dignidade e da autonomia da mulher para eleger seus projetos de vida. Dever reforçado do Estado de assegurar-lhe condições para compatibilizar maternidade e profissão, em especial quando a realização da maternidade ocorre pela via da adoção, possibilitando o resgate da convivência familiar em favor de menor carente. Dívida moral do Estado para com menores vítimas da inepta política estatal de institucionalização precoce. Ônus assumido pelas famílias adotantes, que devem ser encorajadas.\n5. Mutação constitucional. Alteração da realidade social e nova compreensão do alcance dos direitos do menor adotado. Avanço do significado atribuído à licença parental e à igualdade entre filhos, previstas na Constituição. Superação de antigo entendimento do\nSTF.\n6. Declaração da inconstitucionalidade do art. 210 da Lei nº\n8.112/1990 e dos parágrafos 1º e 2º do artigo 3º da Resolução CJF nº 30/2008.\n7. Provimento do recurso extraordinário, de forma a deferir à recorrente prazo remanescente de licença parental, a fim de que o tempo total de fruição do benefício, computado o período já gozado, corresponda a 180 dias de afastamento remunerado, correspondentes aos 120 dias de licença previstos no art. 7º, XVIII,CF, acrescidos de 60 dias de prorrogação, tal como estabelecido pela legislação em favor da mãe gestante.\n8. Tese da repercussão geral: \"Os prazos da licença adotante não podem ser inferiores aos prazos da licença gestante, o mesmo valendo para as respectivas prorrogações. Em relação à licença adotante, não"
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "é possível fixar prazos diversos em função da idade da criança adotada\".\n(RE 778.889/PE, Rel. Min. Roberto Barroso, DJe de 29.7.2016) A decisão proferida naquele precedente reconheceu ter havido um típico caso de mutação constitucional, devido à mudança de compreensão da realidade social que alterara o sentido e o alcance até então atribuídos ao art.\n7º, XVIII, da CF, dispositivo que, embora se refira de modo direto à gestação, também haveria de abranger no campo protetivo a maternidade por adoção.\nSuperou-se, então, uma compreensão em sentido diversa afirmada no passado, segundo a qual a licença do art. 7º, XVIII, do texto constitucional pressuporia a condição de gestante por parte da empregada beneficiária e, por essa razão, não poderia ser estendida à adotante no âmbito das relações de trabalho, sem prévia intermediação legislativa (RE 197.807/RS, Primeira Turma, Rel. Min. Octavio Gallotti, DJ de 18.8.2000).\nA exegese desenvolvida no RE 778.889/PE foi reafirmada na ADI\n6.603/DF, proposta pela Procuradoria-Geral da República em face do art. 3º da Lei 13.109/2015,2 na qual esse Supremo Tribunal Federal invalidou um 2 \"Art. 3º À militar que adotar ou obtiver a guarda judicial de criança de até 1 (um) ano de idade serão concedidos 90 (noventa) dias de licença remunerada.\n§ 1º No caso de adoção ou guarda judicial de criança com mais de 1 (um) ano de idade, o prazo de que trata o caput deste artigo será de 30 (trinta) dias."
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "discrímen legal entre a mãe biológica e a mãe adotiva no âmbito das Forças Armadas, relativamente ao período de licença maternidade:\nAção direta de inconstitucionalidade. Art. 3º da lei 13.109/2015.\nLicença maternidade às adotantes no âmbito das Forças Armadas.\nProteção à mulher, à maternidade, à criança e à família. Distinção entre maternidade biológica e socioafetiva. Impossibilidade.\nProcedência do pedido.\n1. Nos termos da jurisprudência firmada por esta Suprema Corte, a Constituição da República não permite discrímen entre a mãe biológica e a mãe adotiva, de modo que se revela inconstitucional ato normativo que institui períodos distintos de licença maternidade para as hipóteses e, da mesma forma, mostram-se colidentes com a Carta Política prazos de licença diferentes em razão da idade da criança adotada.\n2. O art. 3º, caput, § 1º e 2º, da Lei 13.109/2015, estabeleceu prazos distintos, em relação à maternidade biológica, para licença maternidade decorrente da adoção e, ainda, períodos diferentes em razão da idade da criança adotada, a evidenciar a manifesta inconstitucionalidade dos dispositivos impugnados.\n3. Ação direta de inconstitucionalidade conhecida. Pedido julgado procedente.\n(ADI 6.603/DF, Rel. Min. Rosa Weber, DJe de 28.9.2022).\nMais recentemente, foi confirmada pelo STF a concepção de que o espectro protetivo do art. 7º, XVIII, da CF não se limita à recuperação física da\n§ 2º Poderá ser concedida prorrogação de 45 (quarenta e cinco) dias à militar de que trata o caput e de 15 (quinze) dias à militar de que trata o § 1º deste artigo, nos termos de programa instituído pelo Poder Executivo federal que garanta a prorrogação.\""
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "mulher gestante, mas se volta precipuamente a garantir proteção integral e pleno desenvolvimento a recém-nascidos e crianças.\nDesse modo, avançou a Suprema Corte para reconhecer ao servidor público, genitor monoparental de criança gerada por fertilização in vitro e gestação por substituição, o direito à licença maternidade prevista no art. 7º, XVIII, da Constituição, assentando não haver \"razão lógica para que a licença e o salário-maternidade não seja estendido ao homem quando do nascimento de filhos biológicos que serão criados unicamente pelo pai\", em observância aos princípios do melhor interesse da criança, da razoabilidade e da isonomia (RE\n1.348.854/SP, Rel. Min. Alexandre de Moraes, DJe de 21.10.2022).\nEntrementes, na ADI 6.327/DF, a qual foi conhecida como ADPF, conferiu-se interpretação conforme à Constituição ao art. 392, § 1º, da CLT e ao art. 71 da Lei 8.213/1991, que fixam o início do afastamento por licença-maternidade e do recebimento do salário-maternidade entre o 28º dia antes do parto e a ocorrência deste, para considerar como termo inicial de ambos a concessão de alta hospitalar ao recém nascido e/ou à mãe - o que ocorrer por último - no caso de haver internação além das duas semanas previstas pelo\nart. 392, § 2º, da CLT e pelo art. 93, § 3º, do Decreto 3.048/1999, prorrogando o período dos benefícios (Rel. Min. Edson Fachin, DJe 222, de 4.11.2022)."
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Já no recente julgamento de RE 842.844/SC, sob a sistemática da repercussão geral (Tema 542), assentou o Supremo Tribunal a tese de que \"a trabalhadora gestante tem direito ao gozo de licença-maternidade e à estabilidade provisória, independentemente do regime jurídico aplicável, se contratual ou administrativo, ainda que ocupe cargo em comissão ou seja contratada por tempo determinado\" (Rel. Min. Luiz Fux, j. 5.10.2023, acórdão ainda não publicado).\nNo caso, em relação aos aludidos acórdãos proferidos em sede de recurso extraordinário, conquanto sejam os provimentos de observância cogente pelos órgãos do Poder Judiciário por constituírem paradigma de repercussão geral, não vinculam a atuação dos órgãos da administração pública, mormente quando permanecerem em vigor leis disciplinadoras da matéria em sentido diverso, como é o caso dos dispositivos normativos questionados nesta ação direta.\nÉ que há posição no sentido de que decisões em recurso extraordinário com repercussão geral reconhecida apresentam efeito vinculante restrito aos órgãos do Poder Judiciário, nos termos do art. 927 do Código de Processo Civil, não tendo a mesma eficácia dos julgados emanados pela Suprema Corte em ações de controle concentrado de constitucionalidade, que vinculam tanto o Judiciário quanto a administração"
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "pública (art. 102, § 2º, da Constituição Federal e art. 28, parágrafo único, da Lei 9.868/1999).\nNesse sentido, afirmou a Ministra Cármen Lúcia, na apreciação da Reclamação 45.851/CE (DJe de 16.3.2021), que, \"apesar de a decisão proferida por este Supremo Tribunal no julgamento de repercussão geral ter eficácia contra todos, o legislador não dotou essa decisão de efeito vinculante, como se tem quanto às decisões proferidas em julgamento de ações de controle abstrato de constitucionalidade (…), que vinculam a todos, inclusive os órgãos da Administração Pública\".\nTanto é assim que a jurisprudência do STF, inclusive por força do disposto no art. 988, § 5º, II, do CPC,3 firmou-se no sentido de não caber reclamação para questionar atos administrativos sob alegação de ofensa a entendimento firmado na sistemática da repercussão geral:\nRECLAMAÇÃO - ACÓRDÃO - REPERCUSSÃO GERAL - OBSERVÂNCIA - INSTÂNCIAS ORDINÁRIAS -\nESGOTAMENTO. O manuseio da reclamação com a finalidade de ver respeitado entendimento surgido sob a sistemática da repercussão geral pressupõe a existência de processo judicial e o esgotamento das instâncias ordinárias, 3 \"Art. 988. (…)\n§ 5º É inadmissível a reclamação: (Redação dada pela Lei nº 13.256, de 2016) (…) II - proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.\n(Incluído pela Lei nº 13.256, de 2016).\""
+    },
+    {
+      "page": 12,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "ausente previsão a respaldar a utilização contra ato administrativo.\n(Rcl 39.180 AgR, Rel. Min. Marco Aurélio, DJe de 27.8.2020) - Grifo nosso.\nRECLAMAÇÃO. CONSTITUCIONAL. ADMINISTRATIVO.\nCONCURSO PÚBLICO. ATO ADMINISTRATIVO. OMISSÃO.\nALEGADA OFENSA ÀS TESES VINCULANTES FIXADAS NOS\n\nJULGAMENTOS\n\nDO\n\nRECURSOS EXTRAORDINÁRIOS 837.311 E 598.099 - TEMAS 784 E 161 DA SISTEMÁTICA DA REPERCUSSÃO GERAL. NÃO AJUIZAMENTO\n\nDE\n\nAÇÃO\n\nNAS\n\nINSTÂNCIAS ORDINÁRIAS. AUSÊNCIA DE EXAURIMENTO DAS VIAS\nRECURSAIS. ART. 988, § 5º, II, DO CPC. CARÁTER\nEMINENTEMENTE EXCEPCIONAL DA RECLAMAÇÃO.\nRECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.\n(Rcl 39.570, Rel. Min. Luiz Fux, DJe de 17.6.2020) - Grifos nossos.\nAs decisões proferidas nos recursos extraordinários referenciados não ocasionaram, por conseguinte, a suspensão da eficácia nem a declaração de inconstitucionalidade abstrata dos dispositivos normativos impugnados, resultado que só haveria de ser alcançado pelos instrumentos de controle de constitucionalidade disponíveis no ordenamento jurídico.\nPor outro lado, quanto às mencionadas decisões proferidas em ações de controle abstrato, verifica-se que elas alcançam categorias específicas de beneficiários, como as adotantes das Forças Armadas (ADI 6.603/DF) e as genitoras sob o regime da CLT (ADI 6.327/DF), permanecendo ainda uma"
+    },
+    {
+      "page": 13,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "ausência de uniformidade geral da licença parental no ordenamento jurídico, sobretudo na ordem vigente em cada unidade da Federação.\nEntende-se, portanto, ser cabível esta ação direta, que se dirige não somente a afastar a aplicação de disposições normativas que, na atualidade, acabam por configurar um tratamento discriminatório quanto à concessão de licença parental, como também fixar no plano jurídico-objetivo a tese de que o sistema de proteção parental, em especial a licença-maternidade, a partir de uma leitura sistêmica dos arts. 5º, caput, 6º, 201, II, 203, I, 226, caput e §§ 5º e 7º, e 227, caput e § 6º, da Constituição Federal, há de se submeter a um regime jurídico uniforme em toda a Federação, independentemente do vínculo laboral da categoria beneficiada - contratual trabalhista ou administrativo estatutário, civil ou militar, em caráter permanente ou temporário -, cabendo, ademais, à mulher a livre decisão a respeito do compartilhamento do período de licença com o(a) cônjuge ou companheiro(a) empregado(a), servidor(a) público(a) ou membro de Poder, órgão autônomo ou Forças Armadas.\nIII. PROTEÇÃO CONSTITUCIONAL DA FAMÍLIA\nAo dispor sobre a ordem social brasileira, a Constituição de 1988 consagrou um importante sistema de proteção da esfera familiar, no bojo do"
+    },
+    {
+      "page": 14,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "qual inseriu deveres e garantias voltadas à tutela do pleno desenvolvimento da personalidade de seus membros.\nO resguardo da maternidade foi erigido a bem jurídico de estatura constitucional, sendo consagrado como direito fundamental social (art. 6º da Constituição Federal), objeto de tutela específica nos campos da proteção previdenciária (art. 201, II) e da assistência social (art. 203, I), e fundamento de inúmeros outros direitos sociais instrumentais, como a proteção do mercado de trabalho da mulher (art. 7º, XX) e o direito à segurança no emprego (art. 10, II, \"b\", do ADCT).\nAinda no âmbito desse sistema protetivo, o art. 7º, XVIII e XIX, da Constituição de 1988 incluiu, no rol dos direitos sociais titularizados pelos trabalhadores urbanos e rurais, o gozo de \"licença à gestante, sem prejuízo do emprego e do salário, com a duração de cento e vinte dias\" e de \"licença-paternidade, nos termos fixados em lei\". Enquanto não editada a lei disciplinadora da última, estatuiu o art. 10, § 1º, do ADCT o prazo de 5 dias para a licença-paternidade.\nNão fez a Constituição Federal menção expressa à mãe adotiva nos preceitos citados, enfocando de modo direto à gestante o benefício da licença.\nSem embargo, essa omissão não configurou obstáculo ao reconhecimento de um direito fundamental também à adotante, na medida em que o art. 226,"
+    },
+    {
+      "page": 15,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "caput, da Lei Maior coloca a família, como base da sociedade, sob especial proteção do Estado.\nA tutela constitucional da família é, então, complementada pelo artigo subsequente, que preza pela prioridade absoluta ao resguardo da criança, do adolescente e do jovem, mediante garantia de seus direitos, entre eles o da convivência familiar e o da não discriminação (art. 227, caput). Ainda nessa linha, o § 6º do art. 227 da CF veda o tratamento discriminatório entre filhos, o que se desdobra no dever de observar a igualdade do regime jurídico entre os biológicos e os havidos por adoção.\nNo que toca à licença-maternidade e à licença-paternidade, para além do campo subjetivo previsto no caput do art. 7º da CF - trabalhadores urbanos e rurais -, o texto constitucional estendeu os direitos, ainda, de maneira expressa, às categorias dos trabalhadores domésticos (art. 7º,\nparágrafo único), dos servidores ocupantes de cargo público (art. 39, § 3º) e, enquanto vigorou o § 11 do art. 42 (revogado pela EC 18, de 5.2.1998), à dos militares federais e estaduais.\nQuanto ao último grupo, a despeito da supressão promovida pela EC 18/1998, em âmbito infraconstitucional, os direitos à licença-maternidade,"
+    },
+    {
+      "page": 16,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "licença à adotante e licença-paternidade foram estendidos aos militares das Forças Armadas pela Lei 13.109/2015.4 Para além, o sistema constitucional de proteção da unidade familiar traz determinações de igualdade entre homens e mulheres no exercício de direitos e deveres referentes à sociedade conjugal, bem como de liberdade para decidir, sem interferência estatal, acerca do planejamento familiar (CF,\nart. 226, §§ 5º e 7º). Uma leitura constitucionalmente adequada do instituto da licença parental há de ser feita a partir de tais disposições, assim como com os objetivos de promover maior assistência à criança e fortalecer os laços afetivos para o melhor desenvolvimento infantil.\nPor conseguinte, é necessário compreender de forma uniforme e integrada o instituto da licença parental, como meios de viabilização da partilha de responsabilidades da maternidade, biológica ou por adoção, entre os responsáveis pelo planejamento familiar, o que passa pela necessidade de uniformização de prazos e de admissão do compartilhamento voluntário do período de afastamento entre os cônjuges ou companheiros(as).\n4 No caso dos estados e do Distrito Federal, a disciplina da matéria foi remetida às leis de organização das respectivas polícias militares, nos termos dos arts. 24, 24-D e 24-E do Decreto-Lei 667, de 2.7.1969, com redação da Lei 13.954, de 16.12.2019."
+    },
+    {
+      "page": 17,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Tal possibilidade de partilha do período de licença parental com base na liberdade de decisão sobre o planejamento familiar não só estimula uma maior participação da mulher na sociedade, em igualdade de condições com o homem, como contribui para a melhor repartição de responsabilidades no seio familiar, evitando que a mulher sofra discriminações em decorrência da maternidade.\nNesse sentido, reconhecendo que o cuidado dos filhos \"exige a responsabilidade compartilhada entre homens e mulheres\" e também a necessidade de se \"modificar o papel tradicional tanto do homem como da mulher na sociedade e na família\", a Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher, adotada em 18.12.1979, pela Assembleia Geral das Nações Unidas, e internalizada pelo Decreto 4.377, de 13.9.2022, conclama os Estados a revisarem periodicamente as respectivas legislações, adotando medidas de eliminação de discriminações contra a mulher no emprego por razões de maternidade:\nArtigo 11\n1. Os Estados-Partes adotarão todas as medidas apropriadas para eliminar a discriminação contra a mulher na esfera do emprego a fim de assegurar, em condições de igualdade entre homens e mulheres, os mesmos direitos, em particular:\na) O direito ao trabalho como direito inalienável de todo ser humano;\nb) O direito às mesmas oportunidades de emprego, inclusive a aplicação dos mesmos critérios de seleção em questões de emprego;"
+    },
+    {
+      "page": 18,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "c) O direito de escolher livremente profissão e emprego, o direito à promoção e à estabilidade no emprego e a todos os benefícios e outras condições de serviço, e o direito ao acesso à formação e à atualização profissionais, incluindo aprendizagem, formação profissional superior e treinamento periódico;\nd) O direito a igual remuneração, inclusive benefícios, e igualdade de tratamento relativa a um trabalho de igual valor, assim como igualdade de tratamento com respeito à avaliação da qualidade do trabalho;\ne) O direito à seguridade social, em particular em casos de aposentadoria, desemprego, doença, invalidez, velhice ou outra incapacidade para trabalhar, bem como o direito de férias pagas;\nf) O direito à proteção da saúde e à segurança nas condições de trabalho, inclusive a salvaguarda da função de reprodução.\n2. A fim de impedir a discriminação contra a mulher por razões de casamento ou maternidade e assegurar a efetividade de seu direito a trabalhar, os Estados-Partes tomarão as medidas adequadas para:\na) Proibir, sob sanções, a demissão por motivo de gravidez ou licença de maternidade e a discriminação nas demissões motivadas pelo estado civil;\nb) Implantar a licença de maternidade, com salário pago ou benefícios sociais comparáveis, sem perda do emprego anterior, antigüidade ou benefícios sociais;\nc) Estimular o fornecimento de serviços sociais de apoio necessários para permitir que os pais combinem as obrigações para com a família com as responsabilidades do trabalho e a participação na vida pública, especialmente mediante fomento da criação e desenvolvimento de uma rede de serviços destinados ao cuidado das crianças;\nd) Dar proteção especial às mulheres durante a gravidez nos tipos de trabalho comprovadamente prejudiciais para elas.\n3. A legislação protetora relacionada com as questões compreendidas neste artigo será examinada periodicamente à"
+    },
+    {
+      "page": 19,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "luz dos conhecimentos científicos e tecnológicos e será revista, derrogada ou ampliada conforme as necessidades.\nFoi o que o legislador nacional buscou fazer com a Lei 14.457/2022, que alterou a Lei 11.770/2008 para admitir a hipótese de compartilhamento de parte do tempo de licença parental, ou seja, dos 60 dias de prorrogação conferidos à licença-maternidade no âmbito do Programa Empresa Cidadã.\nAssim estabelece o art. 1º, §§ 3º e 4º, do aludido diploma:\nArt. 1º (…)\n§ 3º A prorrogação de que trata o inciso I do caput deste artigo poderá ser compartilhada entre a empregada e o empregado requerente, desde que ambos sejam empregados de pessoa jurídica aderente ao Programa e que a decisão seja adotada conjuntamente, na forma estabelecida em regulamento. (Incluído pela Lei nº 14.457, de 2022)\n§ 4º Na hipótese prevista no § 3º deste artigo, a prorrogação poderá ser usufruída pelo empregado da pessoa jurídica que aderir ao Programa somente após o término da licença-maternidade, desde que seja requerida com 30 (trinta) dias de antecedência. (Incluído pela Lei nº 14.457, de 2022) A despeito de tal avanço, permanecem vigentes na ordem jurídica dos diversos entes da Federação, ainda hoje, disparidades substanciais entre os regimes normativos aplicáveis à licença parental, a explicitar a necessidade de uniformização geral no que toca à devida compreensão do instituto, que há de passar por uma filtragem constitucional, a partir de uma leitura"
+    },
+    {
+      "page": 20,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "atualizada e sistêmica dos arts. 5º, caput, 6º, 201, II, 203, I, 226, caput e §§ 5º e 7º, e 227, caput e § 6º, da Constituição Federal.\nIV. INCONSTITUCIONALIDADE DA DIFERENCIAÇÃO NOS CRITÉRIOS DE CONCESSÃO DAS LICENÇAS PARENTAIS\nNo plano legislativo federal, a fim de dar cumprimento ao dever constitucional de assegurar proteção à maternidade e à infância, veiculou o\nart. 392 da Consolidação das Leis do Trabalho - CLT (Decreto-Lei 5.452, de 1º.5.1943), alterado pela Lei 10.421, de 15.4.2002, o regramento da licença-maternidade para a empregada, benefício que tem a duração de 120 dias, sem prejuízo do emprego e salário (caput). Estabeleceu o dispositivo, ademais, que o início do afastamento se dará entre o 28° dia antes do parto e a data de ocorrência deste e previu a possibilidade de haver aumento de até 2 semanas em caso de necessidade médica (§§ 1º e 2º) - dispositivo que teve o alcance ampliado pelo STF para abranger todo o período de internação além de 2 semanas (ADI 6.327/DF, Rel. Min. Edson Fachin, DJe 222, de 4.11.2022).\nO art. 392-A da CLT, por sua vez, com alteração da Lei 13.509, de\n22.11.2017, fixou em igual período o tempo de afastamento para a empregada adotante ou que obtiver guarda judicial de criança ou adolescente para fins de adoção, ou seja, 120 dias de licença, benefício que é usufruído por apenas"
+    },
+    {
+      "page": 21,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "um dos adotantes ou guardiães empregado ou empregada, no caso de adoção ou guarda judicial conjunta (art. 392-A, § 5º).\nJá os arts. 392-B e 392-C da CLT, na redação dada pela Lei 12.873, de\n24.10.2013, asseguraram ao cônjuge ou companheiro empregado, em caso de falecimento da genitora, o gozo da licença por todo o período restante a que ela teria direito, dando a mesma prerrogativa aos empregados adotantes.\nEm linhas diversas, regulou a Lei 8.112/1990 o instituto da licença à servidora gestante e adotante no âmbito da administração pública federal nos arts. 207 e 210, estabelecendo prazos de afastamento inferiores para a adoção, relativamente à maternidade biológica - 90 dias para crianças de até 1 ano e 30 dias para crianças maiores de 1 ano (art. 210, caput e parágrafo único).\nComo visto, em sede de recurso extraordinário com repercussão geral, ao julgar o RE 778.889/PE (Rel. Min. Roberto Barroso, DJe de 29.7.2016 - Tema 782), o Supremo Tribunal Federal estendeu a aplicação do regramento da licença à adotante da CLT - licença-maternidade de 120 dias, com 60 dias de prorrogação - a servidora pública federal que adotara criança de mais de 1 ano de idade.\nTambém em sentido convergente com o regime da Lei 8.112/1990 - e em sentido diverso do regime da CLT - foi a disciplina estabelecida pelo"
+    },
+    {
+      "page": 22,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "legislador federal para os membros das Forças Armadas, que contou com prazos menores de licença à adotante, relativamente à licença à gestante, conforme estatui o art. 1º, caput e §§ 1º a 5º, da Lei 13.109/2015. Tal qual a Lei\n8.112/1990, a Lei 13.109/2015 também discriminava quanto ao período de licença à adotante, relativamente à gestante, ao fixar tempos inferiores de afastamento - ou seja, de 90 dias no caso de criança de até 1 ano, e 30 dias para crianças de mais de 1 ano - além da possibilidade de prorrogação da licença em montantes inferiores - respectivamente, 45 e 14 dias. Era o que estatuía o art. 3º, caput e §§ 1º e 2º, da Lei 13.109/2015, o qual foi declarado inconstitucional pelo Supremo Tribunal Federal no julgamento da ADI\n6.603/DF, anteriormente referenciado.\nPor fim, a Lei 11.770/2008, criadora do Programa Empresa Cidadã, posteriormente modificada pelas Leis 13.257/2016 e 14.457/2022, que veio para ampliar o espectro da proteção à maternidade e à criança no país, trouxe a possibilidade de prorrogação da licença-maternidade por 60 dias (art. 1º, I) e da licença paternidade por 15 dias (art. 1º, II) além dos 5 dias concedidos pelo art. 10, § 1º, do ADCT.\nPreviu o aludido diploma a possibilidade de compartilhamento do prazo legal de prorrogação da licença entre a empregada e o empregado vinculados ao regime celetista, por meio de decisão conjunta (art. 1º, § 3º),"
+    },
+    {
+      "page": 23,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "autorizando a instituição de programa de prorrogação nos mesmos moldes por parte da administração pública direta, indireta e fundacional (art. 2º).\nNo plano normativo estadual examinado nesta ação direta, previu a Lei maranhense 6.107/1994, alterada pela Lei 10.464/2016,o prazo de 180 dias de licença à servidora pública gestante (art. 138, caput), e idêntico período à servidora adotante, independentemente da idade da criança (art. 140, caput).\nO mesmo regramento foi reproduzido, in totum, para a carreira dos policiais militares estaduais, como se depreende das disposições constantes do art. 97 da Lei 6.513/1995 do Estado do Maranhão, que também rege os integrantes do Corpo de Bombeiros estadual, por força da previsão contida no art. 167 do diploma.\nNo que concerne aos prazos de licença concedidos à genitora e à mãe adotiva, a disciplina contida nas normas maranhenses é compatível com aquela estabelecida na esfera federal.\nContudo, a controvérsia que suscita esta ação direta refere-se, em parte, à invalidade da diferenciação dos prazos de concessão de licença aos pais solo, servidores ou militares, nas hipóteses de adoção uniparental ou de ausência da genitora por morte, abandono ou qualquer outro motivo; e em parte, à impossibilidade de interferência estatal na livre decisão do casal sobre"
+    },
+    {
+      "page": 24,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "o planejamento familiar relativo à partilha do tempo de afastamento por licença parental.\nA primeira questão foi apreciada pela Corte quando reconheceu ao servidor público, genitor monoparental de criança gerada por fertilização in vitro e gestação por substituição, o direito à licença maternidade prevista no\nart. 7º, XVIII, da Constituição, assentando não haver \"razão lógica para que a licença e o salário-maternidade não seja estendido ao homem quando do nascimento de filhos biológicos que serão criados unicamente pelo pai\", em observância aos princípios do melhor interesse da criança, da razoabilidade e da isonomia (RE\n1.348.854/SP, Rel. Min. Alexandre de Moraes, DJe de 21.10.2022).\nDe outro lado, a leitura individualista da licença-maternidade como um direito de cunho exclusivamente biológico, justificado tão somente na recuperação da mulher após o parto, encontra-se ultrapassada.\nTrata-se, na atualidade, de um direito partilhado de forma indissociável no âmbito da unidade familiar, compreensão esta que melhor se coaduna com a interpretação sistêmica e atualizada das normas e preceitos constitucionais, tendo em conta os comandos do art. 5º, caput (princípio da igualdade), do art. 6º, c/c arts. 201, II, 203, I, e 226, caput (direito à proteção da maternidade, da infância e da adolescência, e dever estatal de proteger a"
+    },
+    {
+      "page": 25,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "família); do art. 226, § 5º (princípio da igualdade no exercício de direitos e de deveres referentes à sociedade conjugal) e § 7º (liberdade de planejamento familiar); e do art. 227, caput (princípios da proteção integral e do melhor interesse da criança e direito à convivência familiar a salvo de toda forma de discriminação) e § 6º (proibição de discriminação no tratamento jurídico entre filhos), da Constituição Federal.\nEntre os bens jurídicos tutelados pela licença-maternidade está a dignidade humana daquele que, pelo parto ou pela adoção, passa a integrar a família na condição de pessoa em desenvolvimento, titular e destinatária da construção da relação afetiva. Qualquer diferenciação que não se coadune com esse pressuposto há de ser reputada injusta e, por corolário, violadora da Constituição Federal.\nHá que se compreender os períodos de licença parental - à gestante, à adotante e à paternidade - como benefícios a serem usufruídos pelo casal com base no livre planejamento familiar, podendo esse usufruto ocorrer de forma partilhada entre ambos, a fim de viabilizar a repartição de encargos e de responsabilidades e concretizar os princípios da proteção integral e do melhor interesse da criança."
+    },
+    {
+      "page": 26,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Com fundamento no sistema constitucional de proteção da família, em especial nos arts. 5º, caput, 6º, 201, II, 203, I, 226, caput e §§ 5º e 7º, e 227, caput e § 6º, da Constituição Federal, os quais consagram o direito à proteção da maternidade, da infância e da adolescência, o direito à convivência familiar da criança a salvo de toda forma de discriminação, a proibição de discriminação no tratamento jurídico entre filhos, os princípios da igualdade no exercício de direitos e de deveres referentes à sociedade conjugal, do livre planejamento familiar, da proteção integral e do melhor interesse da criança, incumbe a essa Suprema Corte declarar a nulidade parcial, sem redução de texto, dos arts. 138 e 140 da Lei 6.107/1994 e do art. 97 da Lei 6.513/1995, ambas com alterações promovidas pela Lei 10.464/2016, para o fim de:\n(i) assegurar às genitoras, às adotantes e aos pais solo (adotantes ou biológicos), como parâmetro mínimo de licença, o prazo de 180 dias de afastamento remunerado a partir do nono mês da gestação, do parto, da adoção ou da obtenção de guarda para fins de adoção, independentemente do vínculo laboral - contratual trabalhista ou administrativo estatutário, civil ou militar, permanente ou temporário; e\n(ii) compreender os períodos de licença parental como interregnos que podem ser usufruídos de forma partilhada pelo casal, como"
+    },
+    {
+      "page": 27,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "direito direcionado à concretização dos princípios da proteção integral e do melhor interesse da criança, cabendo à mulher a liberdade de decisão quanto ao compartilhamento do período de afastamento com o(a) cônjuge ou companheiro(a) que seja empregado(a), servidor(a) público(a) ou membro de Poder, de órgão autônomo ou das Forças Armadas.\nV. PEDIDOS E REQUERIMENTOS\nEm face do exposto, requer a PROCURADORA-GERAL DA REPÚBLICA que se colham as informações do Presidente da Assembleia Legislativa e do Governador do Estado do Maranhão, e que se ouça a Advocacia-Geral da União, nos termos do art. 103, § 3º, da Constituição Federal. Superadas essas fases, pede prazo para a manifestação da Procuradoria-Geral da República.\nAo final, postula que se julgue procedente o pedido para declarar a nulidade parcial, sem redução de texto, dos arts. 138 e 140 da Lei 6.107/1994 e do art. 97 da Lei 6.513/1995, ambas com alterações promovidas pela Lei\n10.464/2016, para o fim de:\n(i) assegurar às genitoras, às adotantes e aos pais solo (adotantes ou biológicos), como parâmetro mínimo de licença, o prazo de 180 dias"
+    },
+    {
+      "page": 28,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "de afastamento remunerado a partir do nono mês da gestação, do parto, da adoção ou da obtenção de guarda para fins de adoção, independentemente do vínculo laboral - contratual trabalhista ou administrativo estatutário, civil ou militar, permanente ou temporário; e\n(ii) compreender os períodos de licença parental como interregnos que podem ser usufruídos de forma partilhada pelo casal, como direito direcionado à concretização dos princípios da proteção integral e do melhor interesse da criança, cabendo à mulher a liberdade de decisão quanto ao compartilhamento do período de afastamento com o(a) cônjuge ou companheiro(a) que seja empregado(a), servidor(a) público(a) ou membro de Poder, de órgão autônomo ou das Forças Armadas.\nBrasília, data da assinatura digital.\nElizeta Maria de Paiva Ramos Procuradora-Geral da República Assinado digitalmente\nAMO/EF"
+    }
+  ]
+}

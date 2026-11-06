@@ -1,0 +1,116 @@
+{
+  "id": "ADI_7115",
+  "arquivo_pdf": "ADI_7115.pdf",
+  "sha256": "13d9a416d945ccc9a94eb593d0651c9a2eb1295a2a66b896a42ba7958de93c4a",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:29:41",
+  "resumo": {
+    "paginas": 11,
+    "paginas_digital": 11,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 16464,
+    "chars_clean": 12938,
+    "reducao_pct": 21.4,
+    "linhas_removidas": 52,
+    "limpeza_detalhe": {
+      "cabecalho_rodape": 41,
+      "hifen_mantido": 1,
+      "hifenizacao_unida": 0,
+      "numero_pagina": 11
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "MINISTÉRIO PÚBLICO FEDERAL PROCURADORIA-GERAL DA REPÚBLICA EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL\nPETIÇÃO INICIAL AJCONST/PGR Nº 90322/2022 O PROCURADOR-GERAL DA REPÚBLICA, com fundamento nos arts. 102, I, a e p, 103, VI, e 129, IV, da Constituição Federal; no art. 46,\nparágrafo único, I, da Lei Complementar 75, de 20.5.1993 (Lei Orgânica do Ministério Público da União); e na Lei 9.868, de 10.11.1999, vem propor\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE COM PEDIDO DE MEDIDA CAUTELAR\ncontra o art. 23, VI, \"a\" e \"c\", da Lei 7.799, de 19.12.2002, do Estado do Maranhão, que dispõe sobre o sistema tributário estadual, com redação dada pela Lei 10.542, de 15.12.2016.1 1 Acompanha a petição inicial cópia da norma impugnada, nos termos do art. 3º,\nparágrafo único, da Lei 9.868/1999.\nDocumento assinado via Token digitalmente por PROCURADOR-GERAL DA REPÚBLICA ANTONIO AUGUSTO BRANDAO DE ARAS, em 25/03/2022 15:11. Para verificar a assinatura acesse http://www.transparencia.mpf.mp.br/validacaodocumento. Chave abbc5ab5.7b43a326.2e73c9ee.eb5ef2b2"
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "1. OBJETO DA AÇÃO\nEis o teor das disposições questionadas nesta ação:\nArt. 23. As alíquotas do ICMS são:\n(…) VI - de 27% (vinte e sete por cento):\na) nas operações internas de fornecimento de energia elétrica para consumidores residenciais com consumo mensal acima de 500 quilowatts/hora;\n(…)\nc) nas prestações internas e nas importações de prestações iniciadas no exterior de serviços de comunicação.\nDemonstrar-se-á que as normas sob testilha, ao fixarem alíquotas de ICMS sobre operações com energia elétrica e serviços de comunicação em percentuais superiores à alíquota geral do tributo, afrontam o art. 155, § 2º, III, da Constituição Federal.\n2. POSSIBILIDADE DE REUNIÃO DE PROCESSOS\nO art. 77-B do Regimento Interno do Supremo Tribunal Federal define a seguinte regra de distribuição por prevenção para processo objetivo de controle de constitucionalidade:\nArt. 77-B. Na ação direta de inconstitucionalidade, na ação direta de inconstitucionalidade por omissão, na ação declaratória de constitucionalidade e na arguição de descumprimento de preceito"
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "fundamental, aplica-se a regra da distribuição por prevenção quando haja coincidência total ou parcial de objetos. (Grifo nosso) O dispositivo regimental visa a evitar decisões conflitantes ou contraditórias e a gerar economia processual. Com idêntica finalidade, determinam os arts. 55, § 3º, e 286, III, do CPC c/c os arts. 126 e 127 do RISTF a distribuição por dependência e/ou a reunião de processos para julgamento conjunto quando houver risco de decisões conflitantes ou contraditórias caso decididos separadamente:\nCódigo de Processo Civil\nArt. 55. Reputam-se conexas 2 (duas) ou mais ações quando lhe for comum o pedido e a causa de pedir.\n(…)\n§ 3º Serão reunidos para julgamento conjunto os processos que possam gerar risco de prolação de decisões conflitantes ou contraditórias caso decididos separadamente, mesmo sem conexão entre eles.\n(…)\nArt. 286. Serão distribuídas por dependência as causas de qualquer natureza:\n(…)\nIII - quando houver ajuizamento de ações nos termos do art. 55,\n§ 3º, ao juízo prevento.\nRegimento Interno do Supremo Tribunal Federal\nArt. 126. Os processos conexos poderão ser objeto de um único julgamento.\nParágrafo único. Se houver mais de um Relator, os relatórios serão feitos sucessivamente, antes do debate e julgamento."
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Art. 127. Podem ser julgados conjuntamente processos que versam a mesma questão jurídica, ainda que presente peculiaridades.\nAo tratar sobre o tema da conexão, Nelson Nery Junior leciona:\nNa verdade a lei disse menos do que queria, porque basta a coincidência de um só dos elementos da ação (partes, causa de pedir ou pedido), para que exista a conexão entre duas ações. (V. Barbosa Moreira. A conexão de causas como pressuposto da reconvenção, SP:\nSaraiva, 1979, passim). A reunião de processos pela conexão tem por finalidade a pacificação social, reunindo-se todos os conflitos existentes entre as mesmas partes, a integridade da ordem jurídica, por se evitar decisões conflitantes, a economia processual e a eficiência do processo (Nelson Nery Júnior. Conexão - Junção de Processos RP 64/158).2 Constitui o objeto desta ação direta de inconstitucionalidade norma estadual que fixa alíquota de ICMS incidente sobre energia elétrica e serviços de comunicação em percentual superior à alíquota geral, com contrariedade ao princípio constitucional da seletividade (art. 155, § 2º, III, da CF).\nRecentemente, foi ajuizada a ADI 7.077/RJ, distribuída ao Ministro Roberto Barroso, para questionar a validade de normas de conteúdo similar ao da ora impugnada, editada pelo Estado do Rio de Janeiro. Foram também protocoladas, nesta data, outras ações diretas para questionar a validade de normas de conteúdo similar, editadas por outras unidades da Federação 2 JÚNIOR, Nelson Nery; NERY, Rosa Maria Andrade. Código de processo civil comentado.\nThomson Reuters, Revista dos Tribunais, 2016."
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Tem o Procurador-Geral da República buscado conferir tratamento uniforme relativamente a questões de inconstitucionalidade já pacificadas na jurisprudência da Corte, a fim de emprestar a maior celeridade e eficiência possível à atuação ministerial, bem como assegurar a preservação da higidez da ordem constitucional e a garantia da autoridade das decisões proferidas pelo Supremo Tribunal em controle concentrado.\nConfere-se, assim, tratamento isonômico a cada temática, a fim de erradicar, de forma ampla e abrangente, leis e atos que padecem do mesmo vício de inconstitucionalidade, nas diversas unidades da Federação.\nDiante da identidade da questão constitucional controvertida e da coincidência de fundamentos jurídicos das ações, sugere o Procurador-Geral da República que, caso a Presidência da Corte entenda recomendável, seja esta ação distribuída ao relator da ADI 7.077/RJ, nos termos do art. 77-B do Regimento Interno do Supremo Tribunal Federal e do art. 55, § 3º c/c o art.\n286, III, do CPC, com a reunião dos processos para julgamento conjunto (RISTF, arts. 126 e 127), como forma de prestigiar a racionalidade da prestação jurisdicional e promover segurança jurídica, conferindo maior organicidade ao tema em discussão, bem como à solução a ser emprestada pelo Supremo Tribunal Federal à controvérsia de relevante interesse jurídico e social."
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "3. INCONSTITUCIONALIDADE MATERIAL\nAs normas ora impugnadas fixaram a alíquota do ICMS incidente sobre energia e serviços de comunicação, em percentual acima da alíquota geral, contrariando o princípio da seletividade previsto no art. 155, § 2º, III, da CF, que determina a incidência de alíquotas mais baixas sobre os produtos/serviços considerados essenciais à subsistência digna dos cidadãos.\nSegundo Tilbery, citado por João de Souza Alho Neto, o conceito de essencialidade constitui sinônimo daquilo que é necessário e indispensável, e varia no tempo e no espaço.3 A energia elétrica, que no início do século passado era considerada artigo de luxo reservado somente às famílias abastadas, é hoje indispensável em qualquer residência como item mínimo de subsistência e conforto. Pode-se dizer o mesmo sobre a internet e os demais serviços de comunicação, os quais têm adquirido crescente status de essencialidade na vida contemporânea.\nA seletividade do art. 155, § 2º, III, da CF há de ser aferida em função da essencialidade do produto em si, e não do montante consumido, que nem sempre corresponde à capacidade contributiva.\n3 ALHO NETO, João de Souza. Seletividade em Função da Essencialidade: ICMS e Energia Elétrica. Revista de Direito Tributário Atual. v. 39, 2018. Disponível em:\nhttps://ibdt.org.br/RDTA/seletividade-em-funcao-da-essencialidade-icms-e-energia-eletrica/. Acesso em 18.2.2022."
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "A título exemplificativo, no Estado do Rio de Janeiro, famílias numerosas e de baixa renda, se tiverem um consumo de energia elétrica elevado, perdem o direito à Tarifa Social (previsto no art. 14, VI, alínea a.1, da Lei fluminense 2.657/1996, acrescido pela Lei 9.449/2021). Desse modo, embora esses consumidores não detenham capacidade contributiva, terão que pagar pela energia elétrica com a alíquota majorada, como se fossem famílias de alta renda.\nNo caso, o art. 23, VI, \"a\" e \"c\", da Lei 7.799/2002 do Estado do Maranhão, na redação da Lei 10.542/2016, majorou para 27% a alíquota do ICMS incidente sobre operações de fornecimento de energia elétrica para o consumo acima de 500Kwh/mês, bem como sobre prestações do serviço de comunicação.\nA alíquota geral do tributo, por sua vez, foi fixada em 18% (art.\n23, III, da Lei 7.799/2002, com redação da Lei 10.329/2015).\nNo recente julgado do RE 714.139/SC-RG, a Suprema Corte afastou a alíquota de 25% do ICMS incidente sobre operações de energia elétrica e telecomunicações, prevista no art. 19, alíneas \"a\" e \"c\", da Lei\n10.297/1996 do Estado de Santa Catarina, por entender que, considerada a"
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "essencialidade das referidas operações, não poderiam ser tributadas em alíquota superior à das operações em geral. Fixou-se a seguinte tese:\nAdotada, pelo legislador estadual, a técnica da seletividade em relação ao Imposto sobre Circulação de Mercadorias e Serviços - ICMS, discrepam do figurino constitucional alíquotas sobre as operações de energia elétrica e serviços de telecomunicação em patamar superior ao das operações em geral, considerada a essencialidade dos bens e serviços.\nQuer dizer, o Supremo Tribunal Federal firmou entendimento de que, adotada a técnica da seletividade pelo legislador estadual e sendo a energia elétrica e serviços de telecomunicações produtos essenciais e indispensáveis, não podem ser tributados com alíquota equivalente à dos produtos supérfluos.\nTem sido muito comentada nos meios de comunicação a crise de energia elétrica que fez com que o preço da tarifa aumentasse em todo o país.\nA incidência do ICMS sobre serviços de energia elétrica em percentual elevado agrava sobremaneira tal situação, principalmente para os consumidores mais pobres.\nDe acordo com estudos realizados pelo Instituto de Pesquisa Econômica Aplicada (IPEA), a população mais pobre é a que mais sofre"
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "com os efeitos regressivos dos impostos indiretos, como o ICMS. 4 Em razão disso, o aumento desse tributo, se realizado de forma indiscriminada e sem estudo prévio, pode ter o efeito de agravar as desigualdades sociais.\nEnfim, o art. 23, VI, \"a\" e \"c\", da Lei 7.799/2002 do Estado do Maranhão, na redação da Lei 10.542/2016, ao instituir alíquotas incidentes sobre energia elétrica e serviços de telecomunicações em patamar elevado, acima da alíquota geral fixada pela unidade federada, ofende o princípio da seletividade, inscrito no art. 155, § 2º, III, da CF.\n4. PEDIDO CAUTELAR\nEstão presentes os pressupostos para concessão de medida cautelar.\nA plausibilidade jurídica do pedido (fumus boni juris) está suficientemente caracterizada pelos argumentos deduzidos nesta petição inicial, que encontram robusto amparo na jurisprudência do Supremo Tribunal Federal.\nJá o periculum in mora decorre da expressiva carga tributária que recai sobre os consumidores de serviços de energia elétrica e de comunicação, em razão das alíquotas abusivas fixadas pela Lei 7.799/2002, do Estado do Maranhão, que iguala referidos serviços aos de caráter supérfluo.\n4 Disponível\n\nem:\nhttps://www.ipea.gov.br/desafios/index.php?\noption=com_content&id=3233. Acesso em 18.2.2022."
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Tendo em vista a majoração exacerbada do tributo, com potencial de causar grave dano aos consumidores mais pobres daquela unidade federativa, faz-se indispensável a imediata sustação dos efeitos dos dispositivos questionados, para que seja restabelecida, a título cautelar e com efeitos ex nunc, a alíquota geral de ICMS prevista pelo Estado do Maranhão, em conformidade com a tese fixada no RE-RG 714.139/SC.\nPor conseguinte, além do sinal do bom direito evidenciado pelos próprios fundamentos constitucionais em que se apoia esta ação direta, há premência em que essa Corte conceda a medida cautelar para determinar a imediata suspensão dos efeitos do art. 23, VI, \"a\" e \"c\", da Lei 7.799/2002 do Estado do Maranhão, na redação da Lei 10.542/2016.\n5. PEDIDOS E REQUERIMENTOS\nEm face do exposto, requer o PROCURADOR-GERAL DA REPÚBLICA que esse Supremo Tribunal conceda medida cautelar para suspensão da eficácia das normas impugnadas, para os fins expostos acima e nos termos do art. 10, § 3º, da Lei 9.868/1999.\nEm seguida, pleiteia que se colham as informações do Governador e da Assembleia Legislativa do Estado do Maranhão e que se ouça a"
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Advocacia-Geral da União, nos termos do art. 103, § 3º, da Constituição Federal. Superadas essas fases, pede prazo para a manifestação da Ao final, postula que se julgue procedente o pedido para declarar a inconstitucionalidade do art. 23, VI, \"a\" e \"c\", da Lei 7.799/2002 do Estado do Maranhão, na redação da Lei 10.542/2016.\nBrasília, data da assinatura digital.\nAugusto Aras Procurador-Geral da República Assinado digitalmente\nATM"
+    }
+  ]
+}

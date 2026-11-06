@@ -1,0 +1,292 @@
+{
+  "id": "ADI_6467",
+  "arquivo_pdf": "ADI_6467.pdf",
+  "sha256": "b8e7bc6b56b4900231d6dab0d70ab1a1c00f3624a50726c2bd9c6af3181b3c40",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:29:33",
+  "resumo": {
+    "paginas": 33,
+    "paginas_digital": 33,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 56531,
+    "chars_clean": 44930,
+    "reducao_pct": 20.5,
+    "linhas_removidas": 163,
+    "limpeza_detalhe": {
+      "cabecalho_rodape": 128,
+      "hifen_mantido": 8,
+      "hifenizacao_unida": 0,
+      "numero_pagina": 35
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "MINISTÉRIO PÚBLICO FEDERAL PROCURADORIA-GERAL DA REPÚBLICA EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL\nPETIÇÃO INICIAL AJCONST Nº 190370/2020 O PROCURADOR-GERAL DA REPÚBLICA, com fundamento nos arts. 102, I, a e p, 103, VI, e 129, IV, da Constituição da Federal de 1988, no\nart. 46, parágrafo único, I, da Lei Complementar 75, de 20.5.1993 (Lei Orgânica do Ministério Público da União) e na Lei 9.868, de 10.11.1999, vem propor\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE COM PEDIDO DE MEDIDA CAUTELAR\ncontra (i) o art. 49 da Lei Complementar 19, de 11.1.1994, do Estado do Maranhão, que estabelece a Lei Orgânica da Defensoria Pública estadual;\n(ii) a Resolução DPGE 36, de 5.12.2018, do Defensor Público-Geral do Estado do Maranhão, que fixa o subsídio mensal dos membros da DPE/MA; (iii) as Documento assinado via Token digitalmente por PROCURADOR-GERAL DA REPÚBLICA ANTONIO AUGUSTO BRANDAO DE ARAS, em 18/06/2020 19:21. Para verificar a assinatura acesse http://www.transparencia.mpf.mp.br/validacaodocumento. Chave 65B97CAC.08C21B04.815C76DD.45103023"
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Resoluções DPGE 3, de 8.1.2018, e 12, de 9.5.2017, que alteram o percentual do auxílio-alimentação destinado aos membros da DPE/MA; e (iv) os arts. 2º a 10 da Resolução DPGE 1, de 21.1.2013, que disciplina a prestação de serviço extraordinário por membros da DPE/MA, com alterações promovidas pelas Resoluções DPGE 4, de 28.1.2015, 26, de 22.7.2015, e 4, de 29.2.2016.1\n1. OBJETO DA AÇÃO\nEste é o teor dos textos normativos questionados:\nLei Complementar 19/1994, do Maranhão\nArt. 49. Os vencimentos dos Defensores Públicos serão os equivalentes pagos aos Procuradores do Estado, observada a isonomia de que tratam o art. 135, da Constituição Federal e o art. 22 § 2º, da Constituição do Estado.\nResolução DPGE 36/2018\nArt. 1º O subsídio mensal dos Defensores Públicos do Estado do Maranhão, a partir do dia 1º de janeiro de 2019, será de\nMEMBRO DA DEFENSORIA PÚBLICA DO ESTADO DO MARANHÃO SUBSÍDIO\nDEFENSOR PÚBLICO 4ª CLASSE R$ 35.462,28 DEFENSOR PÚBLICO 3ª CLASSE R$ 33.689,16 DEFENSOR PÚBLICO 2ª CLASSE R$ 32.004,70 1 Acompanham a petição inicial cópias das normas impugnadas, na forma do art. 3º da Lei 9.868/1999, e de peças relevantes do PA 1.00.000.010783/2019-01, instaurado a partir de representação do Procurador da República João Paulo Lordelo Guimarães Tavares."
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "DEFENSOR PÚBLICO 1ª CLASSE R$ 30.404,47\nArt. 2º A partir da vigência dos novos valores do subsídio mensal dos Defensores Públicos do Estado do Maranhão, a DPE-MA se abstém de efetuar o pagamento de ajuda de custo para moradia.\nArt. 3º A implementação do disposto nesta Resolução observará o previsto no art. 169 da Constituição Federal e as normas pertinentes da Lei Complementar 101, de 04 de maio de 2000.\nArt. 4º Esta Resolução entra em vigor na data de sua publicação, revogando-se a Resolução nº 035 - DPGE, de 30 de novembro de 2018.\nResolução DPGE 3/2018\nArt. 1º Fixar, no percentual de 10% (dez por cento) do subsídio de Defensor Público Estadual de 4ª classe, o valor do auxílio-alimentação destinado aos membros da Defensoria Pública do Estado do Maranhão em atividade, instituído pela Resolução nº 008-CSDPEMA, de 06 de maio de 2016, e alterado pela Resolução nº 0012-DPGE, de 09 de maio de 2017.\nArt. 2º As despesas resultantes da implementação do objeto da presente Resolução correrão por conta de dotações orçamentárias da Defensoria Pública, condicionando o efetivo pagamento à prévia disponibilidade financeira.\nArt. 3º Esta resolução entra em vigor na data de sua publicação.\nResolução DPGE 12/2017\nArt. 1º Fixar, no percentual de 7% (sete por cento) do subsídio de Defensor Público Estadual de 4ª classe, o valor do auxílio-alimentação destinado aos membros da Defensoria Pública do Estado do Maranhão em atividade, instituído pela Resolução nº 008-CSDPEMA, de 06 de maio de 2016.\nArt. 2º As despesas resultantes da implementação do objeto da presente Resolução correrão por conta de dotações orçamentárias da"
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Defensoria Pública, condicionando o efetivo pagamento à prévia disponibilidade financeira.\nArt. 3º Esta resolução entra em vigor na data de sua publicação.\nResolução DPGE 1/2013\nArt. 2º O serviço extraordinário no âmbito da Defensoria Pública do Estado do Maranhão é aquele prestado na sede da instituição mediante a realização de atendimentos semanais em número definido pela Defensoria-Geral, conforme a necessidade do serviço e no disposto no art. 17, VI da Lei Complementar Estadual nº 19/94.\n(Redação dada pela Resolução nº 004 de 23 de janeiro de 2015)\n§ 1º Considera-se serviço extraordinário a atuação dos Defensores Públicos nas audiências de custódias e seus procedimentos correlatos, na capital e no interior do Estado, desde que realizada fora da atuação ordinária do Defensor. (Incluído pela Resolução nº. 004 - DPGE, de 29 de fevereiro de 2016)\n§ 2º Considera-se serviço extraordinário a atuação dos Defensores Públicos da capital no atendimento e procedimentos correlatos junto ao Centro de Triagem do Complexo Penitenciário de Pedrinhas, bem como a atuação dos defensores no atendimento e procedimentos correlatos junto às Unidades Prisionais no Interior do Estado, desde que realizados fora da atuação ordinária do Defensor. (Incluído pela Resolução nº. 004 - DPGE, de 29 de fevereiro de 2016)\nArt. 3º O número de vagas para realização do serviço extraordinário é limitado a disponibilidade financeira, informado mensalmente à Corregedoria-Geral pelo Ordenador de Despesa. (Redação dada pela Resolução nº 004 de 23 de janeiro de 2015)\nArt. 4º Caberá ao Ordenador de despesa informar, dentro do número de vagas, a sua distribuição entre as classes, mantendo tratamento isonômico e proporcional, observado o princípio da publicidade.\n(Redação dada pela Resolução nº 004 de 23 de janeiro de 2015)\n§ 1º Caberá à Corregedoria-Geral informar mensalmente acerca do preenchimento das vagas referidas no caput desse artigo, com a"
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "indicação dos respectivos nomes, através de ato próprio encaminhado via e-mail institucional a todos os Defensores Públicos. (Redação dada pela Resolução nº 004 de 23 de janeiro de 2015)\n§ 2º No preenchimento de vagas, para atender à publicidade indicada no caput, deverá a Corregedoria-Geral, sem prejuízo de outras medidas, realizar eventual sorteio notificando a Subdefensoria para participação ou indicação de representante para participar, ou, na ausência deste, de representante indicado pela Defensoria Pública Geral para o mesmo fim. (Redação dada pela Resolução nº 16 de julho de 2015)\n§ 3º Para os fins definidos no caput desse artigo, caberá à Defensoria-Geral abrir prazo facultando aos interessados manifestação acerca da concordância na realização do serviço extraordinário durante o período de 01 (um) ano. (Redação dada pela Resolução nº 004 de 23 de janeiro de 2015)\nArt. 5º Caso não existam candidatos para o preenchimento dentro de cada classe, poderá a Corregedoria-Geral distribuir a vaga remanescente entre Defensores de qualquer Classe, mantendo tratamento isonômico e proporcional, observado o princípio da publicidade. (Redação dada pela Resolução nº 004 de 23 de janeiro de 2015)\nParágrafo único: Para os fins definidos na parte final do caput desse artigo, caberá à Corregedoria-Geral informar mensalmente acerca do preenchimento das vagas remanescentes, com a indicação dos respectivos nomes, através de ato próprio encaminhado via e-mail institucional a todos os Defensores Públicos. (Redação dada pela Resolução nº 004 de 23 de janeiro de 2015)\nArt. 6º Se não ocorrer o preenchimento total de vagas após a adoção da medida indicada no artigo anterior, poderá a Corregedoria-Geral autorizar que um Defensor Público acumule até mais 1 (uma) vaga de serviço extraordinário, a ser realizado necessariamente em dia diverso. (Redação dada pela Resolução nº 004 de 23 de janeiro de 2015)"
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Parágrafo único: Para os fins definidos na parte final do caput desse artigo, caberá à Corregedoria-Geral informar mensalmente acerca do preenchimento das vagas remanescentes, esgotada a providência do artigo anterior, através de ato próprio encaminhado via e-mail institucional a todos os Defensores Públicos. (Redação dada pela Resolução nº 004 de 23 de janeiro de 2015)\nArt. 7º Não poderá ser deferida o disposto no artigo anterior caso esta medida comprometa as atividades regulares do defensor.\n(Redação dada pela Resolução nº 004 de 23 de janeiro de 2015)\nArt. 8º Fica estabelecido como remuneração pela prestação do serviço extraordinário no percentual de 6,45% do valor do subsídio.\n(Redação dada pela Resolução nº 004 de 23 de janeiro de 2015)\nArt. 9º Revogado (Revogação pela Resolução nº 004 de 23 de janeiro de 2015)\nArt. 10 As atividades realizadas pelos Defensores durante a prestação do serviço extraordinário deverão ser informadas à Corregedoria-Geral por meio de relatório mensal diverso do regular, o qual deverá ser inserido no Sistema de Atendimento, Geração e Acompanhamento Processual - SAGAP até o último dia útil de cada mês.\n§ 1º A ausência de realização do serviço extraordinário poderá ser justificada mediante documento escrito e fundamentado do interessado, dirigido à Corregedoria-Geral.\n§ 2º Não será acolhida justificativa que não vier acompanhada da comprovação de compensação da atividade que não fora realizada.\n§ 3º A inclusão do pagamento do valor correspondente ao serviço extraordinário em folha de pagamento, pela Supervisão de Recursos Humanos, dar-se-á no mês subsequente à efetiva realização do serviço.\n§ 4º A ausência de comprovação do serviço extraordinário implicará na automática suspensão do pagamento por ele devido, no mês imediatamente posterior ao qual ele deveria ter sido realizado, sendo inadmissível seu pagamento no mês subsequente."
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "§ 5º A prestação do serviço extraordinário está condicionada a anuência expressa do Defensor Público acerca do inteiro teor da presente resolução, não sendo facultada a opção de fracionamento do referido serviço, salvo no caso de afastamentos legais, quando será pago no valor proporcional ao período prestado, não podendo ser fracionado em período inferior a 15 dias. (Redação dada pela Resolução nº 004 de 23 de janeiro de 2015)\n§ 6º Caberá ao Defensor interessado proceder à assinatura do termo de concordância para prestação do serviço extraordinário.\nComo adiante se demonstrará, as normas violam os arts. 25 (autonomia do Estado-membro); 37, X e XIII (fixação de remuneração por lei específica e vedação à vinculação remuneratória); e 39, §§ 1º e 4º (parâmetros para a fixação de vencimentos e regime remuneratório por subsídio fixado em parcela única), todos da Constituição Federal.\n2. CABIMENTO E IMPUGNAÇÃO DO COMPLEXO NORMATIVO\nEditados pelo Defensor Público-Geral do Estado do Maranhão, os atos normativos questionados na presente ação exorbitam a esfera meramente regulamentar e invadem o campo constitucionalmente reservado ao Poder Legislativo pelo art. 37, X, da Constituição Federal.\nA Resolução DPGE 36/2018 fixa valores de subsídios mensais a serem percebidos pelos integrantes das categorias que compõem a carreira de Defensor Público do Estado do Maranhão."
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Sob o pretexto de regulamentar o direito ao auxílio-alimentação dos membros da DPE/MA, a Resolução DPGE 3/2018 desvirtua o caráter indenizatório da verba e garante a referidos agentes adicional remuneratório, no montante de 10% do valor do subsídio do cargo mais alto da carreira (Defensor Público de 4ª Classe).\nA Resolução DPGE 1/2013, por sua vez, trata de fixar valores e pormenorizar as circunstâncias e condições de percepção de gratificação por serviço extraordinário, também de natureza remuneratória.\nApós a Emenda Constitucional 19/1998, a disciplina constitucional da remuneração de servidores públicos passou a exigir a edição de lei formal específica, consoante estabelece o art. 37, caput e inc. X, da Lei Fundamental brasileira.\nPor inovarem indevidamente o regramento jurídico remuneratório de agentes públicos estaduais, os diplomas questionados podem ser cotejados diretamente com o texto constitucional, sendo passíveis de impugnação pela via da ação direta.\nQuanto às disposições da Resolução DPGE 12/2017, sua inclusão no pedido tem por escopo evitar o chamado efeito repristinatório indesejado.\nTrata-se de diploma normativo que, apesar de não se encontrar vigente, tem"
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "os mesmos vícios de inconstitucionalidade da norma que a revogou - Resolução DPGE 3/2018 - e teria eficácia revigorada em decorrência da declaração de nulidade desta.\nAnte a possibilidade de reentrada em vigor, torna-se indispensável a impugnação nesta ação. O entendimento da Suprema Corte, em situações similares, é nessa direção:\nCONSTITUCIONAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE.\nEFEITO REPRISTINATÓRIO. NORMA ANTERIOR COM O MESMO VÍCIO DE INCONSTITUCIONALIDADE.\nI. - No caso de ser declarada a inconstitucionalidade da norma objeto da causa, ter-se-ia a repristinação de preceito anterior com o mesmo vício de inconstitucionalidade. Neste caso, e não impugnada a norma anterior, não é de se conhecer da ação direta de inconstitucionalidade.\nPrecedentes do STF.\nII. - ADIn não conhecida.\n(ADI 2.574/AP, Rel. Min. Carlos Velloso, DJ, de 29 ago. 2003).\nPor essa razão, faz-se necessário impugnar, aqui, toda a cadeia que fixou, de forma inconstitucional, a remuneração dos membros da Defensoria Pública do Maranhão."
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "3. INCONSTITUCIONALIDADE DAS NORMAS QUESTIONADAS\n3.1. Ofensa à proibição de equiparação remuneratória de agentes públicos Ao tratar da política remuneratória da Defensoria Pública estadual, o art. 49 da Lei Complementar 19/1994 do Estado do Maranhão estatuiu que \"os vencimentos dos Defensores Públicos serão os equivalentes pagos aos Procuradores do Estado, observada a isonomia\".\nExtrai-se que a norma estadual, além de firmar vinculação remuneratória entre carreiras, atrela os futuros reajustes dos subsídios de defensores públicos estaduais, de forma automática, às futuras alterações promovidas em carreira diversa.\nO princípio da autonomia do Estado-membro, além de inerente à forma federativa adotada pelo Estado brasileiro, encontra-se expresso no art.\n25 da Constituição Federal:\nArt. 25. Os Estados organizam-se e regem-se pelas Constituições e leis que adotarem, observados os princípios desta Constituição.\nQuanto aos parâmetros de fixação remuneratória dos servidores públicos, dispõe o art. 37, incisos X e XIII, da Carta Magna:"
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Art. 37. A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, ao seguinte:\n(…) X - a remuneração dos servidores públicos e o subsídio de que trata o § 4º do art. 39 somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices;\n(…) XIII - é vedada a vinculação ou equiparação de quaisquer espécies remuneratórias para o efeito de remuneração de pessoal do serviço público; (Grifou-se.) Consta do art. 39, § 1º, da Lei Fundamental:\nArt. 39. A União, os Estados, o Distrito Federal e os Municípios instituirão conselho de política de administração e remuneração de pessoal, integrado por servidores designados pelos respectivos Poderes. (Redação dada pela Emenda Constitucional nº 19, de 1998)\n§ 1º A fixação dos padrões de vencimento e dos demais componentes do sistema remuneratório observará:\nI - a natureza, o grau de responsabilidade e a complexidade dos cargos componentes de cada carreira;\nII - os requisitos para a investidura;\nIII - as peculiaridades dos cargos.\nEis, portanto, o arcabouço jurídico sobre o qual o Supremo Tribunal tem se debruçado para expressar firme e reiterada jurisprudência que rechaça a vinculação de \"quaisquer espécies remuneratórias para o efeito de remuneração de"
+    },
+    {
+      "page": 12,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "pessoal do serviço público\", aí incluída a proibição de vinculação para fins de reajuste automático.\nA cláusula proibitória de equiparação ou vinculação de quaisquer espécies remuneratórias é consectária da reserva absoluta de lei em matéria remuneratória do funcionalismo público. A Constituição proíbe, no art. 37, XIII, o atrelamento remuneratório, para evitar que a alteração de uma carreira repercuta automaticamente em outra.\nJosé Afonso da Silva distingue isonomia e paridade de vinculação e equiparação remuneratória, para efeito do art. 37, XIII, da CF, nos seguintes termos:\nNão há confundir isonomia e paridade com equiparação ou vinculação para efeitos de vencimentos. \"Isonomia\" é igualdade de espécies remuneratórias entre cargos de atribuições iguais ou assemelhadas. \"Paridade\" é um tipo especial de isonomia, é igualdade de vencimentos atribuídos a cargos de atribuições iguais ou assemelhadas pertencentes a quadros de Poderes diferentes.\n\"Equiparação\" é a comparação de cargos de denominação e atribuições diversas, considerando-os iguais para fins de se lhes conferir mesmos vencimentos, é igualação jurídico-formal de cargos ontologicamente desiguais, para o efeito de se lhes dar vencimentos idênticos, de tal sorte que, ao aumentar-se o padrão do cargo-paradigma, automaticamente o do outro ficará também majorado na mesma proporção. Na isonomia e na paridade, ao contrário, os cargos são ontologicamente iguais, daí devendo decorrer a igualdade de retribuição; isso está de acordo com o princípio geral da igualdade perante a lei: \"tratamento igual para"
+    },
+    {
+      "page": 13,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "situações reputadas iguais\" é, em verdade, aplicação do princípio da isonomia material - trabalho igual deve ser igualmente remunerado.\nA equiparação quer tratamento igual para situações desiguais.\n\"Vinculação\" é relação de comparação vertical, diferente da equiparação, que é relação horizontal. Vincula-se um cargo inferior - isto é, de menores atribuições e menor complexidade - com outro superior, para efeito de retribuição, mantendo-se certa diferença de vencimentos entre um e outro, de sorte que, aumentando-se os vencimentos de um, os do outro também ficam automaticamente majorados, para guardar a mesma distância preestabelecida. Os regimes jurídicos desses institutos são, por isso mesmo, diametralmente opostos. A isonomia, em qualquer de suas formas, incluída nela a paridade, é uma garantia constitucional e um direito do funcionário, ao passo que a vinculação e a equiparação de cargos, empregos ou funções, para efeito de remuneração, são vedados pelo\nart. 37, XIII. É isso que o texto quer dizer na sua redação defeituosa.\nDe fato, o dispositivo veda a vinculação ou equiparação de quaisquer espécies remuneratórias para efeito de remuneração do pessoal do serviço público, quando, na verdade, o que se veda é a vinculação ou equiparação de cargos, empregos ou funções para efeito de remunerações. E assim é que se deve entender o dispositivo.2 O atrelamento remuneratório implica reajuste automático de uma categoria sem lei específica, sempre que a categoria paradigma se veja contemplada com elevação de estipêndios.\n2 SILVA, José Afonso da. Comentário contextual à Constituição. 7. ed. São Paulo:\nMalheiros, 2010. p. 347."
+    },
+    {
+      "page": 14,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "A vedação constitucional visa a preservar, em última análise, o princípio da reserva de lei em matéria remuneratória, explicitado, após a EC 19/1998, no art. 37, X, da Carta da República.\nA esse respeito, ressalta Luciano de Araújo Ferraz que \"as vinculações e equiparações, conquanto conceitualmente distintas, produzem o mesmo efeito prático: aumento remuneratório, por via reflexa, de determinado grupo de agentes públicos, pelo fato de outros agentes (hierarquicamente superiores ou com status equivalente na estrutura estatal) terem sido beneficiados pelo acréscimo pecuniário\".3 Observe-se que, já no ano de 2002, na ADI 196/AC, de relatoria da eminente Ministra Ellen Gracie, o Plenário da Corte reiterara jurisprudência no sentido da inconstitucionalidade da equiparação de vencimentos entre servidores estaduais e federais, em face dos arts. 25 e 37, XIII, da Constituição Federal:\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE. ART. 37,\n§ 1º DA CONSTITUIÇÃO DO ESTADO DO ACRE. Conforme reiterada jurisprudência desta Corte, mostra-se inconstitucional a equiparação de vencimentos entre servidores estaduais e federais, por ofensa aos arts. 25 e 37, XIII da Constituição Federal. Precedentes:\n3 FERRAZ, Luciano de Araújo. Comentário ao art. 37, XIII. In: CANOTILHO, J. J.\nGomes; MENDES, Gilmar F.; SARLET, Ingo W.; STRECK, Lenio L. (Coord.).\nComentários à Constituição do Brasil. São Paulo: Saraiva; Almedina, 2013. p. 866."
+    },
+    {
+      "page": 15,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "ADIMC 117, ADIMC 193 e ADI 237. Procedência da ação, declarando-se inconstitucional a expressão \"cujo soldo não será inferior ao dos servidores militares federais\", constante da norma estadual acima citada.\n(ADI 196/AC, Rel. Min. Ellen Gracie, DJ de 20 set. 2002.) E assim o decidiu sob a ratio de que o estabelecimento de equiparação ou vinculação entre servidores (civis ou militares) estaduais e federais é contrário ao princípio federativo refletido no art. 25 da Constituição Federal, visto que, do aumento de remuneração concedido aos servidores federais por lei da União, resultava majoração de despesa para os Estados.\nNa ADI 336/SE (Rel. Min. Eros Grau, DJe de 17.9.2010), foi extirpado da ordem jurídica o art. 100 da Constituição de Sergipe, que vinculava o reajuste de remuneração dos servidores do Poder Judiciário à dos magistrados. Consignou-se:\nTrata-se de ação direta na qual é objetivada a declaração de inconstitucionalidade de diversos preceitos da Constituição sergipana e de seu ADCT. (...) Art. 100 da Constituição estadual (...). Ao vincular o reajuste dos servidores do Poder Judiciário ao dos magistrados, o preceito confere privilégio aos servidores daquele Poder, em detrimento dos demais, em desrespeito ao comando constitucional que assegura revisão geral de remuneração dos servidores públicos. (Grifo nosso.)"
+    },
+    {
+      "page": 16,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Ao disciplinar a fixação dos vencimentos de defensores públicos maranhenses, o art. 49 da Lei Complementar estadual 19/1994 atrelou-os à remuneração de categoria diversa - a dos procuradores do Estado -, permitindo a extensão automática de reajustes com base em alterações ulteriores promovidas na carreira paradigma.\nDiante da jurisprudência da Suprema Corte e em face do disposto nos arts. 25, 37, X e XIII, e 39, § 1º, da Constituição Federal, há de se concluir pela inconstitucionalidade do dispositivo de lei estadual questionado.\n3.2. Ofensa à reserva de lei formal específica para tratar da disciplina remuneratória de servidores públicos A partir do advento da EC 19/1998, a regência da remuneração de agentes públicos passou a ser submetida exclusivamente ao domínio normativo da lei de caráter formal (CF, art. 37, X).\nA propósito da reserva legal para a disciplina remuneratória do funcionalismo público, já reconheceu o Supremo Tribunal Federal:\nREMUNERAÇÃO DOS AGENTES PÚBLICOS E POSTULADO DA RESERVA LEGAL."
+    },
+    {
+      "page": 17,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "- O tema concernente à disciplina jurídica da remuneração funcional submete-se ao postulado constitucional da reserva absoluta de lei, vedando-se, em consequência, a intervenção de outros atos estatais revestidos de menor positividade jurídica, emanados de fontes normativas que se revelem estranhas quanto a sua origem institucional, ao âmbito de atuação do Poder Legislativo, notadamente quando se tratar de imposições restritivas ou de fixação de limitações quantitativas ao estipêndio devido aos agentes públicos em geral. - O princípio constitucional da reserva de lei formal traduz limitação ao exercício das atividades administrativas e jurisdicionais do Estado. A reserva de lei - analisada sob tal perspectiva - constitui postulado revestido de função excludente, de caráter negativo, pois veda, nas matérias a ela sujeitas, quaisquer intervenções normativas, a título primário, de órgãos estatais não legislativos.\n(ADI 2.075/RJ-MC, Rel. Min. Celso de Mello, DJ de 27.6.2003 - grifo nosso.) Sobre a exigência de lei para fixar ou alterar remuneração ou subsídio, assevera Luciano de Araújo Ferraz:\nO primeiro comando do dispositivo determina que a fixação ou alteração da remuneração e do subsídio depende de lei específica (de cada entidade da Federação), observada a iniciativa privativa (do processo legislativo) em cada caso. A necessidade de lei para fixação ou alteração dos valores pagos pelo exercício de cargo público tornou-se explícita (princípio da reserva legal), pois é certo que descabe aos demais Poderes, que não têm função legislativa, aumentar vencimentos de servidores públicos (Súmula 339, STF).\nMas a lei que fixa ou majora os valores agora deve ser específica, ou seja, trata-se de lei ordinária (art. 59, III, CR), porém com conteúdo"
+    },
+    {
+      "page": 18,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "exclusivamente voltado à finalidade de estipular parâmetros de retribuição pecuniária (…). (grifo nosso.)4 A jurisprudência do STF, há muito, pacificou-se em ser atribuição do legislador dispor sobre o tema.5 Com base nessa compreensão, destacou o Ministro Carlos Velloso, na ADI-MC 492/DF (DJ, 1º jul. 1992), que \"a sistemática dos servidores públicos, regime jurídico, vencimentos e remuneração assentam-se na lei, mesmo porque legalidade constitui princípio a que a Administração Pública deve obediência rigorosa (C.F., art. 37)\".\nAo alvedrio de lei, editou o Defensor Público-Geral do Estado do Maranhão a Resolução DPGE 36/2018, por meio da qual fixou a retribuição dos cargos que compõem a instituição.\nO diploma conferiu, de forma escalonada, os seguintes montantes de subsídio mensal: R$ 30.404,47 (Defensor Público de 1ª Classe), R$ 32.004,70 4 FERRAZ, Luciano de Araújo. Comentário ao art. 37, X. In: Obra citada, p. 858.\n5 Aprovadas a partir de precedentes bem anteriores às normas impugnadas nesta ação, as Súmulas 339 e 679 do STF já confirmavam a necessidade de lei formal para disciplinar remuneração de agentes públicos, confira-se: \"339 - Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia\"; e \"679 - A fixação de vencimentos dos servidores públicos não pode ser objeto de convenção coletiva.\"."
+    },
+    {
+      "page": 19,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "(Defensor Público de 2ª Classe), R$ 33.689,16 (Defensor Público de 3ª Classe), e R$ 35.462,28 (Defensor Público de 4ª Classe).\nEm outra frente, editou a Resolução DPGE 3/2018, com o escopo de regulamentar o direito ao auxílio-alimentação, cuja percepção por membros da DPE/MA fora prevista a partir da inclusão do inciso VI no art. 48 da Lei Complementar 19/1994 pela LC 169/2014:\nArt. 48. Os Defensores Públicos receberão vencimentos e as seguintes vantagens, além de outras conferidas por Lei:\n(…) VI - auxílio-alimentação (incluído pela Lei Complementar 169/2014) Todavia, o art. 1º da Resolução DPGE/2018 acabou por desvirtuar o caráter indenizatório da verba, instituindo adicional de cunho remuneratório.\nO dispositivo infralegal questionado fixou, como montante a ser pago a título de auxílio-alimentação, o valor de 10% do subsídio mensal do Defensor Público Estadual de 4ª classe, ou seja, R$ 3.546,22.\nÀ partida, constata-se a desproporcionalidade da parcela, cuja importância chega a ultrapassar o triplo do valor fixado para o salário-mínimo nacional em 2020 (R$ 1.045,00 - Medida Provisória 919, de 30.1.2020),"
+    },
+    {
+      "page": 20,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "e o quíntuplo da média de rendimento mensal domiciliar per capita do Estado do Maranhão (R$ 636,00).6 Há de se ter em conta, ademais, que o Maranhão ocupa a penúltima posição no Índice de Desenvolvimento Humano - IDH apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, contando com significativa proporção de pessoas em condições de pobreza extrema.7 O montante elevado fixado para o auxílio em exame extravasa os possíveis dispêndios com alimentação dos agentes públicos agraciados, não guardando correlação com os gastos que pretendia compensar. Desvirtuou-se, por conseguinte, a função indenizatória da verba, que passou a se caracterizar como rendimento extra.\nConfigurada a natureza remuneratória da parcela, a sua disciplina por ato infralegal esbarra na reserva absoluta de lei formal específica, imposta pelo art. 37, X, da CF, com redação da EC 19/1998.\nFinalmente, por meio da Resolução DPGE 1/2013, foi regulada a prestação de serviços extraordinários por membros da DPE/MA. Trouxe o ato normativo regramento pormenorizado atinente às circunstâncias e as 6 Cf. < https://www.ibge.gov.br/cidades-e-estados/ma.html >, acesso em 10.6.2020.\n7 Cf.\n\n< https://cidades.ibge.gov.br/brasil/ma/pesquisa/37/30255?\ntipo=ranking&indicador=30255 >, acesso em 10.6.2020."
+    },
+    {
+      "page": 21,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "condições que dão ensejo ao pagamento de gratificação pelo desempenho de tais atividades (art. 2º), cujo valor foi fixado em 6,45% do valor do subsídio mensal do defensor público (art. 8º).\nConquanto tenha assento no art. 4º, VI, da Lei Complementar 105/2007,8 o dispositivo legal em questão limitou-se a prever a possibilidade de percepção de contraprestação por serviços extraordinários, sem estabelecer diretrizes ou parâmetros normativos mínimos relativamente à conformação do adicional que permitissem a sua instituição pela esfera administrativa.\nApesar do nome adicional de serviço extraordinário, materialmente, a parcela disciplinada pela Resolução DPGE 1/2013 consubstancia verdadeiro adicional por função.\nA verba não se dirige a retribuir o labor prestado além da jornada regular de trabalho - este o objeto de tutela do art. 7º, XVI, da CF, extensivo a agentes públicos pelo art. 39, § 3º - mas sim o desempenho de atividades funcionais específicas por membros da DPE/MA, quais sejam: a participação em \"audiências de custódias e seus procedimentos correlatos\", o \"atendimento e 8 \"Art. 4º O subsídio dos Defensores Públicos não exclui o direito à percepção, nos termos da legislação e regulamentação específica, das seguintes espécies remuneratórias:\n(…)\nVI - adicional de serviço extraordinário; (…).\""
+    },
+    {
+      "page": 22,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "procedimentos correlatos junto ao Centro de Triagem do Complexo Penitenciário de Pedrinhas, bem como a atuação dos defensores no atendimento e procedimentos correlatos junto às Unidades Prisionais no Interior do Estado\" (art. 2º, §§ 1º e 2º).\nDe todo modo, ante a nítida natureza remuneratória da parcela, não caberia à Resolução DPGE 1/2013 suprir a ausência de regramento legislativo e disciplinar as condições de implementação do adicional, hipóteses de recebimento, definição de atividades ou circunstâncias de exercício, previsão de limites e valores.\nAo fazê-lo, o regramento estabelecido pelos arts. 2º a 10 do ato normativo impugnado acabou por avançar sobre matéria sujeita a reserva de lei específica, de acordo com o regime constitucional vigente (CF, art. 37, X).\nTem-se, portanto, vício de inconstitucionalidade formal a invalidar as Resoluções DPGE 36/2018, 3/2018 e 1/2013, todas do Defensor Público-Geral do Estado do Maranhão."
+    },
+    {
+      "page": 23,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "3.3. Quebra do modelo unitário de remuneração por subsídio A EC 19/1998 modificou o sistema remuneratório dos agentes públicos e fixou o subsídio como forma de remunerar certas categorias desses trabalhadores.\nPretendeu conferir maior transparência e uniformidade ao regime remuneratório de categorias específicas de agentes públicos, com critérios paritários e claros, em reforço à feição democrática e republicana do Estado brasileiro e aos princípios da isonomia, da moralidade e da publicidade, entre outros.\nMarçal Justen Filho observa, a esse respeito:\nA Emenda Constitucional n. 19/98 adotou a figura do \"subsídio\" para assegurar o controle sobre a remuneração dos ocupantes de cargos e funções de mais elevada hierarquia. No passado, era usual a fixação de um \"vencimento-base\" de valor irrisório, a que se somavam vantagens pecuniárias de grande relevo.\nEssa situação produzia reflexos indiretos, na medida em que a remuneração desses agentes era o teto para a remuneração devida ao restante dos servidores.\nPara superar essas dificuldades, foi alterada a composição da remuneração de cargos e funções de mais elevada hierarquia, impondo-se a fixação de uma parcela única (subsídio), abrangente"
+    },
+    {
+      "page": 24,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "tanto da remuneração-base como substitutiva de eventuais vantagens pecuniárias de outra ordem.9 José Afonso da Silva afirma que o regime de subsídio fixado em parcela única, reincorporado à Constituição do Brasil pela EC 19/1998, é de adoção obrigatória para determinadas categorias de agentes públicos, tais como as relacionadas no art. 39, § 4º, e aquelas expressamente referidas em dispositivos esparsos do texto constitucional.10 Imposição de parcela única remuneratória a categorias específicas de agentes públicos, federais, estaduais, distritais e municipais guarda pertinência com diretrizes constitucionais como as de economicidade, isonomia, moralidade, publicidade e legalidade.\nA respeito do necessário controle do quantum percebido por agentes públicos, adverte José dos Santos Carvalho Filho:\nPela EC no 19/98, que traçou as regras gerais pertinentes à reforma administrativa do Estado, passou a ser denominada de \"subsídio\" a remuneração do membro de Poder, do detentor de cargo eletivo, dos Ministros de Estado e dos Secretários Estaduais e Municipais, conforme a nova redação do art. 39, § 4o, da CF, bem como a remuneração dos membros do Ministério Público (art. 128, § 5o, I, c, 9 JUSTEN FILHO, Marçal, Curso de direito administrativo, São Paulo: Saraiva, 2005, p.\n634-636.\n10 SILVA, José Afonso da, Comentário contextual à Constituição, 7. ed., São Paulo:\nMalheiros, 2010, p. 360."
+    },
+    {
+      "page": 25,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "da CF) e dos integrantes da Defensoria Pública e da Advocacia Pública, incluindo-se nesta as Procuradorias dos Estados e do Distrito Federal (art. 135 c/c arts. 131 e 133, o primeiro com remissão ao art. 39, § 4o).\nDe acordo com o referido mandamento, duas são as características do subsídio: em primeiro lugar, deve observar o teto remuneratório fixado no art. 37, XI; além disso, deve ser estabelecido em parcela única, sendo, portanto, vedado o acréscimo de algumas vantagens pecuniárias, como gratificações, adicionais, abonos, prêmios, verbas de representação e outras de caráter remuneratório.11 O regime constitucional de pagamento unitário que caracteriza o modelo do subsídio repele acréscimos remuneratórios devidos pelo trabalho ordinário de agentes públicos.\nO art. 39, § 4º, da CF é expresso ao vedar acréscimo de gratificação, adicional, abono, prêmio, verba de representação e outras espécies remuneratórias à parcela única: \"o membro de Poder, o detentor de mandato eletivo, os Ministros de Estado e os Secretários Estaduais e Municipais serão remunerados exclusivamente por subsídio fixado em parcela única\".\nSubsídio, portanto, implica unicidade de remuneração. A distinção essencial entre o regime de subsídio e o sistema de remuneração com base em vencimentos reside precisamente na vedação de que ao primeiro seja acrescida vantagens pecuniárias extras de natureza remuneratória (como 11 CARVALHO FILHO, José dos Santos, Manual de direito administrativo, 16. ed., Rio de Janeiro: Lumen Juris, 2006, p. 607."
+    },
+    {
+      "page": 26,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "gratificações, adicionais, abono, prêmio, verbas de representação e outras de idêntico caráter).12 Acerca do conceito de vantagens pecuniárias, Carvalho Filho esclarece:\n(…) são as parcelas pecuniárias acrescidas ao vencimento-base em decorrência de uma situação fática previamente estabelecida na norma jurídica pertinente. Toda vantagem pecuniária reclama a consumação de certo fato, que proporciona o direito à sua percepção.\nPresente a situação fática prevista na norma, fica assegurado ao servidor o direito subjetivo a receber o valor correspondente à vantagem. Esses fatos podem ser das mais diversas ordens:\ndesempenho das funções por certo tempo; natureza especial da função; grau de escolaridade; funções exercidas em gabinetes de chefia; trabalho em condições anormais de dificuldades etc.\nSão vantagens pecuniárias, entre outras, os adicionais e as gratificações.13 Há situações nas quais se mostra legítimo acréscimo pecuniário à parcela única. É indispensável, para que determinada verba ou prestação pecuniária seja percebida em cumulação ao subsídio, que tenha fundamento no desempenho de atividades extraordinárias ou que decorra de indenização 12 FURTADO, Lucas Rocha, Curso de direito administrativo, 3. ed., Belo Horizonte: Fórum, 2012, p. 772.\nCARVALHO FILHO, Jose dos Santos, obra citada, p. 608."
+    },
+    {
+      "page": 27,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "por aquilo que não constitua atribuição regular desempenhada pelo servidor.14 A esse respeito, Maria Sylvia Zannela di Pietro observa:\nAo falar em parcela única, fica clara a intenção de vedar a fixação dos subsídios em duas partes, um fixa e outra variável, tal como ocorria com os agentes políticos na vigência da Constituição de 1967. E, ao vedar expressamente o acréscimo de qualquer gratificação, adicional, abono prêmio, verba de representação ou outra espécie remuneratória, também fica clara a intenção de extinguir, para as mesmas categorias de agentes públicos, o sistema remuneratório que vem vigorando tradicionalmente na Administração Pública e que compreende o padrão fixado em lei mais as vantagens pecuniárias de variada natureza previstas na legislação estatutária.\n(…) No entanto, embora o disposto fale em parcela única, a intenção do legislador fica parcialmente frustrada em decorrência de outros dispositivos da própria Constituição, que não foram atingidos pela Emenda. Com efeito, mantém-se, no art. 39, § 3º, a norma que manda aplicar aos ocupantes de cargo público o disposto no art. 7º, IV, VII, VIII, IX, XII, XIII, XV, XVI, XVII, XVIII, XIX, XX, XXII e XXX.\nCom isto, o servidor que ocupe cargo público (o que exclui os que exercem mandato eletivo e os que ocupam emprego público, já abrangidos pelo art. 7º) fará jus a: décimo terceiro salário, adicional noturno, salário-família, remuneração do serviço extraordinário superior, no mínimo, a 50% à do normal, adicional de férias, licença à gestante, sem prejuízo do emprego e salário, com a duração de cento e vinte dias.\nPoder-se-ia argumentar que o § 4º do art. 39 exclui essas vantagens ao falar em parcela única; ocorre que o § 3º refere-se genericamente SILVA, José Afonso da, obra citada, p. 685."
+    },
+    {
+      "page": 28,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "aos ocupantes de cargo público, sem fazer qualquer distinção quanto ao regime de retribuição pecuniária. Quando há duas normas constitucionais aparentemente contraditórias, tem-se que adotar interpretação conciliatória, para tirar de cada uma delas o máximo de aplicação possível. No caso, tem-se que conciliar os §§ 3º e 4º do artigo 39, de modo a entender que, embora o segundo fale em parcela única, isto não impede a aplicação do outro, que assegura o direito a determinadas vantagens, portanto, igualmente com fundamento constitucional.\nTambém não podem deixar de ser pagas as vantagens que têm caráter indenizatório, já que se trata de compensar o servidor por despesas efetuadas no exercício do cargo; é o caso das diárias e das ajudas de custo. Não se pode pretender que o servidor que faça gastos indispensáveis ao exercício de suas atribuições não receba a devida compensação pecuniária. Trata-se de aplicação pura e simples de um princípio geral de direito que impõe a quem quer que cause prejuízo a outrem o dever de indenizar.15 Para Hely Lopes Meirelles, não são abrangidas pela unicidade do subsídio as parcelas de caráter indenizatório previstas em lei, desde que tais verbas observem os princípios constitucionais da legalidade, da razoabilidade e da moralidade, \"sob pena de caracterizarem inaceitável fraude aos limites remuneratórios e ao conceito constitucional de subsídio, a ser repelida pelo Poder Judiciário no exame de constitucionalidade, direto (concentrado) ou incidental (difuso), da lei que as instituírem.\"16 15 PIETRO, Maria Sylvia Zanella di, Direito administrativo, 18. ed. São Paulo: Atlas, 2005, p. 463-464. Destaques no original.\n16 MEIRELLES, Hely Lopes. Direito Administrativo brasileiro. 37. ed. São Paulo: Malheiros, 2011, p. 526."
+    },
+    {
+      "page": 29,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Em princípio, não se afigura incompatível com a conformação constitucional do subsídio a instituição de parcelas pecuniárias adicionais, de caráter indenizatório, voltadas a arcar custos extraordinários decorrentes do exercício funcional, como os decorrentes de mudança ou viagens no interesse do serviço.\nComo destacou o Ministro Roberto Barroso na ADI 5.781-MC/MG, a compatibilidade com o modelo unitário de remuneração por subsídio demanda um juízo de extraordinariedade das gratificações, configurando-se seu teor indenizatório apenas \"quando presente a finalidade de compensação do agente por despesas não cotidianas efetivamente atreladas ao estrito cumprimento da respectiva função pública\" (DJe de 14.2.2018).\nNos moldes em que disciplinado pelas Resoluções DPGE 3/2018 e 12/2017, o auxílio-alimentação dos membros da DPE/MA encontra óbice nos princípios da razoabilidade e da moralidade administrativa, configurando quebra do modelo unitário imposto a partir da EC 19/1998.\nConforme se demonstrou no capítulo anterior, o valor excessivo fixado para a parcela - 10% e 7% do subsídio mensal do Defensor Público Estadual de 4ª classe, ou seja, R$ 3.546,22 e R$ 2.482,35 (nos termos das Resoluções DPGE 3/2018 e 12/2017, respectivamente) - supera, de forma"
+    },
+    {
+      "page": 30,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "desproporcional, eventuais dispêndios com alimentação por parte de agentes públicos no exercício da função pública.\nHouve, por conseguinte, a descaracterização da função indenizatória da verba, que passa a se consubstanciar como espécie de adicional remuneratório, cuja percepção é vedada pelo art. 39, § 4º, da CF.\nConforme observou o Ministro Celso de Mello, no julgamento de medida cautelar na ADI 2.667/DF, \"todos os atos do Poder Público estão necessariamente sujeitos, para efeito de sua validade material, à indeclinável observância de padrões mínimos de razoabilidade\", que, por esse motivo, \"qualifica-se como parâmetro de aferição da constitucionalidade material dos atos estatais\" (ADI 2.667-MC, Rel. Min. Celso de Mello, DJ de 12 mar. 2004).\nHá, portanto, ofensa ao art. 39, § 4º, da Constituição.\n4. PEDIDO CAUTELAR\nEstão presentes os pressupostos para concessão de medida cautelar.\nA plausibilidade jurídica do pedido (fumus boni juris) está suficientemente caracterizada pelos argumentos deduzidos nesta petição inicial, que encontram robusto amparo na jurisprudência do Supremo Tribunal Federal."
+    },
+    {
+      "page": 31,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "O perigo na demora processual (periculum in mora) está no impacto financeiro significativo decorrente da continuidade de pagamentos de parcelas remuneratórias em valores indevidos a agentes públicos estaduais, por força das disposições normativas ora questionadas.\nMostra-se atual a relevância e a conveniência para a suspensão liminar dos dispositivos impugnados, porque há de se considerar que as normas que estipulam a vinculação remuneratória seguem cerceando a autonomia do Estado, com especial repercussão negativa sobre suas finanças.\nAdemais, registre-se que a situação é ainda mais preocupante na atual conjuntura de enfrentamento da epidemia de Covid-19, com queda substancial da arrecadação dos Estados, decorrente da paralisação de setores estratégicos para a economia, e da necessidade de auxílio estatal para a população mais carente de recursos, afigurando-se sobremaneira prejudicial a manutenção de pagamentos a agentes públicos de remunerações majoradas de forma incompatível com os termos constitucionais.\nForte na jurisprudência do Supremo Tribunal Federal, requer-se que a concessão da medida cautelar pleiteada possa se subsidiar também do critério da conveniência (ADI 1.087-MC, Rel. Min. Moreira Alves, julgamento em 1º.2.1995, Plenário, DJ de 7.4.1995), além do periculum in mora."
+    },
+    {
+      "page": 32,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Apresentadas suficientes e atuais razões de conveniência, conclui-se pela necessidade de preservação da autonomia do ente federativo, especialmente no que diz respeito à sua ordem financeira - que se amoldam aos requisitos fixados por esta Suprema Corte (ADI 834-MC, Rel. Min. Celso de Mello, DJ de 2.4.1993.) Portanto, além do sinal do bom direito, evidenciado pelos próprios fundamentos constitucionais em que se apoia esta ação direta, há premência em que esta Corte conceda a medida cautelar para determinar a imediata suspensão dos efeitos das normas estaduais questionadas.\n5. PEDIDOS E REQUERIMENTOS\nEm face do exposto, requer o PROCURADOR-GERAL DA REPÚBLICA que o Supremo Tribunal Federal conceda medida cautelar para suspensão da eficácia das normas impugnadas, para os fins expostos acima e nos termos do art. 10 da Lei 9.868/1999.\nEm seguida, pleiteia que se colham informações da Assembleia Legislativa, do Governador e da Defensoria Pública do Estado do Maranhão.\nAinda, que se ouça a Advocacia-Geral da União, nos termos do art. 103, § 3º, da Constituição Federal. Superadas essas fases, pede prazo para a manifestação da Procuradoria-Geral da República."
+    },
+    {
+      "page": 33,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Ao final, postula que se julgue procedente o pedido para declarar a inconstitucionalidade do art. 49 da Lei Complementar 19/1994 do Estado do Maranhão, bem como das Resoluções DPGE 36/2018, 3/2018, 12/2017 (por arrastamento) e 1/2013 (arts. 2º a 10), todas do Defensor Público-Geral do Estado do Maranhão.\nBrasília, data da assinatura digital.\nAugusto Aras Procurador-Geral da República Assinado digitalmente\nAMO"
+    }
+  ]
+}

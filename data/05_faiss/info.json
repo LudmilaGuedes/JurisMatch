@@ -1,0 +1,16 @@
+{
+  "tipo_indice": "IndexFlatIP",
+  "busca": "exata (produto interno = cosseno, vetores normalizados)",
+  "faiss_versao": "1.15.1",
+  "vetores": 5107,
+  "dimensao": 768,
+  "documentos": 99,
+  "modelo_embeddings": "intfloat/multilingual-e5-base",
+  "embeddings_gerados_em": "2026-11-06T20:41:07",
+  "tempo_indexacao_ms": 6.057,
+  "memoria_indice_mb": 14.96,
+  "memoria_processo_delta_mb": 15.0,
+  "tamanho_arquivo_mb": 14.96,
+  "agregacao": "max por peticao",
+  "gerado_em": "2026-11-06T20:41:16"
+}

@@ -1,0 +1,260 @@
+{
+  "id": "ADI_6469",
+  "arquivo_pdf": "ADI_6469.pdf",
+  "sha256": "3cc649cb2d1f40cedc98461576b645995f60e204eb2a55e14b5b19a86b4f5275",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:29:34",
+  "resumo": {
+    "paginas": 29,
+    "paginas_digital": 29,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 53507,
+    "chars_clean": 43145,
+    "reducao_pct": 19.4,
+    "linhas_removidas": 144,
+    "limpeza_detalhe": {
+      "cabecalho_rodape": 113,
+      "hifen_mantido": 1,
+      "hifenizacao_unida": 0,
+      "numero_pagina": 31
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "MINISTÉRIO PÚBLICO FEDERAL PROCURADORIA-GERAL DA REPÚBLICA EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL\nPETIÇÃO INICIAL AJCONST Nº 190143/2020 O PROCURADOR-GERAL DA REPÚBLICA, com fundamento nos arts. 102, I, \"a\" e \"p\", 103, VI, e 129, IV, da Constituição Federal; no art.\n46, parágrafo único, I, da Lei Complementar 75, de 20.5.1993 (Lei Orgânica do Ministério Público da União); e na Lei 9.868, de 10.11.1999, vem propor\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE COM PEDIDO DE MEDIDA CAUTELAR\ncontra disposições constantes dos arts. 86-B, 88, incisos III, IV e V, e § 3º, 93 e 97, bem como do anexo único, todos da Lei Complementar 12, de\n18.12.1993, do Estado do Piauí, com alterações das Leis Complementares 225, de 28.6.2017, e 239, de 28.12.2018. As normas disciplinam vantagens pecuniárias de membros do Ministério Público daquela unidade federada.1 1 Acompanham a petição inicial a cópia do ato normativo impugnado (art. 3º da Lei 9.868/1999) e de peças relevantes do Procedimento Administrativo 1.00.000.005407/2018-13.\nDocumento assinado via Token digitalmente por PROCURADOR-GERAL DA REPÚBLICA ANTONIO AUGUSTO BRANDAO DE ARAS, em 18/06/2020 19:19. Para verificar a assinatura acesse http://www.transparencia.mpf.mp.br/validacaodocumento. Chave 5F472C27.14CC299B.FE3A9EA9.1F059F31"
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "1. OBJETO DA AÇÃO\nEste é o teor dos dispositivos contra os quais se dirige a ação, com destaque para as disposições questionadas:\nArt. 86-B. O membro do Ministério Público que, cumulativamente com o exercício das atribuições de seu cargo, for designado para atuar perante Turma Recursal de Juizado Especial ou para integrar a Junta Recursal do Programa de Proteção e Defesa do Consumidor do Ministério Público do Estado do Piauí - PROCON/MP-PI fará jus à gratificação equivalente a 5% (cinco por cento) do seu subsídio. (Artigo acrescentado pela Lei Complementar nº 225, de 28 de junho de 2017).\n§ 1º Somente poderão atuar em Turmas Recursais do Juizado Especial ou integrar a Junta Recursal do PROCON/MP-PI Promotores de Justiça. (parágrafo acrescentado pela Lei Complementar nº 225, de 28 de junho de 2017).\n§ 2º A Junta Recursal será composta de 3 (três) Promotores de Justiça, com mandato de 2 (dois) anos, obedecendo-se a rodízio, e funcionará segundo as normas estabelecidas em Ato do Procurador-Geral de Justiça, que deverá ser expedido no prazo de até 60 (sessenta) dias após a publicação desta lei.\n(parágrafo acrescentado pela Lei Complementar nº 225, de 28 de junho de 2017).\n§ 3º Para cada membro efetivo da Junta Recursal será designado um suplente, que assumirá com direito a voto, nas ausências ou impedimentos do titular, e será considerado o substituto legal deste para completar-lhe o mandato, em caso de vacância. (parágrafo acrescentado pela Lei Complementar nº 225, de 28 de junho de 2017).\n§ 4º A designação de Promotor de Justiça para atuar perante as Turmas Recursais dos Juizados Especiais e do respectivo substituto far-se-á para um período de 2 (dois) anos,"
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "obedecendo-se a rodízio, segundo as normas estabelecidas em Ato do Procurador-Geral de Justiça, que deverá ser expedido no prazo de até 60 (sessenta) dias após a publicação desta lei.\n(parágrafo acrescentado pela Lei Complementar nº 225, de 28 de junho de 2017).\n(…)\nArt. 88. Ao membro do Ministério Público investido em cargo ou função de direção, chefia ou assessoramento, junto à Administração Superior, é devida uma gratificação pelo seu exercício. (NR) (Redação dada pela Lei Complementar nº 225, de 28 de junho de 2017).\n§ 1º A vantagem remuneratória prevista no caput deste artigo será concedida em valor equivalente a percentual do subsídio percebido pelo membro, nos seguintes termos: (AC) (Redação dada pela Lei Complementar nº 225, de 28 de junho de 2017).\nI - 25% (vinte e cinco por cento) ao Procurador-Geral de Justiça;\n(AC) (Redação dada pela Lei Complementar nº 225, de 28 de junho de 2017).\nII - 20% (vinte por cento) ao Corregedor Geral do Ministério Público, ao Ouvidor do Ministério Público, ao Chefe de Gabinete, aos Subprocuradores de Justiça e ao Secretário Geral do Ministério Público; (Redação dada pela Lei Complementar nº 239, de 28 de dezembro de 2018 III - 15% (quinze por cento) ao Assessor de Planejamento e Gestão, aos Assessores do Corregedor-Geral do Ministério Público, aos Coordenadores dos Centros de Apoio Operacional, ao Diretor do Centro de Estudos e Aperfeiçoamento Funcional, ao Coordenador do Programa de Proteção e Defesa do Consumidor do Ministério Público do Estado do Piauí - PROCON/MP-PI, ao Coordenador do Gabinete de Segurança Institucional e ao Coordenador do Grupo de Atuação Especial de Combate ao Crime Organizado; (Redação dada pela Lei Complementar nº 239, de 28 de dezembro de 2018)."
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "IV - 10% (dez por cento) aos Coordenadores de Grupo de Atuação; (Redação dada pela Lei Complementar nº 239, de 28 de dezembro de 2018).\nV - 5 % (cinco por cento) aos Diretores de Sede de órgão de execução e aos Subcoordenadores do Grupo de Atuação Especial de Combate ao Crime Organizado (NR) (Redação dada pela Lei Complementar nº 239, de 28 de dezembro de 2018).\n§ 2º A quantidade de cargos e funções aos quais é atribuída a vantagem prevista neste artigo consta do Anexo I desta lei. (AC) (Redação dada pela Lei Complementar nº 225, de 28 de junho de 2017).\n§ 3º O Procurador-Geral definirá, mediante ato próprio, os grupos de atuação e as sedes de órgão de execução que ensejarão a concessão das vantagens previstas nos incisos IV e V do § 1º deste artigo. (Redação dada pela Lei Complementar nº 239, de 28 de dezembro de 2018).\n(…)\nSEÇÃO V DO AUXÍLIO-SAÚDE\nArt. 93 Ao Membro do Ministério Público será paga indenização para atender às despesas com assistência à saúde, assim entendido como auxílio saúde, sendo o pagamento mensal em pecúnia, na forma estabelecida por Ato regulamentado pelo Procurador Geral de Justiça. (NR) (Redação dada pela Lei Complementar nº 239, de 28 de dezembro de 2018).\n(…)\nSEÇÃO VI DAS GRATIFICAÇÕES\nArt. 97 - Aos membros do Ministério Público serão deferidas as seguintes gratificações:\nI - gratificação adicional de 1% (um por cento) por ano de serviço, incidente sobre o vencimento básico e a verba de"
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "representação, observado o disposto no § 2º deste artigo e no\ninciso XIV, do art. 37 da Constituição Federal.\n(…) Anexo Único Tabela 1 Quantidade de cargos e funções junto à Administração Superior Denominação Gratificação Quantidade Procurador-Geral de Justiça 25,00% 1 Corregedor-Geral do Ministério Público 20,00% 1 Ouvidor do Ministério Público 20,00% 1 Chefe de Gabinete do Procurador-Geral de Justiça 20,00% 1 Secretário Geral do Ministério Público 20,00% 1 Subprocuradores de Justiça 20,00% 3 Assessor de Planejamento e Gestão 15,00% 1 Assessores do Corregedor Geral do Ministério Público 15,00% 3 Coordenadores dos Centros de Apoio Operacional 15,00% 7 Diretor do Centro de Estudos e Aperfeiçoamento Funcional 15,00% 1 Coordenador do Programa de Proteção e Defesa do Consumidor do Ministério Público do Estado do Piauí - PROCON/\nMP-PI\n15,00% 1 Coordenador do Gabinete de Segurança Institucional 15,00% 1 Coordenador do Grupo de Atuação Especial de Combate ao Crime Organizado 15,00% 1 Coordenador de Grupo de Atuação 10,00% 4 Subcoordenadores do Grupo de Atuação Especial de Combate ao Crime Organizado 5,00% 7 Diretor de Sede 5,00%"
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Como se demonstrará, as normas violam o art. 39, § 4º, c/c art.\n128, § 5º, I, \"c\" (regime remuneratório por subsídio fixado em parcela única), e o art. 129, § 4º, c/c art. 93, caput, (competência privativa da União para estabelecer normas gerais do regime jurídico do Ministério Público).\n2. REGIME JURÍDICO NACIONAL DO MINISTÉRIO PÚBLICO\nNo âmbito do Ministério Público brasileiro, a matéria atinente ao regime remuneratório dos membros encontra regramento geral na Lei Orgânica Nacional do Ministério Público (Lei 8.625, de 12.2.1993), cujo art.\n50 assim dispôs:\nArt. 50. Além dos vencimentos, poderão ser outorgadas, a membro do Ministério Público, nos termos da lei, as seguintes vantagens:\nI - ajuda de custo, para despesas de transporte e mudança;\nII - auxílio-moradia, nas Comarcas em que não haja residência oficial condigna para o membro do Ministério Público;\nIII - salário-família;\nIV - diárias;\nV - verba de representação de Ministério Público;\nVI - gratificação pela prestação de serviço à Justiça Eleitoral, equivalente àquela devida ao Magistrado ante o qual oficiar;\nVII - gratificação pela prestação de serviço à Justiça do Trabalho, nas Comarcas em que não haja Junta de Conciliação e Julgamento;\nVIII - gratificação adicional por ano de serviço, incidente sobre o vencimento básico e a verba de representação, observado o disposto no § 3º deste artigo e no inciso XIV do art. 37 da Constituição Federal;"
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "IX - gratificação pelo efetivo exercício em Comarca de difícil provimento, assim definida e indicada em lei ou em ato do Procurador-Geral de Justiça;\nX - gratificação pelo exercício cumulativo de cargos ou funções;\nXI - verba de representação pelo exercício de cargos de direção ou de confiança junto aos órgãos da Administração Superior;\nXII - outras vantagens previstas em lei, inclusive as concedidas aos servidores públicos em geral.\n§ 1º Aplicam-se aos membros do Ministério Público os direitos sociais previstos no art. 7º, incisos VIII, XII, XVII, XVIII e XIX, da Constituição Federal.\n§ 2º Computar-se-á, para efeito de aposentadoria, disponibilidade e adicionais por tempo de serviço, o tempo de exercício da advocacia, até o máximo de quinze anos.\n§ 3º. Constitui parcela dos vencimentos, para todos os efeitos, a gratificação de representação de Ministério Público.\nDiante das mudanças impostas pela Emenda Constitucional 45, de\n30.12.2004, cresceu em densidade no Direito Positivo a aproximação de regimes entre os membros do Ministério Público, a qual preexistia à emenda, dada a similitude de disciplina jurídica de cada uma das respectivas carreiras.\nA EC 45/2004 formalizou esse paralelismo institucional, quando alterou a redação do § 4º do art. 129, que passou a dispor: \"Aplica-se ao Ministério Público, no que couber, o disposto no art. 93.\"2 2 Ainda antes, o art. 129, § 4º, já dispunha na direção dessa simetria, pois preceituava:\n\"Aplica-se ao Ministério Público, no que couber, o disposto no art. 93, II e VI.\""
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Os relevantes traços contemporâneos da natureza unitária do a que o regramento de direitos, vantagens e prerrogativas funcionais contem com disciplina nacional e simétrica.\nDevido à unidade de regime jurídico, importa haver igualmente unidade de remuneração. Aquela não é absoluta, pois se admitem normas legais e infralegais específicas dos entes da Federação para reger aspectos particulares do regime jurídico dos membros do MP e do funcionamento dos seus órgãos. Contudo, as grandes linhas do estatuto demandam normatização uniforme, o que não é novidade, pois já decorre da própria edição da Lei 8.625/1993, como Lei Orgânica Nacional para o MP.\nPor essas características e pelo mandamento expresso do art. 129,\n§ 4º, da Constituição, consideradas ainda as peculiaridades sociopolíticas do federalismo pátrio, há de haver uniformidade para um equilíbrio na disciplina funcional dos membros do Ministério Público, notadamente no que toca ao regramento de direitos, vantagens e prerrogativas funcionais.\nNão por outro motivo, tem buscado o Conselho Nacional do Ministério Público, no desempenho da sua competência constitucional para supervisionar a atuação administrativa e financeira da instituição ministerial, uniformizar a política remuneratória dos membros do MP e estabelecer as parcelas suscetíveis de percepção cumulada com o subsídio."
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Para tanto, destaca-se a Resolução 9, de 21.6.2006, cujo art. 4º expressamente previu a absorção de parcelas do regime anterior e excepcionou aquelas suscetíveis de percepção cumulada com o subsídio:\nArt. 4º Estão compreendidas no subsídio de que trata o artigo anterior e são por esse extintas todas as parcelas do regime remuneratório anterior, exceto as decorrentes de:\nI - diferença de entrância ou substituição ou exercício cumulativo de atribuições;\nII - gratificação pelo exercício da função de Procurador-Geral, Vice Procurador-Geral ou equivalente e Corregedor-Geral, quando não houver a fixação de subsídio próprio para as referidas funções;\nIII - gratificação pelo exercício de função de direção, chefia ou assessoramento nos gabinetes do Procurador-Geral, Vice Procurador-Geral ou equivalente, Corregedor-Geral ou em outros órgãos do respectivo Ministério Público, do Conselho Nacional do Ministério Público e do Conselho Nacional de Justiça, na forma prevista no\ninciso V do art. 37 da Constituição Federal;\nIV - exercício em local de difícil provimento;\nV - incorporação de vantagens pessoais decorrentes de exercício de função de direção, chefia ou assessoramento e da aplicação do\nparágrafo único do art. 232 da Lei Complementar 75 de 1993, ou equivalente nos Estados, aos que preencheram os seus requisitos até a publicação da Emenda Constitucional nº 20, em 16 de dezembro de 1998;\nVI - direção de escola do Ministério Público.\nVII - gratificação pelo exercício de função em conselhos ou em órgãos colegiados externos cuja participação do membro do Ministério Público decorra de lei;\nParágrafo único. A soma das verbas previstas neste artigo com o subsídio mensal não poderá exceder o teto remuneratório constitucional."
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Teve por escopo referido ato evitar a dissonância de vantagens que legislaturas de alguns estados têm deferido a membros do MP, diferenciando-os relativamente a agentes que desempenham funções idênticas e não se veem merecedores do mesmo tratamento legal, em situação que, relativamente à magistratura, já foi objeto da preocupação do STF no julgamento da medida cautelar na ADI 3.854/DF (Rel. Min. Cezar Peluso, DJ de 29.6.2007).3 Como dito, o caráter nacionalmente unificado do Ministério Público foi reforçado pela EC 45/2004, ao fixar regime nacional de subsídios para os membros da carreira.\nAntes, havia limites máximos estaduais (\"tetos remuneratórios\") e estabelecimento de remuneração por leis dos respectivos entes.\nCom a Emenda, estipulou a Constituição o valor dos subsídios para a carreira, reduziu o âmbito material de validade das leis estaduais e caminhou para a definição de parâmetros na órbita federal, adaptados para menor, conforme o caso, pelos Estados.\n3 Trecho da ementa resume esse aspecto: \"MAGISTRATURA. Remuneração. Limite ou teto remuneratório constitucional. Fixação diferenciada para os membros da magistratura federal e estadual. Inadmissibilidade. Caráter nacional do Poder Judiciário. Distinção arbitrária. Ofensa à regra constitucional da igualdade ou isonomia. Interpretação conforme dada ao art. 37, inc. XI, e § 12, da CF. Aparência de inconstitucionalidade do art. 2o da Resolução no 13/2006 e do art. 1º, § único, da Resolução no 14/2006, ambas do Conselho Nacional de Justiça. (…)\". O caráter nacional da magistratura judicial foi aspecto central do voto condutor."
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Em julgado recente, com fundamento na competência da lei complementar nacional para fixar direitos e vantagens remuneratórias de magistrados, o STF afirmou a inconstitucionalidade de dispositivos de lei maranhense que previam pagamento de verba de representação para o Presidente, o Vice-Presidente, o Corregedor-Geral e o decano do Tribunal de Justiça. Eis a ementa do julgado:\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE - ARTIGO\n80, CAPUT, E §§ 1º a 4º, DA LEI COMPLEMENTAR ESTADUAL MARANHENSE Nº 14/91, CUJOS §§ 2º e 3º FORAM ALTERADOS PELO ARTIGO 2º, DA LEI COMPLEMENTAR ESTADUAL Nº 16/92 E CUJO § 4º FOI ACRESCENTADO PELO ARTIGO 2º, DA\nLEI\nCOMPLEMENTAR ESTADUAL Nº 18/93 - INSTITUIÇÃO DE\nVERBA DE REPRESENTAÇÃO PARA O PRESIDENTE (40%), O VICE-PRESIDENTE (30%), O CORREGEDOR-GERAL (30%) E O DECANO (20%) DO TRIBUNAL DE JUSTIÇA - VANTAGEM REMUNERATÓRIA NÃO PREVISTA NA LOMAN (ART. 65) - VIOLAÇÃO AO ART. 93, CAPUT, DA CONSTITUIÇÃO.\n1. A redação do inciso V, do art. 93, da Constituição Federal, que constitui um dos princípios a ser observado pelo caput do referido artigo, foi modificada pela Emenda Constitucional nº 19/98, todavia, a simples leitura dos dispositivos revela que a redação nova mantém o princípio que veda o recebimento pelos desembargadores de vencimentos superiores aos do Ministro do STF e de Tribunais Superiores, assim como proíbe diferenças de mais de 10% (dez por cento) em relação a magistrados imediatamente inferiores. Evidente, pois, que não se trata de alteração substancial.\n2. O teor do artigo 93, V, da CF indica que o parâmetro de controle instituído pela Emenda Constitucional nº 19/98 permanece íntegro,"
+    },
+    {
+      "page": 12,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "mesmo após a vigência da Emenda Constitucional nº 41/03. Isto porque a EC nº 41/2003 não alterou o parâmetro de controle de constitucionalidade (art. 93, V, da CF), uma vez que abrangeu teor de simples dispositivo (artigo 37, XI, da CF) objeto de remissão feita no artigo 93, V, da Constituição Federal. Ainda que a mudança fosse substancial, não seria o caso de seguir a jurisprudência tradicional da corte para assentar o prejuízo da demanda, sobretudo porque mais relevante do que a atualidade do parâmetro de controle é a constatar que a inconstitucionalidade persiste e é atual.\n3. Na linha da pacífica jurisprudência do Supremo Tribunal Federal, a ofensa às normas contidas na LOMAN pode ser examinada em sede de controle abstrato de constitucionalidade. Entende o Tribunal que, nessa hipótese, ocorre violação à própria Constituição (art. 93, caput), a qual reserva a lei complementar de iniciativa do Supremo Tribunal Federal o tratamento dos temas atinentes ao Estatuto da Magistratura. Até o advento da lei complementar prevista no art. 93, caput, da Constituição, o Estatuto da Magistratura continua a ser disciplinado pela Lei Complementar 35/79 (LOMAN). Na espécie, o artigo 80, caput, e §§ 1º a 4º, da Lei Complementar Estadual Maranhense nº 14/91 (cujos §§ 2º e 3º foram alterados pelo artigo 2º, da Lei Complementar Estadual nº 16/92 e cujo § 4º foi acrescentado pelo artigo 2º, da Lei Complementar Estadual nº 18/93) instituíram verba de representação para o Presidente (40%), o Vice-Presidente (30%), o Corregedor-Geral (30%) e o Decano (20%) do Tribunal de Justiça, dos seus vencimentos mensais. Nota-se, ainda, quando da aposentadoria de membros do Tribunal de Justiça, que será incorporado aos seus proventos, a maior gratificação percebida em cargo de direção, sendo certo que aquele que tiver exercido qualquer um dos cargos de direção incorporará aos seus vencimentos, até a aposentadoria, a gratificação aludida. Como se vê, trata-se de uma vantagem remuneratória não prevista pela Lei Orgânica da Magistratura Nacional (Lei Complementar 35/79), recepcionada pela Constituição de 1988. Precedentes."
+    },
+    {
+      "page": 13,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "4. A norma do art. 65 da LOMAN é numerus clausus, sendo proibido ao legislador ordinário, federal ou estadual, bem como aos tribunais, quando da confecção do regimento interno, suprimir ou instituir novos direitos e vantagens aos magistrados. Ademais, não procede a tese segundo a qual o art. 65, § 2º, da LOMAN não teria sido recepcionado pela Constituição de 1988. Sobre esse tópico, já se manifestou o Supremo Tribunal Federal no sentido de que não resta qualquer dúvida de que as disposições da Lei Orgânica da Magistratura, concernentes a direitos e vantagens dos magistrados, são taxativas, e foram recepcionadas pela Carta da República de 1988. Precedentes.\n5. A \"verba de representação\" criada pelo artigo 80, caput, e §§ 1º a 4º, da Lei Complementar Estadual Maranhense nº 14/91 é inconstitucional, pois constitui vantagem remuneratória não disciplinada pela LOMAN. Ação julgada procedente.\n(ADI 3.072, Rel. Min. Gilmar Mendes, DJe de 15.8.2019) Nessa linha, a uniformização visada pelo órgão de supervisão administrativa, financeira e funcional do MP, somada à determinação constitucional de unidade sistêmica dos arts. 93, caput, e 129, § 4º, da CF, torna explícita a inviabilidade de, por meio de leis estaduais, inovarem os entes subnacionais no regramento de benefícios, direitos ou vantagens pecuniárias de membros da carreira.\nÉ precisamente este o caso das disposições questionadas nesta ação.\nConforme se demonstrará, ao instituírem parcelas pecuniárias em favor de membros do MP piauiense, usurparam a competência legislativa da União"
+    },
+    {
+      "page": 14,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "para disciplinar o regime jurídico remuneratório nacionalmente unificado do Ministério Público.\n3. MODELO UNITÁRIO DE REMUNERAÇÃO POR SUBSÍDIO\nA Emenda Constitucional 19, de 4.6.1998, modificou o sistema remuneratório dos agentes públicos e fixou o subsídio como forma de remunerar certas categorias desses trabalhadores. Pretendeu conferir maior transparência e uniformidade ao regime remuneratório de categorias específicas de agentes públicos, com critérios paritários e claros, em reforço à feição democrática e republicana do Estado brasileiro e aos princípios da isonomia, da moralidade e da publicidade, entre outros. Marçal Justen Filho observa, a esse respeito:\nA Emenda Constitucional n. 19/98 adotou a figura do \"subsídio\" para assegurar o controle sobre a remuneração dos ocupantes de cargos e funções de mais elevada hierarquia. No passado, era usual a fixação de um \"vencimento-base\" de valor irrisório, a que se somavam vantagens pecuniárias de grande relevo.\nEssa situação produzia reflexos indiretos, na medida em que a remuneração desses agentes era o teto para a remuneração devida ao restante dos servidores.\nPara superar essas dificuldades, foi alterada a composição da remuneração de cargos e funções de mais elevada hierarquia, impondo-se a fixação de uma parcela única (subsídio), abrangente"
+    },
+    {
+      "page": 15,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "tanto da remuneração-base como substitutiva de eventuais vantagens pecuniárias de outra ordem.4 José Afonso da Silva afirma que o regime de subsídio fixado em parcela única, reincorporado à Constituição do Brasil pela EC 19/1998, é de adoção obrigatória para determinadas categorias de agentes públicos, tais como as relacionadas no art. 39, § 4º, e aquelas expressamente referidas em dispositivos esparsos do texto constitucional.5 Imposição de parcela única remuneratória a categorias específicas de agentes públicos, federais, estaduais, distritais e municipais, guarda pertinência com diretrizes constitucionais como as de economicidade, isonomia, moralidade, publicidade e legalidade. A respeito do necessário controle do quantum percebido por agentes públicos, adverte José dos Santos Carvalho Filho:\nPela EC no 19/98, que traçou as regras gerais pertinentes à reforma administrativa do Estado, passou a ser denominada de \"subsídio\" a remuneração do membro de Poder, do detentor de cargo eletivo, dos Ministros de Estado e dos Secretários Estaduais e Municipais, conforme a nova redação do art. 39, § 4o, da CF, bem como a remuneração dos membros do Ministério Público (art. 128, § 5o, I, c, da CF) e dos integrantes da Defensoria Pública e da Advocacia Pública, incluindo-se nesta as Procuradorias dos Estados e do 4 JUSTEN FILHO, Marçal, Curso de direito administrativo, São Paulo: Saraiva, 2005, p.\n634-636.\n5 SILVA, José Afonso da, Comentário contextual à Constituição, 7. ed., São Paulo:\nMalheiros, 2010, p. 360."
+    },
+    {
+      "page": 16,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Distrito Federal (art. 135 c/c arts. 131 e 133, o primeiro com remissão ao art. 39, § 4o).\nDe acordo com o referido mandamento, duas são as características do subsídio: em primeiro lugar, deve observar o teto remuneratório fixado no art. 37, XI; além disso, deve ser estabelecido em parcela única, sendo, portanto, vedado o acréscimo de algumas vantagens pecuniárias, como gratificações, adicionais, abonos, prêmios, verbas de representação e outras de caráter remuneratório.6 O regime constitucional de pagamento unitário que caracteriza o modelo do subsídio repele acréscimos remuneratórios devidos pelo trabalho ordinário de agentes públicos.\nO art. 39, § 4º, da CF é expresso ao vedar acréscimo de gratificação, adicional, abono, prêmio, verba de representação e outras espécies remuneratórias à parcela única: \"o membro de Poder, o detentor de mandato eletivo, os Ministros de Estado e os Secretários Estaduais e Municipais serão remunerados exclusivamente por subsídio fixado em parcela única\".\nSubsídio, portanto, implica unicidade de remuneração. A distinção essencial entre o regime de subsídio e o sistema de remuneração com base em vencimentos reside precisamente na vedação de que ao primeiro seja acrescida vantagens pecuniárias extras de natureza remuneratória (como gratificações, adicionais, abono, prêmio, verbas de representação e outras de 6 CARVALHO FILHO, José dos Santos, Manual de direito administrativo, 16. ed., Rio de Janeiro: Lumen Juris, 2006, p. 607."
+    },
+    {
+      "page": 17,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "idêntico caráter).7 Acerca do conceito de vantagens pecuniárias, Carvalho Filho esclarece:\n(…) são as parcelas pecuniárias acrescidas ao vencimento-base em decorrência de uma situação fática previamente estabelecida na norma jurídica pertinente. Toda vantagem pecuniária reclama a consumação de certo fato, que proporciona o direito à sua percepção.\nPresente a situação fática prevista na norma, fica assegurado ao servidor o direito subjetivo a receber o valor correspondente à vantagem. Esses fatos podem ser das mais diversas ordens:\ndesempenho das funções por certo tempo; natureza especial da função; grau de escolaridade; funções exercidas em gabinetes de chefia; trabalho em condições anormais de dificuldades etc.\nSão vantagens pecuniárias, entre outras, os adicionais e as gratificações.8 Há situações, contudo, nas quais se mostra legítimo acréscimo pecuniário à parcela única. É indispensável, para que determinada verba ou prestação pecuniária seja percebida em cumulação ao subsídio, que tenha fundamento no desempenho de atividades extraordinárias ou que decorra de indenização por aquilo que não constitua atribuição regular desempenhada pelo servidor.9 A esse respeito, Maria Sylvia Zannela di Pietro observa:\nAo falar em parcela única, fica clara a intenção de vedar a fixação dos subsídios em duas partes, um fixa e outra variável, tal como ocorria 7 FURTADO, Lucas Rocha, Curso de direito administrativo, 3. ed., Belo Horizonte: Fórum, 2012, p. 772.\n8 CARVALHO FILHO, Jose dos Santos, obra citada, p. 608.\nSILVA, José Afonso da, obra citada, p. 685."
+    },
+    {
+      "page": 18,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "com os agentes políticos na vigência da Constituição de 1967. E, ao vedar expressamente o acréscimo de qualquer gratificação, adicional, abono prêmio, verba de representação ou outra espécie remuneratória, também fica clara a intenção de extinguir, para as mesmas categorias de agentes públicos, o sistema remuneratório que vem vigorando tradicionalmente na Administração Pública e que compreende o padrão fixado em lei mais as vantagens pecuniárias de variada natureza previstas na legislação estatutária.\n(…) No entanto, embora o disposto fale em parcela única, a intenção do legislador fica parcialmente frustrada em decorrência de outros dispositivos da própria Constituição, que não foram atingidos pela Emenda. Com efeito, mantém-se, no art. 39, § 3º, a norma que manda aplicar aos ocupantes de cargo público o disposto no art. 7º, IV, VII, VIII, IX, XII, XIII, XV, XVI, XVII, XVIII, XIX, XX, XXII e XXX.\nCom isto, o servidor que ocupe cargo público (o que exclui os que exercem mandato eletivo e os que ocupam emprego público, já abrangidos pelo art. 7º) fará jus a: décimo terceiro salário, adicional noturno, salário-família, remuneração do serviço extraordinário superior, no mínimo, a 50% à do normal, adicional de férias, licença à gestante, sem prejuízo do emprego e salário, com a duração de cento e vinte dias.\nPoder-se-ia argumentar que o § 4º do art. 39 exclui essas vantagens ao falar em parcela única; ocorre que o § 3º refere-se genericamente aos ocupantes de cargo público, sem fazer qualquer distinção quanto ao regime de retribuição pecuniária. Quando há duas normas constitucionais aparentemente contraditórias, tem-se que adotar interpretação conciliatória, para tirar de cada uma delas o máximo de aplicação possível. No caso, tem-se que conciliar os §§ 3º e 4º do artigo 39, de modo a entender que, embora o segundo fale em parcela única, isto não impede a aplicação do outro, que assegura o direito a determinadas vantagens, portanto, igualmente com fundamento constitucional."
+    },
+    {
+      "page": 19,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Também não podem deixar de ser pagas as vantagens que têm caráter indenizatório, já que se trata de compensar o servidor por despesas efetuadas no exercício do cargo; é o caso das diárias e das ajudas de custo. Não se pode pretender que o servidor que faça gastos indispensáveis ao exercício de suas atribuições não receba a devida compensação pecuniária. Trata-se de aplicação pura e simples de um princípio geral de direito que impõe a quem quer que cause prejuízo a outrem o dever de indenizar.10 Para Hely Lopes Meirelles, não são abrangidas pela unicidade do subsídio as parcelas de caráter indenizatório previstas em lei, desde que tais verbas observem os princípios constitucionais da legalidade, da razoabilidade e da moralidade, \"sob pena de caracterizarem inaceitável fraude aos limites remuneratórios e ao conceito constitucional de subsídio, a ser repelida pelo Poder Judiciário no exame de constitucionalidade, direto (concentrado) ou incidental (difuso), da lei que as instituírem.\"11 A jurisprudência do Supremo Tribunal é no sentido da inviabilidade de pagamento a agentes públicos que percebem subsídio, de gratificações que não correspondam a atividades extraordinárias, conforme se vê dos julgados a seguir:\nAGRAVO REGIMENTAL. SUSPENSÃO DE SEGURANÇA.\nOCORRÊNCIA DE GRAVE LESÃO À ORDEM E À\n10 PIETRO, Maria Sylvia Zanella di, Direito administrativo, 18. ed. São Paulo: Atlas, 2005, p. 463-464. Destaques no original.\n11 MEIRELLES, Hely Lopes. Direito Administrativo brasileiro. 37. ed. São Paulo: Malheiros, 2011, p. 526."
+    },
+    {
+      "page": 20,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "ECONOMIA PÚBLICAS. MAGISTRADO. ACRÉSCIMO DE\n20% SOBRE OS PROVENTOS DA APOSENTADORIA (art.\n184, II, da Lei 1.711/52 c/c o art. 250 da Lei 8.112/90) ABSORVIDO\nPELA IMPLEMENTAÇÃO DO SUBSÍDIO. DETERMINAÇÃO DE INCIDÊNCIA SOBRE O SUBSÍDIO MENSAL DEVIDO AO OCUPANTE DO CARGO DE JUIZ DO TRIBUNAL REGIONAL\nFEDERAL DA 2a REGIÃO. VIOLAÇÃO AO ART. 39, § 4o, DA\nCONSTITUIÇÃO DA REPÚBLICA. INOCORRÊNCIA, NO CASO, DE DECRÉSCIMO REMUNERATÓRIO.\n(…)\n2. O acórdão impugnado, ao determinar a incidência da vantagem pessoal de 20%, prevista no art. 184, II, da Lei 1.771/52, sobre o valor do subsídio mensal devido ao ocupante do cargo de juiz do Tribunal Regional Federal da 2a Região, violou o disposto no art. 39,\n§ 4o, da Constituição da República, o qual fixa a remuneração dos membros de Poder em parcela única.\n3. Agravo regimental improvido.\n(SS 3.108-AgR/RJ, Rel. Min. Ellen Gracie, DJe 74, 24.4.2008.)\nCONSTITUCIONAL. MEDIDA CAUTELAR. AÇÃO DIRETA DE\nINCONSTITUCIONALIDADE. ARTIGO 2o DA LEI No 1.572, DE 13 DE JANEIRO DE 2006, DO ESTADO DE RONDÔNIA. Num juízo prévio e sumário - próprio das cautelares -, afigura-se contrário ao § 4o do artigo 39 da Constituição Federal o artigo 2o da Lei rondoniense no 1.572/06, que prevê o pagamento de verba de representação ao Governador do Estado e ao Vice-Governador.\nMedida liminar deferida para suspender a eficácia do dispositivo impugnado, até o julgamento de mérito da presente ação direta de inconstitucionalidade.\n(ADI 3.771-MC/RO, Rel. Min. Carlos Britto, DJ, de 25.8.2006.) Desse modo, somente se legitima perante o modelo unitário de remuneração que caracteriza o regime constitucional do subsídio a percepção"
+    },
+    {
+      "page": 21,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "de parcelas adicionais que tenham fundamento em acréscimo extraordinário de atribuições e responsabilidades ou tenham nítido caráter indenizatório, entendidas assim as verbas que se destinem a compensar o beneficiário por despesas extraordinárias efetuadas para viabilizar o exercício de funções do cargo (mas que não sejam inerentes a esse), de que são exemplo clássico as diárias e o transporte para fazer face a custos de deslocamentos eventuais no interesse do serviço.\n4. INCONSTITUCIONALIDADE DAS NORMAS ESTADUAIS\nA LC 12/1993 do Piauí, nas disposições ora questionadas dos arts.\n86-A, 86-B, 88, incisos III, IV, V e § 3º, 93 e 97, e anexo único, com alterações das LCs 225/2017 e 239/2018, inovou no tratamento de parcelas pecuniárias - gratificações e/ou adicionais - de membros do Ministério Público, instituindo benefícios sem correspondência seja na Lei Orgânica Nacional do Ministério Público, seja na disciplina uniforme editada pelo CNMP, com quebra do modelo unitário de remuneração por subsídio, a saber:\ni) no art. 86-B: gratificação de 5% do subsídio por atuação em turmas ou juntas recursais. Trata-se de parcela não prevista na Lei federal 8.625/1993 e tampouco excepcionada pelo art. 4º da Resolução 9/2006 do CNMP;"
+    },
+    {
+      "page": 22,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "ii) no art. 88, III, IV, V, § 3º, c/c anexo único: gratificações de 15%, 10% e 5% do subsídio por desempenho de funções de coordenador de centro de apoio operacional, diretor de centro de estudos e aperfeiçoamento funcional, coordenador de programa de proteção e defesa do consumidor, coordenador de gabinete de segurança institucional, coordenador e subcoordenador de grupo de atuação especial de combate ao crime organizado, coordenador de grupo de atuação e diretor de sede de órgão de execução. As parcelas não têm previsão no art. 50 da Lei 8.625/1993, nem estão excepcionadas pela Resolução 9/2006 do CNMP, remunerando tarefas regulares de membros da instituição, com quebra do modelo unitário de remuneração por subsídio;\niii) no art. 93: auxílio-saúde, sem previsão na Resolução 9/2006 do CNMP e em quebra do modelo unitário do subsídio;\niv) no art. 97, I: gratificação adicional de 1% por ano de serviço.\nTrata-se de parcela que não foi excepcionada pelo art. 4º da Resolução 9/2006 do CNMP, e que tampouco se coaduna com o modelo unitário de remuneração por subsídio.\nEm conformidade com a ordem constitucional vigente, sobretudo a partir da promulgação das ECs 19/1998 e 45/2004, gratificações e adicionais pecuniários cumuláveis com subsídio exigem o desempenho de tarefas"
+    },
+    {
+      "page": 23,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "distintas daquelas inerentes às funções do agente público ou membro de Poder, de caráter extraordinário e que representem acréscimo de encargos e de responsabilidades.\nTal não é o caso das disposições ora questionadas da LC 12/1993, que se destinam a remunerar o exercício de funções ordinárias de membros do Ministério Público piauiense. Tampouco consubstanciam verbas de natureza indenizatória, pois remuneram trabalho ordinário de membros, razão pela qual sua percepção cumulada com o subsídio não se sustenta.\nNo caso das gratificações de função disciplinadas pelas disposições questionadas dos arts. 86-B e 88, III, IV, V, § 3º, c/c anexo único, da LC 12/1993, tem-se de adicionais pecuniários voltados a compensar atividades institucionais ordinárias exercidas perante órgãos do MP piauiense - turma recursal, centro de apoio operacional, grupos de atuação, programa de proteção e defesa de consumidor, por exemplo -, as quais não se afiguram como atividades de direção, chefia ou assessoramento à administração superior da instituição, circunstância que legitimaria e justificaria o acréscimo pecuniário, nos moldes da disciplina nacional da Lei Orgânica Nacional do Ministério Público12 e da Resolução CNMP 9/2006.\n12 No ponto, o art. 50, XI, da Lei 8.625/1993 admite a retribuição pecuniária por função, quando destinada a remunerar o desempenho de \"cargos de direção ou de confiança junto aos órgãos da Administração Superior\"."
+    },
+    {
+      "page": 24,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "No que toca à parcela prevista no art. 93 da Lei Complementar 12/1993 - auxílio-saúde - impende ressaltar que a Procuradoria-Geral da República tem sustentado, em ações de controle concentrado ainda pendentes de julgamento,13 que despesas ordinárias com a saúde feitas por agentes públicos, ainda que indevidamente denominadas por lei como de natureza indenizatória, inserem-se na proibição de acréscimo pecuniário contida no\nart. 39, § 4º, da Constituição, uma vez que não têm relação direta com o exercício da função e merecem ser custeadas pela remuneração do servidor.\nNessa linha, o art. 7º, IV, da CF - aplicável aos agentes públicos por força do art. 39, § 3º, da CF -, prevê a despesa com saúde do trabalhador e de sua família como abrangida pelo salário-mínimo, ou seja, como despesa a ser coberta pela remuneração e não como despesa extraordinária. Portanto, as despesas ordinárias com saúde não caracterizam verba indenizatória e, dessa forma, não constituem exceção legítima ao regime constitucional do subsídio.\nA propósito, concedeu o Ministro Roberto Barroso medida cautelar para suspender a eficácia de dispositivos que permitiam o pagamento de auxílio-saúde e de auxílio ao aperfeiçoamento profissional aos membros do MP do Estado de Minas Gerais, em ação direta de inconstitucionalidade ajuizada pela Procuradoria-Geral da República (ADI 5.781/MG).\n13 Nesse sentido: ADIs 5.407/MG (Rel. Min. Alexandre de Moraes), 5.781/MG (Rel. Min.\nRoberto Barroso), 5.921/PE (Rel. Min. Marco Aurélio), e ADPF 445/MT (Rel. Min. Rosa Weber)."
+    },
+    {
+      "page": 25,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Na decisão, consignou-se que os auxílios questionados não se destinavam a compensar o servidor por despesas efetuadas no exercício da função e, dessa forma, por não se caraterizarem com verbas indenizatórias, estariam sujeitos à proibição contida no art. 39, § 4º, da Constituição:\nDIREITO CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ART. 119, XVII E XX, DA LEI COMPLEMENTAR 34/1994, ACRESCENTADOS PELO ART. 14 DA LEI COMPLEMENTAR 136/2014, DE MINAS GERAIS. PAGAMENTO DE \"AUXÍLIO AO APERFEIÇOAMENTO PROFISSIONAL\" E \"AUXÍLIO SAÚDE\" A MEMBROS DO MINISTÉRIO PÚBLICO ESTADUAL.\n1. O art. 39, § 4.º, da Constituição Federal, inserido pela Emenda Constitucional nº 19, de 04.06.1998, estabelece o regime remuneratório de subsídio, caracterizado pela unicidade da remuneração enquanto regra constitucional, com explícita vedação aos acréscimos de vantagens pecuniárias de natureza remuneratória.\nExcetuam-se, todavia, as verbas indenizatórias, consoante o disposto no art. 37, § 11, também da Constituição, que determina que verbas desta índole não serão computadas, para efeito dos limites remuneratórios estabelecidos pelo constituinte.\n2. Os auxílios impugnados na presente ação não constituem, todavia, exceções legítimas à regra do subsídio. Tanto no que diz respeito ao \"auxílio ao aperfeiçoamento profissional\", como no que se relaciona ao \"auxílio-saúde\", não há qualquer nexo causal direto entre o cargo e a vantagem, na medida em que tais gastos assumem caráter indireto e subsidiário ao exercício da função própria dos membros do Ministério Público estadual.\n3. Medida cautelar deferida para o fim de suspender a eficácia do\nart. 119, XVII e XX, da Lei Complementar nº 34/1994, acrescentados pelo art. 14 da Lei Complementar nº 136/2014, do"
+    },
+    {
+      "page": 26,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Estado de Minas Gerais, até o julgamento definitivo da presente ação direta de inconstitucionalidade.\n(ADI 5.781-MC/MG, Rel. Min. Roberto Barroso, DJe 25, de 14 fev. 2018).\nRessaltou na ocasião o eminente Ministro Roberto Barroso que a compatibilidade com o modelo unitário de remuneração por subsídio demanda um juízo de extraordinariedade das gratificações, configurando-se seu teor indenizatório apenas \"quando presente a finalidade de compensação do agente por despesas não cotidianas efetivamente atreladas ao estrito cumprimento da respectiva função pública\".\nPor outro lado, saúde constitui direito fundamental assegurado indistintamente a todos, incumbindo ao Estado a sua promoção, proteção e recuperação \"mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços\" (CF, art. 196), o que faz por meio do sistema único de saúde.\nEm suma, consoante demonstrado, os benefícios estabelecidos pelas disposições ora questionadas da Lei Complementar 12/1993 são formal e materialmente inconstitucionais, seja por inovarem relativamente ao regime jurídico nacional do MP, contrariando a Resolução 9/2006 do CNMP, seja por descaracterizarem o modelo de retribuição em parcela única que consubstancia o subsídio."
+    },
+    {
+      "page": 27,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Logo, as mencionadas normas objeto desta ação malferem o art. 39,\n§ 4º, c/c art. 128, § 5º, I, \"c\"; e o art. 129, § 4º, c/c art. 93, caput, todos da CF.\n5. PEDIDO DE MEDIDA CAUTELAR\nEstão presentes os pressupostos para a concessão de medida cautelar.\nA plausibilidade jurídica do pedido (fumus boni juris) está suficientemente demonstrada pelos argumentos deduzidos nesta petição inicial, que encontram amparo na jurisprudência do Supremo Tribunal Federal.\nO perigo na demora processual (periculum in mora) decorre do fato de, enquanto não suspensa a eficácia das normas, continuarem a ser efetuados pagamentos indevidos de gratificações e verbas inconstitucionais a membros do Ministério Público piauiense.\nTais pagamentos consubstanciam dano de incerta ou de difícil reparação ao erário estadual, dada a improvável repetibilidade de valores, seja pelo seu caráter alimentar, seja pela possibilidade de os beneficiários alegarem boa fé no recebimento. Ademais, as normas impugnadas:\n(i) desacreditam o sistema constitucional de remuneração por subsídio, fixado em parcela única;"
+    },
+    {
+      "page": 28,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "(ii) geram desigualdade entre os diversos órgãos do Ministério Público, na medida em que uns Estados recebem determinadas vantagens (inconstitucionais) e outros não; e\n(iii) agravam a crise fiscal e afetam negativamente as receitas estaduais em uma conjuntura de queda de arrecadação, em decorrência dos impactos econômicos do surto de epidemia nacional do novo coronavírus (Covid-19).\nNo atual contexto de enfrentamento da epidemia de Covid-19, com queda substancial da arrecadação dos Estados, decorrente da paralisação de setores estratégicos para a economia, e da necessidade de auxílio estatal para a população mais carente de recursos, o pagamento de verbas pecuniárias inconstitucionais afigura-se ainda mais prejudicial ao interesse público e reclama a imediata censura por parte do Supremo Tribunal Federal.\nDessa forma, além do sinal do bom direito evidenciado pelos próprios fundamentos constitucionais em que se apoia esta ação direta, há premência em que esta Corte conceda medida cautelar para determinar a imediata suspensão dos efeitos dos dispositivos questionados da Lei Complementar 12/1993 do Estado do Piauí."
+    },
+    {
+      "page": 29,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "6. PEDIDOS E REQUERIMENTOS\nEm face do exposto, requer o PROCURADOR-GERAL DA REPÚBLICA que esse Supremo Tribunal conceda medida cautelar para a suspensão da eficácia das normas impugnadas, para os fins expostos e nos termos do art. 10 da Lei 9.868/1999.\nEm seguida, que se colham as informações do Procurador-Geral de Justiça, da Assembleia Legislativa e do Governador do Estado do Piauí, e que se ouça a Advocacia-Geral da União, nos termos do art. 103, § 3º, da Constituição Federal. Superadas essas fases, pede prazo para a manifestação da Procuradoria-Geral da República.\nAo final, postula que se julgue procedente o pedido para declarar a inconstitucionalidade dos arts. 86-B, 88, incisos III (expressões destacadas), IV e V, e § 3º, 93 e 97, bem como do anexo único (expressões destacadas), todos da Lei Complementar 12/1993, do Estado do Piauí, com alterações das Leis Complementares 225/2017 e 239/2018.\nBrasília, data da assinatura digital.\nAugusto Aras Procurador-Geral da República Assinado digitalmente\nAMO"
+    }
+  ]
+}

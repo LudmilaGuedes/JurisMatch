@@ -1,0 +1,101 @@
+consulta_id,consulta,rank,document_id,score,chunk_id,page_start,page_end
+Q01,piso salarial nacional da enfermagem,1,ADI_7222,0.898475,ADI_7222_0010,6,6
+Q01,piso salarial nacional da enfermagem,2,ADI_7832,0.850723,ADI_7832_0021,9,10
+Q01,piso salarial nacional da enfermagem,3,ADI_6309,0.839826,ADI_6309_0061,44,45
+Q01,piso salarial nacional da enfermagem,4,ADI_7693,0.833991,ADI_7693_0076,56,57
+Q01,piso salarial nacional da enfermagem,5,ADI_6256,0.832658,ADI_6256_0001,1,1
+Q01,piso salarial nacional da enfermagem,6,ADI_6343,0.830439,ADI_6343_0007,4,5
+Q01,piso salarial nacional da enfermagem,7,ADI_7419,0.829228,ADI_7419_0001,1,2
+Q01,piso salarial nacional da enfermagem,8,ADI_6257,0.828836,ADI_6257_0020,13,14
+Q01,piso salarial nacional da enfermagem,9,ADI_6254,0.826701,ADI_6254_0028,24,25
+Q01,piso salarial nacional da enfermagem,10,ADI_7495,0.826458,ADI_7495_0001,1,2
+Q02,reforma da previdência e alíquotas de contribuição dos servidores,1,ADI_6367,0.878651,ADI_6367_0085,50,51
+Q02,reforma da previdência e alíquotas de contribuição dos servidores,2,ADI_6731,0.873805,ADI_6731_0007,5,6
+Q02,reforma da previdência e alíquotas de contribuição dos servidores,3,ADI_6254,0.873402,ADI_6254_0029,24,25
+Q02,reforma da previdência e alíquotas de contribuição dos servidores,4,ADI_7933,0.857342,ADI_7933_0005,3,4
+Q02,reforma da previdência e alíquotas de contribuição dos servidores,5,ADI_6309,0.853947,ADI_6309_0056,40,42
+Q02,reforma da previdência e alíquotas de contribuição dos servidores,6,ADI_6256,0.847122,ADI_6256_0051,26,27
+Q02,reforma da previdência e alíquotas de contribuição dos servidores,7,ADI_7625,0.846882,ADI_7625_0004,2,3
+Q02,reforma da previdência e alíquotas de contribuição dos servidores,8,ADI_7763,0.846716,ADI_7763_0046,39,40
+Q02,reforma da previdência e alíquotas de contribuição dos servidores,9,ADI_7162,0.846407,ADI_7162_0037,23,24
+Q02,reforma da previdência e alíquotas de contribuição dos servidores,10,ADI_6343,0.845743,ADI_6343_0007,4,5
+Q03,licença-maternidade e licença-paternidade na CLT,1,ADI_7495,0.882708,ADI_7495_0002,2,3
+Q03,licença-maternidade e licença-paternidade na CLT,2,ADI_7539,0.874498,ADI_7539_0023,20,21
+Q03,licença-maternidade e licença-paternidade na CLT,3,ADI_7527,0.873812,ADI_7527_0024,21,22
+Q03,licença-maternidade e licença-paternidade na CLT,4,ADI_7501,0.854605,ADI_7501_0006,5,6
+Q03,licença-maternidade e licença-paternidade na CLT,5,ADI_7805,0.846059,ADI_7805_0039,24,24
+Q03,licença-maternidade e licença-paternidade na CLT,6,ADI_7059,0.844764,ADI_7059_0019,7,7
+Q03,licença-maternidade e licença-paternidade na CLT,7,ADI_7693,0.843191,ADI_7693_0095,70,71
+Q03,licença-maternidade e licença-paternidade na CLT,8,ADI_8007,0.842181,ADI_8007_0065,41,41
+Q03,licença-maternidade e licença-paternidade na CLT,9,ADI_8008,0.840456,ADI_8008_0005,4,5
+Q03,licença-maternidade e licença-paternidade na CLT,10,ADI_7046,0.837819,ADI_7046_0020,10,11
+Q04,reserva de vagas e cotas em concursos públicos,1,ADI_7693,0.860444,ADI_7693_0076,56,57
+Q04,reserva de vagas e cotas em concursos públicos,2,ADI_7950,0.856405,ADI_7950_0024,13,14
+Q04,reserva de vagas e cotas em concursos públicos,3,ADI_7143,0.847842,ADI_7143_0036,30,31
+Q04,reserva de vagas e cotas em concursos públicos,4,ADI_7501,0.847294,ADI_7501_0024,23,24
+Q04,reserva de vagas e cotas em concursos públicos,5,ADI_7832,0.846325,ADI_7832_0037,16,17
+Q04,reserva de vagas e cotas em concursos públicos,6,ADI_6467,0.844597,ADI_6467_0006,5,6
+Q04,reserva de vagas e cotas em concursos públicos,7,ADI_7797,0.84209,ADI_7797_0006,4,5
+Q04,reserva de vagas e cotas em concursos públicos,8,ADI_7763,0.839592,ADI_7763_0041,34,35
+Q04,reserva de vagas e cotas em concursos públicos,9,ADI_6251,0.838517,ADI_6251_0017,13,14
+Q04,reserva de vagas e cotas em concursos públicos,10,ADI_6257,0.837586,ADI_6257_0004,3,4
+Q05,mudança nas regras de inelegibilidade da Lei da Ficha Limpa,1,ADI_6678,0.854833,ADI_6678_0030,19,19
+Q05,mudança nas regras de inelegibilidade da Lei da Ficha Limpa,2,ADI_7991,0.848173,ADI_7991_0007,5,6
+Q05,mudança nas regras de inelegibilidade da Lei da Ficha Limpa,3,ADI_7763,0.846496,ADI_7763_0046,39,40
+Q05,mudança nas regras de inelegibilidade da Lei da Ficha Limpa,4,ADI_6256,0.844657,ADI_6256_0030,15,16
+Q05,mudança nas regras de inelegibilidade da Lei da Ficha Limpa,5,ADI_7046,0.84415,ADI_7046_0008,4,4
+Q05,mudança nas regras de inelegibilidade da Lei da Ficha Limpa,6,ADI_7156,0.844083,ADI_7156_0045,34,35
+Q05,mudança nas regras de inelegibilidade da Lei da Ficha Limpa,7,ADI_7577,0.843506,ADI_7577_0065,38,38
+Q05,mudança nas regras de inelegibilidade da Lei da Ficha Limpa,8,ADI_7237,0.841727,ADI_7237_0013,9,10
+Q05,mudança nas regras de inelegibilidade da Lei da Ficha Limpa,9,ADI_7246,0.841367,ADI_7246_0037,25,26
+Q05,mudança nas regras de inelegibilidade da Lei da Ficha Limpa,10,ADI_7832,0.840891,ADI_7832_0030,13,14
+Q06,redução de penas para crimes contra o Estado Democrático de Direito,1,ADI_7768,0.854489,ADI_7768_0022,12,13
+Q06,redução de penas para crimes contra o Estado Democrático de Direito,2,ADI_7156,0.846875,ADI_7156_0027,21,22
+Q06,redução de penas para crimes contra o Estado Democrático de Direito,3,ADI_7990,0.846507,ADI_7990_0013,12,13
+Q06,redução de penas para crimes contra o Estado Democrático de Direito,4,ADI_6546,0.845167,ADI_6546_0001,1,2
+Q06,redução de penas para crimes contra o Estado Democrático de Direito,5,ADI_7985,0.844545,ADI_7985_0010,9,10
+Q06,redução de penas para crimes contra o Estado Democrático de Direito,6,ADI_7237,0.844335,ADI_7237_0180,129,129
+Q06,redução de penas para crimes contra o Estado Democrático de Direito,7,ADI_6302,0.844041,ADI_6302_0018,11,12
+Q06,redução de penas para crimes contra o Estado Democrático de Direito,8,ADI_6254,0.841383,ADI_6254_0108,83,84
+Q06,redução de penas para crimes contra o Estado Democrático de Direito,9,ADI_6678,0.841372,ADI_6678_0003,2,3
+Q06,redução de penas para crimes contra o Estado Democrático de Direito,10,ADI_7236,0.841068,ADI_7236_0080,55,56
+Q07,cobrança de ICMS por lei estadual,1,ADI_7059,0.8705,ADI_7059_0070,24,25
+Q07,cobrança de ICMS por lei estadual,2,ADI_7162,0.870238,ADI_7162_0040,25,26
+Q07,cobrança de ICMS por lei estadual,3,ADI_7046,0.865717,ADI_7046_0015,8,8
+Q07,cobrança de ICMS por lei estadual,4,ADI_7115,0.865152,ADI_7115_0007,7,8
+Q07,cobrança de ICMS por lei estadual,5,ADI_6277,0.865124,ADI_6277_0025,16,17
+Q07,cobrança de ICMS por lei estadual,6,ADI_7822,0.863005,ADI_7822_0001,1,2
+Q07,cobrança de ICMS por lei estadual,7,ADI_7077,0.862294,ADI_7077_0014,12,13
+Q07,cobrança de ICMS por lei estadual,8,ADI_6787,0.860242,ADI_6787_0061,38,39
+Q07,cobrança de ICMS por lei estadual,9,ADI_7499,0.857053,ADI_7499_0004,3,4
+Q07,cobrança de ICMS por lei estadual,10,ADI_7819,0.856396,ADI_7819_0048,34,35
+Q08,novas regras para tirar a carteira de motorista,1,ADI_7046,0.847623,ADI_7046_0003,2,2
+Q08,novas regras para tirar a carteira de motorista,2,ADI_6367,0.844536,ADI_6367_0007,5,5
+Q08,novas regras para tirar a carteira de motorista,3,ADI_7059,0.842328,ADI_7059_0019,7,7
+Q08,novas regras para tirar a carteira de motorista,4,ADI_6254,0.841429,ADI_6254_0051,42,42
+Q08,novas regras para tirar a carteira de motorista,5,ADI_7978,0.841124,ADI_7978_0010,8,10
+Q08,novas regras para tirar a carteira de motorista,6,ADI_7495,0.840969,ADI_7495_0002,2,3
+Q08,novas regras para tirar a carteira de motorista,7,ADI_7991,0.840742,ADI_7991_0006,5,5
+Q08,novas regras para tirar a carteira de motorista,8,ADI_7763,0.837862,ADI_7763_0041,34,35
+Q08,novas regras para tirar a carteira de motorista,9,ADI_8008,0.837536,ADI_8008_0011,9,10
+Q08,novas regras para tirar a carteira de motorista,10,ADI_6553,0.837089,ADI_6553_0004,2,3
+Q09,improbidade administrativa e exigência de dolo,1,ADI_7236,0.865674,ADI_7236_0049,34,35
+Q09,improbidade administrativa e exigência de dolo,2,ADI_7156,0.861125,ADI_7156_0027,21,22
+Q09,improbidade administrativa e exigência de dolo,3,ADI_6678,0.858805,ADI_6678_0034,21,22
+Q09,improbidade administrativa e exigência de dolo,4,ADI_7823,0.854842,ADI_7823_0001,1,2
+Q09,improbidade administrativa e exigência de dolo,5,ADI_6251,0.852372,ADI_6251_0017,13,14
+Q09,improbidade administrativa e exigência de dolo,6,ADI_7059,0.850765,ADI_7059_0058,20,20
+Q09,improbidade administrativa e exigência de dolo,7,ADI_7832,0.849468,ADI_7832_0044,19,20
+Q09,improbidade administrativa e exigência de dolo,8,ADI_6277,0.849456,ADI_6277_0002,2,3
+Q09,improbidade administrativa e exigência de dolo,9,ADI_8010,0.849326,ADI_8010_0042,27,28
+Q09,improbidade administrativa e exigência de dolo,10,ADI_6787,0.849149,ADI_6787_0004,3,4
+Q10,imunidade tributária de entidades beneficentes de assistência social,1,ADI_7563,0.898122,ADI_7563_0007,6,6
+Q10,imunidade tributária de entidades beneficentes de assistência social,2,ADI_6367,0.875525,ADI_6367_0148,87,87
+Q10,imunidade tributária de entidades beneficentes de assistência social,3,ADI_6787,0.860953,ADI_6787_0049,32,33
+Q10,imunidade tributária de entidades beneficentes de assistência social,4,ADI_6731,0.859693,ADI_6731_0016,11,11
+Q10,imunidade tributária de entidades beneficentes de assistência social,5,ADI_6469,0.857147,ADI_6469_0023,19,20
+Q10,imunidade tributária de entidades beneficentes de assistência social,6,ADI_6254,0.85699,ADI_6254_0090,70,71
+Q10,imunidade tributária de entidades beneficentes de assistência social,7,ADI_7625,0.856495,ADI_7625_0026,13,14
+Q10,imunidade tributária de entidades beneficentes de assistência social,8,ADI_7933,0.856028,ADI_7933_0047,27,28
+Q10,imunidade tributária de entidades beneficentes de assistência social,9,ADI_6309,0.854768,ADI_6309_0031,22,22
+Q10,imunidade tributária de entidades beneficentes de assistência social,10,ADI_7162,0.854283,ADI_7162_0037,23,24

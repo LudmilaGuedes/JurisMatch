@@ -1,0 +1,140 @@
+{
+  "id": "ADI_7499",
+  "arquivo_pdf": "ADI_7499.pdf",
+  "sha256": "b16859b60489c57edc814b861c847cfb77abcc6a9d430127216ba6f45cd567b5",
+  "etapa": "clean",
+  "versao_pipeline": "2.1",
+  "processado_em": "2026-11-06T13:30:19",
+  "resumo": {
+    "paginas": 14,
+    "paginas_digital": 14,
+    "paginas_ocr": 0,
+    "paginas_ocr_fallback": 0,
+    "metodo": "digital",
+    "conf_ocr_media": null,
+    "chars_ocr": 23714,
+    "chars_clean": 18919,
+    "reducao_pct": 20.2,
+    "linhas_removidas": 69,
+    "limpeza_detalhe": {
+      "cabecalho_rodape": 53,
+      "hifen_mantido": 0,
+      "hifenizacao_unida": 0,
+      "numero_pagina": 16
+    }
+  },
+  "pages": [
+    {
+      "page": 1,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "MINISTÉRIO PÚBLICO FEDERAL PROCURADORIA-GERAL DA REPÚBLICA EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL\nPETIÇÃO INICIAL AJCONST/PGR Nº 1135709/2023 A PROCURADORA-GERAL DA REPÚBLICA, com fundamento nos arts. 102, I, \"a\" e \"p\"; 103, VI, e 129, IV, da Constituição Federal; no\nart. 46, parágrafo único, I, da Lei Complementar 75, de 20.5.1993 (Lei Orgânica do Ministério Público da União), e na Lei 9.868, de 10.11.1999, vem propor\nAÇÃO DIRETA DE INCONSTITUCIONALIDADE COM PEDIDO DE MEDIDA CAUTELAR\ncontra as Leis 22.258 e 22.259, ambas de 15.9.2023, do Estado de Goiás, que concedem verba para transporte e alimentação aos titulares de cargos que especificam.1 Acompanha a petição inicial cópia das normas impugnadas (art. 3º da Lei 9.868/1999).\nDocumento assinado via Token digitalmente por PROCURADORA-GERAL DA REPÚBLICA ELIZETA MARIA DE PAIVA RAMOS, em 26/10/2023 08:49. Para verificar a assinatura acesse http://www.transparencia.mpf.mp.br/validacaodocumento. Chave fbfb5ade.8de3d7ad.0ec3fe5f.57f33194"
+    },
+    {
+      "page": 2,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "1.OBJETO DA AÇÃO\nEste é o teor das normas questionadas nesta ação:\nLei 22.258/2023 do Estado de Goiás\nArt. 1º Esta Lei dispõe sobre a indenização a ser percebida pelos titulares de cargos de direção e assessoramento superior ou de cargo eletivo do Poder Executivo do Estado de Goiás que especifica.\nArt. 2º Aos ocupantes dos cargos em comissão de direção e assessoramento superior ou de cargo eletivo abaixo relacionados será concedida a verba indenizatória de despesas com transporte e alimentação, dentro do Estado de Goiás, com a seguinte discriminação:\nI - 50% (cinquenta por cento) do valor atribuído aos cargos em comissão com o símbolo DAS-1 para os ocupantes dos cargos de:\na) Vice-Governador;\nb) Secretário de Estado;\nc) Secretário-Chefe;\nd) Procurador-Geral do Estado;\ne) Chefe de Gabinete Particular do Governador;\nf) Chefe de Gabinete de Gestão do Governador;\ng) Chefe de Gabinete de Representação de Goiás no Distrito Federal;\nh) Delegado-Geral da Polícia Civil;\ni) Comandante-Geral da Polícia Militar e do Corpo de Bombeiros Militar;\nj) Diretor-Geral de Administração Penitenciária;\nk) Secretário-Executivo de Políticas Sociais do Gabinete de Políticas Sociais;\nl) Reitor da Universidade Estadual de Goiás; e\nm) Presidente e Conselheiro-Presidente das entidades da administração direta, autárquica e fundacional; e II - 45% (quarenta e cinco por cento) do valor atribuído aos cargos em comissão com o símbolo DAS-1 para os ocupantes dos cargos de:"
+    },
+    {
+      "page": 3,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "a) Subsecretário;\nb) Secretário-Adjunto;\nc) Subcontrolador da Controladoria-Geral do Estado;\nd) Subprocurador-Geral de Assuntos Administrativos e do Contencioso;\ne) Delegado-Geral Adjunto da Polícia Civil;\nf) Subcomandante-Geral da Polícia Militar e do Corpo de Bombeiros Militar;\ng) Chefe do Estado-Maior Estratégico;\nh) Comandante da Chefia do Estado-Maior Geral;\ni) Diretor-Geral Adjunto de Administração Penitenciária;\nj) Diretor-Executivo;\nk) Vice-Presidente de entidade da administração pública autárquica e fundacional; e\nl) Pró-Reitor da Universidade Estadual de Goiás.\nParágrafo único. Aos beneficiários da verba indenizatória de que trata este artigo não serão devidos valores referentes a diárias para o desempenho das suas atividades dentro do Estado de Goiás.\nArt. 3º A verba indenizatória de que trata esta Lei:\nI - não ocorrerá em qualquer hipótese de afastamento;\nII - não cobrirá gastos de terceiro;\nIII - não será incorporada ao vencimento, à remuneração, aos proventos, à pensão ou a qualquer tipo de benefício do servidor; e IV - não será considerada no cálculo de qualquer vantagem pecuniária, inclusive adicional de férias e 13º salário.\nArt. 4º O recebimento da verba indenizatória tratada nesta Lei não é cumulativo com outras verbas de mesma natureza indenizatória, ainda que sejam instituídas por normas estaduais específicas, destacadamente a Lei nº 13.266, de 16 de abril de 1998, o Decreto nº\n8.643, de 06 de maio de 2016, a Lei nº 16.469, de 19 de janeiro de 2009, o Decreto nº 6.930, de 09 de junho de 2009, a Lei nº 20.422, de 07 de março de 2019, a Lei nº 20.555, de 11 de setembro de 2019, a Lei nº 21.309, de 13 de abril de 2022, além das que eventualmente vierem a ser criadas."
+    },
+    {
+      "page": 4,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Lei 22.259/2023 do Estado de Goiás\nArt. 1º Será concedida verba indenizatória de despesas com transporte e alimentação, dentro do Estado de Goiás, para os titulares das estruturas básica e complementar das unidades administrativas da Procuradoria-Geral do Estado - PGE, com suas unidades tecnicamente subordinadas, e da Subsecretaria da Receita Estadual da Secretaria de Estado da Economia - ECONOMIA, com esta discriminação:\nI - 40% (quarenta por cento) do valor atribuído aos cargos em comissão com o símbolo DAS-1 para os titulares dos cargos com o símbolo DAS-4;\nII - 30% (trinta por cento) do valor atribuído aos cargos em comissão com o símbolo DAS- 1 para os titulares dos cargos com o símbolo DAS-6; e III - 25% (vinte e cinco por cento) do valor atribuído aos cargos em comissão com o símbolo DAS- 1 para os titulares dos cargos com os símbolos DAS-7, DAI-1 e DAID-2.\n§ 1º Aos beneficiários da verba indenizatória de que trata este artigo não serão devidos valores referentes a diárias para o desempenho das suas atividades dentro do Estado de Goiás.\n§ 2º Os beneficiários da verba indenizatória de que trata este artigo são somente os ocupantes das carreiras de que tratam a Lei estadual nº 13.266, de 16 de abril de 1998, e a Lei Complementar estadual nº 58, de 04 de julho de 2006.\n§ 3º A verba indenizatória de que trata este artigo é devida também aos titulares das unidades administrativas em qualquer órgão ou entidade cuja titularidade seja privativa dos cargos de que trata o\n§ 2º deste artigo.\nArt. 2º A verba indenizatória de que trata esta Lei:\nI - não ocorrerá em qualquer hipótese de afastamento;\nII - não cobrirá gastos de terceiro;\nIII - não será incorporada ao vencimento, à remuneração, aos proventos, à pensão ou a qualquer tipo de benefício do servidor; e"
+    },
+    {
+      "page": 5,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "IV - não será considerada no cálculo de qualquer vantagem pecuniária, inclusive adicional de férias e 13º salário.\nArt. 3º O recebimento da verba indenizatória tratada nesta Lei não é cumulativo com outras verbas de mesma natureza indenizatória, ainda que sejam instituídas por normas estaduais específicas, destacadamente a Lei nº 13.266, de 1998, o Decreto nº 8.643, de 06 de maio de 2016, a Lei nº 16.469, de1 9 de janeiro de 2009, o Decreto nº 6.930, de 09 de junho de 2009, a Lei nº 20.422, de 07 de março de 2019, a Lei nº 20.555, de 11 de setembro de 2019, a Lei nº 21.309, de 13 de abril de 2022, além das que eventualmente vierem a ser criadas.\nComo se demonstrará, as leis sob invectiva contrariam os arts. 5º, caput (princípio da igualdade), 24, I e § 1º (competência da União para editar normas gerais sobre direito tributário), 37, caput (princípios da impessoalidade e da moralidade) e XI (teto remuneratório dos agentes públicos da União, dos estados, do Distrito Federal e dos municípios), e 151, III (princípio da vedação da isenção heterônoma), todos da Constituição Federal.\n2. INCONSTITUCIONALIDADE DAS NORMAS IMPUGNADAS\nAo instituir parcelas pecuniárias mensais direcionadas ao custeio de despesas com transporte e alimentação a ocupantes de cargos em comissão, em montantes percentuais fixados proporcionalmente à remuneração do cargo com símbolo DAS-1 - atualmente fixado em"
+    },
+    {
+      "page": 6,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "R$ 22.077,442 -, as Leis 22.258/2023 e 22.259/2023, do Estado de Goiás, desvirtuam o caráter indenizatório da verba e garantem a referidos agentes, em verdade, um adicional remuneratório.\nIsso porque o art. 1º da Lei 22.259/2023 estabelece, como valores a serem pago a título de indenização de transporte e de alimentação a ocupantes de cargos de símbolo DAS-4, DAS-1, DAS-7, DAI-1 e DAID-2 das unidades administrativas da Procuradoria-Geral do Estado - PGE e da Subsecretaria da Receita Estadual da Secretaria de Estado da Economia, percentuais de 40% a 25% da retribuição do cargo de provimento em comissão DAS-1, ao passo que o art. 2º da Lei 22.258/2023 concede a citada verba em percentuais de 50% a 45% da retribuição do DAS-1 aos ocupantes dos cargos especificados nas alíneas \"a\" a \"m\" do inciso I, e \"a\" a \"l\" do\ninciso II, do aludido dispositivo.\nDesse modo, a depender do cargo em comissão que ocupe, o agente público perceberá de R$ 5.519,36 a R$ 11.038,72 a título de compensação por transporte e alimentação.\n2 Cf. anexo II do Decreto 10.218, de 16.2.2023, do Estado de Goiás, que \"regulamenta a Lei 21.792, de 16.02.2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências\"."
+    },
+    {
+      "page": 7,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "À partida, constata-se a manifesta desproporcionalidade da parcela, cujas importâncias chegam a ultrapassar o óctuplo do valor fixado para o salário-mínimo nacional em 2023 (R$ 1.320,00 - Lei 14.663, de 28.8.2023), e o sêxtuplo da média de rendimento mensal domiciliar per capita do Estado de Goiás (R$ 1.619,00).3 Outrossim, da análise comparativa entre os valores acima citados e os previstos na Tabela de Subsídios dos Cargos de Provimento em Comissão Integrantes das Estruturas Básica e Complementar, contida no anexo II do Decreto 10.218, de 16.2.2023, do Estado de Goiás, observa-se que a indenização concedida pelas Leis goianas 22.258/2023 e 22.259/2023 representa um acréscimo igual ou superior a 50% da remuneração atribuída a cada um dos cargos que especifica.\nO elevado montante fixado para a indenização em exame extravasa os possíveis dispêndios com alimentação e transporte dos agentes públicos agraciados, não guardando correlação com os gastos que pretende compensar. Ante a patente excessividade dos valores, constata-se o desvirtuamento da função indenizatória da verba, que passou a se caracterizar como rendimento extra.\nCf. https://www.ibge.gov.br/cidades-e-estados/go.html. Acesso em: 4.10.2023."
+    },
+    {
+      "page": 8,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "Por conferirem indevido caráter indenizatório a parcela que, diante do excesso e da desproporcionalidade acima evidenciados, assume natureza materialmente remuneratória, as normas em apreço viabilizam o recebimento de remunerações superiores ao teto remuneratório previsto na Constituição Federal, já que o art. 37, § 11, da Carta da República estabelece que \"não serão computadas, para efeito dos limites remuneratórios de que trata o inciso XI do caput deste artigo, as parcelas de caráter indenizatório previstas em lei\".\nAssim, ao classificarem como indenizatória verba que detém intuito inequivocamente remuneratório para, com isso, não submetê-la aos limites do\nart. 37, XI, da Constituição Federal, os diplomas impugnados contrariam o aludido dispositivo constitucional, por não sujeitar ao teto remuneratório parcela que acaba por constituir efetiva remuneração de agentes públicos.\nNão bastasse a acima demonstrada ofensa ao art. 37, XI, da Constituição Federal, as normas impugnadas afrontam o princípio da isonomia, da moralidade e da impessoalidade.\nNo processo histórico de fortalecimento das instituições, a separação entre a dimensão do público e a do privado ganha contornos definidos no âmbito de gestão da \"res pública\" com a inclusão do princípio da probidade, do qual são corolários a moralidade e a impessoalidade."
+    },
+    {
+      "page": 9,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "A Constituição, que eleva à condição de princípios a probidade, a moralidade e a impessoalidade, revela projeto que se constrói a partir de 1988, pelo qual o patrimônio material e imaterial do Poder Público não pode mais ser gerido com base em interesses privados, mas por conduta marcada pela ética, pela probidade, pela moralidade e pela impessoalidade, seja na esfera administrativa, política ou judicial.\nAo erigir tais princípios, a Carta de 1988 busca encerrar um passado de práticas clientelistas e patrimonialistas, substituindo-as por uma gestão transparente, participativa e impessoal.\nA nova ordem constitucional tem por ponto nuclear a dimensão da cidadania como conjunto de direitos que empodera o indivíduo contra privilégios injustificados.\nÉ, portanto, arma de superação de um modelo patrimonialista de Estado. O sucesso do regime democrático depende dos níveis de cidadania da população. Os processos de inclusão em espaços decisórios, de ativação da cidadania, pressupõe que seja assegurado o direito a um Estado probo, ético, transparente e que preste contas à sociedade (accountability).\nEstabeleceu o constituinte originário um compromisso ético e moral do Estado com a sociedade ao erigir princípios reveladores desse pacto como"
+    },
+    {
+      "page": 10,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "parte integrante da identidade básica da Constituição de 1988. Tanto que impôs sanções àqueles que os transgridam. Esses postulados consagram o ideal republicano. Por isso mesmo, ética republicana há de funcionar como autêntico vetor norteador das instituições públicas e das funções estatais.\nO princípio da moralidade impõe, portanto, padrão de conduta aos agentes públicos e à administração pública pautado não apenas no estrito cumprimento da lei, mas no cumprimento desta com integridade, honestidade, boa-fé, ética e sempre visando ao atendimento do interesse público.4 É inadmissível a elaboração de leis imorais5, cujo propósito seja privilegiar alguns poucos indivíduos. Benesses dessa natureza, aliás, 4 Segundo Lucas Furtado, \"quando a Constituição Federal expressamente menciona a moralidade administrativa e a eleva à qualidade de princípio distinto da legalidade, pretende que o primeiro princípio não se confunda com o segundo. A moralidade administrativa é o instrumento conferido pela Constituição Federal aos responsáveis pelo controle da Administração Pública a fim de que se possa exigir da Administração, sob pena de ilegitimidade dos atos decorrentes de condutas imorais, comportamento que, além de cumprir as exigências legais, seja ético (conforme observa o ilustre Celso Antônio Bandeira de Mello), observe padrões de boa-fé, de honestidade, que não incorra em desvio de finalidade etc.\" (FURTADO, Lucas Rocha. Curso de direito administrativo. Belo Horizonte: Editora Fórum, 2012. p. 90).\n5 O princípio constitucional da moralidade administrativa \"se vincula a uma noção de moral jurídica, que não se confunde necessariamente com a moral comum. Porém, nada impede de um ato violar a moral administrativa, violando também a moral comum\" (SCATOLINO, Gustavo; TRINDADE, João. Manual didático de direito administrativo.\n11. ed. São Paulo: JusPodivm, 2023. p. 67)."
+    },
+    {
+      "page": 11,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "costumam ter destinatários certos e determináveis, o que, ademais, implica contrariedade ao princípio da impessoalidade.\nAs leis impugnadas, ao possibilitarem o recebimento, por agentes públicos do Estado de Goiás, de elevados acréscimos pecuniários como se indenizatórios fossem para, com isso, não serem submetidos ao teto remuneratório previsto na Constituição Federal, direcionam-se à concretização de interesses privados e particulares de integrantes de determinadas carreiras, instituindo verdadeiro privilégio injustificado e incompatível com o interesse público, tampouco com os princípios da isonomia, da moralidade e da impessoalidade.\nPor fim, importa destacar que os diplomas impugnados, ao considerarem como indenizatórios valores que, dada a sua manifesta desproporcionalidade, possuem caráter remuneratório, viabiliza a não incidência do imposto de renda sobre esses valores, levando em conta a consolidada prática institucional e jurisprudência pacífica dos tribunais, voltada a não exigir IRPF sobre parcelas de natureza indenizatória, por não ocasionarem qualquer acréscimo patrimonial a quem as perceber.\nAssim, ao possibilitarem a não incidência de IRPF sobre parcela de valor excessivo e de caráter substancialmente remuneratório, as leis"
+    },
+    {
+      "page": 12,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "contestadas divergem tanto da regra federal, segundo a qual o aludido tributo incide sobre qualquer renda decorrente do trabalho, independentemente da denominação que se dê ao rendimento correspondente (art. 43, I e § 1º, do Código Tributário Nacional)6 - afrontando, com isso, a competência do ente central da Federação para editar normas gerais de direito tributário (art. 24, I e § 1º, da Constituição Federal) - quanto contrariam o princípio da vedação da isenção heterônoma, previsto no art. 151, III, da Constituição Federal, já que o Estado de Goiás está a implementar, por meio das referidas normas, indevida isenção parcial a imposto de competência da União.\nPor esse motivo, incumbe a essa Corte Suprema declarar a inconstitucionalidade das Leis 22.258/2023 e 22.259/2023, do Estado de Goiás, por afronta aos 5º, caput, 24, I e § 1º, 37, caput e XI, e 151, III, da Constituição Federal.\n6\nArt. 43. O imposto, de competência da União, sobre a renda e proventos de qualquer natureza tem como fato gerador a aquisição da disponibilidade econômica ou jurídica:\nI - de renda, assim entendido o produto do capital, do trabalho ou da combinação de ambos;\nII - de proventos de qualquer natureza, assim entendidos os acréscimos patrimoniais não compreendidos no inciso anterior.\n§ 1º A incidência do imposto independe da denominação da receita ou do rendimento, da localização, condição jurídica ou nacionalidade da fonte, da origem e da forma de percepção.\n(Incluído pela Lcp nº 104, de 2001) (…),"
+    },
+    {
+      "page": 13,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "3. PEDIDO CAUTELAR\nEstão presentes os pressupostos para a concessão de medida cautelar. A plausibilidade jurídica do pedido (fumus boni juris) está suficientemente demonstrada pelos argumentos deduzidos nesta petição inicial, que encontram amparo na jurisprudência do Supremo Tribunal Federal.\nO perigo na demora processual (periculum in mora) está no impacto financeiro significativo decorrente da possibilidade de pagamentos indevidos e injustificados a agentes estaduais, por força das normas ora questionadas.\nTais pagamentos consubstanciam dano econômico de incerta ou de difícil reparação a ser suportado pelo Estado de Goiás, tendo em vista o caráter alimentar das verbas, revelando-se assim a urgência necessária para a concessão de cautelar, com respaldo no art. 10 da Lei 9.868/1999.\nPortanto, além do sinal do bom direito, evidenciado pelos próprios fundamentos constitucionais em que se apoia esta ação direta, há premência em que esta Corte conceda a medida cautelar para determinar a imediata suspensão dos efeitos das leis questionadas."
+    },
+    {
+      "page": 14,
+      "metodo": "digital",
+      "conf": null,
+      "dpi": null,
+      "rotacao": 0,
+      "text": "4. PEDIDOS E REQUERIMENTOS\nque esse Supremo Tribunal Federal conceda medida cautelar para suspensão da eficácia dos diplomas impugnados, para os fins expostos acima e nos termos do art. 10, § 3º, da Lei 9.868/1999.\nEm seguida, pleiteia que se colham informações do Governador e do Presidente da Assembleia Legislativa do Estado de Goiás. Ainda, que se ouça a Advocacia-Geral da União, nos termos do art. 103, § 3º, da Constituição Federal. Superadas essas fases, pede prazo para a manifestação da Procuradoria-Geral da República.\nAo final, postula que se julgue procedente o pedido para declarar a inconstitucionalidade das Leis 22.258/2023 e 22.259/2023 do Estado de Goiás.\nBrasília, data da assinatura digital.\nElizeta Maria de Paiva Ramos Procuradora-Geral da República Assinado digitalmente\n[VF/AMO/NGB]"
+    }
+  ]
+}
