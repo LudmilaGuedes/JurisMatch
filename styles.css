@@ -1,0 +1,45 @@
+:root { --navy: #102d50; --blue: #245c96; }
+.stApp { background: #f3f6fa; color: #182e49; }
+[data-testid="stHeader"] { background: #f3f6fa; }
+.block-container { max-width: 1320px; padding: 3rem clamp(1.5rem, 4vw, 3.5rem) 3.5rem; }
+h1, h2, h3, h4 { color: #102d50; letter-spacing: -.025em; }
+[data-testid="stSidebar"] { background: #102d50; }
+[data-testid="stSidebarUserContent"] { padding: 1.5rem 1.5rem 2rem; }
+[data-testid="stSidebar"] [data-testid="stVerticalBlockBorderWrapper"] > div { background: transparent; }
+[data-testid="stSidebar"] [data-testid="stSlider"] { color: #edf4ff; }
+[data-testid="stSidebar"] [data-testid="stExpander"] details { background: #193b61; border: 1px solid #476789; border-radius: 10px; }
+[data-testid="stSidebar"] [data-testid="stExpander"] summary { color: #edf4ff; }
+[data-testid="stSidebar"] hr { border-color: #476789; }
+[data-testid="stSidebar"] [data-baseweb="select"] > div { background: #fff; color: #182e49; }
+[data-testid="stSidebar"] [data-baseweb="select"] input { color: #182e49; }
+[data-testid="stSidebar"] [data-baseweb="tag"] { background: #dce9f8; color: #102d50; }
+[data-testid="stSidebar"] [data-baseweb="tag"] [data-testid="stMarkdownContainer"] { color: #102d50; }
+[data-testid="stSidebar"] h2, [data-testid="stSidebar"] h3,
+[data-testid="stSidebar"] label, [data-testid="stSidebar"] [data-testid="stMarkdownContainer"],
+[data-testid="stSidebar"] [data-testid="stCaptionContainer"] { color: #edf4ff; }
+[data-testid="stSidebar"] [data-baseweb="select"] [data-testid="stMarkdownContainer"] { color: #182e49; }
+.brand { font-size: 1.55rem; font-weight: 750; letter-spacing: -.05em; color: white; margin-bottom: .25rem; }
+.brand-sub { color: #b9cee5; font-size: .85rem; margin-bottom: 2rem; }
+.hero { background: linear-gradient(115deg, #102d50, #1c4877); border-radius: 20px; padding: 2.5rem 2.75rem; margin-bottom: 1.6rem; }
+.hero .eyebrow { color: #bdd6f2; font-size: .75rem; letter-spacing: .16em; font-weight: 650; text-transform: uppercase; }
+.hero h1 { color: #fff; font-size: clamp(1.9rem, 3.4vw, 3rem); line-height: 1.15; margin: .65rem 0; max-width: 750px; }
+.hero p { color: #d2e0ef; max-width: 650px; margin: .6rem 0 0; line-height: 1.65; }
+.hero-tag { display: inline-block; border: 1px solid #6687a9; border-radius: 100px; padding: .3rem .8rem; color: #e6eff9; font-size: .75rem; margin-top: 1.25rem; }
+[data-testid="stMetric"] { background: #fff; border: 1px solid #dce5ef; border-radius: 14px; padding: 1rem 1.25rem; }
+[data-testid="stMetricValue"] { color: #102d50; }
+[data-testid="stMain"] [data-testid="stForm"], .stMain [data-testid="stForm"] { background: #fff; border: 1px solid #dce5ef; border-radius: 16px; padding: 1.75rem; }
+[data-baseweb="tab-panel"] { padding: 1.5rem .5rem; }
+[data-baseweb="textarea"] { border-radius: 10px; }
+.stButton button, .stDownloadButton button, .stLinkButton a, .stFormSubmitButton button { border-radius: 9px; font-weight: 600; min-height: 2.75rem; }
+button[kind="primary"], button[kind="primaryFormSubmit"] { background: #174779; border: 1px solid #174779; color: #fff; }
+button[kind="primary"]:hover, button[kind="primaryFormSubmit"]:hover { background: #245c96; border-color: #245c96; color: #fff; }
+[data-baseweb="tab-list"] { gap: 1.5rem; border-bottom: 1px solid #dce5ef; margin-bottom: 1.25rem; }
+[data-baseweb="tab"] { color: #526780; padding: .8rem .25rem; font-weight: 600; }
+[data-baseweb="tab"][aria-selected="true"] { color: #174779; }
+[data-baseweb="tab-highlight"] { background: #245c96; }
+blockquote { background: #f4f7fb; border-left: 3px solid #7d9fc4; padding: 1rem 1.25rem !important; border-radius: 0 10px 10px 0; color: #3d526b; }
+.empty-state { text-align: center; padding: 2.5rem 1.5rem; border: 1px dashed #c5d3e3; border-radius: 16px; margin-top: 1.5rem; }
+.empty-state strong { display: block; color: #102d50; font-size: 1.15rem; margin-bottom: .5rem; }
+.empty-state p { color: #63758b; margin: 0; }
+.footer { color: #718197; font-size: .78rem; border-top: 1px solid #dce5ef; padding-top: 1rem; margin-top: 2rem; }
+@media (max-width: 640px) { .block-container { padding: 1.5rem 1.25rem; } .hero { padding: 1.6rem; border-radius: 14px; } [data-testid="stMain"] [data-testid="stForm"], .stMain [data-testid="stForm"] { padding: 1.25rem; } [data-baseweb="tab-panel"] { padding: 1rem .25rem; } }

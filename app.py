@@ -31,7 +31,8 @@ EXEMPLOS = [
     "vicio de iniciativa em lei que cria cargos publicos",
 ]
 
-st.set_page_config(page_title="JurisMatch", page_icon="⚖️", layout="wide")
+st.set_page_config(page_title="JurisMatch | Pesquisa jurídica", page_icon="⚖️", layout="wide")
+st.markdown(f"<style>{(RAIZ / 'styles.css').read_text(encoding='utf-8')}</style>", unsafe_allow_html=True)
 
 
 @st.cache_resource(show_spinner="Carregando o modelo e o indice (so na primeira vez)...")
@@ -65,8 +66,8 @@ def mostrar_resultado(n, r, docs):
         c1.markdown(f"#### {n}. {r['processo']}")
         c2.metric("Similaridade", f"{r['similaridade']:.3f}")
         st.caption(" · ".join(filter(None, [
-            r.get("relator"), f"autuada em {r.get('data_autuacao')}",
-            paginas(r), r["chunk_id"],
+            r.get("relator"), f"Autuação: {r.get('data_autuacao', '—')}",
+            paginas(r),
         ])))
         if doc.get("ramo_direito"):
             st.markdown(f"**Ramo:** {doc['ramo_direito']}")
@@ -94,24 +95,28 @@ def mostrar_resultado(n, r, docs):
 def aba_busca(indice, documentos):
     trechos = indice.trechos
     with st.sidebar:
-        st.header("Opções da busca")
+        st.markdown('<div class="brand">JurisMatch<span style="color:#91b9e4">.</span></div><div class="brand-sub">Pesquisa jurídica inteligente</div>', unsafe_allow_html=True)
+        st.header("Refine sua pesquisa")
+        st.caption("Combine os filtros para encontrar petições relevantes")
         k = st.slider("Quantidade de resultados", 1, 30, 5)
         um_por_peticao = st.checkbox("Só o melhor trecho de cada petição", value=True)
         classes = st.multiselect("Classe", sorted({t["classe"] for t in trechos}))
         relatores = st.multiselect("Relator", sorted({t["relator"] for t in trechos if t["relator"]}))
         st.divider()
-        st.caption(f"Modelo: `{indice.info['modelo']}`")
+        with st.expander("Sobre o índice de pesquisa"):
+            st.caption(f"Modelo: `{indice.info['modelo']}`")
         st.caption(f"{len(trechos)} trechos de {len({t['document_id'] for t in trechos})} petições")
 
+    st.subheader("O que você está pesquisando?")
     with st.form("busca"):
         consulta = st.text_area(
             "Descreva o tema ou cole um trecho de petição",
-            value=st.session_state.get("consulta", ""), height=100,
+            value=st.session_state.get("consulta", ""), height=130,
             placeholder="ex.: lei estadual que invade competência privativa da União",
         )
-        enviar = st.form_submit_button("Buscar", type="primary")
+        enviar = st.form_submit_button("Buscar petições", type="primary", use_container_width=True)
 
-    st.caption("Exemplos:")
+    st.caption("EXPLORE UM TEMA PARA COMEÇAR")
     cols = st.columns(len(EXEMPLOS))
     for col, ex in zip(cols, EXEMPLOS):
         if col.button(ex, use_container_width=True):
@@ -120,18 +125,19 @@ def aba_busca(indice, documentos):
 
     consulta = consulta.strip()
     if not (enviar or st.session_state.get("consulta")) or not consulta:
-        st.info("Digite uma consulta para encontrar as petições mais parecidas.")
+        st.markdown('<div class="empty-state"><strong>Sua próxima referência começa aqui</strong><p>Descreva uma questão jurídica ou escolha um dos temas acima para explorar o acervo</p></div>', unsafe_allow_html=True)
         return
     st.session_state["consulta"] = consulta
 
     with st.spinner("Buscando..."):
         resultados = buscar(indice, consulta, k, um_por_peticao, classes, relatores)
     if not resultados:
-        st.warning("Nenhum trecho com esses filtros.")
+        st.warning("Nenhum trecho com esses filtros")
         return
 
     docs = documentos.set_index("id").to_dict("index")
-    st.subheader(f"{len(resultados)} resultado(s)")
+    st.subheader(f"Petições encontradas  {len(resultados)}")
+    st.caption("Resultados ordenados por similaridade com sua pesquisa")
     for n, r in enumerate(resultados, start=1):
         mostrar_resultado(n, r, docs)
 
@@ -153,16 +159,28 @@ def aba_acervo(documentos):
 
 
 def main():
-    st.title("⚖️ JurisMatch")
-    st.caption("Busca semântica em petições iniciais de controle concentrado do STF "
-               "(ADI, ADC, ADO, ADPF)")
+    st.markdown("""
+    <section class="hero">
+      <div class="eyebrow">Inteligência para sua pesquisa jurídica</div>
+      <h1>Encontre conexões<br>Fundamente seus argumentos</h1>
+      <p>Explore petições iniciais do STF com uma busca que compreende
+      o sentido da sua pesquisa e aproxima você das referências relevantes</p>
+      <span class="hero-tag">Controle concentrado · ADI · ADC · ADO · ADPF</span>
+    </section>
+    """, unsafe_allow_html=True)
     indice = carregar_indice()
     documentos = carregar_documentos()
-    busca, acervo = st.tabs(["Busca", "Acervo"])
+    m1, m2, m3 = st.columns(3)
+    m1.metric("Petições no acervo", f"{len(documentos):,}".replace(",", "."))
+    m2.metric("Trechos pesquisáveis", f"{len(indice.trechos):,}".replace(",", "."))
+    m3.metric("Classes processuais", len({t["classe"] for t in indice.trechos}))
+    st.write("")
+    busca, acervo = st.tabs(["Pesquisa de petições", "Explorar acervo"])
     with busca:
         aba_busca(indice, documentos)
     with acervo:
         aba_acervo(documentos)
+    st.markdown('<div class="footer">JurisMatch · Pesquisa semântica em petições do Supremo Tribunal Federal</div>', unsafe_allow_html=True)
 
 
 main()
