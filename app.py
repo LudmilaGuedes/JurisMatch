@@ -2,8 +2,8 @@
 """
 App Streamlit da busca semantica nas peticoes iniciais (JurisMatch).
 
-Usa a classe Indice do scripts/buscar.py (mesmo modelo e mesmos vetores de
-data/04_embeddings/) e o metadata/documentos.csv para a aba do acervo.
+Usa a classe BuscaFAISS do src/busca_faiss.py (Projeto A: indice em data/05_faiss/,
+uma entrada por peticao) e o metadata/documentos.csv para a aba do acervo.
 
 Uso:
     python -m streamlit run app.py
@@ -13,10 +13,12 @@ import sys
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent
-sys.path.insert(0, str(RAIZ / "scripts"))
-# o buscar (torch) tem que vir antes do pandas: no Windows, se o pyarrow carrega
-# primeiro, a DLL do torch falha (WinError 1114)
-from buscar import Indice, paginas  # noqa: E402
+sys.path.insert(0, str(RAIZ))
+# o torch tem que vir antes do pandas: no Windows, se o pyarrow carrega primeiro,
+# a DLL do torch falha (WinError 1114). O BuscaFAISS so carrega o modelo depois.
+import torch  # noqa: E402,F401
+
+from src.busca_faiss import BuscaFAISS  # noqa: E402
 
 import pandas as pd  # noqa: E402
 import streamlit as st  # noqa: E402
@@ -25,10 +27,10 @@ PDFS = RAIZ / "data" / "01_raw" / "pdf"
 DOCUMENTOS = RAIZ / "metadata" / "documentos.csv"
 
 EXEMPLOS = [
-    "inconstitucionalidade de lei estadual sobre licenciamento ambiental",
-    "expurgos inflacionarios da poupanca",
-    "unicidade sindical",
-    "vicio de iniciativa em lei que cria cargos publicos",
+    "sanções por improbidade administrativa",
+    "licença-maternidade de servidoras gestantes e adotantes",
+    "exigências para a carteira nacional de habilitação",
+    "teto salarial e remuneração de servidores públicos",
 ]
 
 st.set_page_config(page_title="JurisMatch | Pesquisa jurídica", page_icon="⚖️", layout="wide")
@@ -37,7 +39,7 @@ st.markdown(f"<style>{(RAIZ / 'styles.css').read_text(encoding='utf-8')}</style>
 
 @st.cache_resource(show_spinner="Carregando o modelo e o indice (so na primeira vez)...")
 def carregar_indice():
-    return Indice()
+    return BuscaFAISS()
 
 
 @st.cache_data
@@ -45,11 +47,18 @@ def carregar_documentos():
     return pd.read_csv(DOCUMENTOS, dtype=str).fillna("")
 
 
-def buscar(indice, consulta, k, um_por_peticao, classes, relatores):
-    # o Indice ordena todos os trechos; filtra aqui e corta nos k primeiros
+def paginas(r):
+    if r["page_start"] == r["page_end"]:
+        return f"pag. {r['page_start']}"
+    return f"pags. {r['page_start']}-{r['page_end']}"
+
+
+def buscar(indice, consulta, k, classes, relatores):
+    # ranqueia todas as peticoes no FAISS; so depois filtra e corta nos k primeiros,
+    # para o filtro nao reduzir o numero de resultados
     resultados = []
-    for r in indice.buscar(consulta, k=len(indice.trechos), um_por_peticao=um_por_peticao):
-        if classes and r["classe"] not in classes:
+    for r in indice.buscar(consulta, k=indice.n_documentos):
+        if classes and indice.documentos.get(r["document_id"], {}).get("classe") not in classes:
             continue
         if relatores and r["relator"] not in relatores:
             continue
@@ -64,7 +73,7 @@ def mostrar_resultado(n, r, docs):
     with st.container(border=True):
         c1, c2 = st.columns([4, 1])
         c1.markdown(f"#### {n}. {r['processo']}")
-        c2.metric("Similaridade", f"{r['similaridade']:.3f}")
+        c2.metric("Similaridade", f"{r['score']:.3f}")
         st.caption(" · ".join(filter(None, [
             r.get("relator"), f"Autuação: {r.get('data_autuacao', '—')}",
             paginas(r),
@@ -72,9 +81,9 @@ def mostrar_resultado(n, r, docs):
         if doc.get("ramo_direito"):
             st.markdown(f"**Ramo:** {doc['ramo_direito']}")
 
-        st.markdown(f"> {r['text'][:600]}{'...' if len(r['text']) > 600 else ''}")
+        st.markdown(f"> {r['trecho'][:600]}{'...' if len(r['trecho']) > 600 else ''}")
         with st.expander("Trecho completo e detalhes do processo"):
-            st.write(r["text"])
+            st.write(r["trecho"])
             if doc.get("assuntos"):
                 st.markdown(f"**Assuntos:** {doc['assuntos']}")
             if doc.get("legislacao"):
@@ -84,8 +93,8 @@ def mostrar_resultado(n, r, docs):
                 st.markdown(f"**Situação:** {doc['situacao_decisao_final']}")
 
         b1, b2, _ = st.columns([1, 1, 3])
-        if r.get("link"):
-            b1.link_button("Ver no portal do STF", r["link"])
+        if r.get("link_processo"):
+            b1.link_button("Ver no portal do STF", r["link_processo"])
         pdf = PDFS / f"{r['document_id']}.pdf"
         if pdf.exists():
             b2.download_button("Baixar PDF", pdf.read_bytes(), file_name=pdf.name,
@@ -99,13 +108,13 @@ def aba_busca(indice, documentos):
         st.header("Refine sua pesquisa")
         st.caption("Combine os filtros para encontrar petições relevantes")
         k = st.slider("Quantidade de resultados", 1, 30, 5)
-        um_por_peticao = st.checkbox("Só o melhor trecho de cada petição", value=True)
-        classes = st.multiselect("Classe", sorted({t["classe"] for t in trechos}))
-        relatores = st.multiselect("Relator", sorted({t["relator"] for t in trechos if t["relator"]}))
+        classes = st.multiselect("Classe", sorted(set(documentos["classe"])))
+        relatores = st.multiselect("Relator", sorted(set(documentos["relator"]) - {""}))
         st.divider()
         with st.expander("Sobre o índice de pesquisa"):
-            st.caption(f"Modelo: `{indice.info['modelo']}`")
-        st.caption(f"{len(trechos)} trechos de {len({t['document_id'] for t in trechos})} petições")
+            st.caption(f"Índice: FAISS `{type(indice.indice).__name__}`")
+            st.caption(f"Modelo: `{indice.info_embeddings['modelo']}`")
+        st.caption(f"{len(trechos)} trechos de {indice.n_documentos} petições")
 
     st.subheader("O que você está pesquisando?")
     with st.form("busca"):
@@ -130,7 +139,7 @@ def aba_busca(indice, documentos):
     st.session_state["consulta"] = consulta
 
     with st.spinner("Buscando..."):
-        resultados = buscar(indice, consulta, k, um_por_peticao, classes, relatores)
+        resultados = buscar(indice, consulta, k, classes, relatores)
     if not resultados:
         st.warning("Nenhum trecho com esses filtros")
         return
@@ -165,7 +174,7 @@ def main():
       <h1>Encontre conexões<br>Fundamente seus argumentos</h1>
       <p>Explore petições iniciais do STF com uma busca que compreende
       o sentido da sua pesquisa e aproxima você das referências relevantes</p>
-      <span class="hero-tag">Controle concentrado · ADI · ADC · ADO · ADPF</span>
+      <span class="hero-tag">Controle concentrado · Ações Diretas de Inconstitucionalidade (ADI)</span>
     </section>
     """, unsafe_allow_html=True)
     indice = carregar_indice()
