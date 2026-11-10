@@ -1,18 +1,16 @@
-# JurisMatch — Projeto A: busca semântica com FAISS em petições iniciais do STF
+# JurisMatch — busca semântica em petições iniciais do STF (NumPy, cosseno direto)
 
 Dada uma consulta em texto (uma tese, um tema, uma pergunta), devolve as **petições
 iniciais** de ADI mais parecidas em conteúdo — por significado, não só por palavra-chave —
 com a página de onde veio o trecho mais parecido e o link do processo no portal do STF.
 
-Projeto final de Ciências de Dados 5. O grupo compara duas abordagens de recuperação com
-os **mesmos** textos, trechos e embeddings:
+Projeto final de Ciências de Dados 5. A recuperação é feita **sem índice vetorial**: os
+embeddings de todos os trechos ficam numa matriz em memória e cada consulta é comparada
+com todos eles por **similaridade de cosseno direta, em NumPy**.
 
-- **Projeto A (este repositório): índice FAISS** `IndexFlatIP`.
-- Projeto B: comparação direta de vetores em Python (feito por outra pessoa do grupo).
-
-O front e o artigo comparando os dois também ficam com outras pessoas; este repositório
-entrega tudo o que eles precisam do Projeto A (dados processados, índice, função de busca
-padronizada e script de benchmark).
+> Uma versão anterior usava um índice FAISS (`IndexFlatIP`); ela está no histórico do git
+> (commit `873705e`). Como aquele índice também fazia busca exata, o top 10 das consultas
+> de exemplo é **idêntico** nas duas versões (100 de 100 posições; notas iguais até 10⁻⁶).
 
 ## Base: 99 ADIs de `casos_para_teste.xlsx`
 
@@ -52,35 +50,35 @@ data/03_chunks/chunks.jsonl
    │  scripts/gerar_embeddings.py    multilingual-e5-base, prefixo "passage: "
    ▼
 data/04_embeddings/                  embeddings.npy + chunks.jsonl (mesma ordem) + info.json
-   │  scripts/indexar_faiss.py       ← PROJETO A
+   │  src/busca_numpy.py  (BuscaNumPy)   matriz em memória, cosseno direto
    ▼
-data/05_faiss/                       indice_flatip.faiss + info.json (tempo, memória)
-   │  src/busca_faiss.py  (BuscaFAISS)
-   ▼
-scripts/buscar_faiss.py              consulta → top 10 petições
-scripts/rodar_consultas_faiss.py     lista de consultas → resultados.csv + latências (benchmark)
+scripts/buscar_numpy.py              consulta → top 10 petições
+scripts/rodar_consultas_numpy.py     lista de consultas → resultados.csv + latências (benchmark)
+app.py                               front (Streamlit)
 ```
 
-## Projeto A — como funciona a busca
+## Como funciona a busca
 
-- **Índice:** `faiss.IndexFlatIP` com os vetores de `data/04_embeddings/embeddings.npy`.
-  Como os vetores são normalizados, produto interno = **similaridade de cosseno**, e o
-  `IndexFlatIP` faz **busca exata** — o ranking é o mesmo de uma comparação direta no NumPy
-  (isso é testado em `tests/test_busca_faiss.py`). A diferença para o Projeto B, portanto,
-  deve aparecer em **tempo e memória**, não em qualidade.
+- **Embeddings em memória:** `embeddings.npy` (5.107 × 768, `float32`, 15 MB) é carregado
+  numa matriz NumPy. Não existe arquivo de índice.
+- **Preparo (uma vez):** confere que os vetores estão normalizados e reordena as linhas da
+  matriz para que os trechos de cada petição fiquem juntos (~20 ms).
 - **Consulta:** texto → vetor com o mesmo modelo, prefixo `query: `, normalizado.
+- **Similaridade de cosseno direta:** com vetores de tamanho 1, cosseno = produto interno,
+  então a comparação com **todos** os trechos é uma multiplicação `matriz @ vetor`. A busca
+  é exata (nenhuma aproximação).
 - **Resultado por petição, não por trecho:**
-  `nota(petição) = max sobre os trechos da petição de similaridade(trecho, consulta)`.
-  O índice é consultado com trechos candidatos suficientes (começa com `max(50, 20·k)`
-  e aumenta se precisar) para fechar **k petições distintas**.
+  `nota(petição) = max sobre os trechos da petição de similaridade(trecho, consulta)`,
+  calculado com `np.maximum.reduceat`; o top k sai de `np.argpartition` (sem ordenar as
+  99 petições inteiras). Cada petição aparece uma vez, com o seu melhor trecho.
 
 ### Interface para o benchmark e para o front
 
 ```python
 import sys; sys.path.insert(0, "<raiz do projeto>")
-from src.busca_faiss import BuscaFAISS
+from src.busca_numpy import BuscaNumPy
 
-busca = BuscaFAISS()          # carrega o índice (ou cria, se data/05_faiss/ não existir) e o modelo
+busca = BuscaNumPy()          # carrega os embeddings e o modelo
 
 v = busca.codificar("vedação de reedição de medida provisória")   # texto -> vetor (768,)
 busca.buscar_ids(v, k=10)     # [(document_id, nota), ...]  ← só recuperação: é o que se cronometra
@@ -96,50 +94,61 @@ benchmark — o tempo do modelo de embeddings fica fora do tempo de recuperaçã
 ### Benchmark
 
 ```bash
-python scripts/rodar_consultas_faiss.py metadata/consultas_exemplo.csv --repeticoes 30 --escalas 25,50,99
+python scripts/rodar_consultas_numpy.py metadata/consultas_exemplo.csv --repeticoes 30 --escalas 25,50,99
 ```
 
 Entrada: CSV `consulta_id,consulta`. `metadata/consultas_exemplo.csv` tem 10 consultas só
 para testar o fluxo — **não** é o conjunto de avaliação (gold standard com relevância
-0/1/2), que é feito por quem escreve a comparação. Saída em `resultados/projeto_a/`:
+0/1/2). Saída em `resultados/numpy/`:
 
 | Arquivo | Conteúdo |
 |---|---|
 | `resultados.csv` | `consulta_id, consulta, rank, document_id, score, chunk_id, page_start, page_end` — top k petições por consulta (para Precision@5, Recall@10, NDCG@10) |
 | `latencias.csv` | `escala_documentos, consulta_id, repeticao, tempo_ms` — uma linha por medição |
-| `codificacao.csv` | tempo de texto → vetor de cada consulta (parte do tempo total, igual nos dois projetos) |
-| `resumo.json` | média, P50 e P95 por escala; tempo de indexação; memória do índice e do processo |
+| `codificacao.csv` | tempo de texto → vetor de cada consulta (fora do tempo de recuperação) |
+| `resumo.json` | média, P50 e P95 por escala; tempo de preparo; memória da matriz e do processo |
 
 Protocolo seguido: mesmas consultas, top 10, 3 buscas de aquecimento por consulta,
-repetições em ordem aleatória (semente fixa), índice carregado em memória.
-`--escalas` monta índices com 25, 50… petições sorteadas, a partir dos mesmos vetores,
+repetições em ordem aleatória (semente fixa), embeddings carregados em memória.
+`--escalas` monta buscas com 25, 50… petições sorteadas, a partir dos mesmos vetores,
 para ver como a latência cresce. Com esta base o máximo é 99 petições.
 
-### Resultados de referência (06/11/2026, notebook, CPU, 16 GB RAM)
-
-Índice (`data/05_faiss/info.json`): 5.107 vetores × 768, **indexação em 6 ms**, índice com
-**15 MB** na memória e em disco. Embeddings dos trechos: ~2 h na CPU (`e5-base`), em três
-execuções retomadas pelo checkpoint (o `segundos` do `info.json` conta só a última).
+### Resultados de referência (10/11/2026, notebook, CPU, 16 GB RAM)
 
 Latência de **recuperação** (`buscar_ids`, top 10 petições; 10 consultas de exemplo ×
-30 repetições = 300 medições por escala; `resultados/projeto_a/resumo.json`):
+30 repetições = 300 medições por escala; `resultados/numpy/resumo.json`):
 
-| Petições | Trechos | Média | P50 | P95 |
-|---:|---:|---:|---:|---:|
-| 25 | 1.095 | 0,24 ms | 0,25 ms | 0,27 ms |
-| 50 | 2.480 | 0,41 ms | 0,29 ms | 0,81 ms |
-| 99 | 5.107 | 1,11 ms | 1,04 ms | 1,62 ms |
+| Petições | Trechos | Preparo | Matriz | Média | P50 | P95 |
+|---:|---:|---:|---:|---:|---:|---:|
+| 25 | 1.095 | 7,1 ms | 3,2 MB | 0,63 ms | 0,63 ms | 0,83 ms |
+| 50 | 2.480 | 18,3 ms | 7,3 MB | 1,15 ms | 1,08 ms | 1,63 ms |
+| 99 | 5.107 | 20,2 ms | 15,0 MB | 1,57 ms | 1,51 ms | 2,04 ms |
 
-Transformar a consulta em vetor (modelo e5) leva ~42 ms (P50), muito mais que a
-recuperação — essa parte é igual nos dois projetos. Carregar modelo + índice: ~1,8 GB de
-memória no processo (quase tudo é o modelo).
+Transformar a consulta em vetor (modelo e5) levou ~125 ms (P50) nesta rodada — bem mais
+que a recuperação, e varia com a carga da máquina. Carregar modelo + embeddings: ~1,8 GB
+de memória no processo (quase tudo é o modelo; a matriz ocupa 15 MB).
 
-Conferências: em 50 consultas sobre os vetores reais, o top 10 do FAISS foi **idêntico**
-ao da busca exata em NumPy (50/50). Nas consultas de exemplo, a petição esperada aparece
-no topo — ex.: "piso salarial nacional da enfermagem" → ADI 7222 (Lei 14.434/2022) em 1º;
-"improbidade administrativa e exigência de dolo" → ADI 7236 (Lei 14.230/2021) em 1º. São
-só testes de sanidade; a avaliação de qualidade (P@5, R@10, NDCG@10) depende do conjunto
-de avaliação do grupo.
+Conferências: nas 10 consultas de exemplo, a petição esperada aparece no topo — ex.: "piso
+salarial nacional da enfermagem" → ADI 7222 (Lei 14.434/2022) em 1º; "improbidade
+administrativa e exigência de dolo" → ADI 7236 (Lei 14.230/2021) em 1º. São só testes de
+sanidade; a avaliação de qualidade (P@5, R@10, NDCG@10) depende do conjunto de avaliação.
+
+### Filtro "Norma impugnada" no front
+
+Perguntas como "ação contra medida provisória" são, no fundo, um **filtro**, não um tema:
+quase toda petição fala em "ação direta", "pedido liminar" e "violação à Constituição", e
+a busca semântica não separa bem por isso. Com a frase *"A petição inicial ajuíza ação
+direta de inconstitucionalidade com pedido liminar contra medida provisória por violação a
+artigos da Constituição?"*, só 1 das 6 ADIs que impugnam medida provisória aparece no top
+10; com o filtro "Medida provisória", aparecem as 6.
+
+O tipo de norma vem do campo `legislacao` do `documentos.csv` (`src/normas.py`): lei
+federal, lei estadual, lei complementar, emenda constitucional, resolução, decreto,
+medida provisória etc. Uma petição pode ter mais de um tipo; lei de conversão de medida
+provisória conta como medida provisória. O filtro é aplicado depois do ranqueamento.
+
+> O rótulo `medida_provisoria` da planilha `casos_para_teste.xlsx` **não** indica "ADI
+> contra medida provisória": das 35 marcadas com 1, só 3 impugnam uma MP.
 
 ## Como rodar
 
@@ -147,12 +156,12 @@ de avaliação do grupo.
 pip install torch --index-url https://download.pytorch.org/whl/cpu   # sem GPU
 pip install -r requirements.txt
 
-# já está tudo processado no repositório; só o índice é recriado (leva milissegundos)
-python scripts/indexar_faiss.py
-python scripts/buscar_faiss.py "piso salarial nacional da enfermagem"
-python scripts/rodar_consultas_faiss.py metadata/consultas_exemplo.csv --escalas 25,50,99
+# já está tudo processado no repositório (os embeddings vão no git)
+python scripts/buscar_numpy.py "piso salarial nacional da enfermagem"
+python scripts/rodar_consultas_numpy.py metadata/consultas_exemplo.csv --escalas 25,50,99
+python -m streamlit run app.py
 
-pytest tests/test_busca_faiss.py tests/test_dividir_trechos.py
+pytest tests/test_busca_numpy.py tests/test_normas.py tests/test_dividir_trechos.py
 ```
 
 Para refazer do zero (precisa dos PDFs, que não vão para o git):
@@ -164,7 +173,6 @@ python scripts/00_registrar_documentos.py
 python src/ocr_pipeline.py          # precisa do Tesseract instalado (só para as páginas escaneadas)
 python scripts/dividir_trechos.py
 python scripts/gerar_embeddings.py  # 1ª vez baixa o modelo (~1,1 GB); na CPU leva horas
-python scripts/indexar_faiss.py
 ```
 
 ## Estrutura
@@ -187,31 +195,29 @@ Projeto_final/
 │   ├── 00_planilhas/               planilhas originais (.xlsx)
 │   ├── 01_raw/iniciais_stf/_log.csv  log do download (PDFs fora do git)
 │   ├── 02_processed/clean/<ID>.json  texto limpo por página
-│   ├── 04_embeddings/              embeddings.npy + chunks.jsonl + info.json
-│   └── 05_faiss/info.json          tempo de indexação e memória (o .faiss é recriado)
+│   └── 04_embeddings/              embeddings.npy + chunks.jsonl + info.json
 ├── logs/processing.csv             status e tempo de cada documento por etapa
-├── resultados/projeto_a/           saída do benchmark
+├── resultados/numpy/               saída do benchmark
 ├── scripts/
 │   ├── baixar_iniciais_stf.py      coleta dos PDFs no portal do STF (Playwright)
 │   ├── 00_registrar_documentos.py  ID, cópia do PDF, documentos.csv
 │   ├── dividir_trechos.py          texto limpo → trechos
 │   ├── gerar_embeddings.py         trechos → vetores
-│   ├── indexar_faiss.py            vetores → índice FAISS            (Projeto A)
-│   ├── buscar_faiss.py             consulta → top k petições          (Projeto A)
-│   ├── rodar_consultas_faiss.py    benchmark: resultados + latências  (Projeto A)
-│   ├── buscar.py                   busca exata em NumPy, só como referência
+│   ├── buscar_numpy.py             consulta → top k petições
+│   ├── rodar_consultas_numpy.py    benchmark: resultados + latências
+│   ├── buscar.py                   versão antiga da busca (classe Indice), só como referência
 │   └── extrair_texto.py            OCR alternativo do Luigi (tesserocr, Mac/Linux)
 ├── src/
 │   ├── ocr_pipeline.py             extração + OCR + limpeza
-│   └── busca_faiss.py              Projeto A: índice, agregação por petição, BuscaFAISS
+│   ├── busca_numpy.py              busca: matriz em memória, cosseno, max por petição (BuscaNumPy)
+│   └── normas.py                   tipo de norma impugnada (filtro do front)
 ├── ocr_padrao.ipynb                notebook que roda e mostra a etapa de OCR
-├── app.py                          protótipo de front (Streamlit), só como ponto de partida
+├── app.py + styles.css             front (Streamlit) usando a BuscaNumPy
 └── tests/                          pytest
 ```
 
 **Fora do git** (ver `.gitignore`): PDFs, OCR bruto (`02_processed/ocr/`), `03_chunks/`
-(cópia idêntica vai em `04_embeddings/chunks.jsonl`), o arquivo `.faiss` (recriado em
-milissegundos a partir dos embeddings) e pastas locais/históricas.
+(cópia idêntica vai em `04_embeddings/chunks.jsonl`) e pastas locais/históricas.
 
 ## Fonte dos dados
 

@@ -19,8 +19,6 @@ data/02_processed/ocr/
 data/02_processed/textos_jsonl/
 # trechos: a mesma lista vai alinhada com os vetores em data/04_embeddings/chunks.jsonl
 data/03_chunks/
-# indice FAISS: se recria em milissegundos a partir de data/04_embeddings/ (o info.json fica)
-data/05_faiss/*.faiss
 # checkpoint dos embeddings (apagado sozinho quando termina)
 data/04_embeddings/_parcial/
 # checkpoint do download (estado local da máquina que baixou)

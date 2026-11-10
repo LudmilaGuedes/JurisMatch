@@ -1,29 +1,32 @@
 # -*- coding: utf-8 -*-
 """
-Projeto A - roda uma lista de consultas no indice FAISS e grava resultados e tempos
-no formato do benchmark (mesmas consultas, top 10, 30 repeticoes, aquecimento).
+Roda uma lista de consultas na busca em NumPy (cosseno direto) e grava resultados
+e tempos no formato do benchmark (mesmas consultas, top 10, 30 repeticoes, aquecimento).
 
 Entrada : CSV com as colunas  consulta_id,consulta
           (ex.: metadata/consultas_exemplo.csv; o conjunto de avaliacao oficial,
           com a relevancia 0/1/2, e feito por quem escreve a comparacao)
-Saida   : resultados/projeto_a/
+Saida   : resultados/numpy/
           resultados.csv   consulta_id, consulta, rank, document_id, score, chunk_id,
                            page_start, page_end   (top k peticoes por consulta)
           latencias.csv    escala_documentos, consulta_id, repeticao, tempo_ms
                            (so a recuperacao: o vetor da consulta ja esta pronto)
           codificacao.csv  consulta_id, tempo_ms (texto -> vetor, uma vez por consulta)
-          resumo.json      media / P50 / P95 por escala, tempo de indexacao, memoria
+          resumo.json      media / P50 / P95 por escala, tempo de preparo, memoria
 
-Tempo de recuperacao = indice.search + agregacao por peticao (max), ate ter os
-k IDs. O tempo do modelo de embeddings fica de fora (vai em codificacao.csv).
+Tempo de recuperacao = matriz @ vetor + max por peticao + top k, ate ter os k IDs.
+O tempo do modelo de embeddings fica de fora (vai em codificacao.csv).
 As repeticoes rodam em ordem aleatoria, depois de 3 buscas de aquecimento.
 
-Escalabilidade (--escalas): monta indices com N peticoes sorteadas (semente
-fixa) a partir dos mesmos vetores e mede a latencia em cada um.
+Preparo (o equivalente a "indexar"): conferir a normalizacao e reordenar as linhas
+da matriz por peticao. Nao ha arquivo de indice: a matriz e o proprio embeddings.npy.
+
+Escalabilidade (--escalas): monta buscas com N peticoes sorteadas (semente fixa)
+a partir dos mesmos vetores e mede a latencia em cada uma.
 
 Uso:
-    python scripts/rodar_consultas_faiss.py metadata/consultas_exemplo.csv
-    python scripts/rodar_consultas_faiss.py consultas.csv -k 10 --repeticoes 30 --escalas 25,50,99
+    python scripts/rodar_consultas_numpy.py metadata/consultas_exemplo.csv
+    python scripts/rodar_consultas_numpy.py consultas.csv -k 10 --repeticoes 30 --escalas 25,50,99
 """
 
 import argparse
@@ -38,10 +41,10 @@ from pathlib import Path
 import numpy as np
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
-from src.busca_faiss import (DIR_EMBEDDINGS, RAIZ, BuscaFAISS,  # noqa: E402
-                             construir_indice, memoria_processo_mb)
+from src.busca_numpy import (DIR_EMBEDDINGS, RAIZ, BuscaNumPy,  # noqa: E402
+                             memoria_processo_mb)
 
-SAIDA = RAIZ / "resultados" / "projeto_a"
+SAIDA = RAIZ / "resultados" / "numpy"
 
 
 def ler_consultas(caminho):
@@ -75,23 +78,25 @@ def medir(busca, vetores, k, repeticoes, aquecimento, semente):
     return linhas
 
 
+def extra_da_busca(busca, mem_antes=None, mem_depois=None):
+    return {"tempo_preparo_ms": round(busca.tempo_preparo_ms, 3),
+            "trechos": int(busca.matriz.shape[0]),
+            "memoria_matriz_mb": round(busca.memoria_matriz_mb, 2),
+            "memoria_processo_delta_mb": (round(mem_depois - mem_antes, 2)
+                                          if mem_antes is not None and mem_depois is not None
+                                          else None)}
+
+
 def busca_reduzida(completa, vetores_trechos, n_docs, semente):
-    """BuscaFAISS com so n_docs peticoes sorteadas (mesmos vetores, novo IndexFlatIP)."""
-    docs = sorted(set(completa.doc_dos_trechos))
+    """BuscaNumPy com so n_docs peticoes sorteadas (mesmos vetores)."""
+    docs = sorted(completa.ids_documentos)
     escolhidos = set(random.Random(semente).sample(docs, n_docs))
     pos = [i for i, d in enumerate(completa.doc_dos_trechos) if d in escolhidos]
     mem_antes = memoria_processo_mb()
-    inicio = time.perf_counter()
-    indice = construir_indice(vetores_trechos[pos])
-    ms = (time.perf_counter() - inicio) * 1000
-    mem_depois = memoria_processo_mb()
-    busca = BuscaFAISS(carregar_modelo=False, indice=indice,
+    busca = BuscaNumPy(carregar_modelo=False, vetores=vetores_trechos[pos],
                        trechos=[completa.trechos[i] for i in pos])
-    extra = {"tempo_indexacao_ms": round(ms, 3), "trechos": len(pos),
-             "memoria_indice_mb": round(len(pos) * indice.d * 4 / 2**20, 2),
-             "memoria_processo_delta_mb": (round(mem_depois - mem_antes, 2)
-                                           if mem_antes is not None else None)}
-    return busca, extra
+    mem_depois = memoria_processo_mb()
+    return busca, extra_da_busca(busca, mem_antes, mem_depois)
 
 
 def main():
@@ -112,9 +117,10 @@ def main():
     consultas = ler_consultas(args.consultas)
 
     mem_inicio = memoria_processo_mb()
-    busca = BuscaFAISS()
+    busca = BuscaNumPy()
     mem_carregado = memoria_processo_mb()
-    print(f"indice: {busca.indice.ntotal} trechos de {busca.n_documentos} peticoes")
+    print(f"matriz: {busca.matriz.shape[0]} trechos x {busca.matriz.shape[1]} "
+          f"de {busca.n_documentos} peticoes")
 
     # 1) texto -> vetor (uma vez por consulta) e resultados do top k
     vetores, linhas_cod, linhas_res = {}, [], []
@@ -138,12 +144,7 @@ def main():
         w.writerows(linhas_cod)
 
     # 2) latencia de recuperacao na base completa e nas escalas pedidas
-    info_faiss = json.loads((RAIZ / "data" / "05_faiss" / "info.json").read_text(encoding="utf-8"))
-    escalas = {busca.n_documentos: (busca, {
-        "tempo_indexacao_ms": info_faiss["tempo_indexacao_ms"],
-        "trechos": busca.indice.ntotal,
-        "memoria_indice_mb": info_faiss["memoria_indice_mb"],
-        "memoria_processo_delta_mb": info_faiss["memoria_processo_delta_mb"]})}
+    escalas = {busca.n_documentos: (busca, extra_da_busca(busca))}
     if args.escalas:
         vetores_trechos = np.load(DIR_EMBEDDINGS / "embeddings.npy")
         for n in sorted({int(x) for x in args.escalas.split(",") if x.strip()}):
@@ -167,11 +168,12 @@ def main():
         w.writerows(linhas_lat)
 
     resumo = {
-        "sistema": "Projeto A - FAISS IndexFlatIP, agregacao max por peticao",
+        "sistema": "NumPy - embeddings em memoria, cosseno direto (matriz @ vetor), "
+                   "agregacao max por peticao",
         "consultas": len(consultas), "k": args.k, "repeticoes": args.repeticoes,
         "aquecimento": args.aquecimento, "semente": args.semente,
         "modelo_embeddings": busca.info_embeddings["modelo"],
-        "faiss_versao": info_faiss["faiss_versao"],
+        "numpy_versao": np.__version__,
         "codificacao_consulta": resumo_tempos([c[1] for c in linhas_cod]),
         "memoria_processo_carregado_mb": (round(mem_carregado - mem_inicio, 1)
                                           if mem_inicio is not None else None),

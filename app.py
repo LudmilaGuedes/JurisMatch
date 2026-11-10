@@ -2,8 +2,9 @@
 """
 App Streamlit da busca semantica nas peticoes iniciais (JurisMatch).
 
-Usa a classe BuscaFAISS do src/busca_faiss.py (Projeto A: indice em data/05_faiss/,
-uma entrada por peticao) e o metadata/documentos.csv para a aba do acervo.
+Usa a classe BuscaNumPy do src/busca_numpy.py (embeddings de data/04_embeddings/ em
+memoria, cosseno direto, uma entrada por peticao) e o metadata/documentos.csv para a
+aba do acervo.
 
 Uso:
     python -m streamlit run app.py
@@ -15,10 +16,11 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent
 sys.path.insert(0, str(RAIZ))
 # o torch tem que vir antes do pandas: no Windows, se o pyarrow carrega primeiro,
-# a DLL do torch falha (WinError 1114). O BuscaFAISS so carrega o modelo depois.
+# a DLL do torch falha (WinError 1114). O BuscaNumPy so carrega o modelo depois.
 import torch  # noqa: E402,F401
 
-from src.busca_faiss import BuscaFAISS  # noqa: E402
+from src.busca_numpy import BuscaNumPy  # noqa: E402
+from src.normas import tipos_norma  # noqa: E402
 
 import pandas as pd  # noqa: E402
 import streamlit as st  # noqa: E402
@@ -37,9 +39,9 @@ st.set_page_config(page_title="JurisMatch | Pesquisa jurídica", page_icon="⚖�
 st.markdown(f"<style>{(RAIZ / 'styles.css').read_text(encoding='utf-8')}</style>", unsafe_allow_html=True)
 
 
-@st.cache_resource(show_spinner="Carregando o modelo e o indice (so na primeira vez)...")
+@st.cache_resource(show_spinner="Carregando o modelo e os embeddings (so na primeira vez)...")
 def carregar_indice():
-    return BuscaFAISS()
+    return BuscaNumPy()
 
 
 @st.cache_data
@@ -53,8 +55,13 @@ def paginas(r):
     return f"pags. {r['page_start']}-{r['page_end']}"
 
 
-def buscar(indice, consulta, k, classes, relatores):
-    # ranqueia todas as peticoes no FAISS; so depois filtra e corta nos k primeiros,
+def tipos_das_peticoes(documentos):
+    """document_id -> conjunto de tipos de norma impugnada (campo legislacao)."""
+    return {i: tipos_norma(leg) for i, leg in zip(documentos["id"], documentos["legislacao"])}
+
+
+def buscar(indice, consulta, k, classes, relatores, normas, tipos):
+    # ranqueia todas as peticoes; so depois filtra e corta nos k primeiros,
     # para o filtro nao reduzir o numero de resultados
     resultados = []
     for r in indice.buscar(consulta, k=indice.n_documentos):
@@ -62,13 +69,15 @@ def buscar(indice, consulta, k, classes, relatores):
             continue
         if relatores and r["relator"] not in relatores:
             continue
+        if normas and not (tipos.get(r["document_id"], set()) & set(normas)):
+            continue
         resultados.append(r)
         if len(resultados) == k:
             break
     return resultados
 
 
-def mostrar_resultado(n, r, docs):
+def mostrar_resultado(n, r, docs, tipos):
     doc = docs.get(r["document_id"], {})
     with st.container(border=True):
         c1, c2 = st.columns([4, 1])
@@ -80,6 +89,8 @@ def mostrar_resultado(n, r, docs):
         ])))
         if doc.get("ramo_direito"):
             st.markdown(f"**Ramo:** {doc['ramo_direito']}")
+        if tipos.get(r["document_id"]):
+            st.markdown(f"**Norma impugnada:** {', '.join(sorted(tipos[r['document_id']]))}")
 
         st.markdown(f"> {r['trecho'][:600]}{'...' if len(r['trecho']) > 600 else ''}")
         with st.expander("Trecho completo e detalhes do processo"):
@@ -103,6 +114,11 @@ def mostrar_resultado(n, r, docs):
 
 def aba_busca(indice, documentos):
     trechos = indice.trechos
+    tipos = tipos_das_peticoes(documentos)
+    contagem = {}
+    for ts in tipos.values():
+        for t in ts:
+            contagem[t] = contagem.get(t, 0) + 1
     with st.sidebar:
         st.markdown('<div class="brand">JurisMatch<span style="color:#91b9e4">.</span></div><div class="brand-sub">Pesquisa jurídica inteligente</div>', unsafe_allow_html=True)
         st.header("Refine sua pesquisa")
@@ -110,9 +126,15 @@ def aba_busca(indice, documentos):
         k = st.slider("Quantidade de resultados", 1, 30, 5)
         classes = st.multiselect("Classe", sorted(set(documentos["classe"])))
         relatores = st.multiselect("Relator", sorted(set(documentos["relator"]) - {""}))
+        normas = st.multiselect(
+            "Norma impugnada", sorted(contagem, key=lambda t: (-contagem[t], t)),
+            format_func=lambda t: f"{t} ({contagem[t]})",
+            help="Tipo de norma questionada na ação, pelo campo 'legislação' do STF. "
+                 "Lei de conversão de medida provisória conta como medida provisória.",
+        )
         st.divider()
         with st.expander("Sobre o índice de pesquisa"):
-            st.caption(f"Índice: FAISS `{type(indice.indice).__name__}`")
+            st.caption("Busca: similaridade de cosseno direta (NumPy), embeddings em memória")
             st.caption(f"Modelo: `{indice.info_embeddings['modelo']}`")
         st.caption(f"{len(trechos)} trechos de {indice.n_documentos} petições")
 
@@ -139,16 +161,16 @@ def aba_busca(indice, documentos):
     st.session_state["consulta"] = consulta
 
     with st.spinner("Buscando..."):
-        resultados = buscar(indice, consulta, k, classes, relatores)
+        resultados = buscar(indice, consulta, k, classes, relatores, normas, tipos)
     if not resultados:
-        st.warning("Nenhum trecho com esses filtros")
+        st.warning("Nenhuma petição com esses filtros")
         return
 
     docs = documentos.set_index("id").to_dict("index")
     st.subheader(f"Petições encontradas  {len(resultados)}")
     st.caption("Resultados ordenados por similaridade com sua pesquisa")
     for n, r in enumerate(resultados, start=1):
-        mostrar_resultado(n, r, docs)
+        mostrar_resultado(n, r, docs, tipos)
 
 
 def aba_acervo(documentos):

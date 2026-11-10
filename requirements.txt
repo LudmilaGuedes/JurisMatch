@@ -9,8 +9,7 @@ pillow
 # trechos, embeddings e busca (scripts/dividir_trechos.py, gerar_embeddings.py, buscar.py)
 # sem GPU, instalar antes o torch de CPU (bem menor):
 #   pip install torch --index-url https://download.pytorch.org/whl/cpu
-numpy
-faiss-cpu        # Projeto A: indice vetorial (IndexFlatIP)
+numpy            # busca: embeddings em memoria e cosseno direto (src/busca_numpy.py)
 psutil           # memoria do processo no benchmark
 sentence-transformers
 

@@ -1,0 +1,67 @@
+{
+  "sistema": "NumPy - embeddings em memoria, cosseno direto (matriz @ vetor), agregacao max por peticao",
+  "consultas": 10,
+  "k": 10,
+  "repeticoes": 30,
+  "aquecimento": 3,
+  "semente": 42,
+  "modelo_embeddings": "intfloat/multilingual-e5-base",
+  "numpy_versao": "2.4.4",
+  "codificacao_consulta": {
+    "n": 10,
+    "media_ms": 128.7043,
+    "p50_ms": 125.152,
+    "p95_ms": 159.836,
+    "min_ms": 107.885,
+    "max_ms": 164.903
+  },
+  "memoria_processo_carregado_mb": 1828.8,
+  "escalas": {
+    "25": {
+      "documentos": 25,
+      "tempo_preparo_ms": 7.061,
+      "trechos": 1095,
+      "memoria_matriz_mb": 3.21,
+      "memoria_processo_delta_mb": 3.24,
+      "recuperacao": {
+        "n": 300,
+        "media_ms": 0.6298,
+        "p50_ms": 0.6267,
+        "p95_ms": 0.8264,
+        "min_ms": 0.3076,
+        "max_ms": 1.149
+      }
+    },
+    "50": {
+      "documentos": 50,
+      "tempo_preparo_ms": 18.326,
+      "trechos": 2480,
+      "memoria_matriz_mb": 7.27,
+      "memoria_processo_delta_mb": 7.46,
+      "recuperacao": {
+        "n": 300,
+        "media_ms": 1.1464,
+        "p50_ms": 1.0819,
+        "p95_ms": 1.6335,
+        "min_ms": 0.7098,
+        "max_ms": 2.3055
+      }
+    },
+    "99": {
+      "documentos": 99,
+      "tempo_preparo_ms": 20.175,
+      "trechos": 5107,
+      "memoria_matriz_mb": 14.96,
+      "memoria_processo_delta_mb": null,
+      "recuperacao": {
+        "n": 300,
+        "media_ms": 1.5698,
+        "p50_ms": 1.5055,
+        "p95_ms": 2.0394,
+        "min_ms": 1.1916,
+        "max_ms": 2.7943
+      }
+    }
+  },
+  "gerado_em": "2026-11-10T09:07:18"
+}

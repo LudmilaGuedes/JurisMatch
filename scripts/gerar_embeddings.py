@@ -14,8 +14,8 @@ treino, entende portugues, roda na CPU). O e5 foi treinado com prefixos:
 cai, por isso o prefixo e colocado aqui e no buscar.py.
 
 Os vetores saem normalizados (tamanho 1), entao a similaridade de cosseno vira
-um produto escalar simples. O indice FAISS do Projeto A e montado a partir
-deste .npy pelo scripts/indexar_faiss.py. A
+um produto escalar simples. A busca (src/busca_numpy.py) carrega este .npy na
+memoria e compara a consulta com todos os trechos. A
 copia dos trechos vai junto pro indice ficar sempre alinhado com os vetores,
 mesmo se o dividir_trechos.py rodar de novo depois.
 

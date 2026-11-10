@@ -9,7 +9,7 @@ Q01,piso salarial nacional da enfermagem,7,ADI_7419,0.829228,ADI_7419_0001,1,2
 Q01,piso salarial nacional da enfermagem,8,ADI_6257,0.828836,ADI_6257_0020,13,14
 Q01,piso salarial nacional da enfermagem,9,ADI_6254,0.826701,ADI_6254_0028,24,25
 Q01,piso salarial nacional da enfermagem,10,ADI_7495,0.826458,ADI_7495_0001,1,2
-Q02,reforma da previdência e alíquotas de contribuição dos servidores,1,ADI_6367,0.878651,ADI_6367_0085,50,51
+Q02,reforma da previdência e alíquotas de contribuição dos servidores,1,ADI_6367,0.878652,ADI_6367_0085,50,51
 Q02,reforma da previdência e alíquotas de contribuição dos servidores,2,ADI_6731,0.873805,ADI_6731_0007,5,6
 Q02,reforma da previdência e alíquotas de contribuição dos servidores,3,ADI_6254,0.873402,ADI_6254_0029,24,25
 Q02,reforma da previdência e alíquotas de contribuição dos servidores,4,ADI_7933,0.857342,ADI_7933_0005,3,4
@@ -23,7 +23,7 @@ Q03,licença-maternidade e licença-paternidade na CLT,1,ADI_7495,0.882708,ADI_7
 Q03,licença-maternidade e licença-paternidade na CLT,2,ADI_7539,0.874498,ADI_7539_0023,20,21
 Q03,licença-maternidade e licença-paternidade na CLT,3,ADI_7527,0.873812,ADI_7527_0024,21,22
 Q03,licença-maternidade e licença-paternidade na CLT,4,ADI_7501,0.854605,ADI_7501_0006,5,6
-Q03,licença-maternidade e licença-paternidade na CLT,5,ADI_7805,0.846059,ADI_7805_0039,24,24
+Q03,licença-maternidade e licença-paternidade na CLT,5,ADI_7805,0.84606,ADI_7805_0039,24,24
 Q03,licença-maternidade e licença-paternidade na CLT,6,ADI_7059,0.844764,ADI_7059_0019,7,7
 Q03,licença-maternidade e licença-paternidade na CLT,7,ADI_7693,0.843191,ADI_7693_0095,70,71
 Q03,licença-maternidade e licença-paternidade na CLT,8,ADI_8007,0.842181,ADI_8007_0065,41,41
@@ -67,7 +67,7 @@ Q07,cobrança de ICMS por lei estadual,5,ADI_6277,0.865124,ADI_6277_0025,16,17
 Q07,cobrança de ICMS por lei estadual,6,ADI_7822,0.863005,ADI_7822_0001,1,2
 Q07,cobrança de ICMS por lei estadual,7,ADI_7077,0.862294,ADI_7077_0014,12,13
 Q07,cobrança de ICMS por lei estadual,8,ADI_6787,0.860242,ADI_6787_0061,38,39
-Q07,cobrança de ICMS por lei estadual,9,ADI_7499,0.857053,ADI_7499_0004,3,4
+Q07,cobrança de ICMS por lei estadual,9,ADI_7499,0.857052,ADI_7499_0004,3,4
 Q07,cobrança de ICMS por lei estadual,10,ADI_7819,0.856396,ADI_7819_0048,34,35
 Q08,novas regras para tirar a carteira de motorista,1,ADI_7046,0.847623,ADI_7046_0003,2,2
 Q08,novas regras para tirar a carteira de motorista,2,ADI_6367,0.844536,ADI_6367_0007,5,5
@@ -98,4 +98,4 @@ Q10,imunidade tributária de entidades beneficentes de assistência social,6,ADI
 Q10,imunidade tributária de entidades beneficentes de assistência social,7,ADI_7625,0.856495,ADI_7625_0026,13,14
 Q10,imunidade tributária de entidades beneficentes de assistência social,8,ADI_7933,0.856028,ADI_7933_0047,27,28
 Q10,imunidade tributária de entidades beneficentes de assistência social,9,ADI_6309,0.854768,ADI_6309_0031,22,22
-Q10,imunidade tributária de entidades beneficentes de assistência social,10,ADI_7162,0.854283,ADI_7162_0037,23,24
+Q10,imunidade tributária de entidades beneficentes de assistência social,10,ADI_7162,0.854282,ADI_7162_0037,23,24

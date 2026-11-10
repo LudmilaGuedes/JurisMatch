@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
 """
-Projeto A - busca por linha de comando: consulta -> top k peticoes (FAISS).
+Busca por linha de comando: consulta -> top k peticoes (cosseno direto em NumPy).
 
 Cada peticao aparece uma vez, com a nota do seu melhor trecho, as paginas desse
 trecho e o link do processo no portal do STF.
 
 Uso:
-    python scripts/buscar_faiss.py "reedicao de medida provisoria na mesma sessao legislativa"
-    python scripts/buscar_faiss.py "piso salarial da enfermagem" -k 5
-    python scripts/buscar_faiss.py "contribuicao sindical" --json
+    python scripts/buscar_numpy.py "reedicao de medida provisoria na mesma sessao legislativa"
+    python scripts/buscar_numpy.py "piso salarial da enfermagem" -k 5
+    python scripts/buscar_numpy.py "contribuicao sindical" --json
 """
 
 import argparse
@@ -17,7 +17,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
-from src.busca_faiss import BuscaFAISS  # noqa: E402
+from src.busca_numpy import BuscaNumPy  # noqa: E402
 
 
 def main():
@@ -28,7 +28,7 @@ def main():
     p.add_argument("--json", action="store_true", help="saida em JSON")
     args = p.parse_args()
 
-    resultados = BuscaFAISS().buscar(args.consulta, k=args.k)
+    resultados = BuscaNumPy().buscar(args.consulta, k=args.k)
     if args.json:
         print(json.dumps(resultados, indent=2, ensure_ascii=False))
         return
