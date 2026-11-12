@@ -20,7 +20,7 @@ A lista está em `metadata/casos_teste.csv`.
 
 | | |
 |---|---|
-| ADIs na lista | 100 (35 sobre medida provisória, 65 não) |
+| ADIs na lista | 100 (5 sobre medida provisória, 95 não) |
 | Petições iniciais baixadas | **99** — a ADI 7548 não tem nenhuma peça "Petição inicial" no portal |
 | Duas iniciais no mesmo processo | ADI 7708: entra a de 2024 (original); a de 2025 fica registrada como descartada |
 | Páginas | 3.448 (7 a 151 por petição; média 35) |
@@ -147,8 +147,10 @@ federal, lei estadual, lei complementar, emenda constitucional, resolução, dec
 medida provisória etc. Uma petição pode ter mais de um tipo; lei de conversão de medida
 provisória conta como medida provisória. O filtro é aplicado depois do ranqueamento.
 
-> O rótulo `medida_provisoria` da planilha `casos_para_teste.xlsx` **não** indica "ADI
-> contra medida provisória": das 35 marcadas com 1, só 3 impugnam uma MP.
+> O rótulo `medida_provisoria` vem da versão de 10/11/2026 da planilha
+> `casos_para_teste.xlsx` (anexada pelo professor no Notion), que corrigiu a anterior:
+> 5 ADIs marcadas com 1 (6343, 7625, 7977, 7978, 7992), contra 35 na versão de 03/11, das
+> quais só 3 impugnavam uma MP. A lista das 100 ADIs não mudou.
 
 ## Como rodar
 
